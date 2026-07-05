@@ -1,0 +1,30 @@
+# Temp mount files
+.fuse_hidden*
+
+# Node / Python temp / Virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+node_modules/
+venv/
+.venv/
+env/
+
+# OS/IDE config
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets & credentials
+*client_secrets.json
+*.env
+*.local
+credentials.json
+token.json
+token.pickle
+
+# Temporary files of antigravity
+.antigravityignore.*
