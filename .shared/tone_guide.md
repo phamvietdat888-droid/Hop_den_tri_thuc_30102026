@@ -101,6 +101,100 @@ Sự thú vị đến từ hình ảnh hồn nhiên, phóng đại đáng yêu, 
 
 ---
 
+## 📌 KẾT NỐI MẠCH VĂN — LIÊN TỪ & THÁN TỪ LÀM "CHẤT KEO" ⭐ (bắt buộc)
+
+> **Vấn đề cần tránh:** Kịch bản gồm nhiều câu ĐÚNG nhưng rời rạc, đọc lên giật cục như đọc gạch đầu dòng. Nguyên nhân: các câu, các đoạn đứng cạnh nhau mà KHÔNG có cầu nối. Người nghe mất mạch, tụt hứng, tắt video.
+
+**Nguyên tắc:** Mỗi câu phải "bắt tay" câu trước và "kéo tay" câu sau. Dùng liên từ/thán từ/cụm chuyển tiếp làm CHẤT KEO — nhưng linh hoạt, không lặp máy móc.
+
+**Kho keo nối (dùng xen kẽ, KHÔNG lặp một cụm quá 2 lần/kịch bản):**
+
+| Vai trò của keo | Cụm nối (văn nói) |
+|---|---|
+| **Nối tiếp mạch, đẩy tới** | *"Mà khoan…"*, *"Thế là…"*, *"Rồi sao nữa?"*, *"Chưa hết đâu…"*, *"Đây mới là chỗ hay…"* |
+| **Lật ngược, tương phản** | *"Ấy thế mà…"*, *"Khổ nỗi…"*, *"Trớ trêu ở chỗ…"*, *"Nghe thì xuôi, nhưng…"* |
+| **Nhân–quả, giải thích** | *"Sở dĩ vậy là vì…"*, *"Lý do à? Đơn giản thôi…"*, *"Chính vì thế…"* |
+| **Vỡ lẽ, chốt hạ** | *"Đấy, thì ra…"*, *"À, hóa ra…"*, *"Và đó chính là lý do…"* |
+| **Kéo sự chú ý** | *"Nghe kỹ nhé…"*, *"Để ý cái này…"*, *"Đây, mấu chốt…"* |
+
+**Kỹ thuật "móc xích" (bắt buộc giữa các ĐOẠN/khối):** Câu cuối đoạn trước phải gieo một câu hỏi hoặc gợi tò mò → câu đầu đoạn sau trả lời/tiếp nối. Không để đoạn mới "khởi động lạnh".
+> ❌ *"[hết đoạn 1]. Sân này do Vingroup xây."* → *"Vingroup là tập đoàn tư nhân."* (giật cục)
+> ✅ *"[hết đoạn 1]. Vậy tiền ở đâu ra? Đây mới là chỗ bất ngờ. Không một đồng nào từ ngân sách cả…"* (liền mạch)
+
+---
+
+## 📌 VĂN NÓI BÌNH DÂN — DIỆT CHỮ HÀN LÂM, VÍ VON PHẢI SÁT ⭐ (bắt buộc)
+
+> **Đối tượng:** đại chúng, bình dân. Một chữ hàn lâm lọt vào là một khán giả bị bỏ lại phía sau. Ví von không sát còn tệ hơn không ví von — vì làm người nghe rối thêm.
+
+**Bảng thay chữ hàn lâm → chữ đời thường (mở rộng khi gặp ca mới):**
+
+| ❌ Hàn lâm/kinh viện | ✅ Văn nói bình dân |
+|---|---|
+| chủ thể / đối tượng | *"người bỏ tiền"* / *"người chịu"* |
+| bản chất / về cơ bản | *"nói cho gọn"* / *"thực ra"* |
+| cơ chế / vận hành | *"cách nó chạy"* / *"cách người ta làm"* |
+| hạ tầng / quy hoạch | *"đường sá điện nước"* / *"cách bố trí, sắp xếp"* |
+| tối ưu / tận dụng | *"dùng cho đáng"* / *"vắt cho hết"* |
+| động lực / đòn bẩy | *"cái đẩy cho nó chạy"* / *"cái hích"* |
+| tiềm năng | *"cửa ăn nên làm ra"* |
+| quy mô | *"to cỡ nào"* / *"cỡ lớn tới đâu"* |
+| hiệu quả kinh tế | *"làm có lời không"* |
+
+**Quy tắc ví von SÁT:**
+1. Ví von phải lấy từ đời sống mà 90% người Việt từng trải: chợ búa, bếp núc, hàng xóm, đi chợ, gửi tiết kiệm, con cái đi học, xe cộ.
+2. Mỗi chi tiết trong ví von phải "khớp" một chi tiết ở thực tế — nếu có chỗ khập khiễng, khán giả thấy ngay và mất tin.
+3. Sau ví von PHẢI kéo về: *"Áp vào chuyện của mình thì…"*. Không bỏ ví von lửng lơ.
+4. Thử nghiệm "mẹ mình có hiểu không": đọc to câu ví von, nếu một người không chuyên môn gật đầu "à" → đạt. Nếu phải nhíu mày → viết lại.
+
+**Tránh lan man:** Mỗi ý một hình ảnh. Không chồng 2–3 ví von cho cùng một ý (loãng). Nói xong ý → chốt → đi tiếp, không vòng vo quay lại.
+
+---
+
+## 📌 NÊU VẤN ĐỀ TRƯỚC — BẤT NGỜ, RỒI MỚI GIẢI THÍCH CẶN KẼ ⭐ (ưu tiên số 1)
+
+> **Thứ tự bất di bất dịch:** GÀI CÂU HỎI/NGHỊCH LÝ khiến người xem "ơ, sao lại thế?" → RỒI mới bung giải thích tường tận. Người ta chỉ chịu nghe giải thích dài khi trong đầu đang NGỨA một câu hỏi.
+
+**Công thức mở mỗi khối lớn:**
+1. **Gài nghịch lý / câu hỏi nhức nhối** (1–2 câu, gây "sao kỳ vậy?"): *"Một nước còn lo từng cây cầu, lại sắp có sân to nhất hành tinh. Vô lý đúng không?"*
+2. **Treo lời hứa sẽ gỡ** (nửa câu): *"Khoan vội chê. Nghe hết cái này bạn sẽ nghĩ khác."*
+3. **BUNG giải thích cặn kẽ** — bẻ nhỏ, ví von sát, từng bước một, không nhảy cóc, không bỏ ngóc ngách nào.
+4. **Chốt cho khán giả "à ra thế"** rồi mới sang khối kế.
+
+**Ưu tiên cặn kẽ hơn cả:** Thà giải thích kỹ một ý cho vỡ vạc, còn hơn lướt qua năm ý. Gặp khái niệm khó → dừng lại, bẻ tới khi đứa trẻ cũng hiểu. Nhưng phần "nêu vấn đề" phải sắc, bất ngờ, sâu — nếu mở nhạt thì dù giải thích hay cỡ nào khán giả cũng đã bỏ đi.
+
+---
+
+## 📌 CÂU CHUYỂN CẢNH MẶC ĐỊNH (sau Hook, trước thân bài) ⭐ (bắt buộc)
+
+Sau khi Hook gài xong khoảng trống tò mò, câu chốt chuyển sang thân bài dùng MẪU MẶC ĐỊNH:
+
+> ✅ **"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."**
+
+- Đây là câu "bắt tay" quen thuộc, tạo cảm giác cùng đồng hành khám phá.
+- Có thể biến tấu nhẹ (*"Ngay sau đây, mình với các bạn cùng bóc tách nhé"*) nhưng GIỮ tinh thần "ngay sau đây + cùng tìm hiểu + các bạn nhé".
+- ❌ KHÔNG dùng: *"Mình cùng bóc từng lớp một nhé"*, *"Cùng tìm hiểu nào"* (đã bị thay).
+
+---
+
+## 📌 CTA SAU CAO TRÀO — KÊU GỌI KHÉO, ĐÚNG LÚC ⭐ (bắt buộc)
+
+> **Nguyên tắc:** Ngay SAU một chi tiết cao trào — ấn tượng, thú vị, khiến người xem "wow" — là lúc cảm xúc dâng cao nhất. Đó là thời điểm VÀNG để chèn lời kêu gọi **like / chia sẻ / đăng ký kênh**. Chèn lúc nhạt thì vô duyên; chèn ngay đỉnh cảm xúc thì tự nhiên.
+
+**Cách làm KHÉO (không lộ liễu, không van xin):**
+- Gắn CTA vào chính cảm xúc vừa tạo ra:
+  > *"Nghe tới đây mà thấy 'đã' thì cho mình một cái like để có động lực đào sâu tiếp nhé — còn chỗ này mới bất ngờ."*
+  > *"Nếu chi tiết này làm bạn ồ lên, thì đừng giữ cho riêng mình — chia sẻ cho một người bạn cũng đang thắc mắc y hệt."*
+  > *"Bạn nào thấy kiểu bóc tách này đáng xem thì bấm đăng ký nhé, để mình còn giải mã tiếp những vụ hay hơn."*
+- Ngay sau CTA → treo tiếp một mồi tò mò để giữ người xem ở lại (*"Vì phần tiếp theo mới là chỗ khiến nhiều người bất ngờ nhất."*).
+
+**Quy tắc:**
+- Đặt CTA sau chi tiết đinh / cao trào — KHÔNG rải lung tung.
+- 1–2 lần CTA giữa bài (sau cao trào) + 1 CTA đăng ký ở cuối. Không lạm dụng.
+- KHÔNG van nài, KHÔNG "nhớ like nha nhớ like nha" lặp lại vô hồn.
+
+---
+
 ## 📌 TỪ/CỤM NÊN DÙNG
 **Dẫn dắt giải thích:** "nói cho dễ hiểu", "hình dung thế này", "bạn thử tưởng tượng", "đơn giản là", "mấu chốt nằm ở", "và đây chính là lý do", "để mình bẻ nhỏ ra".
 **Chuyển ý:** "Nhưng khoan", "Chưa hết", "Thế còn…?", "Đến đây thì", "Vấn đề là".

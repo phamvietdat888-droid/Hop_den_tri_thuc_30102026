@@ -15,6 +15,26 @@
   - Liên hệ lịch sử VN phải TỰ NHIÊN — nếu không phù hợp thì BỎ QUA
 - **Bài học từ kịch bản "Luật Đất Đai & TP Đồng Nai" (20/4):** Khi không có điểm nóng quốc tế, ta hoàn toàn có thể triển khai xuất sắc phân tích "Địa chính trị nội bộ" (quy hoạch, luật pháp). Bóc tách luật khô cứng thành câu chuyện túi tiền bằng ngôn ngữ đời thường (nồi lẩu, thuốc đắng, "vặt lông gà") sẽ gây đồng cảm mạnh mẽ cho người xem bình dân.
 
+## 2026-07-05 — 4 nguyên tắc "cuốn hút" (Sếp góp ý từ kịch bản Sân Trống Đồng) ⭐ BẮT BUỘC
+
+Sếp chỉ ra 4 điểm yếu cốt lõi. Đã ghi thẳng vào DNA hệ thống để mọi phiên sau tự áp dụng, KHÔNG cần nhắc lại:
+
+1. **Mạch phải LIỀN, không rời rạc** → `tone_guide.md` mục "KẾT NỐI MẠCH VĂN". Dùng liên từ–thán từ làm "chất keo", móc xích giữa các đoạn (câu cuối đoạn gieo tò mò, câu đầu đoạn sau trả lời). Kiểm bằng checklist #19b.
+2. **Diệt chữ hàn lâm, ví von phải SÁT** → `tone_guide.md` mục "VĂN NÓI BÌNH DÂN". Bảng thay chữ (chủ thể→người bỏ tiền, cơ chế→cách nó chạy…). Test "mẹ mình có hiểu không". Kiểm bằng checklist #19c.
+3. **Khai thác tối đa chi tiết thú vị — QUY ĐỔI mọi con số khủng** → `storytelling_arsenal.md` KỸ THUẬT 7 (Number Anchoring, 5 cách quy đổi). Con số phải làm khán giả bật "so sánh hay quá!". Kiểm bằng checklist #12b.
+4. **Nêu vấn đề bất ngờ TRƯỚC, giải thích cặn kẽ SAU** → `tone_guide.md` mục "NÊU VẤN ĐỀ TRƯỚC". Ưu tiên số 1: gài nghịch lý khiến "ơ sao lại thế?" rồi mới bung giải thích tường tận, không nhảy cóc. Kiểm bằng checklist #12c.
+
+## 2026-07-05 (bổ sung) — 5 nâng cấp + Agent 05 Hook Master (v3.3) ⭐ BẮT BUỘC
+
+Sếp góp ý vòng 2 từ kịch bản Sân Trống Đồng. Đã cài vào hệ thống:
+
+5. **Câu chuyển cảnh mặc định sau Hook** = *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* → `tone_guide.md`. Bỏ *"Mình cùng bóc từng lớp một nhé."*
+6. **Agent 05 Hook Master** — agent chuyên trị Hook, quy trình 5 bước (mổ tư tưởng → định vị điểm chạm nỗi đau/xu hướng/mâu thuẫn → bóc lớp 1-2-3 → viết 3-5 phương án chấm điểm 5 thước đo → mài câu đầu ≤15 từ + open loop). File: `.agent/agents/05_Hook_Master.md`. Chèn vào pipeline Bước 3.5.
+7. **Dồn chi tiết đắt lên NỬA ĐẦU** (chống rơi rụng 1/3 đầu) → `storytelling_arsenal.md` KT8. Checklist #12d.
+8. **CTA sau CAO TRÀO** — kêu gọi like/share/đăng ký chèn khéo ngay sau chi tiết ấn tượng, gắn vào cảm xúc vừa tạo, không van nài → `tone_guide.md`. Checklist #12f.
+9. **Đào tới BẢN CHẤT + liên hệ sự kiện thế giới** (hỏi "vì sao" tới gốc, mỗi tầng kèm ví von; dẫn case nước ngoài đã kiểm chứng khi làm bài sâu hơn) → `storytelling_arsenal.md` KT9. Checklist #12e.
+10. **CHỈ GIAO `.docx`** ở mọi công đoạn; `.md` chỉ là nháp nội bộ trong `scratch/` → GEMINI.md §8.1b + CLAUDE.md.
+
 ## 2026-04-21 — Tối ưu hóa quy trình sản xuất (Protocol 2.5)
 
 Rút kinh nghiệm từ chiến dịch "Binh pháp đêm 21/04", hệ thống chính thức áp dụng 5 trụ cột tối ưu:

@@ -81,6 +81,65 @@ Với khái niệm trừu tượng: KHÔNG định nghĩa khô khan, mà đặt 
 
 ---
 
+## KỸ THUẬT 7 — QUY ĐỔI CON SỐ KHỔNG LỒ (Number Anchoring) ⭐ vũ khí "wow"
+
+> **Vì sao bắt buộc:** Não người KHÔNG cảm được con số lớn. "925 nghìn tỷ", "135.000 chỗ", "9.171 héc-ta" — đọc lên chỉ là chữ, không gây rung động. Phải QUY ĐỔI sang thứ khán giả sờ được, đếm được, tưởng tượng được. Mục tiêu: khán giả phải bật ra "trời, so sánh hay quá!".
+
+**Quy tắc vàng:** Mỗi khi có một con số "khủng" (tiền, diện tích, sức chứa, thời gian, khoảng cách) → BẮT BUỘC kèm ít nhất một phép quy đổi đời thường. Không để con số "trần trụi" trôi qua.
+
+**5 cách quy đổi (chọn cách hợp nhất với con số):**
+
+| Cách | Công thức | Ví dụ |
+|---|---|---|
+| **Chia đầu người** | Số lớn ÷ dân số → "mỗi người…" | *"925 nghìn tỷ, đem chia đều cho 100 triệu dân, mỗi người Việt Nam — từ em bé sơ sinh đến cụ già — được hơn 9 triệu đồng."* |
+| **Xếp chồng / trải dài** | Quy sang vật thể quen thuộc | *"Xếp số tiền đó thành tờ 500 nghìn, chồng tiền cao gấp mấy lần đỉnh Fansipan."* |
+| **Đổi ra thứ dân mua** | Số tiền → mua được bao nhiêu món quen | *"Đủ xây mới vài nghìn ngôi trường, hay mua đứt cả chục cây cầu lớn."* |
+| **Quy ra thời gian** | "Nếu mỗi ngày tiêu X thì mất bao lâu" | *"Tiêu một tỷ mỗi ngày, phải tiêu liên tục hơn 2.500 năm mới hết."* |
+| **So bằng vật mốc** | Sức chứa/diện tích → sân, sân bóng, quận | *"9.171 héc-ta — rộng gần bằng cả một quận nội thành, to hơn nhiều lần công viên trung tâm."* |
+
+**Cách làm câu quy đổi cho "đắt":**
+1. Nêu con số gốc → dừng nửa nhịp (*"Nghe con số này mà chóng mặt."*).
+2. Đặt câu hỏi bắc cầu (*"Mà 925 nghìn tỷ là nhiều cỡ nào?"*).
+3. Bung phép so sánh CỤ THỂ, hình ảnh sờ được.
+4. Chốt bằng cảm thán ngắn (*"Đấy, giờ mới thấy nó khủng cỡ nào."*).
+
+**Nguồn số liệu để quy đổi (cập nhật khi dùng):** dân số VN ~100 triệu; giá 1 ngôi trường, 1 cây cầu, 1 km cao tốc; diện tích 1 quận/1 sân bóng chuẩn; lương tháng trung bình. **BẮT BUỘC kiểm chứng con số mốc trước khi so sánh — không bịa (VETO #16).**
+
+> ⚠️ Quy đổi phải ĐÚNG và DỄ HÌNH DUNG. Thà một phép so sánh mộc mạc mà ai cũng "à" được, còn hơn con số hàn lâm chính xác mà không ai cảm.
+
+---
+
+## KỸ THUẬT 8 — DỒN CHI TIẾT ĐẮT LÊN ĐẦU (Front-Loading) ⭐ giữ chân
+
+> **Vì sao bắt buộc:** Người xem rơi rụng nhiều nhất ở 1/3 đầu video. Nếu để chi tiết hay nhất ở cuối, phần lớn khán giả bỏ đi trước khi tới. Phải "nhử" bằng đồ ngon ngay từ sớm.
+
+**Quy tắc:**
+1. **Chi tiết đắt nhất, gây "wow" nhất → đưa lên NỬA ĐẦU kịch bản**, đừng để dành hết tới cuối.
+2. Rải chi tiết theo kiểu "sóng": cứ mỗi 20–30 giây có một điểm nhấn (con số choáng, nghịch lý, chi tiết lạ) — không để đoạn nào "phẳng lì".
+3. Vẫn giữ MỘT mồi treo (open loop) cho cuối để người xem có lý do ở lại tới hết — nhưng KHÔNG dồn tất cả đồ ngon xuống cuối.
+4. Thứ tự lý tưởng: **Hook sốc → cú lật/chi tiết đinh sớm → giải thích cặn kẽ → cao trào → chốt mở**.
+
+> Nói ngắn: đừng "để dành". Cho khán giả nếm cái ngon sớm, họ sẽ ở lại xem hết mâm.
+
+---
+
+## KỸ THUẬT 9 — ĐÀO SÂU BẢN CHẤT + LIÊN HỆ THẾ GIỚI (Depth & World-Link) ⭐
+
+> **Ưu tiên số 1 của nội dung:** không dừng ở "cái gì", phải đi tới "vì sao sâu xa" và "bản chất là gì". Nhưng đào sâu KHÔNG có nghĩa là hàn lâm — càng sâu càng phải kéo về hình ảnh đời thường dễ hiểu.
+
+**Cách đào tới bản chất (không dừng ở bề mặt):**
+- Hỏi "vì sao" ít nhất 3 lần liên tiếp cho tới khi chạm gốc rễ. (Bề mặt: "xây sân to" → sâu hơn: "để bán bất động sản" → gốc: "mô hình lấy công trình biểu tượng làm mỏ neo giá trị đất").
+- Mỗi tầng sâu PHẢI kèm một ví von đời thường để đại chúng theo kịp (KT1).
+- Chốt bản chất bằng một câu "à ra thế" gọn, dễ nhớ.
+
+**Liên hệ sự kiện thế giới (khi hợp lý và làm bài SÂU/THÚ VỊ hơn):**
+- Nếu chủ đề có "người anh em" ở nước ngoài → dẫn ra để soi chiếu: bài học thành công HOẶC thất bại.
+  > VD: sân trắng voi → Amazon Arena (Brazil), sân Tổ Chim (Bắc Kinh) hậu Olympic; đô thị "mỏ neo" → Dubai, Songdo (Hàn Quốc).
+- Quy tắc: liên hệ thế giới phải (1) ĐÚNG sự thật — kiểm chứng trước, không bịa (VETO #16); (2) LÀM RÕ thêm cho vấn đề VN, không lạc đề; (3) kể ngắn gọn, có chi tiết đắt, không sa đà thành bài về nước khác.
+- Nếu liên hệ khiên cưỡng, không tăng giá trị → BỎ, thà tập trung sâu vào VN.
+
+---
+
 ## 🔗 GHÉP KỸ THUẬT
 - **Ví von (KT1) + Socrates (KT6)** = combo mạnh nhất cho khái niệm trừu tượng.
 - **Đánh số (KT2)** là khung; **Đón phản biện (KT3)** cắm vào giữa các khối để giữ chân.

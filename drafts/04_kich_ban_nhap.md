@@ -1,93 +1,18 @@
-# Tiêu đề A: Bỏ Cấp Huyện: Một Năm Đời Bạn Đổi Gì?
-# Tiêu đề B: Cái Huyện Quê Bạn Vừa Biến Mất Khỏi Bản Đồ
+# 04 — KỊCH BẢN NHÁP: Sáp nhập trường học Việt Nam — "Canh bạc tinh giản"
 
-> **Ngày xuất bản:** 2026-07-05 | **Phiên bản:** Clean (Audio Only - Có hướng dẫn giọng điệu)
-> **Ghi chú giọng điệu:** <red>Chữ ĐỎ</red>: nhấn mạnh/bức xúc | <green>Chữ XANH LÁ</green>: dữ liệu | <blue>Chữ XANH DƯƠNG</blue>: mỉa mai | <orange>Chữ CAM</orange>: câu hỏi/tò mò | **In đậm**: nhấn âm | *In nghiêng*: đọc chậm | <underline>Gạch chân</underline>: chốt hạ.
-
----
-
-## HOOK
-
-Lật tờ giấy khai sinh của bạn ra mà xem.
-
-Cái tên huyện in trên đó, giờ nó không còn là một cấp chính quyền nữa. <orange>Nghe lạ đúng không?</orange> Đúng một năm trước, nó lặng lẽ biến mất khỏi bản đồ hành chính. Và cuộc sống của bạn đã đổi theo, dù bạn có để ý hay không. <underline>Cái được, cái mất thật sự — mình để dành ở cuối.</underline>
+> **Chủ đề:** Sáp nhập trường học Việt Nam — "Đại phẫu tinh gọn hay gánh nặng phụ huynh?"
+> **Angle:** Angle 1 (Cân đối Được - Mất vĩ mô dưới lăng kính tối ưu hóa ngân sách quốc gia)
+> **Độ dài:** ~1350 từ · **Giọng:** Người Giải Mã · **Xưng hô:** Mình - Bạn/Các bạn
 
 ---
 
-## CẦU NỐI
-
-Xong video này, bạn sẽ hiểu rõ cuộc cải cách hành chính lớn nhất mấy chục năm qua. Hiểu đến mức kể lại cho cả nhà nghe vẫn trơn tru.
-
-Mình bắt đầu từ câu hỏi đơn giản nhất nhé: <orange>bỏ cấp huyện, thực ra là bỏ cái gì?</orange>
-
----
-
-## BỐI CẢNH
-
-Từ ngày <green>1 tháng 7 năm 2025</green>, cả nước chuyển sang một mô hình mới. Trước đây bộ máy có ba tầng: tỉnh, rồi huyện, rồi xã. Giờ chỉ còn hai: **tỉnh và xã**. Cái tầng ở giữa, tức cấp huyện, được cho nghỉ.
-
-Nghe thì gọn. Nhưng bạn thử nghĩ mà xem. Cái huyện ấy gắn với đời mình từ lúc lọt lòng. Giấy khai sinh ghi tên huyện. Đi học, đi làm giấy tờ, cưới xin — đều ghé qua huyện. Vậy mà nó vừa lùi khỏi sân khấu. Cả nước bây giờ gọn lại còn <green>34 tỉnh thành</green> và hơn <green>3.300 xã, phường, đặc khu</green>.
-
----
-
-## LỚP 1 — BỎ CẤP HUYỆN LÀ BỎ CÁI GÌ
-
-<orange>Bỏ một cấp chính quyền, nghe to tát vậy chứ thực ra là bỏ cái gì?</orange>
-
-Hình dung thế này nhé. Trước đây, để một tờ giấy tờ của bạn đi từ tỉnh xuống tới xã, nó giống như gửi một lá thư phải qua ba trạm bưu điện. Trạm tỉnh, trạm huyện, rồi mới tới trạm xã. Mỗi trạm là một lần dừng, một lần đóng dấu, một lần chờ. *Cái trạm huyện ở giữa — nó là nơi giấy tờ hay nằm chờ lâu nhất.* Giờ người ta bỏ trạm giữa đi. Thư đi thẳng từ tỉnh xuống xã. Ít một chặng dừng, tức là ít một lần bạn phải chờ.
-
-Và đây chính là ý tưởng cốt lõi của cả cuộc cải cách: <red>bớt một tầng trung gian để chính quyền tới gần dân hơn.</red>
-
----
-
-## LỚP 2 — CÁI ĐƯỢC, CON SỐ BIẾT NÓI
-
-Vậy sau đúng một năm, cái gọn ấy có ra kết quả không? <orange>Con số nói gì?</orange>
-
-Đây, mình đưa bạn xem mấy con số từ báo cáo sơ kết. Một năm qua, cả nước tiếp nhận <green>hơn 42 triệu hồ sơ hành chính</green>. Trong đó, <green>gần 92% được nộp trực tuyến</green>, tức là làm qua mạng. Tỷ lệ giải quyết đúng hạn giữ trên <green>95%</green>. Nghe hơi khô, mình kéo về đời bạn cho dễ thấm.
-
-Gần 92% nộp qua mạng nghĩa là gì? Nghĩa là rất nhiều việc bạn ngồi nhà bấm điện thoại là xong. Không phải xin nghỉ làm một buổi, chạy lên huyện, rút số, ngồi đợi gọi tên. <blue>Cái ghế nhựa ngồi chờ ở sảnh ủy ban — bạn gặp nó ít hơn hẳn.</blue>
-
-Có thể bạn đang nghĩ: con số qua mạng cao vậy, chứ mấy bác lớn tuổi ở quê thì sao, ai cũng rành điện thoại đâu? Câu hỏi rất thật. Và đây là chỗ hay: xã bây giờ có trung tâm phục vụ hành chính công ngay tại chỗ. Bác nào chưa quen bấm máy thì ra đó, có người hướng dẫn tận tay. Nộp online không có nghĩa là bỏ rơi ai lại phía sau.
-
-Rồi còn chuyện số hóa nữa. Một năm qua, hơn <green>16 triệu hồ sơ</green> đã được đưa lên bản điện tử, đạt gần <green>95%</green>. Nói nôm na, cái tủ hồ sơ giấy dày cộp ngày xưa đang dần biến thành một ổ khóa trên máy tính. Tìm lại giấy tờ cũ, thay vì lục từng cặp bụi, giờ gõ vài phím là ra.
-
-Còn một chi tiết mà mình nghĩ nhiều người đang lo oan. Nhiều bạn tưởng đổi mô hình là phải đi làm lại toàn bộ giấy tờ. **Không phải vậy đâu.** Giấy tờ cũ của bạn vẫn còn nguyên giá trị. Bạn chỉ cập nhật khi nào thật sự có nhu cầu thôi. Nhẹ người chưa?
-
----
-
-## LỚP 3 — CÁI CÒN VƯỚNG, CHUYỆN CHƯA KỂ TRONG CON SỐ
-
-<orange>Nếu đẹp vậy, sao vẫn có người than phiền?</orange> Chắc bạn đang định hỏi câu đó. Hỏi rất đúng. Vì con số trung bình cả nước không kể hết chuyện từng nhà.
-
-Có ba chỗ còn gợn, mình nói thẳng.
-
-Thứ nhất, cấp xã giờ ôm thêm việc của huyện cũ. Ở nơi hạ tầng tốt, cán bộ đông, mọi thứ chạy mượt. Nhưng ở nơi vùng sâu, người ít việc nhiều, thì đôi lúc quá tải cục bộ. Bạn đi làm giấy tờ gặp cảnh chờ lâu hơn kỳ vọng, phần nhiều nằm ở đây.
-
-Thứ hai, chuyện cái tên. Nhiều tỉnh, nhiều xã đổi tên sau sáp nhập. Thế là địa chỉ nhà bạn tự nhiên khác đi. Khai với ngân hàng, điền đơn chuyển phát, ký hợp đồng — có lúc vênh. <blue>Cái cảnh shipper gọi báo "địa chỉ này không có" — đôi khi không phải lỗi của bạn.</blue>
-
-Thứ ba, vài thủ tục đổi nơi tiếp nhận. Ví dụ đất đai, hay chế độ người có công, thẩm quyền chuyển sang chỗ khác. Bạn phải học lại một chút: giờ việc này đi đâu, gặp ai.
-
-Thử đặt mình vào cảnh này nhé. Bạn ra xã xin cái sổ đỏ. Cùng một chính sách, cùng một ngày, mà nhà bạn xong trong buổi sáng, còn người bạn ở xã bên phải chờ cả tuần. *Khác nhau ở đâu?* Phần lớn nằm ở chỗ xã đó đã kịp đầu tư hạ tầng số tới đâu, cán bộ đã quen tay tới mức nào. Đó là bài toán của buổi giao thời, không phải lỗi của bản thân mô hình.
-
-Nói cho công bằng, ba cái vướng này đều là chuyện của giai đoạn đầu. Giống như dọn sang nhà mới vậy. Mấy tuần đầu tìm cái công tắc đèn còn phải quờ quạng, đồ đạc chưa biết để đâu. Nhưng ở lâu quen dần, nhà mới rộng hơn thì vẫn hơn nhà cũ chật. Cái khó bây giờ là cái khó của người đang xếp lại đồ, chứ không phải của người xây sai nhà.
-
----
-
-## CAO TRÀO
-
-Đến đây, mình kể bạn nghe một chuyện xưa. Nghe rồi bạn sẽ thấy cải cách hôm nay không hề đơn độc.
-
-Gần hai trăm năm trước, năm <green>1831, 1832</green>, vua Minh Mạng làm một việc rất giống. Hồi đó nước ta có hai "tổng trấn" cực lớn ở hai đầu, một ngoài Bắc, một trong Nam. Đó là những tầng trung gian nắm quyền mênh mông. Vua bỏ hai tổng trấn ấy đi, chia cả nước thành <green>30 tỉnh</green>, để triều đình nắm thẳng tới địa phương. <underline>Cái bản đồ tỉnh mà mình quen thuộc tận bây giờ, gốc rễ nằm ở cuộc cải cách ấy.</underline>
-
-Thấy quen không? Ông cha mình, gần hai thế kỷ trước, cũng từng xóa một tầng trung gian để nắm thẳng tới cơ sở. Câu chuyện hôm nay, xét về mạch tư duy, là một nhịp nối tiếp của việc làm rất cũ ấy. Không mới, mà cũng chẳng lạ.
-
-[CTA] Còn bạn thì sao? Một năm qua, ở xã của bạn, đi làm giấy tờ dễ hơn hay khó hơn trước? Kể mình nghe dưới phần bình luận nhé. Thấy video hữu ích thì bấm đăng ký kênh, để lần sau mình lại cùng nhau giải mã những chuyện tưởng khô mà hóa ra rất gần.
-
----
-
-## KẾT THÚC MỞ
-
-Quay lại tờ giấy khai sinh lúc đầu. Cái huyện quê bạn không hề bị xóa khỏi ký ức. Nó chỉ thôi làm người gác cổng đứng giữa bạn và chính quyền.
-
-Một cuộc cải cách lớn cỡ này, một năm là quá ngắn để phán ai thắng ai thua. Con số đẹp là một tín hiệu đáng mừng. Chỗ còn vướng là việc của chặng đường phía trước. *Mình không kết luận thay bạn — mình chỉ đưa đủ dữ kiện để bạn tự thấy.* Còn ít nhất, từ hôm nay, lần tới đi làm giấy tờ, bạn đã biết vì sao mình tới xã chứ không phải huyện. Vậy là đủ vui rồi, đúng không?
+| Visual | Audio |
+|---|---|
+| **[0:00 - 0:15] [HOOK]**<br>- Cận cảnh một văn bản hành chính có đóng dấu đỏ của Bộ GD&ĐT.<br>- Bàn phím gõ nhanh dòng chữ: "Sáp nhập 30% trường công lập".<br>- Bản đồ Việt Nam với 15 đốm sáng đỏ nhấp nháy tại các tỉnh thành thí điểm (Hà Nội, TP.HCM, Nghệ An...).<br>- Chữ trên màn hình: **"BÀI TOÁN TINH GIẢN"**. | Giảm 30% trường công lập trên toàn quốc. 15 tỉnh thành thí điểm khẩn cấp ngay mùa hè này. Bộ GD&ĐT vừa bấm nút khởi động cuộc đại phẫu trường lớp lớn nhất nhiều thập kỷ. Trên bàn giấy, đây là cải cách tinh giản. Thế nhưng, dưới lòng đường thực tế, cuộc sống của hàng triệu phụ huynh sẽ xáo trộn ra sao? Canh bạc này mang lại cơ hội chất lượng, hay chỉ thêm gánh nặng dân sinh? Mình cùng giải mã ngay nhé. |
+| **[0:15 - 0:40] [LIÊN HỆ]**<br>- MC (Người Giải Mã) xuất hiện trong studio tối giản, ngồi bên bàn làm việc có một chồng tài liệu và máy tính.<br>- MC mỉm cười thân thiện, hướng ánh mắt về camera.<br>- Đồ họa slide chuyển động vẽ tay xuất hiện bên cạnh MC. | Chào các bạn. Sắp xếp lại trường lớp nghe thì có vẻ là chuyện chuyên môn của ngành giáo dục, chẳng liên quan gì đến mình. Thế nhưng, hình dung thế này nhé. Chỉ vài tuần nữa thôi, khi tiếng trống khai trường vang lên, con em chúng ta có thể sẽ học ở trường mang tên mới. Trường sẽ có ban giám hiệu mới và lộ trình đi học xa hơn nhiều. Xong video này, bạn sẽ hiểu rõ bản chất cuộc đại phẫu này. Đủ để thấy vì sao Nhà nước quyết tâm thực hiện, và nó ảnh hưởng trực tiếp đến bạn ra sao. Mình cùng bắt đầu từ câu hỏi đơn giản: Sáp nhập 30% thực chất là gộp cái gì? |
+| **[0:40 - 2:30] KHỐI 1: SÁP NHẬP 30% - BẢN CHẤT LÀ GỘP CÁI GÌ?**<br>- Đồ họa whiteboard giải thích mô hình cũ vs mô hình mới.<br>- Hình ảnh mô phỏng một ban giám hiệu trường gồm Hiệu trưởng, 2 Hiệu phó, Kế toán, văn thư.<br>- Biểu tượng cắt giảm 30% số lượng chức danh quản lý này.<br>- **[VÍ VON]** Hình ảnh một con phố có 5 tiệm tạp hóa nhỏ lẻ, sau đó gom lại thành 1 siêu thị lớn hiện đại. | Nhiều bạn nghe tin giảm 30% trường công lập thì giật mình lo sợ. Các bạn e ngại trường học quanh nhà sẽ đồng loạt bị đập bỏ. Thực tế không hẳn như thế đâu nha. Theo chỉ đạo từ Công văn 4054 của Bộ Giáo dục, ta cần phân biệt hai khái niệm: sáp nhập cơ học và sáp nhập đầu mối. <br><br>Cách thứ nhất là sáp nhập đầu mối. Hãy tưởng tượng thế này. Gần nhà bạn có một trường tiểu học và một trường cấp hai nằm sát nhau. Trước đây, mỗi trường đều có một hiệu trưởng, hai hiệu phó, kế toán và văn thư riêng. Khi sáp nhập đầu mối, hai trường gộp thành một trường liên cấp duy nhất. Cả cơ sở chỉ còn lại một hiệu trưởng và một bộ máy kế toán dùng chung. Các lớp học và phòng học vẫn giữ nguyên vị trí cũ. Học sinh vẫn học chỗ cũ. <br><br>Nói cho dễ hiểu, cái này giống hệt chuyện quy hoạch các hộ tạp hóa nhỏ đầu ngõ thành siêu thị lớn. Thay vì 5 cửa hàng nhỏ đều tốn tiền thuê 5 quản lý riêng biệt, siêu thị lớn chỉ cần một ban quản lý duy nhất. Việc phân phối hàng hóa cho người dân vẫn đầy đủ. <br><br>Cách thứ hai là sáp nhập cơ học. Cái này mới là thứ ảnh hưởng trực tiếp này. Người ta sẽ dồn dịch các điểm trường lẻ ở bản hẻo lánh về trường chính ở trung tâm xã. Lúc này, học sinh tại các điểm lẻ sẽ chuyển hẳn sang địa điểm mới. Việc này nhằm mục đích gì? Mình cùng sang phần tiếp theo nhé. |
+| **[2:30 - 4:40] KHỐI 2: CÁI ĐƯỢC - BÀI TOÁN TỐI ƯU HÓA NGÂN SÁCH**<br>- Bản đồ 15 tỉnh thành thí điểm sáng lên (Hà Nội, TP.HCM, Nghệ An, Đồng Nai, Đắk Lắk...).<br>- Đồ họa thống kê ngân sách nhà nước chi cho giáo dục.<br>- [LIÊN HỆ] Hình ảnh so sánh: Một bên là phòng học điểm lẻ thiếu máy tính; một bên là trường trung tâm khang trang có phòng Lab mới.<br>- Đồ họa mô phỏng dòng tiền ngân sách được gom lại. | Lộ trình thí điểm được triển khai rất khẩn trương từ ngày 1/7/2026 tại 15 tỉnh thành trọng điểm. Mục tiêu là phải định hình xong trước ngày 30/8 để vận hành trong năm học mới này. Tại sao Nhà nước lại quyết tâm làm nhanh và triệt để như vậy? Câu trả lời nằm ở bài toán tối ưu hóa nguồn lực. <br><br>Lợi ích thứ nhất là tập trung ngân sách nâng cấp chất lượng. Lâu nay, ngân sách giáo dục của chúng ta bị phân mảnh quá nhiều. Khi phải nuôi hàng chục nghìn điểm trường lẻ, tiền chỉ đủ sửa tường rào chứ không thể mua máy tính mới. Nhớ cái nguyên lý tập trung nguồn lực chứ? Khi gom 10 điểm trường xập xệ thành 5 trường lớn, tiền tiết kiệm được sẽ dùng để xây phòng Lab chuẩn quốc tế. Con em chúng ta sẽ được học môi trường tốt hơn nhiều. <br><br>Lợi ích thứ hai là giải quyết nạn thiếu giáo viên đứng lớp. Khi tinh giản được 30% đầu mối, hàng vạn chức danh gián tiếp như hiệu trưởng dôi dư, văn thư sẽ được sắp xếp lại. Những người đủ chuẩn sẽ được đào tạo để trực tiếp đứng lớp dạy học. Nhờ đó, số lượng giáo viên đứng lớp tăng lên mà không làm phình biên chế quốc gia. <br><br>Rõ ràng, về mặt quản lý vĩ mô, đây là nước cờ thông minh để nâng tầm giáo dục. Thế nhưng, cuộc cải cách nào cũng có thách thức. Canh bạc này đang đặt ra thử thách dân sinh rất lớn. |
+| **[4:40 - 7:30] KHỐI 3: CÁI MẤT - SỨC ÉP DÂN SINH VÀ NGHỊCH LÝ ĐÔ THỊ**<br>- Hình ảnh hoạt họa một phụ huynh dắt con đi học dưới mưa, con đường đất bùn lầy lội ở vùng cao.<br>- Bản đồ chỉ đường từ nhà đến trường tăng khoảng cách từ 1km lên 8km.<br>- Cảnh tượng đông đúc trước cổng trường học ở Hà Nội.<br>- [NHẬP VAI] Biểu đồ sĩ số lớp học tăng lên (40 -> 55 học sinh).<br>- MC biểu cảm suy ngẫm, chia sẻ. | **[ĐÓN PHẢN BIỆN]** Đến đây, chắc chắn các bạn sẽ hỏi: Tinh gọn và hiện đại như thế thì quá tốt, cớ sao phụ huynh lại lo lắng? Khổ nỗi, lý thuyết màu hồng trên giấy khi chạm vào thực tế lại phát sinh bất cập cục bộ. <br><br>Thách thức thứ nhất nằm ở khoảng cách địa lý tại vùng nông thôn. Khi xóa bỏ điểm trường lẻ đầu thôn để dồn học sinh về trung tâm xã, đường đi học bỗng dài ra gấp ba lần. Thử nhập vai một phụ huynh vùng cao xem nhé. 5 giờ sáng bạn phải thức dậy chuẩn bị cơm nắm. Bạn dắt con đi bộ hoặc đi xe máy vượt gần 10 cây số đường đèo dốc để đến trường. Chi phí đi lại tăng lên. Quỹ thời gian lao động của bố mẹ bị thu hẹp vì phải lo đưa đón. Đã có những học sinh nghèo bỏ học chỉ vì trường quá xa. <br><br>Thách thức thứ hai lại là một nghịch lý trần trụi tại các đô thị lớn. Ở nông thôn gộp trường vì không có học sinh học, thì ở thành phố, trường lớp vốn đã quá tải nghiêm trọng. Các bạn không lạ gì cảnh phụ huynh thức trắng đêm xếp hàng giành suất học lớp 1 cho con. Bây giờ, lệnh giảm 30% đầu mối trường công lập sẽ áp dụng thế nào? Nếu gộp trường cơ học mà không xây thêm phòng học, sĩ số các lớp vốn đã 50 em sẽ còn phình to thế nào? Cuộc đua giành suất học trường công lập vốn đã khốc liệt, nay càng nóng bỏng. <br><br>Rõ ràng, tinh gọn là cần thiết. Nhưng nếu lộ trình đi quá vội vã mà không tính đặc thù, ta dễ bị hụt chân. Vậy cha ông ta ngày xưa đã giải quyết bài toán này thế nào? |
+| **[7:30 - 10:00] KHỐI 4: BÀI HỌC QUY HOẠCH GIÁO DỤC THỜI VUA MINH MẠNG**<br>- Tranh vẽ chân dung Vua Minh Mạng.<br>- Bản đồ triều Nguyễn thời kỳ cải cách hành chính những năm 1830.<br>- [CHI TIẾT ĐINH] Hình ảnh mô phỏng trường học thời xưa (Trường phủ, Trường huyện).<br>- Hình vẽ hoạt họa các quan giáo thụ, huấn đạo đang giảng bài cho học trò. | Lịch sử Việt Nam luôn là chiếc gương soi đắt giá cho hiện tại. Gần 200 năm trước, dưới triều vua Minh Mạng, triều đình nhà Nguyễn cũng từng đối mặt với bài toán tương tự. <br><br>Vào những năm 1830, hệ thống giáo dục và khoa cử nước ta phát sinh nhiều bất cập. Các lớp học tư nhân mọc lên khắp nơi nhưng chất lượng không đều. Việc quản lý lỏng lẻo dẫn đến tình trạng gian lận thi cử. Vua Minh Mạng đã đưa ra quyết định táo bạo: quy hoạch lại toàn bộ mạng lưới trường công. <br><br>Vua quy định rõ: mỗi phủ chỉ lập một trường học do quan Giáo thụ đứng đầu, mỗi huyện lập một trường do quan Huấn đạo phụ trách. Tất cả các cơ sở giáo dục nhỏ lẻ, không đủ chuẩn ở địa phương bị giải thể hoặc gộp lại. Đồng thời, vua Minh Mạng tinh giản tối đa các chức danh trung gian không trực tiếp dạy học. Ngân sách được tập trung để nuôi dưỡng thầy đồ giỏi và trợ cấp cho học trò nghèo hiếu học. <br><br>Nhớ cái mạch tư duy này chứ? Gom nguồn lực về các trường chính quy cấp phủ, cấp huyện để chuẩn hóa chất lượng, tinh giản bộ máy hành chính cồng kềnh. Bài học từ vua Minh Mạng cho thấy: cải cách trường lớp phải đi đôi với đãi ngộ người dạy và hỗ trợ người học thì mới thành công. |
+| **[10:00 - 11:30] [CAO TRÀO]**<br>- MC quay trở lại khung hình cận cảnh, giọng điệu trầm ấm, chia sẻ chân thành.<br>- Hình ảnh học sinh rạng rỡ bước vào ngôi trường mới khang trang.<br>- Slide tóm tắt thông điệp cuối: **"Tinh giản để đi xa hơn"**. | Trở lại với cuộc cải cách của năm 2026. Canh bạc giảm 30% trường công lập này rõ ràng không có thắng thua tuyệt đối. Tinh giản quản lý để dồn lực đầu tư cơ sở vật chất là xu hướng tất yếu của giáo dục hiện đại. Nước đi vĩ mô của Bộ Giáo dục là hoàn toàn đúng hướng. Thế nhưng, để nước cờ này không biến thành gánh nặng, nhà quản lý cần giải quyết thấu đáo những bất tiện dân sinh ngắn hạn. Cần có lộ trình đưa đón học sinh vùng cao chu đáo. Cần có cơ chế đặc thù cho các đô thị quá tải như Hà Nội, TP.HCM. <br><br>Hy vọng lần tới, khi đưa con đi ngang qua một ngôi trường vừa sáp nhập, các bạn sẽ không bỡ ngỡ nữa. Bạn sẽ hiểu rõ cả một bàn cờ chiến lược lớn đằng sau tấm biển trường mới ấy. |
+| **[11:30 - 12:00] [CTA]**<br>- Màn hình hiển thị logo kênh Giải Mã 360.<br>- Nút Đăng ký và Chuông thông báo nhấp nháy trực quan.<br>- Câu hỏi thảo luận hiển thị rõ ràng trên màn hình. | Nếu ngôi trường của con bạn nằm trong diện sáp nhập đợt này, điều khiến bạn lo lắng nhất là gì? Hãy chia sẻ ý kiến của bạn ở bình luận bên dưới để mình cùng thảo luận nhé. Đừng quên bấm Đăng ký kênh và nút Chuông để không bỏ lỡ các video tiếp theo. Cảm ơn các bạn, xin chào và hẹn gặp lại. |

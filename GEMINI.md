@@ -111,8 +111,13 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
                           │  Sếp ngồi uống trà chờ kết quả │
                           └─────────────────────────────────┘
                                        │
+                          [Bước 3.5: SĂN HOOK] ★ MỚI
+                            05_Hook_Master
+                            Quy trình 5 bước: mổ tư tưởng → điểm chạm
+                            → bóc lớp → 3-5 phương án chấm điểm → mài
+                                       │ (tự động)
                           [Bước 4: VIẾT NHÁP — 8 Module]
-                            02_Scriptwriter
+                            02_Scriptwriter (viết thân bài ăn khớp Hook)
                                        │ (tự động)
                           [Bước 5: KIỂM ĐỊNH — 33 tiêu chí (8 nhóm A-H)]
                             03_Quality_Inspector
@@ -249,6 +254,13 @@ GiaiMa360/
 
 **Kết quả cuối cùng:** Sếp nhận toàn bộ sản phẩm hoàn chỉnh trong thư mục `outputs/` (YouTube + Facebook) và chỉ cần duyệt tổng thể 1 lần cuối trước khi publish lên nền tảng.
 
+### 8.1b Quy tắc ĐỊNH DẠNG FILE GIAO SẾP ⭐ (v3.3 — BẮT BUỘC)
+
+- **File giao cho Sếp ở MỌI công đoạn (cả đề xuất, nháp kịch bản và bản hoàn thiện) = `.docx`.** KHÔNG xuất `.md` ra thư mục `outputs/` hoặc trình bày link `.md` cho Sếp trừ khi Sếp yêu cầu rõ.
+- File `.md` chỉ dùng làm **bản nháp kỹ thuật nội bộ** trong `scratch/` hoặc `drafts/` (Sếp không thấy trong chat) → sau đó convert sang `.docx` bằng `scripts/md_to_docx_v2.py` → CHỈ file `.docx` được đặt vào `outputs/` và gửi link cho Sếp.
+- Áp dụng cho: brief, đề xuất angle, dàn ý, kịch bản nháp, gói SEO, bài FB, kịch bản Shorts. Khi trình bày trong đoạn chat, chỉ dẫn link trực tiếp tới các file `.docx`.
+
+
 ### 8.2 Quy tắc SafeToAutoRun cho lệnh hệ thống
 
 | Loại lệnh | SafeToAutoRun | Lý do |
@@ -279,7 +291,7 @@ GiaiMa360/
 | **Prompt gốc** | Người Giải Mã V5.1 |
 | **Số Module** | 9 Module + Sponsor + Format + Facebook + Viral C.R.A.F.T |
 | **Số Skill** | 9 nội bộ + 1 cũ + **27 community active + 1 lazy = 38 tổng** — xem §10 + `docs/gemini_companion.md` |
-| **Số Agent** | 5 (00-04) |
+| **Số Agent** | 6 (00-05) — bổ sung **05_Hook_Master** (chuyên trị Hook, v3.3) |
 | **Số tiêu chí QC** | 33 tiêu chí, 8 nhóm (23 YouTube + 6 Facebook + 4 Compliance) — VETO toàn hệ thống: #16, #23, #27, #29, #30 |
 | **Pipeline** | 11 bước (0-7 + 6d + 6e + 6f) với Compliance Gate tại Bước 5, 6d, 6e |
 | **Fanpage** | Giải Mã 360 (Page ID: 341500382389972) |

@@ -22,3 +22,8 @@
 - **"Dọn sang nhà mới"**: cái vướng buổi giao thời = mấy tuần đầu ở nhà mới còn quờ quạng tìm công tắc; nhà rộng hơn vẫn hơn nhà chật. → dùng cho "khó khăn giai đoạn đầu của cải cách".
 - **"Tủ hồ sơ giấy → ổ khóa trên máy tính"**: số hóa hồ sơ. → dùng cho chuyển đổi số.
 - **"Người gác cổng"**: cấp trung gian đứng giữa dân và chính quyền. → ẩn dụ chốt bài.
+
+## [2026-07-06] Chủ đề: Sáp nhập trường học Việt Nam
+- **"Gom tiệm tạp hóa thành siêu thị lớn"**: sáp nhập các trường lẻ/đầu mối quản lý = gộp các cửa hàng nhỏ lẻ tốn chi phí thuê 5 quản lý riêng biệt thành 1 siêu thị lớn dùng chung 1 ban quản lý tối ưu hơn. → dùng cho sáp nhập cơ sở hạ tầng, tinh gọn bộ máy.
+- **"Đường đi học dài gấp đôi"**: sự đánh đổi dân sinh của tinh giản vĩ mô. → dùng cho "chi phí/cái giá của cải cách".
+

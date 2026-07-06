@@ -24,6 +24,11 @@
 | 10 | Có ≥ 2 lần ĐÓN ĐẦU PHẢN BIỆN (nói hộ câu hỏi khán giả rồi trả lời) | ☐ |
 | 11 | Thân bài chia 3-5 KHỐI ĐÁNH SỐ, tăng tiến; có ≥ 1 CHI TIẾT ĐINH gây nhớ | ☐ |
 | 12 | Mỗi luận điểm theo chu trình Câu hỏi → Bẻ nhỏ → Ví dụ → Chốt | ☐ |
+| 12b | **MỌI con số khủng đều được QUY ĐỔI đời thường** (KT7) — không để số "trần trụi" trôi qua; ≥ 1 phép so sánh gây "wow" | ☐ |
+| 12c | **Mở mỗi khối bằng NÊU VẤN ĐỀ bất ngờ/nghịch lý TRƯỚC**, giải thích cặn kẽ SAU — không giải thích khi khán giả chưa "ngứa" câu hỏi | ☐ |
+| 12d | **Chi tiết đắt DỒN LÊN NỬA ĐẦU** (KT8) — không để dành hết đồ ngon xuống cuối; vẫn giữ 1 open loop cho cuối | ☐ |
+| 12e | **Đào tới BẢN CHẤT** (KT9) — hỏi "vì sao" tới gốc rễ, không dừng bề mặt; có liên hệ thế giới ĐÚNG & hợp lý (hoặc ghi rõ bỏ qua) | ☐ |
+| 12f | **CTA sau CAO TRÀO** — có ≥ 1 lời kêu gọi like/chia sẻ/đăng ký chèn khéo ngay sau chi tiết ấn tượng (không van nài, không rải lung tung) | ☐ |
 
 ## C. CHIỀU SÂU & LIÊN HỆ (3 tiêu chí)
 
@@ -41,6 +46,8 @@
 | 17 | Không có cụm từ nào trong danh sách CẤM (`.shared/tu_cam.md`) — gồm cả mục G (persona-ban) | ☐ |
 | 18 | Xưng "mình" / gọi "bạn"; tiểu từ tình thái nhẹ nhàng ≥ 1 mỗi 3-4 câu (nhé/nha/đúng không…) | ☐ |
 | 19 | Nhịp câu xen kẽ, không 3 câu dài liên tiếp, không câu nào > 22 từ | ☐ |
+| 19b | **Mạch LIỀN, không rời rạc** — câu/đoạn nối nhau bằng liên từ–thán từ "chất keo" (móc xích giữa các khối); không đoạn nào "khởi động lạnh" | ☐ |
+| 19c | **KHÔNG chữ hàn lâm/kinh viện** (chủ thể, cơ chế, hạ tầng, tối ưu…) — đã thay bằng văn nói bình dân; ví von SÁT, mỗi chi tiết khớp thực tế (test "mẹ mình có hiểu không") | ☐ |
 | 20 | KHÔNG dạy đời/mỉa mai cay nghiệt; chủ đề tranh cãi có câu "phòng thủ" công tâm | ☐ |
 
 ## E. FORMAT (2 tiêu chí)
