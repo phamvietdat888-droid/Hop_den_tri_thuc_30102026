@@ -260,7 +260,7 @@ Write-Host "⏰ Ảnh sẽ đăng lúc: $($target.ToString('yyyy-MM-dd HH:mm:ss 
 **Quy trình:**
 1. Chọn 1 trong 6 Template Viral trong `format_facebook.md` (phần Chế độ B)
 2. Chọn 1 trong 12 Dạng Tiêu đề Viral
-3. Viết bài 500-800 từ theo đúng giọng "Người Giải Mã"
+3. Viết bài 500-800 từ theo đúng giọng "Hộp Đen Tri Thức"
 4. Giữ đặc trưng: ví von đời thường, mỉa mai tinh tế, câu hỏi tu từ, tiểu từ tình thái
 5. 🛡️ **Quét bài qua Compliance Shield** (`.shared/compliance_shield.md`) trước khi trình bày Preview.
 
@@ -344,7 +344,7 @@ Invoke-RestMethod -Uri "https://graph.facebook.com/v19.0/$postId" -Method Post -
 | File | Mục đích |
 |---|---|
 | `.shared/format_facebook.md` | Quy chuẩn format bài FB |
-| `.shared/tone_guide.md` | Giọng điệu "Người Giải Mã" |
+| `.shared/tone_guide.md` | Giọng điệu "Hộp Đen Tri Thức" |
 | `.shared/tu_cam.md` | Danh sách từ cấm |
 | `.shared/storytelling_arsenal.md` | Kỹ thuật kể chuyện |
 | `checklist.md` (nhóm G) | Checklist Facebook |

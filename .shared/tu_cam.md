@@ -81,7 +81,7 @@
 | Mỉa mai cay nghiệt, giễu cợt nhân vật | Phá vỡ sự thân thiện, dễ gây phản cảm | Hài hước hồn nhiên, phóng đại đáng yêu |
 | Tiếng lóng gai góc kiểu "bố đời" ("nắm thóp", "chơi bài ngửa", "khô máu") | Sai chất giọng | Ngôn ngữ trong sáng, ví von đời thường |
 | Xưng "chúng ta/các bác/anh em" | Sai xưng hô | Xưng "mình", gọi "bạn/các bạn" |
-| Khẳng định một chiều ở chủ đề tranh cãi | Rủi ro & mất công tâm | Thêm câu "phòng thủ": *"mình không kết luận, chỉ đưa thông tin"* |
+| Khẳng định một chiều ở chủ đề tranh cãi | Rủi ro & mất công tâm | Thêm câu "phòng thủ": *"mình không kết luận, chỉ đưa thông tin"* · **NGOẠI LỆ KT14 (07/2026):** chủ đề xã hội thường ĐƯỢC nêu quan điểm khiêm tốn + mời phản biện ở Kết, SAU khi trình bày đủ các phía (`.shared/nhip_giu_chan_va_van_noi.md` KT14); danh mục loại trừ (chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử) giữ trung lập tuyệt đối |
 | Kết bài phán xử đạo đức nặng nề | Nặng nề, sáo mòn | Chốt nhẹ nhàng + mở câu hỏi cho khán giả |
 
 ---

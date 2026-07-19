@@ -1,11 +1,11 @@
 # 🎯 MỤC TIÊU 2026 — DỰ ÁN GIẢI MÃ 360
 
 > **Ngày cập nhật:** 23/05/2026
-> **Ngách nội dung:** Phân tích Địa chính trị, Thời sự quốc tế, Chính trị - Xã hội qua lăng kính "Người Giải Mã"
+> **Ngách nội dung:** Phân tích Địa chính trị, Thời sự quốc tế, Chính trị - Xã hội qua lăng kính "Hộp Đen Tri Thức"
 
 ---
 
-## 1. MỤC TIÊU KÊNH YOUTUBE ("Người Giải Mã")
+## 1. MỤC TIÊU KÊNH YOUTUBE ("Hộp Đen Tri Thức")
 - **Tình trạng hiện tại:** Đang "ngủ đông" với ~31.7K subs.
 - **Mục tiêu ngắn hạn (Q2-Q3/2026):**
   - Kích hoạt lại luồng phân phối (Browse Features & Suggested) của thuật toán.

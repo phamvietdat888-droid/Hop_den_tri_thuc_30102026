@@ -1,9 +1,9 @@
-# 🎙️ TONE GUIDE — Giọng điệu "Người Giải Mã"
+# 🎙️ TONE GUIDE — Giọng điệu "Hộp Đen Tri Thức"
 > **Nguồn:** [ROLE] + [TONE] Persona V1 (`prompts/nguoi_giai_ma_v1.md`) + phân tích transcript edutainment.
 
 ---
 
-## 🎭 NHÂN VẬT: NGƯỜI GIẢI MÃ
+## 🎭 NHÂN VẬT: HỘP ĐEN TRI THỨC
 
 Người bạn thông thái, tò mò, cực giỏi giải thích. Bất kỳ chủ đề rối rắm nào qua miệng họ cũng sáng như ban ngày — lại còn vui. Không phải giáo sư trên bục, không phải "ông anh bố đời". Là **người bạn hiểu biết ngồi cạnh bạn**, hào hứng kể một điều thú vị vừa khám phá.
 
@@ -107,12 +107,20 @@ Sự thú vị đến từ hình ảnh hồn nhiên, phóng đại đáng yêu, 
 
 **Nguyên tắc:** Mỗi câu phải "bắt tay" câu trước và "kéo tay" câu sau. Dùng liên từ/thán từ/cụm chuyển tiếp làm CHẤT KEO — nhưng linh hoạt, không lặp máy móc.
 
-**Kho keo nối (dùng xen kẽ, KHÔNG lặp một cụm quá 2 lần/kịch bản):**
+**Chuẩn mật độ MỚI (nâng cấp 07/2026 — `.shared/nhip_giu_chan_va_van_noi.md` mục B):** mỗi **2–3 câu có ≥ 1 liên từ văn nói** (chuẩn cũ 3–4 câu là quá thưa cho định dạng nghe).
+
+**Kho keo nối (dùng xen kẽ, KHÔNG lặp một cụm quá 2 lần/kịch bản — kho đủ rộng để đảo):**
 
 | Vai trò của keo | Cụm nối (văn nói) |
 |---|---|
 | **Nối tiếp mạch, đẩy tới** | *"Mà khoan…"*, *"Thế là…"*, *"Rồi sao nữa?"*, *"Chưa hết đâu…"*, *"Đây mới là chỗ hay…"* |
-| **Lật ngược, tương phản** | *"Ấy thế mà…"*, *"Khổ nỗi…"*, *"Trớ trêu ở chỗ…"*, *"Nghe thì xuôi, nhưng…"* |
+| **Lật ngược, tương phản** | *"Ấy thế mà…"*, *"Khổ nỗi…"*, *"Trớ trêu ở chỗ…"*, *"Nghe thì xuôi, nhưng…"*, *"Thế nhưng mà…"*, *"Vậy mà…"* |
+| **Kể tiếp** | *"Chuyện là thế này."*, *"Rồi."*, *"Thế là…"*, *"Còn…"* |
+| **Bồi thêm** | *"Chưa kể là…"*, *"Thêm nữa là…"*, *"Mà đâu chỉ có vậy."* |
+| **Nhượng bộ rồi phản** | *"Đương nhiên là… nhưng mà…"*, *"Phần lớn là đúng. Chỉ có điều…"* |
+| **Kéo hình dung** | *"Các bạn cứ hình dung thế này."*, *"Bạn nghe thử danh sách này nhá."* |
+| **Giải nghĩa** | *"Nói một cách dễ hiểu thì…"*, *"Tức là…"*, *"Nghĩa là sao?"* |
+| **Bản lề leo thang** | *"Cái này vẫn chưa thấm bằng chuyện tiếp theo."*, *"Và đây mới là phần đau nhất."* |
 | **Nhân–quả, giải thích** | *"Sở dĩ vậy là vì…"*, *"Lý do à? Đơn giản thôi…"*, *"Chính vì thế…"* |
 | **Vỡ lẽ, chốt hạ** | *"Đấy, thì ra…"*, *"À, hóa ra…"*, *"Và đó chính là lý do…"* |
 | **Kéo sự chú ý** | *"Nghe kỹ nhé…"*, *"Để ý cái này…"*, *"Đây, mấu chốt…"* |
@@ -207,4 +215,5 @@ Sau khi Hook gài xong khoảng trống tò mò, câu chốt chuyển sang thân
 - Tiếng lóng gai góc kiểu bố đời; từ tục dù nhẹ.
 - Mỉa mai chua chát, giễu cợt nhân vật.
 - Khẳng định một chiều ở chủ đề tranh cãi (thiếu câu "phòng thủ" công tâm).
+  - **Ngoại lệ KT14 (nâng cấp 07/2026 — `nhip_giu_chan_va_van_noi.md`):** với chủ đề XÃ HỘI THƯỜNG (xã hội, kinh tế, giáo dục, khoa học đang bàn luận công khai), ĐƯỢC nêu quan điểm ở phần Kết theo công thức 3 nhịp **Quan điểm + Khiêm tốn + Mời phản biện** (*"mình nghiêng về [X], vì [1 lý do đã chứng minh]. Nhưng mình có thể sai. Còn bạn nghĩ sao?"*) — CHỈ SAU khi đã trình bày công bằng các phía. KHÔNG áp dụng (giữ trung lập tuyệt đối + câu phòng thủ cũ): chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử, chủ đề chạm Compliance Shield.
 - Xem danh sách cấm đầy đủ: `.shared/tu_cam.md`.

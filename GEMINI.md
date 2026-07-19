@@ -12,10 +12,10 @@
 
 **Đối tượng khán giả:** Người Việt 18-45 tuổi, tò mò, thích học nhưng ghét bị dạy. Xem lúc nghỉ trưa, kẹt xe, trước khi ngủ. Muốn: hiểu nhanh, hiểu đúng, thấy "mình" trong câu chuyện. Chán: kênh đọc báo, giọng thuyết trình, clickbait rỗng.
 
-**Persona chủ đạo:** "Người Giải Mã" — người bạn thông thái, tò mò, cực giỏi giải thích: biến cái phức tạp thành cái ai cũng hiểu, và không thể ngừng xem. Chi tiết persona: `.shared/tone_guide.md` + `prompts/nguoi_giai_ma_v1.md`.
+**Persona chủ đạo:** "Hộp Đen Tri Thức" — người bạn thông thái, tò mò, cực giỏi giải thích: biến cái phức tạp thành cái ai cũng hiểu, và không thể ngừng xem. Chi tiết persona: `.shared/tone_guide.md` + `prompts/nguoi_giai_ma_v1.md`.
 
 **Sứ mệnh hệ thống:**
-- Sản xuất kịch bản YouTube đạt chuẩn phong cách "Người Giải Mã" — 8 Module
+- Sản xuất kịch bản YouTube đạt chuẩn phong cách "Hộp Đen Tri Thức" — 8 Module
 - Kiểm soát chất lượng bằng checklist **33 tiêu chí, 8 nhóm** (23 YouTube A-F + 6 Facebook G + 4 Compliance Shield H) — 5 tiêu chí VETO: #16, #23, #27, #29, #30
 - Tối ưu Retention qua data-driven (Postmortem sau mỗi video)
 - **Phân phối nội dung đa nền tảng:** YouTube → Fanpage Facebook Giải Mã 360
@@ -32,7 +32,7 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 |---|---|---|
 | **1** | Hook — "Cú Móc 15 Giây" (6 công thức) | `.shared/hook_formulas.md` |
 | **2** | Ngôn ngữ — "Viết Như Người, Không Như Máy" | `.shared/tu_cam.md` |
-| **3** | Giọng Nói Thật — Giọng "Người Giải Mã" (xưng mình/gọi bạn) | `.shared/tone_guide.md` |
+| **3** | Giọng Nói Thật — Giọng "Hộp Đen Tri Thức" (xưng mình/gọi bạn) | `.shared/tone_guide.md` |
 | **4** | Vũ Khí Kể Chuyện — 6 kỹ thuật (Ví von, Bẻ nhỏ đánh số, Đón đầu phản biện, Nhập vai, Chi tiết đinh, Socrates) | `.shared/storytelling_arsenal.md` |
 | **5** | Cấu trúc luận điểm: Câu hỏi → Bẻ nhỏ → Ví dụ → Chốt | `.shared/storytelling_arsenal.md` |
 | **6** | Quy tắc Ví von đời thường | `.shared/storytelling_arsenal.md` |
@@ -93,6 +93,9 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
   + Threads + Facebook (Cộng đồng)     │
   + Báo VN/QT + YT đối thủ            │
   + X + Reddit → Chấm 7 tiêu chí      │
+  + quét SỔ TRÍ NHỚ KÊNH (cơ hội       │
+    "vòng về video cũ") + chấm         │
+    checklist "Hồ sơ giải phẫu"        │
   [CHỜ SẾP CHỌN] ──────────→──────────┤
                                        │
                                        ▼
@@ -143,7 +146,7 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
                             04_Publisher
                             2-3 Shorts ≤50s + SEO + Prompt ảnh
                                        │ (tự động)
-                          [Cập nhật Kho Vũ Khí]
+                          [Cập nhật Kho Vũ Khí + Sổ trí nhớ kênh]
                                        │
                                        ▼
                           [Sản phẩm HOÀN CHỈNH] → outputs/
@@ -179,7 +182,7 @@ GiaiMa360/
 ├── .clawhub/                  ← Cache Skill Manager (lock.json — KHÔNG sửa tay)
 │
 ├── .shared/                   ← DNA V5.1 — tone, tu_cam, hook, storytelling, noi_dau, compliance_shield, ...
-│   └── kho_vu_khi/            ← Kho vũ khí tái sử dụng (vi_von, hook_test, lich_su, noi_dau)
+│   └── kho_vu_khi/            ← Kho vũ khí tái sử dụng (vi_von, hook_test, lich_su, noi_dau) + SỔ TRÍ NHỚ KÊNH (so_tri_nho_kenh.md)
 │
 ├── Đối_thủ/                   ← Hồ sơ 5 đối thủ + báo cáo tình báo
 ├── skills/                    ← 9 skill nội bộ (giai_ma_360, viet_tieu_de, kham_kenh, ...)
@@ -202,7 +205,7 @@ GiaiMa360/
 
 | Lệnh | Chức năng |
 |---|---|
-| `/tim_trend [từ khóa]` | 🔍 **Bước 0** — Trinh sát trend đa nguồn, Top 5 chủ đề |
+| `/tim_trend [từ khóa]` | 🔍 **Bước 0** — Trinh sát trend đa nguồn + quét Sổ trí nhớ kênh, Top 5 chủ đề chấm theo checklist "Hồ sơ giải phẫu" |
 | `/tim_trend` | 🔍 Quét tổng — tìm chủ đề nóng nhất hôm nay |
 | `/tim_trend so_sanh: A, B, C` | 🔍 So sánh nhiều chủ đề, chọn cái đáng làm nhất |
 | `/quet_doi_thu` | 🕵️ Quét toàn bộ 5 kênh đối thủ, cập nhật hồ sơ |
@@ -213,7 +216,7 @@ GiaiMa360/
 | `/dan_y` | Tạo dàn ý Tam Giác Ngược |
 | `/viet` | Viết kịch bản nháp |
 | `/kiem_dinh` | Chạy kiểm định 33 tiêu chí (8 nhóm A-H) |
-| `/xuat_ban` | Xuất bản cuối + cập nhật Kho Vũ Khí |
+| `/xuat_ban` | Xuất bản cuối + cập nhật Kho Vũ Khí + Sổ trí nhớ kênh |
 | `/tieu_de` | 🎬 **Bước 6b** — Tạo 20 tiêu đề cho kịch bản hiện tại |
 | `/dang_fb [chủ đề]` | 📱 **Bước 6d** — Phát Sóng Fanpage Giải Mã 360 (Chế độ A: từ YT / Chế độ B: độc lập) |
 | `/tao_short [chủ đề]` | ⚡ **Bước 6f** — Chuyển thể kịch bản dài thành 2-3 YouTube Shorts (kịch bản + SEO + prompt ảnh) |
@@ -250,7 +253,7 @@ GiaiMa360/
 - Bước 6d: Gọt bài Facebook + Tạo ảnh FB + Xuất DOCX
 - Bước 6e: Seeding Mega Comments (JSON)
 - Bước 6f: Chuyển thể 2-3 YouTube Shorts (kịch bản + SEO + prompt ảnh + DOCX)
-- Cập nhật Kho Vũ Khí
+- Cập nhật Kho Vũ Khí + **Sổ trí nhớ kênh** (`.shared/kho_vu_khi/so_tri_nho_kenh.md`, mỗi video 1 dòng: [ngày] – [chủ đề] – [luận điểm chốt] – [dự đoán/câu hỏi còn treo])
 
 **Kết quả cuối cùng:** Sếp nhận toàn bộ sản phẩm hoàn chỉnh trong thư mục `outputs/` (YouTube + Facebook) và chỉ cần duyệt tổng thể 1 lần cuối trước khi publish lên nền tảng.
 
@@ -288,7 +291,7 @@ GiaiMa360/
 | **Cập nhật** | 2026-04-28 — v2.7 "2 Gate". 2026-05-23 — v2.7 đồng bộ + dọn rác. 2026-05-23 — **v3.0 Phase 1+2+3 ĐẦY ĐỦ** (28 Community Skills). 2026-05-23 — **v3.1 TOKEN OPTIMIZATION**: (1) Move `agent-evaluation` (943 lines, ~10.5k token) sang `.agent/skills/community/_lazy/` + add pattern vào `.antigravityignore` để không index ngầm. (2) Slim `.shared/to_mo_loi_ich_module.md` §5 Mental Models (72→52 lines) — gom chi tiết về skill `marketing-psychology`. (3) Compact GEMINI.md §6 CẤU TRÚC (138→30 lines) — tách full paths sang `docs/structure_reference.md` (lazy). (4) Compact GEMINI.md §10 (~135→60 lines) — gom Phase 3 Tier B thành 1 dòng, tách ví dụ prompt + flow chi tiết sang `docs/gemini_companion.md` (lazy). (5) Tạo `.agent/metrics/skill_usage.md` track tier S/A/B + rule 3-video review. **Tổng tiết kiệm: ~25k token/session, 0 thay đổi pipeline production, 8 Module + Anti-AI + 33 tiêu chí GIỮ NGUYÊN.** Số Skill: 9 nội bộ + 1 cũ + 27 community active + 1 lazy = 38 skills tổng (27 active visible). 2026-07-02 — **v3.2 ĐỒNG BỘ TOÀN HỆ**: hợp nhất 33 tiêu chí toàn hệ (hết lệch 22/23), chuẩn hóa tên file output, chính thức hóa Bước 6f Shorts, vá tham chiếu ma (phan_tich_studio→kham_kenh, outputs/→prompts/ path), đồng bộ bảng lệnh §7, chốt spec ảnh (YT ngang 16:9 / FB dọc 6:16), đóng gói bản Claude Projects (`NKTC_Claude_Project/`). |
 | **Môi trường** | Google Antigravity (Gemini) |
 | **Ngôn ngữ** | Tiếng Việt |
-| **Prompt gốc** | Người Giải Mã V5.1 |
+| **Prompt gốc** | Hộp Đen Tri Thức V5.1 |
 | **Số Module** | 9 Module + Sponsor + Format + Facebook + Viral C.R.A.F.T |
 | **Số Skill** | 9 nội bộ + 1 cũ + **27 community active + 1 lazy = 38 tổng** — xem §10 + `docs/gemini_companion.md` |
 | **Số Agent** | 6 (00-05) — bổ sung **05_Hook_Master** (chuyên trị Hook, v3.3) |
@@ -360,7 +363,7 @@ TẦNG 3 (Trước Sếp — Agent 03):   unslop + professional-proofreader  →
 
 ### 10.5 Ràng buộc khi dùng Community Skills
 
-1. **Output BẮT BUỘC qua persona "Người Giải Mã"** — sau skill xử lý, đi qua `tone_guide.md` + `tu_cam.md`.
+1. **Output BẮT BUỘC qua persona "Hộp Đen Tri Thức"** — sau skill xử lý, đi qua `tone_guide.md` + `tu_cam.md`.
 2. **A/B test mỗi skill mới** — 1 video skill + 1 video cũ → so checklist score + retention.
 3. **Loại bỏ nếu không phát huy** — 3 video không cải thiện → REMOVE (giảm noise semantic match).
 4. **Ghi log vào `.agent/metrics/skill_usage.md`** (v3.1) — mỗi video update bảng tier S/A/B.

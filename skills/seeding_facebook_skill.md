@@ -52,7 +52,7 @@ Mỹ không cấm Trung Quốc bán đồ. Mỹ cấm Trung Quốc MUA — mua c
 
 | Giữ | Cấm |
 |---|---|
-| Giọng "Người Giải Mã" — sắc sảo, ví von | Tục, xúc phạm |
+| Giọng "Hộp Đen Tri Thức" — sắc sảo, ví von | Tục, xúc phạm |
 | Xưng hô "anh em" / "các anh em" | "Bạn", "mình", "các bạn" |
 | Tiểu từ tình thái: nhá, cơ, ấy, đấy | Giọng AI: "đáng chú ý là", "thực tế cho thấy" |
 | Số liệu chính xác + nguồn (nếu có) | BỊA số liệu, sự kiện |
@@ -197,6 +197,6 @@ foreach ($comment in $commentsData.comments) {
 |---|---|
 | `.shared/compliance_shield.md` | 🛡️ Bộ quét từ cấm T1+T2 chuyên dụng (BẮT BUỘC ĐỌC) |
 | `.shared/viet_bai_viral.md` | Nội dung bài viết (source cho mega comments) |
-| `.shared/tone_guide.md` | Giọng "Người Giải Mã" |
+| `.shared/tone_guide.md` | Giọng "Hộp Đen Tri Thức" |
 | `.shared/tu_cam.md` | Từ tục, Clickbait rỗng |
 | `skills/dang_fanpage_skill.md` | Quy trình đăng bài (lấy Post ID) |

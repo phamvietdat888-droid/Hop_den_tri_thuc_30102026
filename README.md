@@ -1,5 +1,5 @@
 # 🧠 GIẢI MÃ 360° — Nhà máy Sản xuất Kịch bản YouTube "Kiến thức Giải trí"
-> **Persona:** "Người Giải Mã" (giải thích cặn kẽ, dễ hiểu, thu hút) · **Fanpage:** Giải Mã 360
+> **Persona:** "Hộp Đen Tri Thức" (giải thích cặn kẽ, dễ hiểu, thu hút) · **Fanpage:** Giải Mã 360
 > **Phiên bản:** v1.0 (2026-07-05) · Nhân bản cấu trúc từ dự án NKTC, thay TOÀN BỘ giọng văn.
 
 ---
@@ -10,7 +10,7 @@ Một hệ **đa tác nhân (5 Agent)** sản xuất kịch bản video YouTube 
 
 | | NKTC (dự án gốc) | GIẢI MÃ 360 (dự án này) |
 |---|---|---|
-| Persona | "Bình Luận Viên Trà Đá" (bố đời, gai góc) | **"Người Giải Mã"** (giải thích cặn kẽ, dễ hiểu, thu hút) |
+| Persona | "Bình Luận Viên Trà Đá" (bố đời, gai góc) | **"Hộp Đen Tri Thức"** (giải thích cặn kẽ, dễ hiểu, thu hút) |
 | Xưng hô | chúng ta / các bác / anh em | **mình / bạn / các bạn** |
 | Chủ đề | Địa chính trị | **Đa chủ đề** (địa chính trị + true-crime + tài chính + khoa học đời sống + giải mã khái niệm + lịch sử) |
 | Vũ khí chính | Mỉa mai, châm biếm, kéo về "nỗi đau túi tiền" | **Ví von đời thường · Bẻ nhỏ đánh số · Đón đầu phản biện · Chi tiết đinh** |
@@ -34,12 +34,14 @@ Nguồn cảm hứng giọng: phân tích 4 transcript edutainment Sếp gửi (
 
 | File | Nội dung |
 |---|---|
-| `tone_guide.md` | Giọng "Người Giải Mã": xưng hô, nhịp câu, tiểu từ, hài duyên |
+| `tone_guide.md` | Giọng "Hộp Đen Tri Thức": xưng hô, nhịp câu, tiểu từ, hài duyên |
 | `hook_formulas.md` | 6 công thức Hook (con số, câu hỏi, "bạn là nhân vật"…) + open loop |
 | `storytelling_arsenal.md` | 6 kỹ thuật: Ví von · Bẻ nhỏ đánh số · **Đón đầu phản biện** · Nhập vai · Chi tiết đinh · Socrates |
 | `to_mo_loi_ich_module.md` | Liên hệ người xem qua Tò mò · Lợi ích · Gương soi (thay module "nỗi đau") |
 | `tu_cam.md` | Từ cấm — giữ phần chống-AI/clickbait, thêm mục **G** cấm đặc thù persona |
 | `few_shot_examples.md` | 8 ví dụ mẫu đa chủ đề |
+| `nhip_giu_chan_va_van_noi.md` | ⭐ **Nâng cấp 07/2026 (đối chuẩn):** KT10–KT14, keo nối dày (2–3 câu/liên từ), chốt cảm xúc cuối khối, quy đổi có thái độ — khi mâu thuẫn file cũ, file này THẮNG (trừ VETO & Compliance) |
+| `chien_luoc_de_tai_tieu_de_tri_nho_kenh.md` | ⭐ **Nâng cấp 07/2026 (đối chuẩn):** đề tài "Hồ sơ giải phẫu", Hook H7, Formula tiêu đề 14, cao trào "định giá lại số phận", Sổ trí nhớ kênh, kết "câu mang về" |
 | `kho_vu_khi/` | Kho tái sử dụng: ví von, hook đã kiểm chứng, điểm liên hệ, kiến thức nền |
 
 ## 4. Cách dùng (giống NKTC)
@@ -53,7 +55,7 @@ Xem bản mẫu nghiệm thu: `outputs/2026-07-05_Bong_De_DEMO/` (kịch bản +
 
 ## 5. Việc cần Sếp lưu ý (bàn giao)
 
-1. **Đổi tên thương hiệu:** "Giải Mã 360" / "Người Giải Mã" / thư mục `GiaiMa360` là tên tạm em đặt — muốn đổi, tìm-thay đồng loạt là xong.
+1. **Đổi tên thương hiệu:** "Giải Mã 360" / "Hộp Đen Tri Thức" / thư mục `GiaiMa360` là tên tạm em đặt — muốn đổi, tìm-thay đồng loạt là xong.
 2. **Cài lại node_modules cho skill tải transcript:** `cd skills/video-transcript-downloader && npm install`. (Còn vài file `.d.ts` cũ bị khóa quyền, vô hại.)
 3. **File kế thừa cần tỉa dần:** `ERRORS.md`, `Learning.md`, `viet_bai_viral.md`, `format_facebook.md` chứa bài học/format chung nhưng còn vài ví dụ mang giọng cũ — dùng tham khảo, sẽ chuẩn hóa dần theo giọng mới.
 4. **Scripts PowerShell** (`.ps1`) chạy trên máy Windows, không chạy trong sandbox Cowork.

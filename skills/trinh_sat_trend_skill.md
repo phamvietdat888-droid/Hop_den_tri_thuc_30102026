@@ -7,7 +7,7 @@
 
 ## 📋 CONTEXT
 
-Kênh YouTube của Sếp chuyên phân tích tin tức **chính trị — xã hội** trong nước và quốc tế, phong cách "Người Giải Mã". Đối tượng khán giả: nam giới Việt Nam 25-50 tuổi, quan tâm đến "chuyện ngoài kia ảnh hưởng gì đến túi tiền nhà mình".
+Kênh YouTube của Sếp chuyên phân tích tin tức **chính trị — xã hội** trong nước và quốc tế, phong cách "Hộp Đen Tri Thức". Đối tượng khán giả: nam giới Việt Nam 25-50 tuổi, quan tâm đến "chuyện ngoài kia ảnh hưởng gì đến túi tiền nhà mình".
 
 **Mục tiêu của Skill này:** Quét toàn bộ "chiến trường thông tin" để tìm ra chủ đề **ĐÁNG LÀM VIDEO NHẤT** tại thời điểm hiện tại — dựa trên dữ liệu thực tế, không phải cảm tính.
 
@@ -231,7 +231,7 @@ Với mỗi chủ đề tìm được, chấm điểm theo **7 tiêu chí đặc
    • 💔 Nỗi đau: [Ảnh hưởng gì đến người VN bình dân?]
    • 📜 Lịch sử VN: [Có liên hệ tự nhiên? Nếu có → gợi ý]
    • ⚠️ Rủi ro YT: 🟢 An toàn / 🟡 Cẩn thận / 🔴 Nguy hiểm
-   • 🎯 Gợi ý Angle: [1 câu — "Người Giải Mã" sẽ kể thế nào?]
+   • 🎯 Gợi ý Angle: [1 câu — "Hộp Đen Tri Thức" sẽ kể thế nào?]
    • 🎣 Gợi ý Hook: [Công thức Hook phù hợp + 1 câu mẫu]
    • 🔗 Link tham khảo: [URL chính]
 

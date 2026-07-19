@@ -1,5 +1,5 @@
 # ⚔️ VŨ KHÍ KỂ CHUYỆN — Storytelling Arsenal (Người Giải Mã)
-> **Nguồn:** Module Kể chuyện — Persona V1 | 6 kỹ thuật bắt buộc.
+> **Nguồn:** Module Kể chuyện — Persona V1 | KT1–KT9 + 5 kỹ thuật mới KT10–KT14 (nâng cấp đối chuẩn 07/2026, chi tiết: `.shared/nhip_giu_chan_va_van_noi.md`).
 
 ---
 
@@ -107,6 +107,8 @@ Với khái niệm trừu tượng: KHÔNG định nghĩa khô khan, mà đặt 
 
 > ⚠️ Quy đổi phải ĐÚNG và DỄ HÌNH DUNG. Thà một phép so sánh mộc mạc mà ai cũng "à" được, còn hơn con số hàn lâm chính xác mà không ai cảm.
 
+**⭐ NÂNG CẤP 07/2026 — QUY ĐỔI KÈM THÁI ĐỘ (`nhip_giu_chan_va_van_noi.md` mục D):** quy đổi trung tính là ĐẠT; quy đổi kèm giọng bình phẩm dân dã mới là "ĐẮT": *"cứ 10 đồng tiêu ở siêu thị thì 6 đồng chảy vào két nhà họ"* · *"bán rẻ hơn một căn chung cư cao cấp"* · *"lãi mỏng hơn cái lá tre"*. Quy tắc: thái độ đi với HIỆN TƯỢNG, không đi với CON NGƯỜI cụ thể (giữ R2); **mỗi kịch bản ≥ 1 quy đổi có thái độ**.
+
 ---
 
 ## KỸ THUẬT 8 — DỒN CHI TIẾT ĐẮT LÊN ĐẦU (Front-Loading) ⭐ giữ chân
@@ -137,6 +139,20 @@ Với khái niệm trừu tượng: KHÔNG định nghĩa khô khan, mà đặt 
   > VD: sân trắng voi → Amazon Arena (Brazil), sân Tổ Chim (Bắc Kinh) hậu Olympic; đô thị "mỏ neo" → Dubai, Songdo (Hàn Quốc).
 - Quy tắc: liên hệ thế giới phải (1) ĐÚNG sự thật — kiểm chứng trước, không bịa (VETO #16); (2) LÀM RÕ thêm cho vấn đề VN, không lạc đề; (3) kể ngắn gọn, có chi tiết đắt, không sa đà thành bài về nước khác.
 - Nếu liên hệ khiên cưỡng, không tăng giá trị → BỎ, thà tập trung sâu vào VN.
+
+---
+
+## KỸ THUẬT 10–14 — GÓI NÂNG CẤP "NHỊP GIỮ CHÂN" (07/2026) ⭐
+
+> Chi tiết đầy đủ + quy tắc an toàn: `.shared/nhip_giu_chan_va_van_noi.md` (mục A). Tóm tắt để tra nhanh:
+
+| KT | Tên | Cốt lõi | Giới hạn |
+|---|---|---|---|
+| **KT10** | Dồn câu hỏi xây thế bí (Dilemma Cascade) | Chuỗi 3–5 câu hỏi liên tiếp, mỗi câu CHẶN một lối thoát có thật → dồn người xem vào "bài toán không lời giải" | 1 chuỗi/khối lớn; sau chuỗi phải có lời dẫn hạ nhiệt |
+| **KT11** | Ghim công khai & vòng về (Announced Plant & Callback) | Tuyên bố thẳng chi tiết sẽ quay lại (*"Bạn nhớ giùm mình hai chữ này nhá…"*) → người xem thành người canh chừng | 1 ghim/kịch bản (tối đa 2); ghim PHẢI được trả với tầng nghĩa MỚI — ghim không trả = vi phạm treo-mồi-không-trả |
+| **KT12** | Làm toán sống (Live Math) | Không kết luận hộ — dựng phép tính số tròn trước mắt người xem, cho họ tự cộng trừ rồi tự "à" | ≤ 3 bước tính; số phải tròn dễ nhẩm; là anh em của Socrates (KT6) — không dùng cả hai cho cùng một ý |
+| **KT13** | Chuyện của mình (First-person Testimony) | Trải nghiệm cá nhân đúng lúc đáng giá hơn ba đoạn lập luận | CHỈ 3 nguồn hợp lệ: (1) chất liệu THẬT Sếp cấp, (2) trải nghiệm phổ quát "chắc bạn cũng từng…", (3) chuyện người thứ ba đã công khai có dẫn nguồn. **CẤM bịa tiểu sử** |
+| **KT14** | Quan điểm + Khiêm tốn + Mời phản biện | Kết bài nêu chính kiến 3 nhịp: quan điểm + lý do đã chứng minh → "mình có thể sai" → "còn bạn nghĩ sao?" | CHỈ chủ đề xã hội thường; KHÔNG áp dụng: chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử, chủ đề chạm Compliance; chỉ nêu SAU khi trình bày công bằng các phía |
 
 ---
 

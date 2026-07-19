@@ -1,6 +1,6 @@
 # 🎬 SKILL TỐI ƯU SEO VIDEO — YouTube Địa Chính Trị
 > **Phiên bản:** 3.1 (v3.1 — Phase 2: Tích hợp community skill `keyword-extractor` ở Bước 0)
-> **Nguồn gốc:** 13 Formula Viral Headline + 7 Chiến lược Tâm lý + YouTube SEO Best Practices 2025.
+> **Nguồn gốc:** 13 Formula Viral Headline + **Formula 14 "Cảm xúc số phận" (bổ sung 07/2026, đối chuẩn — `.shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md` mục C)** + 7 Chiến lược Tâm lý + YouTube SEO Best Practices 2025.
 > **Ai gọi Skill này:** Agent `04_publisher` tại Bước 6 của Pipeline sản xuất.
 > **Triết lý:** Tiêu đề + Mô tả + Từ khóa = Bộ ba thống trị tìm kiếm YouTube. Thiếu 1 trong 3 là mất 30% lượng view tiềm năng.
 
@@ -79,13 +79,13 @@ Biến kịch bản hoàn chỉnh thành **gói SEO toàn diện** cho YouTube:
 ### BƯỚC 2: CHỌN FORMULA + ÁP DỤNG CHIẾN LƯỢC TÂM LÝ → TẠO 20 TIÊU ĐỀ
 
 Dựa trên phân tích ở Bước 1:
-1. Chọn **4-5 Formula phù hợp nhất** từ bảng 13 Formula bên dưới.
+1. Chọn **4-5 Formula phù hợp nhất** từ bảng 14 Formula bên dưới.
 2. Áp dụng **7 Chiến lược Tâm lý "Thôi miên Tiềm thức"** để nhào nặn từng tiêu đề.
 3. Tạo tổng cộng **20 tiêu đề**, mỗi tiêu đề **≤ 55 ký tự** (ưu tiên ngắn gọn, đập thẳng).
 
 ---
 
-## 📚 13 FORMULA VIẾT TIÊU ĐỀ (Adapt cho Địa Chính Trị YouTube)
+## 📚 14 FORMULA VIẾT TIÊU ĐỀ (Adapt cho Địa Chính Trị YouTube)
 
 ### FORMULA 1: SHOCK + PROMISE
 > **Khi nào dùng:** Tin bất ngờ, phát hiện mới, kết quả unexpected.
@@ -285,6 +285,24 @@ Dựa trên phân tích ở Bước 1:
 
 ---
 
+### FORMULA 14: CẢM XÚC SỐ PHẬN (Fate & Twist) ⭐ mới 07/2026
+> **Khi nào dùng:** Đề tài "Hồ sơ giải phẫu" — thực thể quen thuộc với người Việt gặp biến cố lớn. Đạt độ tò mò "số phận" nhưng SẠCH Blacklist — thuật toán an toàn hơn, thương hiệu sang hơn.
+
+**Cấu trúc:**
+```
+[Từ chỉ số phận/nghịch cảnh] + [Thực thể quen] + [GIẤU hoàn toàn nội dung]
+```
+
+**Ví dụ:**
+- *"Hóa ra chuyện [X] lại éo le đến vậy"*
+- *"[X]: cúi đầu xin lỗi cũng không cứu được"*
+- *"Chửi [X] thì dễ, ít ai nhìn ra điều này"*
+
+**Từ số phận HỢP LỆ:** éo le, cay đắng, trớ trêu, oan, nghiệt ngã, không ai tha thứ, muộn màng.
+**⚠️ Từ VẪN CẤM trên tiêu đề (Blacklist F1 `tu_cam.md` giữ nguyên, KHÔNG nới):** sụp đổ, chấn động, kinh hoàng, không ai ngờ, SỐC…
+
+---
+
 ## 📊 BẢNG CHỌN FORMULA NHANH
 
 | Tình huống kịch bản | Formula khuyên dùng |
@@ -298,6 +316,7 @@ Dựa trên phân tích ở Bước 1:
 | Bóc trần chiến lược ngầm | **F1** (Shock) + **F10** (Concept bí ẩn) |
 | List bài học, lý do | **F8** (Số lẻ + Regret) |
 | Case study quốc gia | **F9** (Biến X thành Y) |
+| Hồ sơ giải phẫu — thực thể quen gặp biến cố | **F14** (Cảm xúc số phận) + **F4** (Câu hỏi) |
 
 ---
 
@@ -559,7 +578,7 @@ Khi chạy `/rut_kinh_nghiem` (Bước 7), **BẮT BUỘC** ghi nhận thêm:
 ## 📏 QUY TẮC VẬN HÀNH
 
 1. **Luôn đọc kịch bản trước khi viết tiêu đề.** Không bao giờ viết từ brief.
-2. **20 tiêu đề dùng ÍT NHẤT 4 Formula khác nhau.**
+2. **20 tiêu đề dùng ÍT NHẤT 4 Formula khác nhau.** Với đề tài "Hồ sơ giải phẫu": ≥ 3 tiêu đề dùng F14.
 3. **Mỗi tiêu đề ≤ 55 ký tự.** Phần cốt lõi trong 5 từ đầu.
 4. **KHÔNG dùng emoji trong tiêu đề YouTube.**
 5. **KHÔNG dùng CAPS toàn bộ** — chỉ in hoa 1-2 cụm từ.

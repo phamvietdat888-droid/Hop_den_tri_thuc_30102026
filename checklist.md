@@ -1,5 +1,6 @@
 # ✅ CHECKLIST KIỂM ĐỊNH KỊCH BẢN — 33 Tiêu chí cứng
 > **Điểm tối thiểu:** 85/100 | **Tiêu chí VETO:** #16 (Tục) + #23 (Clickbait YT) + #27 (Clickbait FB) + #29 (Vi phạm TCCĐ) + #30 (Compliance Blacklist)
+> **Nâng cấp 07/2026 (đối chuẩn):** #5 và #12 được nâng chuẩn; thêm 2 tiêu chí phụ **#5b** ("Câu mang về") và **#12g** (ghim công khai) — tiêu chí phụ KHÔNG phải VETO. Nguồn: `.shared/nhip_giu_chan_va_van_noi.md` + `.shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md`.
 
 ---
 
@@ -7,11 +8,12 @@
 
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
-| 1 | Hook ≤ 80 từ, câu đầu ≤ 15 từ, KHÔNG chào hỏi dài dòng, có curiosity gap + (nên có) open loop | ☐ |
+| 1 | Hook lồng ghép Bối cảnh (≤ 100 từ), câu đầu ≤ 15 từ, KHÔNG nhảy bổ vào câu hỏi/nghịch lý khi chưa tóm tắt sự kiện nền. Cầu nối hứa hẹn giá trị rõ ràng (vì sao nên xem). Có curiosity gap + open loop | ☐ |
 | 2 | Tổng kịch bản 1200-1600 từ | ☐ |
 | 3 | Nhịp "hạt hấp dẫn" mỗi 15-20 giây (số liệu/chi tiết lạ/câu đùa/câu hỏi treo) — không đoạn "chết" | ☐ |
 | 4 | CTA cộng đồng chèn tự nhiên sau cao trào (hỏi ý kiến / mời đặt chủ đề) | ☐ |
-| 5 | Kết bài CÂN BẰNG, an toàn + mở câu hỏi cho khán giả (không phán xử một chiều) | ☐ |
+| 5 | Kết bài CÂN BẰNG, an toàn, theo TRÌNH TỰ MỚI (`chien_luoc...` mục G): (1) **Câu mang về** ≤ 25 từ → (2) **bài học vượt case** (nâng lên nguyên lý áp được vào đời người xem) → (3) quan điểm khiêm tốn KT14 *nếu chủ đề cho phép* → (4) câu hỏi mở + CTA. Không phán xử một chiều | ☐ |
+| 5b | *(phụ — không VETO)* Kết có **"Câu mang về"**: *"Nếu cả video chỉ được giữ lại một câu, mình mong bạn giữ câu này: …"* — ≤ 25 từ, nén đúng luận điểm trung tâm | ☐ |
 
 ## B. VŨ KHÍ KỂ CHUYỆN (7 tiêu chí)
 
@@ -23,12 +25,13 @@
 | 9 | Có 3-5 thán từ / cụm cảm xúc rải đều (ngạc nhiên, vỡ lẽ, dẫn dắt) | ☐ |
 | 10 | Có ≥ 2 lần ĐÓN ĐẦU PHẢN BIỆN (nói hộ câu hỏi khán giả rồi trả lời) | ☐ |
 | 11 | Thân bài chia 3-5 KHỐI ĐÁNH SỐ, tăng tiến; có ≥ 1 CHI TIẾT ĐINH gây nhớ | ☐ |
-| 12 | Mỗi luận điểm theo chu trình Câu hỏi → Bẻ nhỏ → Ví dụ → Chốt | ☐ |
+| 12 | Mỗi luận điểm theo chu trình 4 bước: Câu hỏi → Bẻ nhỏ → Ví dụ → **CHỐT CẢM XÚC** (mỗi khối lớn kết bằng 1 câu ≤ 12 từ mang SỨC NẶNG cảm xúc — phủ định cái nhỏ/khẳng định cái lớn hoặc nghịch lý nén, KHÔNG phải câu tóm ý hành chính — `nhip_giu_chan...` mục C) | ☐ |
 | 12b | **MỌI con số khủng đều được QUY ĐỔI đời thường** (KT7) — không để số "trần trụi" trôi qua; ≥ 1 phép so sánh gây "wow" | ☐ |
 | 12c | **Mở mỗi khối bằng NÊU VẤN ĐỀ bất ngờ/nghịch lý TRƯỚC**, giải thích cặn kẽ SAU — không giải thích khi khán giả chưa "ngứa" câu hỏi | ☐ |
 | 12d | **Chi tiết đắt DỒN LÊN NỬA ĐẦU** (KT8) — không để dành hết đồ ngon xuống cuối; vẫn giữ 1 open loop cho cuối | ☐ |
 | 12e | **Đào tới BẢN CHẤT** (KT9) — hỏi "vì sao" tới gốc rễ, không dừng bề mặt; có liên hệ thế giới ĐÚNG & hợp lý (hoặc ghi rõ bỏ qua) | ☐ |
 | 12f | **CTA sau CAO TRÀO** — có ≥ 1 lời kêu gọi like/chia sẻ/đăng ký chèn khéo ngay sau chi tiết ấn tượng (không van nài, không rải lung tung) | ☐ |
+| 12g | *(phụ — không VETO)* **≥ 1 ghim công khai (KT11) có vòng về** — chi tiết được tuyên bố sẽ quay lại PHẢI quay lại ở Lớp sâu/Cao trào với tầng nghĩa mới — HOẶC ghi rõ bỏ qua | ☐ |
 
 ## C. CHIỀU SÂU & LIÊN HỆ (3 tiêu chí)
 
@@ -46,7 +49,7 @@
 | 17 | Không có cụm từ nào trong danh sách CẤM (`.shared/tu_cam.md`) — gồm cả mục G (persona-ban) | ☐ |
 | 18 | Xưng "mình" / gọi "bạn"; tiểu từ tình thái nhẹ nhàng ≥ 1 mỗi 3-4 câu (nhé/nha/đúng không…) | ☐ |
 | 19 | Nhịp câu xen kẽ, không 3 câu dài liên tiếp, không câu nào > 22 từ | ☐ |
-| 19b | **Mạch LIỀN, không rời rạc** — câu/đoạn nối nhau bằng liên từ–thán từ "chất keo" (móc xích giữa các khối); không đoạn nào "khởi động lạnh" | ☐ |
+| 19b | **Mạch LIỀN, không rời rạc** — câu/đoạn nối nhau bằng liên từ–thán từ "chất keo" theo chuẩn MỚI: **mỗi 2–3 câu ≥ 1 liên từ văn nói**, không lặp một cụm quá 2 lần (móc xích giữa các khối); không đoạn nào "khởi động lạnh" | ☐ |
 | 19c | **KHÔNG chữ hàn lâm/kinh viện** (chủ thể, cơ chế, hạ tầng, tối ưu…) — đã thay bằng văn nói bình dân; ví von SÁT, mỗi chi tiết khớp thực tế (test "mẹ mình có hiểu không") | ☐ |
 | 20 | KHÔNG dạy đời/mỉa mai cay nghiệt; chủ đề tranh cãi có câu "phòng thủ" công tâm | ☐ |
 
@@ -87,7 +90,7 @@
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
 | 24 | Bài FB 500-800 từ, mỗi đoạn ≤ 4 dòng, giãn dòng cho mobile | ☐ |
-| 25 | Giữ giọng "Người Giải Mã" + tuân thủ `tu_cam.md` + xưng hô "mình / bạn / các bạn" | ☐ |
+| 25 | Giữ giọng "Hộp Đen Tri Thức" + tuân thủ `tu_cam.md` + xưng hô "mình / bạn / các bạn" | ☐ |
 | 26 | Có CTA cuối bài + hashtag `#giaima360` + ≥ 3 hashtag chủ đề + ảnh thumbnail | ☐ |
 | 27 | **KHÔNG clickbait rỗng (E11)** trong caption/tiêu đề FB — tuân thủ Blacklist F1 + Quy tắc F2 (`tu_cam.md`) | ☐ |
 | 28 | **KHÔNG rác text (E13)** — Bài nháp FB trên `.md` phải trần trụi, KHÔNG chứa metadata hay blockquote | ☐ |

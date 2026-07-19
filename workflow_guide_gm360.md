@@ -23,8 +23,8 @@
 |---|---|---|
 | `/tac_chien [chủ đề]` | Khởi động toàn bộ Pipeline Tác chiến từ Bước 1 đến cuối | 00 (Tổng Biên) |
 | `/angle [chủ đề]` | Đề xuất 5 góc nhìn (Angle) gai góc, ngược dòng cực gắt | 01 (Thám Tử) |
-| `/dan_y` | Tạo dàn ý Tam Giác Ngược (Hook -> Thân -> Chốt) | 02 (Người Giải Mã) |
-| `/viet` | Viết kịch bản nháp chuẩn 8 Module (1200-1600 từ) | 02 (Người Giải Mã) |
+| `/dan_y` | Tạo dàn ý Tam Giác Ngược (Hook -> Thân -> Chốt) | 02 (Hộp Đen Tri Thức) |
+| `/viet` | Viết kịch bản nháp chuẩn 8 Module (1200-1600 từ) | 02 (Hộp Đen Tri Thức) |
 | `/kiem_dinh` | Chạy máy quét 33 tiêu chí (23 YT, 6 FB, 4 Compliance) | 03 (Mắt Thần) |
 
 ### 🚀 Phân phối Đa nền tảng (Bước 6)
@@ -63,7 +63,7 @@
 ## ⚠️ NGUYÊN TẮC VẬN HÀNH "BẤT DI BẤT DỊCH"
 
 1. **Tuyệt đối KHÔNG bịa đặt:** Sắc sảo nhưng phải chuẩn xác. Thiếu số liệu thì BẮT BUỘC hỏi Sếp hoặc gắn tag `[CẦN XÁC MINH]`.
-2. **DNA "Người Giải Mã":** Phân tích địa chính trị hàn lâm thành chuyện vỉa hè, gai góc, ngầm hiểu. Tôn trọng người nghe. **Văn minh, tuyệt đối KHÔNG TỤC.**
+2. **DNA "Hộp Đen Tri Thức":** Phân tích địa chính trị hàn lâm thành chuyện vỉa hè, gai góc, ngầm hiểu. Tôn trọng người nghe. **Văn minh, tuyệt đối KHÔNG TỤC.**
 3. **Tuân thủ 8 Module cốt lõi:** Bắt buộc phải có "Cú Đấm 15s" (M1), Đánh Nỗi Đau (M7) và Liên Hệ Lịch Sử VN (M8).
 4. **Gate Check Nghiêm Ngặt:** Các Agent KHÔNG ĐƯỢC TỰ Ý NHẢY BƯỚC nếu Sếp chưa gật đầu. Trừ khi Sếp bật mode "Unattended Execution".
 5. **Cấm Tự Biên Tự Diễn Link:** Không bao giờ chèn link ảo, file ảo nếu file đó chưa được lưu vật lý vào hệ thống.

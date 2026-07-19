@@ -25,6 +25,13 @@ steps:
     input: Đọc file `Đối_thủ/bao_cao_tinh_bao.md`
     output: Biết được đối thủ đã làm trend này chưa, góc nhìn của họ là gì
     note: Đảm bảo không đụng hàng hoặc chọn góc nhìn ngược lại hoàn toàn so với đối thủ.
+
+  - step: 2b
+    agent: 01_researcher
+    action: Quét Sổ trí nhớ kênh (news-jacking & vòng về video cũ)
+    input: Đọc file `.shared/kho_vu_khi/so_tri_nho_kenh.md`
+    output: Video cũ nào liên quan tin nóng → đề xuất mở bài kiểu "phần tiếp theo" + gắn link video cũ ở mô tả & comment ghim
+    note: Chỉ vòng về khi liên quan THẬT; không tự khen "mình đã đoán đúng" quá 1 câu. Chi tiết `.shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md` mục E.
     
   - step: 3
     agent: 01_researcher  
@@ -32,7 +39,7 @@ steps:
     input: Danh sách tin tức thô
     output: Top 5 chủ đề được chấm điểm cao nhất
     skill: skills/trinh_sat_trend_skill.md
-    criteria: "Sử dụng 7 tiêu chí đánh giá Trend"
+    criteria: "7 tiêu chí đánh giá Trend + checklist đề tài 'Hồ sơ giải phẫu' (5 câu hỏi, đạt >= 4/5 mới đề xuất — .shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md mục A)"
     
   - step: 4
     agent: 00_coordinator

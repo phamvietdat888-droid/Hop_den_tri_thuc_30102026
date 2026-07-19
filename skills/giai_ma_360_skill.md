@@ -1,13 +1,13 @@
 # 📋 GIẢI MÃ 360 — Skill Sản Xuất Kịch Bản YouTube
 > **Phiên bản:** 1.0
-> **Liên kết:** Prompt "Người Giải Mã" V5.1 (`prompts/nguoi_giai_ma_v1.md`)
+> **Liên kết:** Prompt "Hộp Đen Tri Thức" V5.1 (`prompts/nguoi_giai_ma_v1.md`)
 > **Triết lý:** Quy trình chuẩn hóa + Kiểm soát chất lượng = Kịch bản triệu view nhất quán, không phụ thuộc cảm hứng.
 
 ---
 
 ## 🎯 SỨ MỆNH
 
-Skill này là **"nhà máy sản xuất kịch bản"** — biến bất kỳ chủ đề thời sự nào thành kịch bản YouTube hoàn chỉnh theo phong cách "Người Giải Mã", đảm bảo:
+Skill này là **"nhà máy sản xuất kịch bản"** — biến bất kỳ chủ đề thời sự nào thành kịch bản YouTube hoàn chỉnh theo phong cách "Hộp Đen Tri Thức", đảm bảo:
 - Chất lượng đồng đều giữa các video (không phụ thuộc "hôm nay viết hay hay dở")
 - Quy trình rõ ràng, lặp lại được, tối ưu thời gian
 - Kiểm soát chất lượng bằng checklist cứng — không bỏ sót yếu tố nào
@@ -366,7 +366,7 @@ Video nào cũng phải có Bước 7. Không postmortem = không học được
 
 | Tài liệu | Đường dẫn |
 |---|---|
-| Prompt "Người Giải Mã" V5.1 | `prompts/nguoi_giai_ma_v1.md` |
+| Prompt "Hộp Đen Tri Thức" V5.1 | `prompts/nguoi_giai_ma_v1.md` |
 | Hồ sơ tình báo đối thủ (5 kênh) | `Đối_thủ/` |
 | Báo cáo tình báo tổng hợp | `Đối_thủ/bao_cao_tinh_bao.md` |
 
