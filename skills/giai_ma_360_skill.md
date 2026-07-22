@@ -254,7 +254,7 @@ Chạy **`checklist.md` (33 tiêu chí, 8 nhóm A-H)** — nguồn chấm điể
 **Hành động:**
 1. **(6a) Kịch bản Audio Clean:** Áp dụng chỉnh sửa từ Bước 5. Chuyển bảng 2 cột thành format Audio Clean (chỉ Lời bình) với thẻ màu (`<red>`, `<green>`, `<blue>`, `<orange>`, `<underline>` — CẤM emoji màu). Lưu `06_kich_ban_hoan_thien.md`. Xuất `.docx` bằng `scripts/md_to_docx_v2.py` (Times New Roman 14pt, A4, lề 2cm, Justify, giãn 1.25 — chi tiết `.shared/format_output.md`). TUYỆT ĐỐI KHÔNG tạo file trắng/plain text.
 2. **(6b) Gói SEO:** Gọi `skills/viet_tieu_de_skill.md` → 20 tiêu đề (≤ 55 ký tự) + Mô tả 250 từ + 20 từ khóa. Lưu `06b_goi_seo.md` + `.docx`. Đề xuất A/B Test → **CHỜ SẾP CHỌN TIÊU ĐỀ** (duyệt tổng thể cuối).
-3. **(6c) Thumbnail YouTube:** Ảnh ngang 16:9 (1280×720, PNG) → `YouTube/thumbnail.png`. Nguyên tắc **"Big Screen Safe"**: chữ TO, tương phản cực cao, cách lề ≥ 10%. Lỗi tạo ảnh → xuất `06c_image_prompt.md` + báo Sếp.
+3. **(6c) Hình ảnh:** Tạo prompt ảnh minh hoạ (tỷ lệ 16:9 cho YouTube, 6:16 cho Facebook, 9:16 cho Shorts) và lưu BẮT BUỘC dưới dạng `06c_image_prompt.md` (KHÔNG cần convert sang `.docx`). Tạo thumbnail cho YouTube (16:9). Nguyên tắc **"Big Screen Safe"**: chữ TO, tương phản cực cao, cách lề ≥ 10%. Lỗi tạo ảnh → xuất `06c_image_prompt.md` + báo Sếp.
 4. **(6d) Bài Facebook:** Gọi `skills/dang_fanpage_skill.md` — C.R.A.F.T 500-800 từ + ảnh dọc 6:16 → `Facebook/06d_bai_dang_fb.md` + `.docx`.
 5. **(6e) Seeding:** Gọi `skills/seeding_facebook_skill.md` → 3-7 Mega Comments + 2 CTA → `Facebook/06e_mega_comments.json`.
 6. **(6f) YouTube Shorts:** Gọi `skills/youtube_short_skill.md` (lệnh `/tao_short`) — 2-3 Shorts ≤ 50s, Hook viết LẠI + 5 tiêu đề + 10 prompt ảnh 9:16 + DOCX → `YouTube_Shorts/short_01/`...

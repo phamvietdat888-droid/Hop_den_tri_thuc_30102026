@@ -366,6 +366,8 @@ Sử dụng script `md_to_docx_v2.py` trong thư mục `scripts/` để chuyển
 1. `kich_ban_short.md` → `kich_ban_short.docx`
 2. `tieu_de_seo.md` → `tieu_de_seo.docx`
 
+**LƯU Ý:** Riêng file `prompt_anh.md` BẮT BUỘC giữ nguyên định dạng `.md`, tuyệt đối KHÔNG chuyển sang `.docx`.
+
 **Quy chuẩn DOCX:** Times New Roman 14pt, chuẩn màu HTML tags (<red>, <green>, <blue>, <orange>).
 
 ---

@@ -6,11 +6,21 @@ Quy chuẩn: .shared/format_output.md (mục QUY CHUẨN FILE WORD)
 Sử dụng: python md_to_docx_v2.py <input.md> <output.docx>
 """
 
+import html
+import os
 import re
 import sys
-import docx
-from docx.shared import Pt, RGBColor, Cm, Emu
-from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+try:
+    import docx
+    from docx.shared import Pt, RGBColor, Cm, Emu
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    HAS_DOCX = True
+except ImportError:
+    HAS_DOCX = False
+    class RGBColor:
+        def __init__(self, r, g, b):
+            self.rgb = (r, g, b)
 
 # === MÀU SẮC CHUẨN (từ file mẫu) ===
 COLOR_MAP = {
@@ -32,8 +42,6 @@ def parse_inline(text):
     """
     segments = []
     
-    # Regex tìm tất cả thẻ inline
-    # Thứ tự: color tags > underline > bold > italic
     pattern = re.compile(
         r'<(red|green|blue|orange|underline)>(.*?)</\1>'
         r'|\*\*(.+?)\*\*'
@@ -48,7 +56,6 @@ def parse_inline(text):
             tag = m.group(1)
             inner = m.group(2)
             if tag == 'underline':
-                # Parse nội dung bên trong cho bold/italic
                 for sub in _parse_bold_italic(inner):
                     sub['underline'] = True
                     segments.append(sub)
@@ -108,7 +115,6 @@ def add_runs_to_paragraph(para, segments, default_color=COLOR_BLACK):
     """Add formatted runs to a paragraph from parsed segments."""
     for seg in segments:
         run = para.add_run(seg['text'])
-        # Color: segment override > default
         color = seg.get('color') or default_color
         run.font.color.rgb = color
         if seg.get('bold'):
@@ -119,11 +125,10 @@ def add_runs_to_paragraph(para, segments, default_color=COLOR_BLACK):
             run.underline = True
 
 
-def convert_md_to_docx(md_path, docx_path):
-    """Main conversion function."""
+def convert_md_to_docx_python_docx(md_path, docx_path):
+    """Conversion function using python-docx library."""
     doc = docx.Document()
     
-    # === DOCUMENT SETUP (từ file mẫu) ===
     style = doc.styles['Normal']
     style.font.name = 'Times New Roman'
     style.font.size = Pt(14)
@@ -134,7 +139,6 @@ def convert_md_to_docx(md_path, docx_path):
         section.left_margin = Emu(720090)
         section.right_margin = Emu(720090)
     
-    # === ĐỌC FILE MD ===
     with open(md_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
@@ -142,12 +146,10 @@ def convert_md_to_docx(md_path, docx_path):
     while i < len(lines):
         line = lines[i].rstrip('\n')
         
-        # Skip dòng trống
         if not line.strip():
             i += 1
             continue
         
-        # === DIVIDER: --- ===
         if line.strip() == '---':
             p = doc.add_paragraph()
             p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -156,47 +158,163 @@ def convert_md_to_docx(md_path, docx_path):
             i += 1
             continue
         
-        # === HEADING ## ===
         if line.startswith('## '):
             heading_text = line[3:].strip()
             p = doc.add_paragraph()
-            run = p.add_run(heading_text)
-            # Section heading: text thường, không style Heading
+            p.add_run(heading_text)
             i += 1
             continue
         
-        # === TIÊU ĐỀ # (A/B) ===
         if line.startswith('# '):
             title_text = line[2:].strip()
             p = doc.add_paragraph()
-            run = p.add_run(title_text)
+            p.add_run(title_text)
             i += 1
             continue
         
-        # === BLOCKQUOTE > ===
         if line.startswith('> '):
             bq_text = line[2:].strip()
-            # Strip markdown bold/italic markers for clean display
             p = doc.add_paragraph()
             segments = parse_inline(bq_text)
             add_runs_to_paragraph(p, segments)
             i += 1
             continue
         
-        # === PARAGRAPHS THƯỜNG ===
         p = doc.add_paragraph()
         segments = parse_inline(line)
         add_runs_to_paragraph(p, segments)
         
         i += 1
     
-    # === LƯU ===
     doc.save(docx_path)
     print(f'[OK] Saved: {docx_path}')
 
 
+def convert_md_to_docx_fallback(md_path, docx_path):
+    """Pure Python docx converter fallback using zipfile + XML."""
+    import zipfile
+    import glob
+
+    with open(md_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    p_xmls = []
+
+    for line in lines:
+        line = line.rstrip('\n')
+        if not line.strip():
+            continue
+
+        if line.strip() == '---':
+            p_xml = f'<w:p><w:pPr><w:jc w:val="center"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/><w:sz w:val="28"/><w:szCs w:val="28"/><w:color w:val="C8C8C8"/></w:rPr><w:t xml:space="preserve">{html.escape(DIVIDER_CHAR)}</w:t></w:r></w:p>'
+            p_xmls.append(p_xml)
+            continue
+
+        if line.startswith('## '):
+            line = line[3:].strip()
+        elif line.startswith('# '):
+            line = line[2:].strip()
+        elif line.startswith('> '):
+            line = line[2:].strip()
+
+        segments = parse_inline(line)
+        runs_xml = []
+        for seg in segments:
+            text = html.escape(seg['text'])
+            color = seg.get('color')
+            if color:
+                if hasattr(color, 'rgb'):
+                    hex_color = f"{color.rgb[0]:02X}{color.rgb[1]:02X}{color.rgb[2]:02X}"
+                elif isinstance(color, tuple):
+                    hex_color = f"{color[0]:02X}{color[1]:02X}{color[2]:02X}"
+                else:
+                    hex_color = str(color)
+            else:
+                hex_color = "000000"
+
+            b_xml = "<w:b/>" if seg.get('bold') else ""
+            i_xml = "<w:i/>" if seg.get('italic') else ""
+            u_xml = '<w:u w:val="single"/>' if seg.get('underline') else ""
+
+            run_xml = f'<w:r><w:rPr><w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/><w:sz w:val="28"/><w:szCs w:val="28"/><w:color w:val="{hex_color}"/>{b_xml}{i_xml}{u_xml}</w:rPr><w:t xml:space="preserve">{text}</w:t></w:r>'
+            runs_xml.append(run_xml)
+
+        p_xmls.append(f"<w:p>{''.join(runs_xml)}</w:p>")
+
+    doc_body = "".join(p_xmls)
+
+    document_xml = f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+            xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+  <w:body>
+    {doc_body}
+    <w:sectPr>
+      <w:pgMar w:top="720" w:right="720" w:bottom="720" w:left="720"/>
+    </w:sectPr>
+  </w:body>
+</w:document>'''
+
+    template_docx_path = None
+    target_abs = os.path.abspath(docx_path)
+    existing_docxs = [d for d in glob.glob('outputs/**/*.docx', recursive=True) if os.path.abspath(d) != target_abs]
+    if existing_docxs:
+        template_docx_path = existing_docxs[0]
+
+    out_dir = os.path.dirname(docx_path)
+    if out_dir and not os.path.exists(out_dir):
+        os.makedirs(out_dir, exist_ok=True)
+
+    if template_docx_path and os.path.exists(template_docx_path):
+        with zipfile.ZipFile(template_docx_path, 'r') as zin:
+            with zipfile.ZipFile(docx_path, 'w', zipfile.ZIP_DEFLATED) as zout:
+                for item in zin.infolist():
+                    if item.filename == 'word/document.xml':
+                        zout.writestr(item.filename, document_xml.encode('utf-8'))
+                    else:
+                        zout.writestr(item.filename, zin.read(item.filename))
+    else:
+        content_types_xml = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">
+  <Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>
+  <Default Extension="xml" ContentType="application/xml"/>
+  <Override PartName="/word/document.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"/>
+</Types>'''
+        rels_xml = '''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+</Relationships>'''
+        with zipfile.ZipFile(docx_path, 'w', zipfile.ZIP_DEFLATED) as zout:
+            zout.writestr('[Content_Types].xml', content_types_xml.encode('utf-8'))
+            zout.writestr('_rels/.rels', rels_xml.encode('utf-8'))
+            zout.writestr('word/document.xml', document_xml.encode('utf-8'))
+
+    print(f'[OK] Saved (Fallback): {docx_path}')
+
+
+def convert_md_to_docx(md_path, docx_path):
+    """Main conversion entry point."""
+    if HAS_DOCX:
+        convert_md_to_docx_python_docx(md_path, docx_path)
+    else:
+        convert_md_to_docx_fallback(md_path, docx_path)
+
+
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print('Usage: python md_to_docx_v2.py <input.md> <output.docx>')
+    if len(sys.argv) < 2:
+        print('Usage: python md_to_docx_v2.py <input.md> [output.docx]')
         sys.exit(1)
-    convert_md_to_docx(sys.argv[1], sys.argv[2])
+    
+    in_file = sys.argv[1]
+    if len(sys.argv) >= 3:
+        out_file = sys.argv[2]
+    else:
+        out_file = os.path.splitext(in_file)[0] + '.docx'
+        
+    convert_md_to_docx(in_file, out_file)
+

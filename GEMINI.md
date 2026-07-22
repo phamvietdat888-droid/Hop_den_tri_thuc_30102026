@@ -259,9 +259,10 @@ GiaiMa360/
 
 ### 8.1b Quy tắc ĐỊNH DẠNG FILE GIAO SẾP ⭐ (v3.3 — BẮT BUỘC)
 
-- **File giao cho Sếp ở MỌI công đoạn (cả đề xuất, nháp kịch bản và bản hoàn thiện) = `.docx`.** KHÔNG xuất `.md` ra thư mục `outputs/` hoặc trình bày link `.md` cho Sếp trừ khi Sếp yêu cầu rõ.
+- **File giao cho Sếp ở MỌI công đoạn (cả đề xuất, nháp kịch bản và bản hoàn thiện) = `.docx`.** KHÔNG xuất `.md` ra thư mục `outputs/` hoặc trình bày link `.md` cho Sếp trừ khi Sếp yêu cầu rõ. (NGOẠI TRỪ: File prompt tạo ảnh minh họa).
 - File `.md` chỉ dùng làm **bản nháp kỹ thuật nội bộ** trong `scratch/` hoặc `drafts/` (Sếp không thấy trong chat) → sau đó convert sang `.docx` bằng `scripts/md_to_docx_v2.py` → CHỈ file `.docx` được đặt vào `outputs/` và gửi link cho Sếp.
-- Áp dụng cho: brief, đề xuất angle, dàn ý, kịch bản nháp, gói SEO, bài FB, kịch bản Shorts. Khi trình bày trong đoạn chat, chỉ dẫn link trực tiếp tới các file `.docx`.
+- Áp dụng cho: brief, đề xuất angle, dàn ý, kịch bản nháp, gói SEO, bài FB, kịch bản Shorts. Khi trình bày trong đoạn chat, chỉ dẫn link trực tiếp tới các file `.docx`. 
+- **NGOẠI LỆ BẮT BUỘC:** Yêu cầu bắt buộc đầu ra phải có các file prompt tạo ảnh minh họa (cho YouTube, Facebook, Shorts) dưới dạng `.md`, **KHÔNG CẦN** convert sang `.docx`. Trình bày link `.md` trực tiếp cho Sếp.
 
 
 ### 8.2 Quy tắc SafeToAutoRun cho lệnh hệ thống
