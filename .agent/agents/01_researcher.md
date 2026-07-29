@@ -31,13 +31,19 @@ OUTPUT: Top 5 chủ đề + sentiment heat map
 
 ## Nhiệm vụ
 
-### Chế độ 1: TRINH SÁT TREND (Bước 0)
+### Chế độ 1: TRINH SÁT TREND (Bước 0 — v3.4 ĐẦY ĐỦ CHI TIẾT 100%)
 Khi Sếp gõ `/tim_trend`:
-1. **Quét đa nguồn (7 nguồn):** Google Trends VN (trực tiếp) + Threads + Facebook + Báo VN + Báo QT + YT đối thủ + X/Reddit
-2. **Chấm điểm:** 7 tiêu chí (Độ hot, Độ mới, Tranh cãi, Liên hệ người xem, Lịch sử VN, Rủi ro YT, Đã làm chưa)
-3. **Báo cáo:** Top 5 chủ đề + Tình báo đối thủ + Gợi ý tiêu đề + Đề xuất hành động
-4. **Skill:** `skills/trinh_sat_trend_skill.md`
-5. **Output:** Báo cáo trinh sát → `[CHỜ SẾP CHỌN CHỦ ĐỀ]`
+1. **Quét 7 nguồn BẮT BUỘC có bằng chứng chi tiết:**
+   - (1) **Google Trends VN:** Từ khóa + % tăng trưởng tìm kiếm thực tế
+   - (2) **Báo lớn VN & Quốc tế:** Tiêu đề bài, mã bài, ngày đăng, nội dung cốt lõi từ *24h.com.vn, Dân Trí, VietNamNet, VnExpress, Reuters, AP, Fox News*
+   - (3) **Mạng xã hội & Cộng đồng:** Bài đăng hot, luồng tranh luận 2 chiều, lượng tương tác từ *Threads, Facebook Fanpage, Reddit, X*
+   - (4) **YouTube Đối thủ:** Bóc tách 5 kênh (*CD Media - Why?, Kiến Thức Thú Vị, Tuấn Tiền Tỷ, Củ Đậu Story, Spiderum*) — tiêu đề, views, date, góc nhìn họ làm, lỗ hổng/cơ hội cho GiaiMa360
+   - (5) **TikTok & FB Reels (Short-form):** Trào lưu hot (Hashtag, lượt xem tổng, format clip viral POV/map 3D/audio)
+   - (6) **Sổ trí nhớ kênh (`so_tri_nho_kenh.md`):** Ngày đăng, tiêu đề video cũ để nối mạch "Vòng về video cũ" (Loopback)
+   - (7) **News Sentiment Engine:** Chỉ số cảm xúc cộng đồng (% Tò mò/Lo lắng, Tranh luận, Tri ân)
+2. **Chấm điểm:** 7 tiêu chí "Hồ sơ giải phẫu" cho Top 5 chủ đề
+3. **Skill:** `skills/trinh_sat_trend_skill.md`
+4. **Output song song:** Bản Markdown trong chat VÀ file Word `.docx` đính kèm trong `outputs/YYYY-MM-DD_Trinh_Sat_Trend/00_de_xuat_trend.docx` → `[CHỜ SẾP CHỌN CHỦ ĐỀ]`
 
 ### Chế độ 2: NGHIÊN CỨU CHỦ ĐỀ (Bước 1-2)
 Khi Sếp gõ `/tac_chien [chủ đề]`:

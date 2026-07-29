@@ -1,4 +1,4 @@
-"""
+﻿"""
 md_to_docx_v2.py — Chuyển đổi kịch bản Markdown (Audio Clean) → Word (.docx)
 Chuẩn định dạng: Tham chiếu từ 2026-04-22_Trump_5_Thang_Lich_Su/YouTube/06_kich_ban_hoan_thien.docx
 Quy chuẩn: .shared/format_output.md (mục QUY CHUẨN FILE WORD)
@@ -139,6 +139,10 @@ def convert_md_to_docx_python_docx(md_path, docx_path):
         section.left_margin = Emu(720090)
         section.right_margin = Emu(720090)
     
+    out_dir = os.path.dirname(os.path.abspath(docx_path))
+    if out_dir and not os.path.exists(out_dir):
+        os.makedirs(out_dir, exist_ok=True)
+
     with open(md_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
@@ -194,6 +198,10 @@ def convert_md_to_docx_fallback(md_path, docx_path):
     """Pure Python docx converter fallback using zipfile + XML."""
     import zipfile
     import glob
+
+    out_dir = os.path.dirname(os.path.abspath(docx_path))
+    if out_dir and not os.path.exists(out_dir):
+        os.makedirs(out_dir, exist_ok=True)
 
     with open(md_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -262,7 +270,9 @@ def convert_md_to_docx_fallback(md_path, docx_path):
 
     template_docx_path = None
     target_abs = os.path.abspath(docx_path)
-    existing_docxs = [d for d in glob.glob('outputs/**/*.docx', recursive=True) if os.path.abspath(d) != target_abs]
+    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+    template_glob = os.path.join(project_root, 'outputs', '**', '*.docx')
+    existing_docxs = [d for d in glob.glob(template_glob, recursive=True) if os.path.abspath(d) != target_abs]
     if existing_docxs:
         template_docx_path = existing_docxs[0]
 
@@ -299,6 +309,12 @@ def convert_md_to_docx_fallback(md_path, docx_path):
 
 def convert_md_to_docx(md_path, docx_path):
     """Main conversion entry point."""
+    md_path = os.path.abspath(md_path)
+    docx_path = os.path.abspath(docx_path)
+
+    if not os.path.exists(md_path):
+        raise FileNotFoundError(f'Input markdown not found: {md_path}')
+
     if HAS_DOCX:
         convert_md_to_docx_python_docx(md_path, docx_path)
     else:
@@ -317,4 +333,5 @@ if __name__ == '__main__':
         out_file = os.path.splitext(in_file)[0] + '.docx'
         
     convert_md_to_docx(in_file, out_file)
+
 

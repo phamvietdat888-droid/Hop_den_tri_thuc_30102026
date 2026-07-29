@@ -46,9 +46,12 @@ OUTPUT: thumbnail.png (16:9 YT) + geopolitical_art.png (FB)
 - Xuất `06_kich_ban_hoan_thien.md` **ĐÚNG FORMAT AUDIO CLEAN** (xem `.shared/format_output.md` mục QUY CHUẨN)
   - ⚠️ **BẮT BUỘC:** Dùng thẻ HTML `<red>`, `<green>`, `<blue>`, `<orange>`, `<underline>` — **CẤM DÙNG EMOJI** 🔴🟢🔵🟠
   - ⚠️ **BẮT BUỘC:** Có Tiêu đề A/B ở đầu file, chú giải giọng điệu, heading `## TÊN CHƯƠNG` thuần text
+  - ⚠️ **BẮT BUỘC ĐÍNH KÈM 10 SHORTS Ở CUỐI:** Phía cuối file `06_kich_ban_hoan_thien.md` BẮT BUỘC phải đính kèm **10 đoạn kịch bản YouTube Shorts** (~120 từ/đoạn). Mỗi đoạn BẮT BUỘC có **Tiêu đề Shorts Viral (High-CTR)** + cài cắm **BỐI CẢNH độc lập** ở 1-2 câu đầu + kết thúc bằng lời chốt kèm CTA cố định: *"Bấm vào Video ngay bên dưới để hiểu rõ hơn về vấn đề này."*
+
   - ⚠️ **File mẫu chuẩn:** `outputs/2026-04-22_Trump_5_Thang_Lich_Su/YouTube/06_kich_ban_hoan_thien.md`
-- Gọi `scripts/md_to_docx_v2.py` để sinh `06_kich_ban_hoan_thien.docx` (Times New Roman 14pt, margins 2cm, colors chuẩn)
+- Gọi `scripts/md_to_docx_v2.py` để sinh `06_kich_ban_hoan_thien.docx` (Times New Roman 14pt, margins 2cm, colors chuẩn) bao gồm cả 10 đoạn Shorts ở cuối.
 - Lưu vào thư mục `outputs/[YYYY-MM-DD]_[Topic]/YouTube/`
+
 
 ### Bước 6b: Trinh sát SEO Toàn diện (GỌI Skill)
 1. Gọi `skills/viet_tieu_de_skill.md`

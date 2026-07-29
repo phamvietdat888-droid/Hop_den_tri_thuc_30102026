@@ -180,6 +180,23 @@ Mỗi file Word kịch bản PHẢI có hệ thống màu dưới đây để Bi
 [Nội dung kết bài]
 ```
 
+### E. Quy tắc đính kèm 10 đoạn YouTube Shorts (~120 từ/đoạn) ở cuối kịch bản dài (BẮT BUỘC):
+> **Lệnh từ Sếp (29/07/2026):** Mọi kịch bản hoàn thiện YouTube (`06_kich_ban_hoan_thien.md` và `.docx`) ngoài nội dung kịch bản dài 1200-1600 từ, **BẮT BUỘC PHẢI ĐÍNH KÈM 10 ĐOẠN YOUTUBE SHORTS** ở ngay phía cuối file.
+> 
+> **Quy chuẩn 10 đoạn Shorts:**
+> 1. **Số lượng:** Đúng 10 đoạn Shorts đại diện cho 10 góc nhìn/điểm chạm lôi cuốn nhất của kịch bản dài.
+> 2. **Độ dài:** Mỗi đoạn ngắn dài chuẩn ~120 từ (~45-50 giây đọc).
+> 3. **Phong cách:** Siêu thu hút, ngôn từ cực kỳ dễ gần, dễ hiểu, mạch lạc, lôi cuốn, thông minh và sâu sắc.
+> 4. **Tính độc lập bối cảnh (BẮT BUỘC):** Mỗi đoạn Shorts là 1 video độc lập trên feed ngẫu nhiên. BẮT BUỘC phải cài cắm **rõ nét bối cảnh/chủ đề cốt lõi** (ví dụ: *căn bệnh cán bộ sợ sai, né tránh trách nhiệm*) ngay trong 1-2 câu đầu tiên, để khán giả xem riêng lẻ đoạn nào cũng hiểu 100% bối cảnh đang nói về vấn đề gì.
+> 5. **Tiêu đề Shorts Viral (High-CTR BẮT BUỘC):** Mỗi đoạn Shorts BẮT BUỘC phải đi kèm 1 **Tiêu đề Shorts Viral** cực kỳ thu hút, giật gân (dùng emoji 🔥😱🚘⚡🌾💥, từ khóa sốc/tò mò, ≤ 45 ký tự) đặt ở ngay dòng đầu tiên của đoạn Shorts đó.
+> 6. **Cấu trúc chuẩn của mỗi đoạn Shorts ở cuối kịch bản dài:**
+>    - `* **🔥 Tiêu đề Shorts Viral:** [Tiêu đề giật gân, tò mò]`
+>    - `* **⏱️ Thời lượng dự kiến:** ~45 - 50 giây (Độ dài: ~120 từ)`
+>    - `**Nội dung kịch bản:** [~120 từ: 1-2 câu đầu có BỐI CẢNH -> Thân bài -> Chốt]`
+>    - `* **💡 Chốt hạ / CTA:** [Lời chốt] **Bấm vào Video ngay bên dưới để hiểu rõ hơn về vấn đề này.**`
+
+
+
 ### B. Quy tắc thẻ màu trong `.md`:
 
 | Thẻ mở | Thẻ đóng | Ý nghĩa | Ví dụ |

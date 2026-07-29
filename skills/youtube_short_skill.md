@@ -405,9 +405,12 @@ Sử dụng script `md_to_docx_v2.py` trong thư mục `scripts/` để chuyển
 - **KHÔNG** cắt 50 giây đầu tiên của video dài → làm Short
 - **PHẢI** viết lại hoàn toàn: hook mới, nhịp mới, CTA mới
 
-### 2. Mỗi Short phải đứng độc lập
-- Người xem CHƯA BAO GIỜ xem video dài vẫn phải hiểu được Short
+### 2. Mỗi Short phải đứng độc lập & RÕ BỐI CẢNH CỐT LÕI (BẮT BUỘC)
+- Người xem CHƯA BAO GIỜ xem video dài vẫn phải hiểu được bối cảnh của Short ngay lập tức.
+- **BẮT BUỘC:** Cài cắm trực tiếp **bối cảnh/chủ đề cốt lõi** (ví dụ: *căn bệnh cán bộ sợ sai, né tránh trách nhiệm*) ngay trong **1-2 câu đầu tiên** của phần Hook. Khán giả lướt Shorts ngẫu nhiên đọc/nghe là biết ngay 100% bối cảnh đang đề cập đến vấn đề gì, không bị hoang mang hay hiểu nhầm sang chủ đề khác.
+- **BẮT BUỘC CTA:** Cuối mỗi đoạn Shorts phải kết thúc bằng thông điệp chốt + cụm từ cố định: **"Bấm vào Video ngay bên dưới để hiểu rõ hơn về vấn đề này."**
 - Không viết: "Như mình đã nói ở video trước..."
+
 
 ### 3. Lịch đăng Short
 - Đăng video dài **TRƯỚC** → Shorts đăng **SAU 24-48h**
@@ -420,6 +423,10 @@ Sử dụng script `md_to_docx_v2.py` trong thư mục `scripts/` để chuyển
 ### 5. Tự động hóa triệt để
 - Toàn bộ 7 bước chạy tự động, KHÔNG dừng hỏi Sếp
 - Nếu generate_image lỗi → ghi prompt vào file + thông báo, KHÔNG dừng pipeline
+
+### 6. BẮT BUỘC TIÊU ĐỀ VIRAL HIGH-CTR CHO TỪNG SHORTS
+- Mỗi đoạn Shorts BẮT BUỘC có 1 **Tiêu đề Shorts Viral (High-CTR)** riêng đặt ở dòng đầu tiên (dùng emoji 🔥😱🚘⚡🌾💥, từ khóa sốc, câu hỏi tò mò, ≤ 40 ký tự) để thu hút mắt nhìn của khán giả trên feed Shorts.
+
 
 ---
 

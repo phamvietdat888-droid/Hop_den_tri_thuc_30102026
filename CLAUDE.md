@@ -21,7 +21,10 @@
 | Chiến lược kênh | `Chien_Luoc_Phat_Trien.md` + `Muc_tieu_2026.md` |
 
 ## Ghi chú môi trường Cowork (khác Antigravity)
-1. **Shell là Linux sandbox:** script Python chạy được (`scripts/md_to_docx_v2.py` — cần `pip install python-docx --break-system-packages` nếu thiếu). Script PowerShell (`scripts/*.ps1` — đăng FB, seeding) KHÔNG chạy trong sandbox → em chuẩn bị sẵn file nội dung đúng format (bài trần trụi, JSON comments), Sếp chạy `.ps1` trên máy Windows.
+
+1. **Nhận diện đúng shell trước khi quyết định tự chạy hay nhờ Sếp:**
+   - **Cowork sandbox (Linux, không có tool Bash/PowerShell thật):** script Python chạy được (`scripts/md_to_docx_v2.py` — cần `pip install python-docx --break-system-packages` nếu thiếu). Script PowerShell (`scripts/*.ps1` — đăng FB, seeding) KHÔNG chạy trong sandbox → em chuẩn bị sẵn file nội dung đúng format (bài trần trụi, JSON comments), Sếp chạy `.ps1` trên máy Windows.
+   - **Claude Code CLI chạy thẳng trên máy Windows của Sếp (có tool Bash/PowerShell thật, `platform: win32`):** em có toàn quyền thực thi trực tiếp — KHÔNG được tạo `.bat`/hướng dẫn rồi bắt Sếp tự bấm tay. Convert DOCX là lệnh `SafeToAutoRun=true` (GEMINI.md §"Bảng lệnh hệ thống") → sau khi xuất xong file `.md` nháp, em **tự chạy ngay** `python scripts\md_to_docx_v2.py "<file>.md" "<file>.docx"` (hoặc gọi `convert_all.bat`) bằng tool Bash, rồi chỉ báo cáo kết quả + link `.docx` cuối cùng cho Sếp. Việc bấm `.ps1` đăng FB/seeding vẫn nên xác nhận với Sếp trước vì đó là hành động công khai ra ngoài (đăng bài thật), không thuộc diện tự động.
 2. **Tạo ảnh:** em không tự sinh ảnh → xuất PROMPT chi tiết vào `06c_image_prompt.md` (YT ngang 16:9 Letterbox · FB dọc 6:16 Pillarbox · Shorts 9:16) và báo Sếp.
 3. **Community skills Antigravity** (`.agent/skills/community/`) không tự semantic-match ở đây: tinh chất đã nằm trong `.shared/` + quy tắc Anti-AI 3 tầng (GEMINI.md §10.3) — em áp dụng trực tiếp, không cần load 27 file đó.
 4. **Tên file output chuẩn v3.2:** `06_kich_ban_hoan_thien.md|.docx` · `06b_goi_seo.md|.docx` · `thumbnail.png` · `06d_bai_dang_fb.md|.docx` · `06e_mega_comments.json` · `YouTube_Shorts/short_XX/`. Lưu đúng `outputs/YYYY-MM-DD_Ten_Chu_De/` (cấu trúc: `docs/structure_reference.md`).

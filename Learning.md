@@ -125,9 +125,23 @@ Sau audit toàn diện dự án v3.0 (38 skills), thực hiện 7 quick win KHÔ
 11. **TUYỆT ĐỐI KHÔNG QUÊN MEGA COMMENTS:** Khi phát sóng bài Facebook (Bước 6d), bắt buộc phải sinh luôn file `06e_mega_comments.json` chứa các bình luận mồi (seeding) và 2 CTA. Đừng đợi Sếp nhắc "thế file comment đâu em?".
 12. **Ảnh Thumbnail YouTube PHẢI LÀ 16:9:** Kích thước cho ảnh thumbnail kênh YouTube mặc định là tỷ lệ 16:9 (1280x720). Đừng nhầm lẫn với tỷ lệ 1.91:1 (1200x630) của ảnh bài đăng Facebook. Phải tự động tạo và lưu vào đúng thư mục `YouTube/thumbnail.png`.
 
+
+## 2026-07-30 — Quy chuẩn Trinh Sát Trend Đa Nguồn Chi Tiết 100% (v3.4 - Sếp duyệt) ⭐ BẮT BUỘC
+
+Khi thực hiện Bước 0 (`/tim_trend`), hệ thống **TUYỆT ĐỐI KHÔNG** được chỉ liệt kê chung chung tên nguồn mà **BẮT BUỘC PHẢI DẪN BẰNG CHỨNG DỮ LIỆU CỤ THỂ 100%** từ 7 kênh thông tin sau:
+
+1. **Google Trends VN:** Dẫn từ khóa tìm kiếm nóng + % tăng trưởng lượt tìm kiếm thực tế.
+2. **Báo chí chính thống VN & Quốc tế:** Dẫn cụ thể tên bài báo, tiêu đề, mã bài, ngày đăng, nội dung cốt lõi từ *24h.com.vn, Dân Trí, VietNamNet, VnExpress, Reuters, AP, Fox News*.
+3. **Mạng xã hội & Cộng đồng (Threads, Facebook, Reddit, X):** Dẫn cụ thể nội dung bài đăng hot, luồng tranh luận 2 chiều, số lượng tương tác (likes/comments), trào lưu thảo luận.
+4. **YouTube Đối thủ:** Bóc tách chính xác video mới nhất vừa đăng của *CD Media (Why?), Kiến Thức Thú Vị, Tuấn Tiền Tỷ, Củ Đậu Story, Spiderum* (Tiêu đề, lượt xem, ngày đăng, góc nhìn họ làm, và lỗ hổng/cơ hội cho Giải Mã 360).
+5. **Hot trend TikTok & Facebook Reels (Short-form):** Dẫn cụ thể trào lưu short-form video hot (Hashtag, lượt xem tổng, dạng clip viral POV/map 3D/audio).
+6. **Sổ trí nhớ kênh (`so_tri_nho_kenh.md`):** Dẫn cụ thể ngày đăng, tiêu đề video cũ, luận điểm chốt để nối mạch "Vòng về video cũ" (Loopback).
+7. **News Sentiment Engine:** Phân tích chỉ số cảm xúc cộng đồng (% Tò mò/Lo lắng, Tranh luận, Tự hào/Tri ân).
+
 ---
 
 *(Bổ sung sau mỗi video)*
+
 
 ## 2026-04-30 — Chẩn đoán Kênh & Vòng Xoáy Thuật Toán
 

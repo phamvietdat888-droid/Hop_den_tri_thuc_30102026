@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//t/CLAUDE/Hop_Den_Tri_Thuc/**)",
+      "PowerShell(echo.)",
+      "PowerShell(cmd /c \"T:\\\\CLAUDE\\\\Hop_Den_Tri_Thuc\\\\scratch_test.bat\")",
+      "Bash(python -c \"import docx; print\\(docx.__version__ if hasattr\\(docx,'__version__'\\) else 'ok'\\)\")",
+      "Bash(python scripts/md_to_docx_v2.py*)",
+      "Bash(python3 scripts/md_to_docx_v2.py*)",
+      "Bash(python scripts\\md_to_docx_v2.py*)",
+      "Bash(./convert_all.bat*)",
+      "Bash(convert_all.bat*)",
+      "Bash(./convert_script.bat*)",
+      "Bash(convert_script.bat*)",
+      "Bash(./convert_trend.bat*)",
+      "Bash(convert_trend.bat*)",
+      "PowerShell(cmd /c convert_all.bat*)",
+      "PowerShell(cmd /c convert_script.bat*)",
+      "PowerShell(cmd /c convert_trend.bat*)",
+      "PowerShell(cmd /c \"convert_all.bat*)",
+      "PowerShell(cmd /c \"convert_script.bat*)",
+      "PowerShell(cmd /c \"convert_trend.bat*)",
+      "PowerShell(cmd /c \"T:\\\\CLAUDE\\\\Hop_Den_Tri_Thuc\\\\convert_all.bat\"*)",
+      "PowerShell(cmd /c \"T:\\\\CLAUDE\\\\Hop_Den_Tri_Thuc\\\\convert_script.bat\"*)",
+      "PowerShell(cmd /c \"T:\\\\CLAUDE\\\\Hop_Den_Tri_Thuc\\\\convert_trend.bat\"*)",
+      "PowerShell(python scripts\\md_to_docx_v2.py*)",
+      "PowerShell(python scripts/md_to_docx_v2.py*)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(python -c \"import json; json.load\\(open\\('.claude/settings.json', encoding='utf-8'\\)\\); print\\('VALID JSON'\\)\")"
+    ]
+  }
+}

@@ -87,16 +87,18 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 /tim_trend [từ khóa]            /tac_chien [chủ đề]
        │                               │
        ▼                               │
-[Bước 0: TRINH SÁT]                   │
-  01_Researcher quét 7 nguồn           │
-  Google Trends VN (trực tiếp)           │
-  + Threads + Facebook (Cộng đồng)     │
-  + Báo VN/QT + YT đối thủ            │
-  + X + Reddit → Chấm 7 tiêu chí      │
-  + quét SỔ TRÍ NHỚ KÊNH (cơ hội       │
-    "vòng về video cũ") + chấm         │
-    checklist "Hồ sơ giải phẫu"        │
-  [CHỜ SẾP CHỌN] ──────────→──────────┤
+
+[Bước 0: TRINH SÁT TREND 7 NGUỒN CHI TIẾT 100%]
+  01_Researcher dẫn bằng chứng cụ thể:
+  1. Google Trends (% tăng trưởng)
+  2. Báo lớn VN/QT (24h, Dân Trí, VNN, VNE, Reuters...)
+  3. SocMed (Threads, FB, Reddit, X)
+  4. YT Đối thủ (bóc 5 kênh: tiêu đề, views, date)
+  5. TikTok & FB Reels (Hashtag, format viral)
+  6. Sổ trí nhớ kênh (nối video cũ)
+  7. News Sentiment Engine
+  → Chấm 7 tiêu chí "Hồ sơ giải phẫu"
+  [CHỜ SẾP CHỌN CHỦ ĐỀ] ────────→──┤
                                        │
                                        ▼
                           [00_Coordinator] ── Điều phối
@@ -247,13 +249,14 @@ GiaiMa360/
 **Sau Gate 2, hệ thống TỰ ĐỘNG chạy liên tục các bước sau mà KHÔNG dừng xin phép:**
 - Bước 4: Viết kịch bản nháp (8 Module)
 - Bước 5: Kiểm định 33 tiêu chí — nhóm A-F + H (tự sửa nếu trượt)
-- Bước 6a: Xuất bản Clean MD + convert DOCX
+- Bước 6a: Xuất bản Clean MD + convert DOCX (BẮT BUỘC đính kèm 10 đoạn Shorts độc lập bối cảnh + CTA ở cuối kịch bản dài)
 - Bước 6b: Gói SEO (20 tiêu đề + Mô tả + Từ khóa + DOCX)
 - Bước 6c: Tạo Thumbnail YouTube 16:9
 - Bước 6d: Gọt bài Facebook + Tạo ảnh FB + Xuất DOCX
 - Bước 6e: Seeding Mega Comments (JSON)
 - Bước 6f: Chuyển thể 2-3 YouTube Shorts (kịch bản + SEO + prompt ảnh + DOCX)
 - Cập nhật Kho Vũ Khí + **Sổ trí nhớ kênh** (`.shared/kho_vu_khi/so_tri_nho_kenh.md`, mỗi video 1 dòng: [ngày] – [chủ đề] – [luận điểm chốt] – [dự đoán/câu hỏi còn treo])
+
 
 **Kết quả cuối cùng:** Sếp nhận toàn bộ sản phẩm hoàn chỉnh trong thư mục `outputs/` (YouTube + Facebook) và chỉ cần duyệt tổng thể 1 lần cuối trước khi publish lên nền tảng.
 
