@@ -131,9 +131,18 @@ Sự thú vị đến từ hình ảnh hồn nhiên, phóng đại đáng yêu, 
 
 ---
 
-## 📌 VĂN NÓI BÌNH DÂN — DIỆT CHỮ HÀN LÂM, VÍ VON PHẢI SÁT ⭐ (bắt buộc)
+## 📌 VĂN NÓI BÌNH DÂN — DIỆT CHỮ HÀN LÂM, VÍ VON PHẢI SÁT ⭐ (bắt buộc vĩnh viễn)
 
-> **Đối tượng:** đại chúng, bình dân. Một chữ hàn lâm lọt vào là một khán giả bị bỏ lại phía sau. Ví von không sát còn tệ hơn không ví von — vì làm người nghe rối thêm.
+> ⚠️ **TỰ ĐỘNG ÁP DỤNG HỆ THỐNG (BẮT BUỘC KHÔNG CẦN SẾP NHẮC):**
+> - All Agents BẮT BUỘC viết lời bình, kịch bản, tiêu đề, mở đầu theo phong cách **bình dân, gần gũi, dễ hiểu, mạch lạc và siêu thu hút** như trò chuyện đời thường (ngồi quán nước/trò chuyện với bạn bè, người thân).
+> - Mở đầu kịch bản BẮT BUỘC bám sát trực diện vào bối cảnh/nội dung gốc, tạo cú móc (Hook) tò mò ngay câu đầu tiên.
+> - NGHIÊM CẤM từ ngữ hàn lâm, từ Hán-Việt khô khan, thuật ngữ chuyên môn màu mè hay diễn đạt sách vở.
+
+**QUY TẮC BẮT BUỘC CHO TIÊU ĐỀ & CẤU TRÚC BƯỚC (QUAN TRỌNG):**
+- **Tuyệt đối KHÔNG** dùng từ chuyên môn, thuật ngữ màu mè, từ lề đường giật gân hàn lâm HOẶC TIÊU ĐỀ MANG TÍNH KHẨU HIỆU / CỜ QUẠT ở các tiêu đề bước/phân đoạn (Ví dụ: KHÔNG dùng *"Bước 3: Đấu giá công khai, thu tiền tươi về túi"*, *"Rửa đá"*, *"Phù phép chứng thư"*, *"Tuồn lậu kẹp nách"*, *"Tối ưu hóa vĩ mô"*).
+- **BẮT BUỘC** sử dụng tiêu đề bình dân, đơn giản, trực diện, người bình thường nghe hiểu ngay (Ví dụ: *"Bước 1: Gom đất từ khi còn rẻ"*, *"Bước 2: Chờ làm xong ga, đất tự vọt giá"*, *"Bước 3: Bán đất thu tiền về"*).
+- Tiêu chí vàng: **"Bà nội/Mẹ mình đọc lên hiểu ngay trong 1 giây"**.
+
 
 **Bảng thay chữ hàn lâm → chữ đời thường (mở rộng khi gặp ca mới):**
 

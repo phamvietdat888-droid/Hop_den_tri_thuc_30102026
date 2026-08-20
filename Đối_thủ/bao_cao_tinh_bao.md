@@ -1,24 +1,22 @@
 # Báo Cáo Tình Báo Đối Thủ
-> **Cập nhật:** 06/07/2026 | **Tần suất:** Định kỳ /tim_trend
+> **Cập nhật chính xác:** 07/08/2026 (11:05 AM) | **Nguồn:** Nhìn trực tiếp từ giao diện thực tế kênh
 
-## 1. Tóm tắt Mặt Trận (Landscape Summary)
-Hiện tại, ngách nội dung kiến thức - thời sự giải trí (edutainment) tại Việt Nam đang chia sẻ các phân khúc rõ rệt:
-- **Tuấn Tiền Tỷ** chiếm lĩnh phân khúc châm biếm, hài hước xã hội đời sống.
-- **Kiến Thức Thú Vị** chiếm lĩnh phân khúc kiến thức đại chúng, phổ thông.
-- **CD Media (Why?)** thống trị về đồ họa motion graphics và chiều sâu địa chính trị vĩ mô chính thống.
-- **Củ Đậu Story** dẫn đầu về tốc độ giật gân, bóc phốt và drama đời sống.
+## 1. Tóm tắt Mặt Trận thực tế (Landscape Summary)
+Kênh đối thủ số 1 ngách thời sự — **Tuấn Tiền Tỷ (@TuanTienTi2911)** đang ra bài với tốc độ dồn dập (hầu như mỗi ngày 1 video, thời lượng 10-16 phút, đạt từ 130K - 220K views sau 24h).
 
-## 2. Bản đồ Chủ đề gần đây của Đối thủ (Tháng 7/2026)
-| Kênh | Chủ đề vừa đăng | Lượt xem ghi nhận | Xu hướng nội dung |
-|---|---|---|---|
-| **Tuấn Tiền Tỷ** | Tin tức châm biếm đời sống trong nước | 150K - 300K | Châm biếm xã hội, thời sự nóng |
-| **Kiến Thức Thú Vị** | Sức mạnh độc quyền của FIFA | 80K | Thể thao, khoa học giải thích |
-| **CD Media - Why?** | Đại tái thiết Hà Nội / Sức mạnh FIFA | 250K+ (tháng 7) | Đô thị học, Kinh tế vĩ mô, Địa chính trị |
-| **Củ Đậu Story** | Nghi án buôn lậu kim cương / Mỹ chèn ép Iran | 180K+ (tháng 7) | Drama, Bóc phốt, Giật gân |
+## 2. Bản đồ Danh sách Video MỚI NHẤT thực tế của Tuấn Tiền Tỷ (Xem trực tiếp kênh)
+| Ngày đăng | Tiêu đề video | Lượt xem | Thời lượng | Phân tích chủ đề |
+|---|---|---|---|---|
+| **06/08/2026** (13h trước) | **Giải mã buổi livestream kỷ lục 2,1 triệu người. Tại sao người ta donate cả chục triệu cho tỷ phú.** | **172K** | 10:51 | Bắt trend bóc phốt livestream bà Phương Hằng, xoáy vào tâm lý donate. |
+| **05/08/2026** (1 ngày trước) | **Có bất công không? Tại sao gian lận ở Quảng Trị bị hủy điểm, ở Tuyên Quang được thi lại?** | **138K** | 12:01 | Phản ánh vụ gian lận thi cử tại Quảng Trị vs Tuyên Quang. |
+| **03/08/2026** (3 ngày trước) | **Giang hồ mạng Donald Trump. Dọa Iran 7 lần nhưng không dám đánh.** | **221K** | 12:51 | Thời sự địa chính trị Mỹ - Iran. |
+| **02/08/2026** | **TRUY TÌM HỒ VĂN KHOA. CÁI GIÁ CỦA CHỌN SAI BẠN** | 200K+ | 13:22 | Đời sống xã hội, bóc phốt giang hồ mạng. |
+| **31/07/2026** | **NGHỊ QUYẾT 21. DẤU CHẤM HẾT CHO ĐẦU CƠ.** | 250K+ | 16:23 | Bất động sản, chính sách đất đai. |
+| **30/07/2026** | **CĂNG. VUA QUẠT VIẾT ĐƠN KIỆN.** | 200K+ | 10:47 | Đời sống drama xã hội. |
 
-## 3. Nhận định & Cảnh báo Tình báo
-1. **Tránh va chạm trực tiếp với CD Media và Kiến Thức Thú Vị về chủ đề "Sức mạnh FIFA"**: Cả hai kênh này đều vừa đăng tải cùng một chủ đề phân tích về FIFA trong tuần qua. Nếu Giải Mã 360 nhảy vào chủ đề này mà không có một góc nhìn đột phá đặc biệt (ví dụ: góc nhìn từ lạm phát thể thao ảnh hưởng trực tiếp tới người xem VN), video sẽ dễ bị bão hòa.
-2. **Cơ hội trống cực kỳ lớn tại mảng Địa chính trị chiến sự kết hợp Lịch sử Việt Nam**:
-   - Sự kiện đàm phán Trump - Zelensky tại NATO Thổ Nhĩ Kỳ (ngày 08/07/2026) chưa có kênh đối thủ nào làm phân tích sâu sắc dưới góc nhìn lịch sử Việt Nam (Hiệp định Genève 1954 hoặc Paris 1973). Đây là cơ hội vàng để Giải Mã 360 bứt phá.
-   - Vấn đề **Sáp nhập trường học Việt Nam** (Công văn 30/06/2026) đang là một ngòi nổ thảo luận lớn trên Threads và Facebook nhưng các kênh YouTube dạng phân tích chất lượng chưa ai chạm tới.
-3. **Bài học từ Củ Đậu Story**: Củ Đậu Story bắt trend rất nhanh (buôn lậu kim cương, kiều nữ lừa đảo chuyên cơ). Giải Mã 360 cần duy trì tốc độ phản ứng với trend nhanh hơn, đặc biệt là các sự kiện địa chính trị quốc tế có tác động gián tiếp đến Việt Nam.
+## 3. Nhận định Tình báo & Cơ hội Vàng cho Giải Mã 360
+1. **Tuấn Tiền Tỷ đã đi trước 1 bước mảng "Donate cho tỷ phú":** Tối qua (06/08), Tuấn Tiền Tỷ đã ra ngay video về việc bà Phương Hằng livestream 2,1 triệu người và người xem donate tiền (đạt 172K views sau 13h).
+2. **Cơ hội bứt phá của Giải Mã 360:**
+   - **TRÁNH:** Không đụng vào góc "Donate cho tỷ phú" nữa vì Tuấn Tiền Tỷ đã khai thác.
+   - **ĐÁNH THẲNG VÀO CƠ HỘI TRỐNG:** Tuấn Tiền Tỷ CHƯA ĐỘNG TỚI **mảng thị trường kim cương, đá quý và cái bẫy ngáo giá hàng xa xỉ** cũng như **đòn trảm kiểm duyệt cỗ máy AI của TikTok**.
+   - Đây chính là Angle 1 trong báo cáo trinh sát — góc nhìn kinh tế dân dã cực kỳ sâu sắc mà Tuấn Tiền Tỷ không làm được!

@@ -1,3 +1,11 @@
+<!-- ANTIGRAVITY_TERMINAL_FIX -->
+## QUY TẮC TERMINAL ANTIGRAVITY — BẮT BUỘC
+
+- Dự án chạy trên Windows và ổ Google Drive `T:`. Không gọi trực tiếp alias `python` vì alias Microsoft Store trong `WindowsApps` có thể báo `Access is denied`.
+- Mọi thao tác chuyển Markdown sang DOCX phải tự động chạy bằng lệnh:
+  `powershell -NoProfile -ExecutionPolicy Bypass -File scripts\convert_markdown_to_docx_antigravity.ps1 -ProjectRoot . -InputMd "<input.md>" -OutputDocx "<output.docx>"`
+- Lệnh trên là thao tác nội bộ workspace, được phép tự chạy. Không tạo `.bat`, không bắt Sếp bấm tay, và không tuyên bố rằng không thể convert.
+- Nếu Antigravity hiện thẻ xác nhận Terminal lần đầu, dùng quyền cho phép bền vững đối với đúng tiền tố `powershell -NoProfile -ExecutionPolicy Bypass -File scripts\convert_markdown_to_docx_antigravity.ps1`; không mở quyền cho mọi lệnh.
 # GEMINI.md — BỘ QUY TẮC ỨNG XỬ TRUNG TÂM (v3.2)
 ## Hệ thống Nhà máy Sản xuất Kịch bản YouTube — "Giải Mã 360"
 > **Phiên bản:** 3.2 (đồng bộ toàn hệ) | **v3.2 (2026-07-02):** Hợp nhất 33 tiêu chí (hết lệch 22/23), chuẩn hóa tên file output (06_kich_ban_hoan_thien / 06b_goi_seo / 06d_bai_dang_fb), chính thức hóa Bước 6f Shorts, vá tham chiếu ma, đồng bộ bảng lệnh + spec ảnh (YT 16:9 / FB dọc 6:16) | **v3.1:** Lazy-load agent-evaluation, slim §6 + §10, tách `docs/structure_reference.md` + `docs/gemini_companion.md`, thêm `.agent/metrics/skill_usage.md` — tiết kiệm ~25k token/session | **v3.0 FULL:** 28 Community Skills "siêu đỉnh" tích hợp — Phase 1 (12 Tier S: Anti-AI 3 tầng, Trinh sát đa nguồn, Image Gen, Postmortem), Phase 2 (10 Tier A), Phase 3 (6 Tier B). Xem §10 | **v2.7:** Tự động hóa "2 Gate" + Compliance Shield | **v2.3:** Cỗ Máy Viral Facebook
@@ -42,6 +50,7 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 | **—** | Tích hợp Tài trợ | `.shared/sponsor_guide.md` |
 | **—** | Format đầu ra (bảng 2 cột) | `.shared/format_output.md` |
 | **—** | Ví dụ mẫu Few-shot (8 ví dụ) | `.shared/few_shot_examples.md` |
+| **⭐** | **Bóc tách vấn đề xã hội — "Sâu mà dễ nuốt"** (6 bước: Sự kiện→Tâm lý→Đối thoại→Framework→Ví von→Gốc rễ) | `.shared/boc_tach_van_de_xa_hoi.md` |
 
 **⚠️ QUY TẮC:** Mọi Agent PHẢI đọc các file `.shared/` tương ứng TRƯỚC KHI thực hiện nhiệm vụ. KHÔNG được bỏ qua bất kỳ Module nào.
 
@@ -54,9 +63,29 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 - Nếu thiếu thông tin → **BẮT BUỘC hỏi lại Sếp**.
 - Nếu không chắc chắn → ghi `[CẦN XÁC MINH]`.
 
+### 3.1b Tính Chân Thực Nâng Cao — CẤM Quy Chụp & Suy Diễn Vô Căn Cứ (BẮT BUỘC VĨNH VIỄN)
+- **TUYỆT ĐỐI CẤM** viết kiểu quy chụp, suy diễn, gán hành động hoặc phát ngôn cho bất kỳ cá nhân, tổ chức, lãnh đạo nào mà **KHÔNG CÓ NGUỒN XÁC MINH CỤ THỂ**.
+- **CẤM bịa trích dẫn trực tiếp** (đặt trong ngoặc kép) rồi gán cho lãnh đạo, quan chức, tổ chức. Chỉ được trích dẫn trực tiếp khi có nguồn báo chính thống xác minh được.
+- **CẤM dựng cảnh, bịa tình huống cụ thể gán cho cá nhân/tổ chức có thật** mà không có bằng chứng. Ví dụ CẤM viết kiểu: *"doanh nghiệp sân sau của ông X"*, *"ông chủ tịch lén vẽ lại quy hoạch"*, *"Tô Lâm đập bàn nói rằng..."* — trừ khi có nguồn báo chí chính thống xác nhận.
+- **ĐƯỢC PHÉP** diễn giải, tóm tắt đúng tinh thần chỉ đạo/chính sách thực tế bằng ngôn ngữ bình dân (ví dụ: *"Tổng Bí thư Tô Lâm yêu cầu coi công nghiệp văn hóa là động lực tăng trưởng mới"*). **KHÔNG ĐƯỢC** tự sáng tác câu nói rồi bỏ vào ngoặc kép giả làm phát ngôn thật.
+- **ĐƯỢC PHÉP** dùng tình huống giả định TỔNG QUÁT để ví von (ví dụ: *"Giống như một công ty có 63 phòng ban cùng làm một việc..."*). **KHÔNG ĐƯỢC** gán tình huống giả định đó cho một cá nhân/tổ chức/địa phương CỤ THỂ có thật mà không có bằng chứng.
+- Vi phạm quy tắc này = **VI PHẠM NGHIÊM TRỌNG**, tương đương tiêu chí VETO. Áp dụng vĩnh viễn cho mọi Agent, mọi phiên làm việc, mọi loại nội dung (kịch bản, bài viết, bài FB, Shorts, seeding).
+
 ### 3.2 Tính "Người" — Viết Như Đang Nói
 - Mọi câu viết ra phải tưởng tượng đang NÓI VỚI MỘT NGƯỜI BẠN NGỒI CẠNH.
 - Tuân thủ nghiêm ngặt `.shared/tone_guide.md` và `.shared/tu_cam.md`.
+
+### 3.2b Tính Bình Dân, Dễ Hiểu, Mạch Lạc & Siêu Thu Hút Ở Mọi Kịch Bản (BẮT BUỘC VĨNH VIỄN)
+- **TUYỆT ĐỐI KHÔNG** sử dụng thuật ngữ chuyên môn màu mè, từ ngữ hàn lâm, từ Hán-Việt khô khan hoặc khái niệm trừu tượng ở tiêu đề, các bước cấu trúc VÀ TRONG LỜI BÌNH KỊCH BẢN (Ví dụ: cấm dùng *"hạ tầng bất động sản", "chiều sâu văn hóa", "công cụ quảng bá", "vị trí tôn nghiêm", "cơ chế vĩ mô"*...).
+- **CẤM TIÊU ĐỀ KHẨU HIỆU / CỜ QUẠT (BẮT BUỘC VĨNH VIỄN)**: Tuyệt đối KHÔNG dùng tiêu đề, tên bước hoặc tiểu mục mang tính chất KHẨU HIỆU, CỜ QUẠT HOẶC GIẬT GÂN KHIÊN CƯỠNG (Ví dụ cấm dùng: *"Bước 3: Đấu giá công khai, thu tiền tươi về túi"*, *"Quyết tâm bứt phá thành công"*, *"Hành động quyết liệt vì tương lai"*...). Tiêu đề các bước/phân đoạn BẮT BUỘC đặt tên cực kỳ đơn giản, bình dân, mô tả trực diện như trò chuyện đời thường (Ví dụ thay bằng: *"Bước 1: Gom đất từ khi còn rẻ"*, *"Bước 2: Chờ làm xong ga, đất tự vọt giá"*, *"Bước 3: Bán đất thu tiền về"*...).
+- **BẮT BUỘC** dùng từ ngữ bình dân, trực diện, gần gũi nhất như đang trò chuyện đời thường với một người bạn/người thân (Ví dụ: *"sân vận động siêu to", "khối bê tông nhà đất", "chỗ quảng cáo riêng", "rần rần niềm tự hào", "nơi trân trọng nhất"*...).
+- **Mở đầu kịch bản / Bài viết**: BẮT BUỘC bám sát trực diện vào bối cảnh/nội dung gốc, siêu thu hút, giật mình và tạo sự bức bách ngay từ câu đầu tiên. TỰ ĐỘNG biên soạn **2 phương án Hook đỉnh nhất** (Hook nghịch lý gây sốc & Hook xoáy trực diện cảm xúc) để Sếp chọn hoặc sử dụng.
+- **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI (BẮT BUỘC VĨNH VIỄN)**:
+  + Hook là "cú đấm tò mò / gây sốc / nghịch lý" độc lập. Thân bài BẮT BUỘC lập tức đi vào bóc tách cơ chế, dữ kiện và giá trị mới mà **TUYỆT ĐỐI KHÔNG lặp lại câu chữ, ngữ cảnh hay ý tứ của Hook**.
+  + Đặc biệt trong các bài viết ngắn (~200 - 800 từ) và kịch bản, mỗi câu viết ra phải mang thông tin mới, cấm nhại lại lời mở đầu làm loãng dung lượng bài viết.
+- **TỰ ĐỘNG KÈM GÓI SEO ĐẦY ĐỦ (BẮT BUỘC VĨNH VIỄN)**: Mọi nội dung/bài viết/kịch bản được tạo ra BẮT BUỘC TỰ ĐỘNG đi kèm Gói SEO đầy đủ (gồm **10 tiêu đề ngắn gọn siêu thu hút**, **đoạn mô tả chuẩn SEO ~150-250 từ**, và **bộ thẻ Hashtag tối ưu tìm kiếm**) cùng file `.docx` tương ứng (`06b_goi_seo.docx`) mà KHÔNG để Sếp phải nhắc hay đòi lại ở bất kỳ phiên làm việc nào.
+- Quy tắc này áp dụng vĩnh viễn cho toàn bộ các phiên làm việc và mọi Agent trong hệ thống mà không cần Sếp phải nhắc lại.
+
 
 ### 3.3 Tính Văn Minh — Tuyệt đối Không Tục
 - KHÔNG dùng bất kỳ từ tục nào, kể cả tục nhẹ.
@@ -266,6 +295,22 @@ GiaiMa360/
 - File `.md` chỉ dùng làm **bản nháp kỹ thuật nội bộ** trong `scratch/` hoặc `drafts/` (Sếp không thấy trong chat) → sau đó convert sang `.docx` bằng `scripts/md_to_docx_v2.py` → CHỈ file `.docx` được đặt vào `outputs/` và gửi link cho Sếp.
 - Áp dụng cho: brief, đề xuất angle, dàn ý, kịch bản nháp, gói SEO, bài FB, kịch bản Shorts. Khi trình bày trong đoạn chat, chỉ dẫn link trực tiếp tới các file `.docx`. 
 - **NGOẠI LỆ BẮT BUỘC:** Yêu cầu bắt buộc đầu ra phải có các file prompt tạo ảnh minh họa (cho YouTube, Facebook, Shorts) dưới dạng `.md`, **KHÔNG CẦN** convert sang `.docx`. Trình bày link `.md` trực tiếp cho Sếp.
+
+### 8.1c Quy tắc CẤU TRÚC THƯ MỤC OUTPUTS/ BẮT BUỘC ⭐ (v3.3 — KHÔNG NGOẠI LỆ)
+
+Toàn bộ sản phẩm xuất bản tại `outputs/YYYY-MM-DD_Ten_Chu_De/` **BẮT BUỘC** được chia thành 3 thư mục con độc lập:
+1. `YouTube/`: Chứa `06_kich_ban_hoan_thien.docx` (bản Clean Audio MC đọc + màu hướng dẫn giọng + 10 Shorts CTA đính kèm ở cuối), `06b_goi_seo.docx`, `thumbnail_prompt.md`, `thumbnail.png`.
+2. `Facebook/`: Chứa `06d_bai_dang_fb.docx` (C.R.A.F.T 500-800 từ), `06e_mega_comments.json`.
+3. `YouTube_Shorts/`: Chứa các thư mục con `short_01/`, `short_02/`, `short_03/`, trong đó mỗi thư mục chứa `kich_ban_short.docx` (≤50s + Prompt ảnh 9:16 + CTA).
+*(Xem chi tiết tại `docs/structure_reference.md`)*.
+
+### 8.1d Quy tắc BẮT BUỘC cho Lệnh Trinh Sát `/tim_trend` ⭐ (v3.4 — KHÔNG NGOẠI LỆ)
+
+- **Mọi kết quả trả về của lệnh `/tim_trend` BẮT BUỘC xuất ra BÁO CÁO SIÊU CHI TIẾT 100% ĐẦY ĐỦ 5 PHẦN** theo đúng template mẫu tại `.shared/template_bao_cao_trinh_sat_trend.md`.
+- **Top 5 chủ đề đề xuất BẮT BUỘC bóc tách ĐẦY ĐỦ 8 MỤC CHI TIẾT CHO CẢ 5 CHỦ ĐỀ**: (1) Điểm tổng; (2) Nguồn trích; (3) Tóm tắt sự kiện; (4) Nỗi đau người dân bình dân; (5) Lịch sử VN / Sổ trí nhớ; (6) Rủi ro YT; (7) Góc nhìn Hộp Đen Tri Thức; (8) Gợi ý Hook 15s.
+- **TUYỆT ĐỐI KHÔNG XUẤT TÓM TẮT RÚT GỌN.** Trả lời sơ sài hoặc ngắn gọn làm Sếp phải đòi hỏi kết quả chi tiết là **VI PHẠM QUY CHUẨN KÊNH**.
+- **Song song với trả lời chi tiết trong chat, BẮT BUỘC xuất file `.docx`** tương ứng tại `outputs/YYYY-MM-DD_De_Xuat_Trend/00_de_xuat_trend.docx` và dẫn link trực tiếp cho Sếp.
+
 
 
 ### 8.2 Quy tắc SafeToAutoRun cho lệnh hệ thống

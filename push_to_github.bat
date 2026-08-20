@@ -29,7 +29,7 @@ git commit -m "feat: init project Hop Den Tri Thuc, update persona guidelines & 
 echo.
 echo Setting remote repository...
 git remote remove origin >nul 2>nul
-git remote add origin https://github.com/phamvietdat888-droid/Hop-Den-Tri-Thuc-V3-30072026.git
+git remote add origin https://github.com/phamvietdat888-droid/Hopdentrithuc_V4_21082026.git
 
 echo.
 echo Renaming default branch to main...

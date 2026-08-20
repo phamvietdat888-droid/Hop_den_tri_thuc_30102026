@@ -182,6 +182,19 @@
 
 ---
 
+## H. CẤM THUẬT NGỮ HÀN LÂM / MÀU MÈ Ở TIÊU ĐỀ & TÊN BƯỚC CẤU TRÚC (BẮT BUỘC BÌNH DÂN)
+
+> **Nguyên tắc:** Mọi tiêu đề video, tiêu đề phần, tiêu đề các bước cấu trúc trong kịch bản PHẢI dùng ngôn từ bình dân, trực diện, gần gũi nhất. Cấm tiệm cận hàn lâm hoặc dùng thuật ngữ lề đường giật gân làm rối người nghe.
+
+| ❌ CẤM (Tiêu đề màu mè / Chuyên môn / Giật gân) | ✅ BẮT BUỘC (Bình dân — Mẹ mình nghe hiểu ngay) |
+|---|---|
+| *"Tuồn lậu kẹp nách"* | *"Bước 1 — Giấu hàng mang về"* / *"Giấu đá qua cửa soi"* |
+| *"Phù phép" giấy kiểm định* | *"Bước 2 — Mua giấy tờ xịn"* / *"Làm giấy tờ thật"* |
+| *"Rửa đá" vào tiệm lớn* | *"Bước 3 — Đưa vào tiệm lớn bán cho dân"* |
+| *Tối ưu hóa vĩ mô / Phân mảnh ngân sách* | *"Dồn tiền nuôi trường lớn"* / *"Gộp tiền làm phòng lab"* |
+| *Tái cấu trúc hạ tầng / Chuyển dịch dòng vốn* | *"Quy hoạch lại đường sá"* / *"Đưa tiền sang chỗ cần"* |
+| *Hệ lụy dân sinh cục bộ* | *"Nỗi lo của phụ huynh"* / *"Cái khó của người dân"* |
+
 ### F3. Hồ sơ vi phạm thực tế — kênh tiền nhiệm (dữ liệu kế thừa) (Khám 30/04/2026)
 
 > Danh sách các video trên kênh đã vi phạm Blacklist F1. Dùng làm tham chiếu khi viết tiêu đề mới.

@@ -8,7 +8,7 @@
 
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
-| 1 | Hook lồng ghép Bối cảnh (≤ 100 từ), câu đầu ≤ 15 từ, KHÔNG nhảy bổ vào câu hỏi/nghịch lý khi chưa tóm tắt sự kiện nền. Cầu nối hứa hẹn giá trị rõ ràng (vì sao nên xem). Có curiosity gap + open loop | ☐ |
+| 1 | Hook lồng ghép Bối cảnh (≤ 100 từ), câu đầu ≤ 15 từ, KHÔNG nhảy bổ vào câu hỏi/nghịch lý khi chưa tóm tắt sự kiện nền. Cầu nối hứa hẹn giá trị rõ ràng (vì sao nên xem). Có curiosity gap + open loop. **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI** (thân bài mở ra góc nhìn mới, không nhại lại ý Hook) | ☐ |
 | 2 | Tổng kịch bản 1200-1600 từ | ☐ |
 | 3 | Nhịp "hạt hấp dẫn" mỗi 15-20 giây (số liệu/chi tiết lạ/câu đùa/câu hỏi treo) — không đoạn "chết" | ☐ |
 | 4 | CTA cộng đồng chèn tự nhiên sau cao trào (hỏi ý kiến / mời đặt chủ đề) | ☐ |
@@ -51,7 +51,9 @@
 | 19 | Nhịp câu xen kẽ, không 3 câu dài liên tiếp, không câu nào > 22 từ | ☐ |
 | 19b | **Mạch LIỀN, không rời rạc** — câu/đoạn nối nhau bằng liên từ–thán từ "chất keo" theo chuẩn MỚI: **mỗi 2–3 câu ≥ 1 liên từ văn nói**, không lặp một cụm quá 2 lần (móc xích giữa các khối); không đoạn nào "khởi động lạnh" | ☐ |
 | 19c | **KHÔNG chữ hàn lâm/kinh viện** (chủ thể, cơ chế, hạ tầng, tối ưu…) — đã thay bằng văn nói bình dân; ví von SÁT, mỗi chi tiết khớp thực tế (test "mẹ mình có hiểu không") | ☐ |
+| 19d | **Tiêu đề các bước/phân đoạn BẮT BUỘC BÌNH DÂN, DỄ HIỂU NGAY & KHÔNG KHẨU HIỆU** — Tuyệt đối KHÔNG dùng thuật ngữ chuyên môn màu mè, giật gân hàn lâm hay tiêu đề mang tính KHẨU HIỆU / CỜ QUẠT ở tiêu đề phân đoạn/bước (Ví dụ: KHÔNG dùng *"Bước 3: Đấu giá công khai, thu tiền tươi về túi"*, *"Rửa đá"*, *"Phù phép chứng thư"*, *"Tuồn lậu kẹp nách"* mà dùng *"Bước 1: Gom đất từ khi còn rẻ"*, *"Bước 2: Chờ làm xong ga, đất tự vọt giá"*, *"Bước 3: Bán đất thu tiền về"*) | ☐ |
 | 20 | KHÔNG dạy đời/mỉa mai cay nghiệt; chủ đề tranh cãi có câu "phòng thủ" công tâm | ☐ |
+
 
 ## E. FORMAT (2 tiêu chí)
 

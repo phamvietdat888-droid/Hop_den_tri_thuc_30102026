@@ -204,73 +204,67 @@ Với mỗi chủ đề tìm được, chấm điểm theo **7 tiêu chí đặc
 
 ---
 
-### BƯỚC 4: BÁO CÁO TRINH SÁT
+### BƯỚC 4: BÁO CÁO TRINH SÁT (BẮT BUỘC ĐẦY ĐỦ 100% SIÊU CHI TIẾT)
 
-#### Format output chuẩn:
+> ⚠️ **QUY TẮC VĨNH VIỄN BẮT BUỘC (KHÔNG NGOẠI LỆ):**
+> 1. Kết quả trả về của lệnh `/tim_trend` BẮT BUỘC phải tuân thủ đúng file template `.shared/template_bao_cao_trinh_sat_trend.md`.
+> 2. BẮT BUỘC xuất ra bản báo cáo SIÊU CHI TIẾT 100% gồm đủ 5 Phần: (1) Tổng quan chiến trường & Thời sự nóng; (2) Top 5 chủ đề bóc tách ĐẦY ĐỦ 8 MỤC CHI TIẾT CHO CẢ 5 CHỦ ĐỀ; (3) Tình báo đối thủ đối chiếu trực tiếp; (4) Gợi ý 3 Tiêu đề Viral cho chủ đề #1; (5) Đề xuất hành động cho Sếp & Link đính kèm `.docx`.
+> 3. TUYỆT ĐỐI KHÔNG xuất kết quả tóm tắt ngắn, KHÔNG cắt gọt 8 mục của bất kỳ chủ đề nào trong Top 5. Mọi trường hợp trả lời sơ sài/rút gọn đều là VI PHẠM QUY CHUẨN KÊNH.
 
-```
-══════════════════════════════════════════════════
-🔍 BÁO CÁO TRINH SÁT TREND — [Từ khóa / Quét Tổng]
-📅 Ngày: [DD/MM/YYYY] | ⏰ Thời điểm: [HH:MM]
-══════════════════════════════════════════════════
+#### Format output chuẩn: (Bắt buộc dùng mẫu `.shared/template_bao_cao_trinh_sat_trend.md`)
 
-📊 TỔNG QUAN CHIẾN TRƯỜNG:
-• Google Trends VN (Direct): [Link trực tiếp + % tăng]
-• Threads/Facebook: [Chủ đề viral đang "cháy" nhất]
-• Báo VN đang tập trung: [Chủ đề chính]
-• Đối thủ vừa đăng: [Video gần nhất của TTT / Tổ Buôn]
-• Cơ hội trống: [Chủ đề nóng mà đối thủ CHƯA làm]
+```markdown
+# 🔍 BÁO CÁO TRINH SÁT TREND — BƯỚC 0 (GIẢI MÃ 360)
+> **Ngày thực hiện:** [DD/MM/YYYY] | **Hệ thống:** Giải Mã 360 ("Hộp Đen Tri Thức")  
+> **Đơn vị thực hiện:** 01_Researcher & 00_Coordinator
 
-══════════════════════════════════════════════════
-🏆 TOP 5 CHỦ ĐỀ ĐỀ XUẤT (xếp theo điểm giảm dần)
-══════════════════════════════════════════════════
+---
 
-1️⃣ [Chủ đề 1] — ⭐ Điểm: __/35
-   • Nguồn: [Google Trends ↑500% / VnExpress / Reuters / ...]
-   • Tóm tắt: [2-3 câu — CHUYỆN GÌ ĐANG XẢY RA]
-   • 💔 Nỗi đau: [Ảnh hưởng gì đến người VN bình dân?]
-   • 📜 Lịch sử VN: [Có liên hệ tự nhiên? Nếu có → gợi ý]
-   • ⚠️ Rủi ro YT: 🟢 An toàn / 🟡 Cẩn thận / 🔴 Nguy hiểm
-   • 🎯 Gợi ý Angle: [1 câu — "Hộp Đen Tri Thức" sẽ kể thế nào?]
-   • 🎣 Gợi ý Hook: [Công thức Hook phù hợp + 1 câu mẫu]
-   • 🔗 Link tham khảo: [URL chính]
+## 📊 1. TỔNG QUAN CHIẾN TRƯỜNG & THỜI SỰ NÓNG HÔM NAY
 
-2️⃣ [Chủ đề 2] — ⭐ Điểm: __/35
-   ...
+- **Google Trends Việt Nam (Radar số 1):** [...]
+- **Mặt trận Mạng xã hội (Threads/Facebook):** [...]
+- **Báo chí trong nước & quốc tế:** [...]
+- **Sổ trí nhớ kênh (Vòng về bài cũ):** [...]
 
-3️⃣ [Chủ đề 3] — ⭐ Điểm: __/35
-   ...
+---
 
-4️⃣ [Chủ đề 4] — ⭐ Điểm: __/35
-   ...
+## 🏆 2. TOP 5 CHỦ ĐỀ ĐỀ XUẤT (XẾP THEO ĐIỂM SỐ 7 TIÊU CHÍ)
 
-5️⃣ [Chủ đề 5] — ⭐ Điểm: __/35
-   ...
+### 1️⃣ [Tên Chủ đề 1] — (KHUYÊN SẾP CHỌN 🥇 nếu tốt nhất)
+- **Điểm tổng:** ⭐ **[X]/35**
+- **Nguồn trích:** [...]
+- **Tóm tắt sự kiện:** [...]
+- **💔 Nỗi đau người dân bình dân:** [...]
+- **📜 Lịch sử Việt Nam / Sổ trí nhớ:** [...]
+- **⚠️ Rủi ro YouTube:** 🟢/🟡/🔴 [...]
+- **🎯 Góc nhìn "Hộp Đen Tri Thức":** [...]
+- **🎣 Gợi ý Hook (15s):** [...]
 
-══════════════════════════════════════════════════
-🕵️ TÌNH BÁO ĐỐI THỦ
-══════════════════════════════════════════════════
+*(Tương tự bóc đủ 8 mục chi tiết cho Chủ đề 2️⃣, 3️⃣, 4️⃣, 5️⃣ — KHÔNG CẮT BỚT)*
 
-• Tuấn Tiền Tỷ — Video gần nhất: [Tên + Views + Ngày đăng]
-• Tổ Buôn 24/7 — Video gần nhất: [Tên + Views + Ngày đăng]
-• Nhận xét: [Đối thủ đang tập trung chủ đề gì? Mình nên đánh
-  cùng hướng hay đánh hướng khác?]
+---
 
-══════════════════════════════════════════════════
-💡 GỢI Ý TIÊU ĐỀ VIRAL (3 tiêu đề cho chủ đề #1)
-══════════════════════════════════════════════════
+## 🕵️ 3. TÌNH BÁO ĐỐI THỦ (ĐỐI CHIẾU TRỰC TIẾP)
 
-• [Tiêu đề 1 — theo trend hot nhất, gây tò mò]
-• [Tiêu đề 2 — góc nhìn ngược, phản biện]
-• [Tiêu đề 3 — FOMO / kéo về nỗi đau người VN]
+- **Tuấn Tiền Tỷ / Củ Đậu Story / CD Media:** [...]
+- **👉 Kết luận chiến thuật & khoảng trống vàng:** [...]
 
-══════════════════════════════════════════════════
-🎯 ĐỀ XUẤT HÀNH ĐỘNG
-══════════════════════════════════════════════════
+---
 
-• 🥇 Nên làm NGAY: [Chủ đề #?] — Lý do: [...]
-• ⏰ Timing: [Đăng trong 24h / 48h / tuần này]
-• 📌 Lệnh tiếp theo: /tac_chien [chủ đề đã chọn]
+## 💡 4. GỢI Ý TIÊU ĐỀ VIRAL (CHO CHỦ ĐỀ #1)
+
+• **[Tiêu đề 1 — Theo trend hot, gây tò mò]:** [...]  
+• **[Tiêu đề 2 — Góc nhìn ngược, phản biện]:** [...]  
+• **[Tiêu đề 3 — FOMO / Kéo về nỗi đau]:** [...]
+
+---
+
+## 🎯 5. ĐỀ XUẤT HÀNH ĐỘNG CHO SẾP
+
+- 🥇 **Khuyên Sếp chọn:** **[Chủ đề]**
+- **File đính kèm:** Link tới file tài liệu báo cáo DOCX tại `outputs/YYYY-MM-DD_De_Xuat_Trend/00_de_xuat_trend.docx`
+- 📌 **Lệnh tiếp theo:** /tac_chien [chủ đề Sếp chọn]
 ```
 
 ---

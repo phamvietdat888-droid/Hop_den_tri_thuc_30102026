@@ -1,0 +1,12 @@
+# This repository lives on the T: drive, which is a user-mounted Google Drive.
+# The elevated Windows sandbox runs commands as a separate sandbox account;
+# that account cannot resolve the user's mapped drive and CreateProcess fails
+# before Python starts (typically "Access is denied" or Windows error 267).
+#
+# Keep the normal workspace boundary, but run with the current user's
+# restricted token so T: remains available to terminal commands.
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+
+[windows]
+sandbox = "unelevated"

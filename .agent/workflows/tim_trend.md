@@ -43,9 +43,9 @@ steps:
     
   - step: 4
     agent: 00_coordinator
-    action: Báo cáo & Đề xuất
+    action: Báo cáo & Đề xuất (BẮT BUỘC BẢN SIÊU CHI TIẾT 100%)
     input: Danh sách Top 5
-    output: Trình bày một cách rõ ràng cho Sếp lựa chọn
+    output: BÁO CÁO SIÊU CHI TIẾT 100% ĐẦY ĐỦ 5 PHẦN theo đúng mẫu `.shared/template_bao_cao_trinh_sat_trend.md` (Bóc đủ 8 mục cho CẢ 5 CHỦ ĐỀ, KHÔNG tóm tắt hay cắt ngắn) + đính kèm file DOCX
     gate: CHỜ SẾP CHỌN CHỦ ĐỀ
     
   - step: 5

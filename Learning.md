@@ -4,6 +4,51 @@
 
 ---
 
+## 2026-08-20 — Khả năng đặc biệt: Bóc tách vấn đề xã hội "Sâu mà dễ nuốt" ⭐ BẮT BUỘC VĨNH VIỄN
+
+Sếp yêu cầu học cách tiếp cận vấn đề xã hội sâu sắc, đa chiều, thú vị từ kịch bản mẫu "Giang hồ mạng nhập kho — Sợ vs Tôn trọng". Đã phân tích, đúc kết thành **Module đặc biệt**: `.shared/boc_tach_van_de_xa_hoi.md`.
+
+### 6 vũ khí tiếp cận (vận dụng LINH HOẠT tùy chủ đề, KHÔNG áp cứng):
+1. **Mở bằng sự kiện → lật sang câu hỏi sâu hơn** (hỏi "tại sao" 3 lần để tìm gốc rễ)
+2. **Đào vào tâm lý con người** — không phán xét, mà giải thích NHU CẦU ẩn phía dưới
+3. **Tái hiện đối thoại thực** — một đoạn đối thoại sống = mười đoạn phân tích
+4. **Đưa ra Framework bất ngờ** — "kim cương" của bài viết (thang bậc, quy trình ngầm, ma trận)
+5. **Ví von từ lĩnh vực hoàn toàn khác** — càng xa mà vẫn map được → càng "wow"
+6. **Kết bằng câu hỏi gốc rễ hoặc nghịch lý** — không giáo điều, để lại dư âm
+
+### Quy tắc vận dụng (Sếp chấn chỉnh trực tiếp):
+- **VẪN TUÂN THỦ 100%** mọi thiết lập trước đó (8 Module, 33 tiêu chí, pipeline, tone, từ cấm...)
+- Module này là **vũ khí bổ sung** — KHÔNG phải công thức cứng nhắc
+- Trước mỗi bài, phải **nghiên cứu kỹ chủ đề** rồi chọn vũ khí phù hợp, kết hợp sáng tạo
+- Có bài chỉ cần 2-3 vũ khí. Có bài cần cả 6. **Mục tiêu là bài viết HAY — không phải tick đủ checkbox**
+- **KHÔNG máy móc, KHÔNG cứng nhắc** — vận dụng sao cho bài viết thật sâu, thật thu hút, thật tự nhiên
+
+---
+
+## 2026-08-07 — Bài học về Tình báo Đối thủ Thực tế & Tránh Ảo tưởng Dữ liệu (Sếp chấn chỉnh trực tiếp) ⭐ BẮT BUỘC
+
+Rút kinh nghiệm sâu sắc từ đợt trinh sát trend & tình báo đối thủ (07/08/2026). AI đã bị Sếp chấn chỉnh trực tiếp ("tào lao quá") khi đưa dữ liệu phán đoán chủ quan, sai lệch hoàn toàn so với thực tế kênh Tuấn Tiền Tỷ (`@TuanTienTi2911`). 
+
+### 5 Quy tắc Kỷ luật Tình báo BẮT BUỘC áp dụng vĩnh viễn:
+
+1. **TUYỆT ĐỐI KHÔNG ẢO TƯỞNG / BỊA DỮ LIỆU TÌNH BÁO:**
+   - *Lỗi cũ:* Phán đoán Tuấn Tiền Tỷ "ra bài chậm, chưa động đến vụ bà Hằng" dựa trên dữ liệu web cũ. Trong khi THỰC TẾ kênh đã ra bài 13h trước với 172K views (*"Giải mã buổi livestream kỷ lục 2,1 triệu người..."*).
+   - *Quy tắc mới:* Tình báo đối thủ phải đọc trực tiếp **exact channel feed 24h gần nhất** (Tiêu đề, Lượt xem, Ngày/Giờ đăng). Không được phán đoán bề nổi.
+
+2. **DỪNG NAY VIỆC LÀM LẠI GÓC NÓNG ĐỐI THỦ ĐÃ XÀO (Né Đại Dương Đỏ):**
+   - Khi đối thủ lớn (Tuấn Tiền Tỷ) đã xào góc *"Tại sao người ta donate cho tỷ phú"*, Giải Mã 360 TUYỆT ĐỐI KHÔNG làm lại câu hỏi này để tránh mang tiếng "đu đuôi" ăn thừa view.
+
+3. **TÌM ĐIỂM TRỐNG ĐỘC BẢN (Đại Dương Xanh):**
+   - Tình báo chính xác là để tìm ra **cái đối thủ CHƯA LÀM**. Tuấn Tiền Tỷ châm biếm donate, Củ Đậu Story giật tít drama. Giải Mã 360 sẽ chiếm mảng **Vén màn thị trường kim cương & bẫy ngáo giá hàng xa xỉ** — giải thích bản chất kinh tế bằng ngôn ngữ quán nước bình dân.
+
+4. **TÔN TRỌNG THỰC TẾ & PHẢN ỨNG THỰC CHIẾN (Agile Re-strategizing):**
+   - Khi phát hiện dữ liệu sai lệch, lập tức nhìn thẳng thực tế, điều chỉnh ma trận đối đầu ngay lập tục mà không được chống chế hay bào chữa.
+
+5. **GIỮ VỮNG PERSONA "HỘP ĐEN TRI THỨC":**
+   - Dù bắt trend drama nóng, nội dung của mình phải đạt chuẩn "mẹ/bà nội nghe qua hiểu liền và phục lăn" vì học được bài học quản lý tiền bạc thực chất.
+
+---
+
 ## 2026-04-20 — Ngày thành lập hệ thống
 
 - Hoàn thành Prompt "Người Giải Mã" V5.1 — tích hợp 17 file phân tích kênh đối thủ TTT
@@ -114,7 +159,7 @@ Sau audit toàn diện dự án v3.0 (38 skills), thực hiện 7 quick win KHÔ
 - 0 thay đổi pipeline production. 8 Module + Anti-AI 3 tầng + 33 tiêu chí + Persona "Người Giải Mã" GIỮ NGUYÊN.
 
 **Bài học:**
-- **Lazy companion pattern**: file chi tiết tách ra `docs/*.md`, GEMINI.md chỉ giữ ref. Antigravity semantic match vẫn tìm thấy khi cần, nhưng không tốn token always-load.
+- **Lazy companion pattern**: file chi tiết tách ra `docs/*.md`, GEMINI.md chỉ giữ ref. Antigravity semantic match vẫn tìm thấy khi cần, me không tốn token always-load.
 - **`.antigravityignore` + `_lazy/`**: skill nặng (>500 lines) NÊN move sang `_lazy/` + ignore pattern thay vì xóa — giữ nguyên capability, chỉ giảm cost index.
 - **3-video review rule**: skill không trigger sau 3 video → downgrade tier hoặc move lazy. `.agent/metrics/skill_usage.md` track tự động.
 - **Centralize duplication**: mental models (Loss Aversion, ...) đã trùng 200 lines giữa `to_mo_loi_ich_module.md` ↔ `marketing-psychology` → gom về 1 source, file kia chỉ giữ tên + ref.
@@ -125,6 +170,7 @@ Sau audit toàn diện dự án v3.0 (38 skills), thực hiện 7 quick win KHÔ
 11. **TUYỆT ĐỐI KHÔNG QUÊN MEGA COMMENTS:** Khi phát sóng bài Facebook (Bước 6d), bắt buộc phải sinh luôn file `06e_mega_comments.json` chứa các bình luận mồi (seeding) và 2 CTA. Đừng đợi Sếp nhắc "thế file comment đâu em?".
 12. **Ảnh Thumbnail YouTube PHẢI LÀ 16:9:** Kích thước cho ảnh thumbnail kênh YouTube mặc định là tỷ lệ 16:9 (1280x720). Đừng nhầm lẫn với tỷ lệ 1.91:1 (1200x630) của ảnh bài đăng Facebook. Phải tự động tạo và lưu vào đúng thư mục `YouTube/thumbnail.png`.
 
+---
 
 ## 2026-07-30 — Quy chuẩn Trinh Sát Trend Đa Nguồn Chi Tiết 100% (v3.4 - Sếp duyệt) ⭐ BẮT BUỘC
 
@@ -137,47 +183,3 @@ Khi thực hiện Bước 0 (`/tim_trend`), hệ thống **TUYỆT ĐỐI KHÔNG
 5. **Hot trend TikTok & Facebook Reels (Short-form):** Dẫn cụ thể trào lưu short-form video hot (Hashtag, lượt xem tổng, dạng clip viral POV/map 3D/audio).
 6. **Sổ trí nhớ kênh (`so_tri_nho_kenh.md`):** Dẫn cụ thể ngày đăng, tiêu đề video cũ, luận điểm chốt để nối mạch "Vòng về video cũ" (Loopback).
 7. **News Sentiment Engine:** Phân tích chỉ số cảm xúc cộng đồng (% Tò mò/Lo lắng, Tranh luận, Tự hào/Tri ân).
-
----
-
-*(Bổ sung sau mỗi video)*
-
-
-## 2026-04-30 — Chẩn đoán Kênh & Vòng Xoáy Thuật Toán
-
-- **Không bao giờ xóa (Delete) video:** Chỉ sử dụng tính năng **Riêng tư (Private)** cho những video kém chất lượng (< 50 view) hoặc vi phạm chính sách. Xóa video sẽ làm gãy link nội bộ và khiến YouTube đánh giá kênh bị "mất dữ liệu", tụt Trust Score nghiêm trọng.
-- **Tẩy trắng Metadata:** YouTube AI dùng OCR quét chữ trên cả Thumbnail và quét Tiêu đề. Việc dùng từ Blacklist (Kinh hoàng, Sốc, Chấn động, Cú lừa) sẽ khiến video bị gắn cờ "Misleading Metadata" (Gây nhầm lẫn/Giật gân). Hậu quả là khóa van đề xuất. Nếu video cũ vi phạm mà view vẫn cao → phải sửa Tiêu đề (và thay Thumbnail nếu trên ảnh có chứa từ cấm).
-- **Vòng xoáy tử thần thuật toán (Algorithmic Death Spiral):** Khi kênh dính gậy bản quyền → hạ Trust Score. Nếu sau đó chủ kênh hoảng sợ và **nghỉ đăng liên tục 90 ngày**, thuật toán sẽ coi như "kênh bỏ cuộc", đóng băng phễu phân phối. Subscribers sẽ trở thành "sub ma". Khi đăng lại, CTR từ trang chủ sẽ tụt thảm hại (chỉ còn 1-2%).
-- **Cách cứu kênh (Bơm máu):** Kênh chưa chết hẳn nếu **CTR từ Đề xuất vẫn tốt (ví dụ >10%)** khi được hiển thị. Cần một chiến dịch "Bơm máu": Đăng liên tục 7 video (1 video/2 ngày) với Tiêu đề SẠCH HOÀN TOÀN để ép AI đánh giá lại.
-
-## 2026-05-24 — Khắc phục lỗi DOCX Sandbox, Chuẩn Hóa Tỷ Lệ Ảnh & Đăng Bài Seeding Facebook Tự Động
-
-Rút kinh nghiệm sâu sắc từ đợt tác chiến chủ đề "Nhà Cho Thuê", hệ thống chính thức cập nhật và đồng bộ 3 quy tắc cốt lõi sau để chạy tự động hoàn hảo trong các phiên làm việc tiếp theo:
-
-### A. Quy trình Xuất Bản DOCX tự thân (v3.2)
-- **Bài học:** Không phụ thuộc vào ứng dụng Word COM bên ngoài (tránh lỗi bảo mật DCOM Access Denied của Sandbox Windows) và tránh việc cài đặt PyPI bị chặn mạng.
-- **Giải pháp:** Sử dụng công cụ tự thân `scripts/convert_markdown_to_docx_v3.py`. Công cụ này copy cấu hình lề và style từ template mẫu chuẩn của Sếp (`outputs/2026-04-22_Trump_5_Thang_Lich_Su/YouTube/06_kich_ban_hoan_thien.docx`), sau đó giải nén, dịch mã kịch bản Markdown sang OpenXML chuẩn, ghi đè vào `word/document.xml` rồi nén ZIP lại.
-- **Đầu ra:** 100% chuẩn chỉ .docx, căn lề Justify, font Times New Roman 14pt, giãn dòng 1.15, tô màu highlight đệ quy chuẩn chỉnh. Sếp tuyệt đối không còn nhận file lỗi hay trống chữ.
-
-### B. Quy chuẩn Tỷ lệ Ảnh Đa Nền tảng (YouTube 16:9 & Facebook 6:16)
-- **Ảnh Thumbnail YouTube (Ngang 16:9):** Bắt buộc phải hiển thị dạng ngang 16:9. Do trình tạo ảnh AI mặc định ra khung vuông (1:1), ta thiết lập Prompt đóng khung đen trên-dưới (Letterbox) để ép phần nội dung hoạt họa chính hiển thị hoàn hảo ở dải ngang 16:9 ở giữa. Sếp có thể dùng ngay hoặc crop nhẹ viền đen.
-- **Ảnh Thumbnail Facebook (Dọc 6:16):** Bắt buộc phải là ảnh dọc 6:16 tối ưu cho hiển thị mobile feed. Ta thiết lập Prompt đóng khung đen hai bên (Pillarbox) để nội dung chính nằm gọn trong dải dọc 6:16 ở giữa.
-
-### C. Quy trình Tự Động Đăng Bài & Seeding Fanpage Giải Mã 360
-- **Đăng bài kèm ảnh dọc (`scripts/post_to_fb.ps1`):** Tự động đọc file Markdown bài viết, bỏ qua 5 dòng metadata đầu, dọn dẹp ký tự `**` Markdown, xuất mã UTF-8 không BOM để bảo toàn tiếng Việt và đăng kèm ảnh dọc `thumbnail_fb.png` (nếu Sếp đã tải ảnh về) hoặc tự động chuyển sang đăng Text-only nếu chưa có ảnh.
-- **Seeding 5 Mega Comments (`scripts/post_seeding.ps1`):** Cập nhật sửa lỗi cũ (trước đây gửi cả Object JSON gây lỗi API, nay đã sửa để lấy đúng trường văn bản `.content`). Tập lệnh chạy seeding tự động 5 bình luận đại diện cho 5 nhóm khán giả cách nhau mỗi 3 giây dựa trên Post ID Sếp nhập vào để đảm bảo độ mượt và tránh bộ lọc Spam của Facebook.
-
-## 2026-07-02 — Đại tu Đồng bộ v3.2 + Đóng gói Claude Projects
-
-Audit toàn hệ phát hiện 7 nhóm bất nhất tích tụ qua các đời phiên bản. Đã vá triệt để, KHÔNG đụng 8 Module / Anti-AI / persona:
-
-1. **Hợp nhất kiểm định về 1 nguồn:** `checklist.md` (33 tiêu chí, 8 nhóm A-H, 5 VETO: #16/#23/#27/#29/#30) là nguồn chấm điểm DUY NHẤT. Xóa bảng 22 tiêu chí cũ trong `giai_ma_360_skill.md`; sửa mọi chỗ ghi "22/23 tiêu chí" (README, workflows, Agent 03).
-2. **Chuẩn hóa tên file output (khớp outputs/ thực tế):** `06_kich_ban_hoan_thien.md|.docx` · `06b_goi_seo.md|.docx` · `thumbnail.png` (YT 16:9) · `06d_bai_dang_fb.md|.docx` · `06e_mega_comments.json` · `thumbnail_fb.png` (FB dọc 6:16). Các tên cũ (`06_script_final`, `06b_tieu_de`, `06d_facebook_post`, `06d_fb_post`, `06e_fb_seeding`) hết hiệu lực.
-3. **Chính thức hóa Bước 6f (Shorts):** Đưa `/tao_short` + `youtube_short_skill` vào GEMINI.md §4/§7/§8, Agent 04, `san_xuat_kich_ban.md`. Đánh số Bước 6 thống nhất: 6a Clean+DOCX · 6b SEO · 6c Thumbnail · 6d Facebook · 6e Seeding · 6f Shorts · cuối cùng Kho Vũ Khí.
-4. **Vá tham chiếu ma:** `phan_tich_studio_skill` → `kham_kenh_skill` (chế độ /kham_video); `outputs/nguoi_giai_ma_v1.md` → `prompts/`; `Obsidian/Chien_Luoc_Phat_Trien.md` → root; `skills/md_to_docx_v2.py` → `scripts/`; xóa ref `ke_hoach_nang_cap_skill_v3.0.md`.
-5. **Đồng bộ bảng lệnh GEMINI §7:** bổ sung `/tao_short`, `/mo_ta`, `/tu_khoa`, `/seeding`, `/kham_kenh|/kham_video|/kham_nhanh`, `/studio`, `/rip_transcript`, `/bao_cao_tuan|thang`.
-6. **Chốt spec ảnh 2 nền tảng:** YT ngang 16:9 Letterbox · FB dọc 6:16 Pillarbox (`format_facebook.md` đã sửa, hết xung đột với spec 1200×630 cũ — spec đó chỉ còn cho link preview).
-7. **Khử trùng lặp workflow:** `tac_chien.md` chuyển thành ALIAS trỏ về `san_xuat_kich_ban.md` — hết cảnh 2 pipeline song song lệch nhau.
-
-**Đóng gói Claude Projects:** Toàn bộ hệ được chưng cất thành bộ `NKTC_Claude_Project/` (CLAUDE.md + 10 file kiến thức hợp nhất, tiếng Việt 100%, đã rút tinh chất 27 community skills vào quy tắc) — dùng cho mục Project của Claude chat, nơi không có file system/script/semantic-match skill.
-

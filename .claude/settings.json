@@ -27,7 +27,12 @@
       "PowerShell(python scripts/md_to_docx_v2.py*)",
       "Skill(update-config)",
       "Skill(update-config:*)",
-      "Bash(python -c \"import json; json.load\\(open\\('.claude/settings.json', encoding='utf-8'\\)\\); print\\('VALID JSON'\\)\")"
+      "Bash(python -c \"import json; json.load\\(open\\('.claude/settings.json', encoding='utf-8'\\)\\); print\\('VALID JSON'\\)\")",
+      "Bash(python scripts/md_to_docx_v2.py \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube_Shorts/short_02/kich_ban_short.md\" \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube_Shorts/short_02/kich_ban_short.docx\")",
+      "Bash(python scripts/md_to_docx_v2.py \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube_Shorts/short_01/kich_ban_short.md\" \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube_Shorts/short_01/kich_ban_short.docx\")",
+      "Bash(python scripts/md_to_docx_v2.py \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube/06_kich_ban_hoan_thien.md\" \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube/06_kich_ban_hoan_thien.docx\")",
+      "Bash(python scripts/md_to_docx_v2.py \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube/06b_goi_seo.md\" \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/YouTube/06b_goi_seo.docx\")",
+      "Bash(python scripts/md_to_docx_v2.py \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/Facebook/06d_bai_dang_fb.md\" \"outputs/2026-08-05_Do_Thi_San_Bay_Long_Thanh/Facebook/06d_bai_dang_fb.docx\")"
     ]
   }
 }

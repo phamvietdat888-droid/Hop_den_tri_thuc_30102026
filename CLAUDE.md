@@ -14,6 +14,7 @@
 | Vai trò 5 Agent | `.agent/agents/00-04_*.md` |
 | Quy trình chuẩn | `.agent/workflows/san_xuat_kich_ban.md` (pipeline DUY NHẤT) |
 | DNA viết lách (giọng, từ cấm, hook, liên hệ người xem, ví von, lịch sử VN) | `.shared/*.md` |
+| ⭐ Bóc tách vấn đề xã hội sâu sắc (BẮT BUỘC cho mọi bài chính trị-xã hội) | `.shared/boc_tach_van_de_xa_hoi.md` |
 | Kiểm định + tuân thủ | `checklist.md` + `.shared/compliance_shield.md` |
 | 9 skill nghiệp vụ | `skills/*.md` |
 | Kho vũ khí tái sử dụng | `.shared/kho_vu_khi/` |

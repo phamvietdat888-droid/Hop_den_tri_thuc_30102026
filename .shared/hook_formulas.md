@@ -13,6 +13,7 @@ Khán giả quyết định ở lại hay lướt đi **CHỈ TRONG 15–20 GIÂ
 4. Kết Hook bằng **lời hứa giá trị** + (nếu có thể) **treo một mồi** (open loop) chỉ trả lời ở cuối.
 5. **KHÔNG clickbait rỗng** — hứa gì phải trả nấy trong nội dung. Tham chiếu `.shared/tu_cam.md` mục F.
 6. **Lồng ghép Bối cảnh (Context-Integrated Hook):** KHÔNG nhảy bổ vào câu hỏi hoặc nghịch lý khi khán giả chưa nắm được sự kiện nền. Yêu cầu tóm tắt sự kiện/bối cảnh trong 1-2 câu đầu trước khi tung "cú móc" để người xem không bị "cụt" và hình dung được câu chuyện ngay từ đầu.
+7. **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI:** Hook là cú đấm tò mò độc lập; Thân bài phải lập tức đi vào phân tích góc nhìn mới, cơ chế và dữ liệu mới mà KHÔNG nhại lại hoặc lặp lại ý tứ, câu chữ của Hook (đặc biệt trong các bài viết ngắn ~200-800 từ và kịch bản).
 
 ---
 
