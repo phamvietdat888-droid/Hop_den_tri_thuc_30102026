@@ -1,3 +1,8 @@
+---
+name: san-xuat-kich-ban
+description: "Điều phối pipeline sản xuất kịch bản và các gói nội dung xuất bản."
+---
+
 # Workflow: Sản Xuất Kịch Bản — Pipeline chuẩn
 > **Trigger chính:** `/tac_chien [chủ đề]`
 > **Trigger trinh sát:** `/tim_trend [từ khóa]`
@@ -213,4 +218,3 @@ Skill: skills/dang_fanpage_skill.md
 Agent: 04_publisher
 Schedule: Mặc định hẹn 19:00 VN
 ```
-

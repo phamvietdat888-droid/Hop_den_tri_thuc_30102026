@@ -1,3 +1,8 @@
+---
+name: tac-chien
+description: "Khởi động và điều phối quy trình tác chiến sản xuất nội dung."
+---
+
 # Workflow: Tác Chiến (Sản xuất Kịch bản)
 > **Trigger:** `/tac_chien [chủ đề]`
 > **⚠️ v3.2:** File này là ALIAS. Pipeline chuẩn DUY NHẤT của toàn hệ thống: `san_xuat_kich_ban.md` (cùng thư mục). Mọi chi tiết bước/gate/tên file lấy ở đó — KHÔNG duy trì 2 bản song song.

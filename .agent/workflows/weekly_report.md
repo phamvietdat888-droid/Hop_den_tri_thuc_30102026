@@ -1,3 +1,8 @@
+---
+name: weekly-report
+description: "Tổng hợp báo cáo hoạt động theo tuần, tháng hoặc khoảng ngày."
+---
+
 # Workflow — BÁO CÁO TUẦN / THÁNG (Auto-Generated)
 
 > **Mục đích:** Tự động sinh báo cáo tuần/tháng dùng skill `sred-project-organizer` — Sếp không cần gõ tay.

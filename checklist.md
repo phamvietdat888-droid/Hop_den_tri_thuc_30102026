@@ -9,9 +9,10 @@
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
 | 1 | Hook lồng ghép Bối cảnh (≤ 100 từ), câu đầu ≤ 15 từ, KHÔNG nhảy bổ vào câu hỏi/nghịch lý khi chưa tóm tắt sự kiện nền. Cầu nối hứa hẹn giá trị rõ ràng (vì sao nên xem). Có curiosity gap + open loop. **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI** (thân bài mở ra góc nhìn mới, không nhại lại ý Hook) | ☐ |
+| 1b | *(MẤU CHỐT — v3.4)* **Có "Câu Cầu Nối Nêu Vấn Đề" ngay sau Hook** — 1-2 câu hỏi/khẳng định nêu rõ vấn đề cốt lõi sắp bóc tách + tạo đà dẫn dắt tự nhiên sang thân bài. CẤM câu dẫn rỗng kiểu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé"*. Cấu trúc: `[Hook] → [Câu cầu nối] → [Thân bài]` | ☐ |
 | 2 | Tổng kịch bản 1200-1600 từ | ☐ |
 | 3 | Nhịp "hạt hấp dẫn" mỗi 15-20 giây (số liệu/chi tiết lạ/câu đùa/câu hỏi treo) — không đoạn "chết" | ☐ |
-| 4 | CTA cộng đồng chèn tự nhiên sau cao trào (hỏi ý kiến / mời đặt chủ đề) | ☐ |
+| 4 | CTA cộng đồng chèn tự nhiên sau cao trào (hỏi ý kiến / mời đặt chủ đề); kết thúc gắn câu chốt bắt buộc: *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* | ☐ |
 | 5 | Kết bài CÂN BẰNG, an toàn, theo TRÌNH TỰ MỚI (`chien_luoc...` mục G): (1) **Câu mang về** ≤ 25 từ → (2) **bài học vượt case** (nâng lên nguyên lý áp được vào đời người xem) → (3) quan điểm khiêm tốn KT14 *nếu chủ đề cho phép* → (4) câu hỏi mở + CTA. Không phán xử một chiều | ☐ |
 | 5b | *(phụ — không VETO)* Kết có **"Câu mang về"**: *"Nếu cả video chỉ được giữ lại một câu, mình mong bạn giữ câu này: …"* — ≤ 25 từ, nén đúng luận điểm trung tâm | ☐ |
 
@@ -32,6 +33,7 @@
 | 12e | **Đào tới BẢN CHẤT** (KT9) — hỏi "vì sao" tới gốc rễ, không dừng bề mặt; có liên hệ thế giới ĐÚNG & hợp lý (hoặc ghi rõ bỏ qua) | ☐ |
 | 12f | **CTA sau CAO TRÀO** — có ≥ 1 lời kêu gọi like/chia sẻ/đăng ký chèn khéo ngay sau chi tiết ấn tượng (không van nài, không rải lung tung) | ☐ |
 | 12g | *(phụ — không VETO)* **≥ 1 ghim công khai (KT11) có vòng về** — chi tiết được tuyên bố sẽ quay lại PHẢI quay lại ở Lớp sâu/Cao trào với tầng nghĩa mới — HOẶC ghi rõ bỏ qua | ☐ |
+| 12h | **BẮT BUỘC có Mồi giữ chân tự nhiên (KT15)** ở cuối mỗi khối/ý lớn trước khi chuyển đoạn. TUYỆT ĐỐI CẤM văn mẫu YouTube rườm rà sáo rỗng (*"Nghe thì có vẻ", "Khoan đã"*). Phải băm thẳng vào **Tò mò / Nỗi sợ / Lòng tham**. **CẤM trùng lặp nội dung với đoạn ngay sau** (mồi chỉ gợi mở, đoạn sau phải mở ra góc nhìn/dữ kiện MỚI). **CẤM lặp mô típ** giữa các mồi trong cùng 1 bài | ☐ |
 
 ## C. CHIỀU SÂU & LIÊN HỆ (3 tiêu chí)
 
@@ -93,7 +95,7 @@
 |---|---|---|
 | 24 | Bài FB 500-800 từ, mỗi đoạn ≤ 4 dòng, giãn dòng cho mobile | ☐ |
 | 25 | Giữ giọng "Hộp Đen Tri Thức" + tuân thủ `tu_cam.md` + xưng hô "mình / bạn / các bạn" | ☐ |
-| 26 | Có CTA cuối bài + hashtag `#giaima360` + ≥ 3 hashtag chủ đề + ảnh thumbnail | ☐ |
+| 26 | Có CTA cuối bài (kèm câu bắt buộc: *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."*) + hashtag `#giaima360` + ≥ 3 hashtag chủ đề + ảnh thumbnail | ☐ |
 | 27 | **KHÔNG clickbait rỗng (E11)** trong caption/tiêu đề FB — tuân thủ Blacklist F1 + Quy tắc F2 (`tu_cam.md`) | ☐ |
 | 28 | **KHÔNG rác text (E13)** — Bài nháp FB trên `.md` phải trần trụi, KHÔNG chứa metadata hay blockquote | ☐ |
 | 29 | **KHÔNG vi phạm (E14)** — Nội dung Seedings và Post tuyệt đối vắng bóng ngôn từ thô tục, nhục mạ cá nhân | ☐ |

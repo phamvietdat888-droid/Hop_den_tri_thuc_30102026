@@ -2,7 +2,7 @@
 > Ra đời từ phân tích đối chuẩn kênh tham chiếu (07/2026). Mũ Chấp bút đọc CÙNG `tone_guide.md`, `hook_formulas.md` và `storytelling_arsenal.md`. Khi mâu thuẫn với file cũ, file này THẮNG (trừ các quy tắc VETO và Compliance — bất khả xâm phạm).
 > **Bản đồ tên file (bản Claude Projects → vault này):** `01_Persona` = `tone_guide.md` · `02_Hook_va_Vu_Khi` = `hook_formulas.md` + `storytelling_arsenal.md` · `04_Tu_Cam` = `tu_cam.md` · `05_Compliance_Shield` = `compliance_shield.md` · `06_Checklist` = `checklist.md`.
 
-## A. 5 KỸ THUẬT MỚI (KT10–KT14)
+## A. 6 KỸ THUẬT MỚI (KT10–KT15)
 
 ### KT10 — DỒN CÂU HỎI XÂY THẾ BÍ (Dilemma Cascade) ⭐ dùng ở Bối cảnh/mở khối lớn
 Thay vì nêu vấn đề bằng một câu hỏi, dựng CHUỖI 3–5 câu hỏi liên tiếp, mỗi câu CHẶN MỘT LỐI THOÁT, dồn người xem vào cảm giác "bài toán không lời giải" → buộc ở lại nghe lời giải.
@@ -29,6 +29,36 @@ CẤM: bịa "hồi lớp 12 mình…" khi không có chất liệu Sếp cấp.
 Người xem theo dõi một con người có chính kiến, không theo dõi máy đọc tin trung lập. Công thức 3 nhịp ở phần Kết:
 > *"Còn nếu hỏi thẳng mình nghiêng về đâu, thì nói thật: mình nghiêng về [X], vì [1 lý do đã chứng minh trong bài]. Nhưng đó là góc nhìn của mình, và mình có thể sai. Còn bạn nghĩ sao?"*
 Phạm vi áp dụng: chủ đề xã hội, kinh tế, giáo dục, khoa học đang bàn luận công khai. KHÔNG áp dụng (giữ trung lập tuyệt đối + câu phòng thủ cũ): chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử, chủ đề chạm `compliance_shield.md` mục C. Quan điểm chỉ được nêu SAU khi đã trình bày công bằng các phía.
+
+### KT15 — MỒI GIỮ CHÂN TỰ NHIÊN (Natural Retention Hook) ⭐ Dùng cuối mỗi khối/chuyển ý
+Thay vì dùng "văn mẫu YouTube" sáo rỗng, rườm rà (như: *"Nghe thì có vẻ...", "Khoan đã", "Sự thật cực kỳ phũ phàng ở phần tiếp theo"*), hãy thả mồi một cách **tự nhiên, gai góc và hòa vào mạch truyện**.
+> **Tuyệt chiêu:** Đẩy vấn đề lên cao trào, sau đó băm thẳng vào 1 trong 3 huyệt tâm lý: **Tò mò** (ẩn số chưa giải) - **Nỗi sợ** (sợ mất tiền, bị lừa, úp sọt) - **Lòng tham** (cơ hội đổi đời).
+> *"Sức nóng đó đủ để một nông dân sau một đêm biến thành tỷ phú. Hoặc... đủ để một gia đình mất sạch tiền tiết kiệm vì lỡ ôm đất ngay miệng cọp. Bí mật nằm ở chỗ: cá mập đã đánh hơi thấy máu từ bao giờ?"*
+**Quy tắc:**
+1. Tuyệt đối không giải thích dông dài trước khi thả mồi. Tung ra một câu hỏi chí mạng hoặc nửa sự thật khiến khán giả *buộc-phải-biết-đáp-án* để chuyển mượt sang ý sau.
+2. **CẤM TRÙNG LẶP NỘI DUNG VỚI ĐOẠN SAU (BẮT BUỘC VĨNH VIỄN):** Mồi giữ chân chỉ được **gợi mở, hé lộ một nửa** — tuyệt đối KHÔNG được tiết lộ hay diễn giải trùng khớp với nội dung đoạn ngay sau đó. Nếu mồi đã nói "bầy cá mập bắt đầu đánh hơi thấy máu", thì đoạn tiếp theo PHẢI mở ra bằng một góc nhìn mới, một dữ kiện mới, một lớp sâu hơn — KHÔNG ĐƯỢC mở đầu bằng việc nhắc lại "cá mập gom đất". Mồi là cú giật cần câu, phần sau là con cá hoàn toàn khác. Vi phạm quy tắc này = mất hiệu lực giữ chân, khán giả thấy bị lừa và lướt đi.
+3. **Mỗi mồi trong cùng 1 bài phải KHÁC MÔ TÍP** — không được 3 mồi cùng kiểu "đánh vào nỗi sợ" hay cùng dùng cấu trúc "A. Hoặc... B. Bí mật nằm ở chỗ...". Đảo liên tục giữa Tò mò / Nỗi sợ / Lòng tham và thay đổi cách diễn đạt để khán giả không nhận ra mô típ lặp.
+
+### KT16 — CÂU NỐI CUỐI PHẦN PHẢI TẠO LÝ DO TÒ MÒ (BẮT BUỘC VĨNH VIỄN — 09/2026) ⭐
+Câu nối cuối mỗi phần/mục KHÔNG PHẢI là "biển chỉ đường" (chỉ giới thiệu phần tiếp theo) mà phải là "miếng mồi" — tạo ra một LÝ DO CỤ THỂ khiến người xem/đọc BUỘC PHẢI đọc tiếp để tìm câu trả lời.
+
+**3 cách tạo lý do tò mò hợp lệ:**
+1. **Gieo câu hỏi thực tế:** Đặt một câu hỏi mà người đọc chỉ tìm được đáp án ở phần sau. VD: *"Vậy làm sao để lôi kéo họ ghé vào nhà mình thay vì chạy sang nhà hàng xóm?"*
+2. **Gieo mâu thuẫn / nghịch lý:** Nêu ra một tình huống bất ngờ, khiến người đọc phải xem tiếp để hiểu vì sao. VD: *"Bà con làm ra bao nhiêu của ngon vật lạ mà lại đang bị kẹt cứng ở đúng một chỗ."*
+3. **Gieo lợi ích / thiệt hại cụ thể:** Ám chỉ một hệ quả lớn mà người đọc quan tâm. VD: *"Nếu không thông được chỗ kẹt này, bao nhiêu công sức coi như mất đi một nửa giá trị."*
+
+**Quy tắc ngôn ngữ (BẮT BUỘC):**
+- Câu nối PHẢI viết bằng ngôn ngữ bình dân, dạng giải thích, như ngồi quán nước nói chuyện.
+- TUYỆT ĐỐI KHÔNG dùng từ khẩu hiệu, đao to búa lớn trong câu nối (xem `.shared/tu_cam.md` mục I).
+- CẤM các cụm: *"đanh thép", "quyền lực", "xả băng", "khoan đã", "con rồng ngủ quên", "thỏi nam châm hút cạn dòng tiền"*... — thay bằng ngôn ngữ đời thường.
+- Test: *"Mẹ mình đọc câu nối này có thấy tự nhiên và muốn nghe tiếp không?"*
+
+**Ví dụ ĐÚNG:**
+> *"Thế nhưng, chở hàng trong nước nhanh nhẹn thôi thì chưa đủ để làm giàu. Muốn kiếm tiền tỷ đô thật sự, chúng ta phải đón được những chuyến tàu biển khổng lồ từ nước ngoài vào. Vậy làm sao để lôi kéo họ ghé vào nhà mình thay vì chạy sang nhà hàng xóm?"*
+
+**Ví dụ SAI (khẩu hiệu, đao to búa lớn):**
+> ~~*"Và siêu dự án tiếp theo chính là câu trả lời đanh thép nhất!"*~~ → giọng diễn văn, không phải giọng giải thích.
+> ~~*"Mảnh ghép quyền lực đó chính là..."*~~ → khẩu hiệu cờ quạt.
 
 ## B. KHO KEO NỐI MỞ RỘNG — TĂNG MẬT ĐỘ
 Chuẩn mới: **mỗi 2–3 câu có ≥1 liên từ văn nói** (chuẩn cũ 3–4 câu là quá thưa cho định dạng nghe). Không lặp một cụm quá 2 lần/kịch bản — kho đủ rộng để đảo:

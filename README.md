@@ -61,6 +61,19 @@ Xem bản mẫu nghiệm thu: `outputs/2026-07-05_Bong_De_DEMO/` (kịch bản +
 4. **Scripts PowerShell** (`.ps1`) chạy trên máy Windows, không chạy trong sandbox Cowork.
 5. **Tuyệt đối không bịa số liệu** — mọi con số phải xác minh, chưa chắc thì ghi `[CẦN XÁC MINH]`.
 
+## 6. Lớp tăng trưởng YouTube đã hợp nhất
+
+Dự án này hiện bao gồm nguyên vẹn gói `skills/claude-youtube/` từ dự án Claude
+YouTube. Gói bổ sung 14 phân hệ về audit kênh, SEO, retention, hook, thumbnail,
+strategy, calendar, Shorts, analytics, repurpose, monetization, competitor,
+metadata và ideation; kèm reference, template và script API.
+
+Pipeline Giải Mã 360 vẫn là xương sống: nội dung mới đi qua 2 Gate, giọng Hộp Đen
+Tri Thức, Compliance Shield, checklist 33 tiêu chí và output `.docx`. Lớp Claude
+YouTube chỉ bổ sung dữ liệu và tối ưu tăng trưởng, không tạo pipeline hay thư mục
+output thứ hai. Xem đầy đủ mapping tại
+`docs/claude_youtube_integration.md`.
+
 ---
 
 *Dựng bởi Cowork · nhân bản cấu trúc NKTC + thay giọng theo phân tích transcript edutainment.*

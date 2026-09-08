@@ -1,3 +1,8 @@
+---
+name: pipeline-state
+description: "Duy trì bộ nhớ trạng thái và tiến độ cho từng dự án nội dung."
+---
+
 # Workflow — PIPELINE STATE (Persistent Working Memory)
 
 > **Mục đích:** Áp dụng skill `planning-with-files` để mỗi project (1 video) có **"bộ nhớ làm việc trên đĩa"** dạng markdown — Sếp và Agent luôn biết pipeline đang ở đâu, không phải scroll lại lịch sử chat.

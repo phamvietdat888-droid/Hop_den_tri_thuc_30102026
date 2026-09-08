@@ -1,3 +1,8 @@
+---
+name: tim-trend
+description: "Trinh sát xu hướng đa nguồn và đề xuất chủ đề tiềm năng."
+---
+
 # Workflow: Trinh Sát Trend
 > **Trigger:** `/tim_trend [từ khóa]` (từ khóa tùy chọn)
 

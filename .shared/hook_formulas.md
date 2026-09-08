@@ -14,6 +14,37 @@ Khán giả quyết định ở lại hay lướt đi **CHỈ TRONG 15–20 GIÂ
 5. **KHÔNG clickbait rỗng** — hứa gì phải trả nấy trong nội dung. Tham chiếu `.shared/tu_cam.md` mục F.
 6. **Lồng ghép Bối cảnh (Context-Integrated Hook):** KHÔNG nhảy bổ vào câu hỏi hoặc nghịch lý khi khán giả chưa nắm được sự kiện nền. Yêu cầu tóm tắt sự kiện/bối cảnh trong 1-2 câu đầu trước khi tung "cú móc" để người xem không bị "cụt" và hình dung được câu chuyện ngay từ đầu.
 7. **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI:** Hook là cú đấm tò mò độc lập; Thân bài phải lập tức đi vào phân tích góc nhìn mới, cơ chế và dữ liệu mới mà KHÔNG nhại lại hoặc lặp lại ý tứ, câu chữ của Hook (đặc biệt trong các bài viết ngắn ~200-800 từ và kịch bản).
+8. **MỖI PHƯƠNG ÁN HOOK PHẢI CÓ CÂU CẦU NỐI RIÊNG (BẮT BUỘC VĨNH VIỄN — 09/2026):** Khi biên soạn nhiều phương án Hook (VD: Hook nghịch lý + Hook cảm xúc), TUYỆT ĐỐI KHÔNG viết chung 1 câu cầu nối cho tất cả. Mỗi phương án Hook phải kèm câu cầu nối được "may đo" riêng, bắt rễ trực tiếp từ ý tứ và ngữ cảnh của chính Hook đó. Lý do: câu cầu nối chung sẽ chỉ ăn khớp với 1 Hook mà lệch hoàn toàn so với Hook còn lại, khiến mạch văn bị cụt.
+
+---
+
+## ⭐ QUY TẮC "CÂU CẦU NỐI NÊU VẤN ĐỀ" — BẮT BUỘC VĨNH VIỄN (v3.4 — 08/2026)
+
+> **Nguyên tắc sống còn:** Hook mạnh mà KHÔNG có câu cầu nối = người xem/đọc bị CỤT, mất mạch, lướt đi. Câu cầu nối là **mắt xích mấu chốt** giữ chân người xem ngay sau cú móc tò mò.
+
+**SAU MỖI HOOK, BẮT BUỘC CÓ 1 "CÂU CẦU NỐI NÊU VẤN ĐỀ"** — câu hỏi hoặc câu khẳng định ngắn gọn có chức năng:
+1. **Nêu rõ vấn đề cốt lõi** mà bài viết/kịch bản sắp giải đáp — để người xem/đọc biết "mình sắp được hiểu cái gì".
+2. **Tạo đà dẫn dắt tự nhiên** từ Hook sang thân bài — tránh bị cụt, mất tự nhiên, nhảy vọt ý.
+
+**Cấu trúc bắt buộc:**
+```
+[HOOK — cú đấm tò mò / gây sốc / nghịch lý]
+↓
+[CÂU CẦU NỐI NÊU VẤN ĐỀ — 1-2 câu hỏi/khẳng định nêu rõ vấn đề sắp bóc tách]
+↓
+[THÂN BÀI — bóc tách cơ chế, dữ kiện, giải pháp]
+```
+
+**Ví dụ ĐÚNG:**
+- Hook: *"Dân mình cày cuốc cả đời không mua nổi cái nhà, đơn giản vì mỗi ngày hồ sơ dự án bị ngâm trên bàn làm việc, giá căn nhà lại bị 'đội' thêm tiền lãi vay ngân hàng."*
+- **Câu cầu nối:** *"Nhưng rốt cuộc ai đang 'đội' giá, đội bằng cách nào, và liệu có cách nào kéo nó xuống không?"*
+- Thân bài: [bóc tách chi tiết...]
+
+**Ví dụ SAI (thiếu câu cầu nối → bị cụt):**
+- Hook: *"Mảnh đất ấy, ông bà để lại... Giờ thì Chính phủ đặt lên bàn một đề xuất mới."*
+- ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ ← CẤM! Câu này rỗng, không nêu vấn đề gì cụ thể.
+
+**Áp dụng:** Mọi loại nội dung (kịch bản YouTube dài, Shorts, bài viết Facebook, bài viết ngắn ~200-800 từ). Mọi Agent, mọi phiên làm việc. KHÔNG CẦN Sếp nhắc lại.
 
 ---
 

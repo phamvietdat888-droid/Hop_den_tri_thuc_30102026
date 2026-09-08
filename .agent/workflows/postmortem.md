@@ -1,3 +1,8 @@
+---
+name: postmortem
+description: "Tạo báo cáo hậu kiểm hiệu suất sau khi video được xuất bản."
+---
+
 # Workflow — POSTMORTEM Sau Video
 
 > **Mục đích:** Tự động sinh báo cáo Postmortem sau khi video lên sóng 24h, dùng skill `sred-work-summary` làm retrospective engine.

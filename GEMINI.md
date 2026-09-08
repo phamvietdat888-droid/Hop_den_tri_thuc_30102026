@@ -83,9 +83,16 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 - **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI (BẮT BUỘC VĨNH VIỄN)**:
   + Hook là "cú đấm tò mò / gây sốc / nghịch lý" độc lập. Thân bài BẮT BUỘC lập tức đi vào bóc tách cơ chế, dữ kiện và giá trị mới mà **TUYỆT ĐỐI KHÔNG lặp lại câu chữ, ngữ cảnh hay ý tứ của Hook**.
   + Đặc biệt trong các bài viết ngắn (~200 - 800 từ) và kịch bản, mỗi câu viết ra phải mang thông tin mới, cấm nhại lại lời mở đầu làm loãng dung lượng bài viết.
-- **TỰ ĐỘNG KÈM GÓI SEO ĐẦY ĐỦ (BẮT BUỘC VĨNH VIỄN)**: Mọi nội dung/bài viết/kịch bản được tạo ra BẮT BUỘC TỰ ĐỘNG đi kèm Gói SEO đầy đủ (gồm **10 tiêu đề ngắn gọn siêu thu hút**, **đoạn mô tả chuẩn SEO ~150-250 từ**, và **bộ thẻ Hashtag tối ưu tìm kiếm**) cùng file `.docx` tương ứng (`06b_goi_seo.docx`) mà KHÔNG để Sếp phải nhắc hay đòi lại ở bất kỳ phiên làm việc nào.
+- **BẮT BUỘC CÓ "CÂU CẦU NỐI NÊU VẤN ĐỀ" SAU HOOK (BẮT BUỘC VĨNH VIỄN — v3.4)**: Ngay sau Hook, BẮT BUỘC có 1-2 câu hỏi hoặc câu khẳng định ngắn gọn **nêu rõ vấn đề cốt lõi** mà bài viết/kịch bản sắp giải đáp, đồng thời **tạo đà dẫn dắt tự nhiên** sang thân bài — tránh bị cụt, mất mạch, nhảy vọt ý. Hook mạnh mà thiếu câu cầu nối = người xem/đọc bị CỤT và lướt đi. Đây là **mắt xích mấu chốt giữ chân người xem/đọc ngay từ đầu**. Cấu trúc bắt buộc: `[Hook] → [Câu cầu nối nêu vấn đề] → [Thân bài]`. CẤM dùng câu dẫn rỗng kiểu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé"* — phải nêu cụ thể vấn đề gì. Chi tiết + ví dụ: `.shared/hook_formulas.md` mục "Câu Cầu Nối Nêu Vấn Đề".
+- **TỰ ĐỘNG KÈM GÓI SEO ĐẦY ĐỦ (BẮT BUỘC VĨNH VIỄN)**: Mọi nội dung/bài viết/kịch bản được tạo ra BẮT BUỘC TỰ ĐỘNG đi kèm Gói SEO đầy đủ (gồm **10 tiêu đề ngắn gọn siêu thu hút**, **đoạn mô tả chuẩn SEO ~150-250 từ**, **bộ thẻ Hashtag tối ưu tìm kiếm**, và **20 từ khóa chuẩn SEO**) cùng file `.docx` tương ứng (`06b_goi_seo.docx`) mà KHÔNG để Sếp phải nhắc hay đòi lại ở bất kỳ phiên làm việc nào.
+- **TỰ ĐỘNG KÈM LỜI KÊU GỌI HÀNH ĐỘNG (CTA) GẮN CÂU CỐ ĐỊNH (BẮT BUỘC VĨNH VIỄN)**: Phần cuối của mọi bài viết (Facebook, bài phân tích, kịch bản...) BẮT BUỘC phải có câu CTA khơi gợi thảo luận gắn liền với câu cố định: *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* (Ví dụ: "Ý kiến của bạn về vấn đề này thế nào? Hãy để dưới bình luận nhé! Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."). Câu hỏi tương tác phía trước có thể linh hoạt tùy chỉnh cho ăn khớp với nội dung bài viết, nhưng câu *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* là BẮT BUỘC TỰ ĐỘNG ĐƯỢC ĐƯA VÀO TRONG MỌI BÀI VIẾT mà không cần Sếp phải nhắc lại.
 - Quy tắc này áp dụng vĩnh viễn cho toàn bộ các phiên làm việc và mọi Agent trong hệ thống mà không cần Sếp phải nhắc lại.
 
+### 3.2c Kỹ Thuật "Móc Xích" Mạch Văn Ở Mọi Khối/Đoạn (BẮT BUỘC VĨNH VIỄN)
+- **TUYỆT ĐỐI KHÔNG "KHỞI ĐỘNG LẠNH":** Cấm việc kết thúc một đoạn/khối ý rồi nhảy sang đoạn/khối ý tiếp theo một cách đột ngột, giật cục mà không có sự liên kết.
+- **Kỹ thuật Móc xích (BẮT BUỘC):** Câu cuối cùng của đoạn/khối trước BẮT BUỘC phải gieo một câu hỏi, một mâu thuẫn, hoặc một sự tò mò mạnh mẽ. Câu đầu tiên của đoạn/khối sau BẮT BUỘC phải là câu trả lời, sự tiếp nối, hoặc giải quyết sự tò mò đó. 
+- **Dùng "Chất keo" tự nhiên:** Phải sử dụng các liên từ, thán từ văn nói (như *"Thế nhưng...", "Nhưng khoan...", "Chưa hết đâu...", "Và đây mới là chỗ mấu chốt..."*) ở các điểm nối giữa các phần/tiểu mục để kéo mạch văn dính chặt vào nhau.
+- **Áp dụng TỰ ĐỘNG:** Quy tắc móc xích mạch văn này áp dụng vĩnh viễn cho TOÀN BỘ kịch bản, bài viết Facebook, lời bình... Mọi Agent (đặc biệt là 02_Scriptwriter) BẮT BUỘC tự kiểm tra và gia cố các điểm nối (transition) giữa các phần trước khi xuất file, không được để Sếp phải nhắc lại.
 
 ### 3.3 Tính Văn Minh — Tuyệt đối Không Tục
 - KHÔNG dùng bất kỳ từ tục nào, kể cả tục nhẹ.
@@ -217,7 +224,9 @@ GiaiMa360/
 │
 ├── Đối_thủ/                   ← Hồ sơ 5 đối thủ + báo cáo tình báo
 ├── skills/                    ← 9 skill nội bộ (giai_ma_360, viet_tieu_de, kham_kenh, ...)
+│   └── claude-youtube/        ← Lớp tăng trưởng YouTube hợp nhất: SEO, retention, analytics, thumbnail, Shorts...
 ├── docs/                      ← huong_dan, phan_tich, structure_reference, gemini_companion, ...
+│   └── claude_youtube_integration.md ← Bản đồ 14 lệnh /youtube và hợp đồng nối output
 ├── prompts/                   ← Prompt gốc V5.1
 ├── scripts/                   ← Convert DOCX, post FB, YouTube API (client_secrets.json TRONG .antigravityignore)
 ├── drafts/                    ← Kịch bản đang sản xuất
@@ -416,3 +425,17 @@ TẦNG 3 (Trước Sếp — Agent 03):   unslop + professional-proofreader  →
 2. **A/B test mỗi skill mới** — 1 video skill + 1 video cũ → so checklist score + retention.
 3. **Loại bỏ nếu không phát huy** — 3 video không cải thiện → REMOVE (giảm noise semantic match).
 4. **Ghi log vào `.agent/metrics/skill_usage.md`** (v3.1) — mỗi video update bảng tier S/A/B.
+
+### 10.6 LỚP TĂNG TRƯỞNG YOUTUBE HỢP NHẤT
+
+Gói `skills/claude-youtube/` được nhập từ dự án Claude YouTube và giữ nguyên 14
+sub-skill, reference, template cùng script API. Gói này phụ trách lớp tăng trưởng,
+SEO, retention, thumbnail, Shorts, analytics, strategy, calendar, competitor và
+monetization; nó không thay thế pipeline Giải Mã 360.
+
+- Đọc `docs/claude_youtube_integration.md` để định tuyến toàn bộ lệnh `/youtube ...`.
+- `GEMINI.md`, `AGENTS.md`, `CLAUDE.md`, `.shared/`, Compliance Shield và checklist
+  33 tiêu chí luôn có quyền ưu tiên cao hơn tài liệu nhập.
+- `/youtube script` cho chủ đề mới phải đi vào `/tac_chien` và giữ đủ 2 Gate.
+- Các báo cáo tăng trưởng độc lập lưu `.docx` trong `outputs/Content_Mang_Xa_Hoi/YouTube_Growth/`
+  hoặc `outputs/kham_kenh/`; video hoàn chỉnh vẫn dùng 3 nhánh output chuẩn.

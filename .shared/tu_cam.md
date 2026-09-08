@@ -206,3 +206,25 @@
 | 3 | 120 Tấn Thịt Thối & CÚ LỪA 43 Tỷ CHẤN ĐỘNG! | Chấn động, Cú lừa | *Sự Thật Vụ 120 Tấn Thịt Thối: Lỗ Hổng Quản Lý Nằm Ở Đâu?* |
 | 4 | Màn Phản Bội CHẤN ĐỘNG NHẤT Trung Đông! | Chấn động nhất | *Vì Sao Cán Cân Quyền Lực Tại Trung Đông Đang Đảo Chiều?* |
 | 5 | Toàn Cảnh Vụ "LÙA GÀ" CHẤN ĐỘNG Giới Đầu Tư
+
+---
+
+## I. CẤM TỪ KHẨU HIỆU / ĐAO TO BÚA LỚN TRONG CÂU NỐI & TRANSITION (BẮT BUỘC VĨNH VIỄN — 09/2026)
+
+> **Nguyên tắc:** Câu nối giữa các phần/đoạn trong kịch bản và bài viết PHẢI dùng ngôn ngữ nói bình dân, giải thích tự nhiên, gần gũi — TUYỆT ĐỐI KHÔNG được lẫn giọng khẩu hiệu, cờ quạt, đao to búa lớn vào. Mọi câu nối viết ra phải đạt tiêu chuẩn: *"nghe như đang ngồi quán trà đá giải thích cho bạn bè nghe"*.
+
+| ❌ CẤM (Khẩu hiệu / Đao to búa lớn) | ✅ Thay bằng (Bình dân, dễ gần) |
+|---|---|
+| *"câu trả lời đanh thép nhất"* | *"miếng mồi ngon nhất để làm chuyện đó"* |
+| *"mảnh ghép quyền lực"* | *"cái sân nhà thật bự"* |
+| *"con rồng ngủ quên suốt hàng thế kỷ"* | *"cái chỗ bị bỏ ngỏ hàng chục năm nay"* |
+| *"xả băng và kích hoạt khối lượng tài sản khổng lồ"* | *"làm xong hết đám này"* |
+| *"thỏi nam châm khổng lồ hút cạn dòng tiền"* | *"đếm tiền mỏi tay"* |
+| *"cục diện kinh tế sẽ thay đổi vĩnh viễn"* | *"chuyện làm ăn chắc chắn sẽ khác hẳn"* |
+| *"hốt bạc tỷ đô từ túi bọn tư bản nước ngoài"* | *"kiếm tiền tỷ đô thật sự"* |
+| *"Nhưng khoan đã" / "Khoan đã"* | Dẫn dắt bằng logic tự nhiên, không bẻ lái đột ngột |
+| *"cội nguồn sức mạnh kinh tế"* | *"nồi cơm chung của cả nước"* |
+| *"mạch máu nghẽn trầm trọng"* | *"chỗ bị kẹt cứng"* |
+| *"giăng lưới bắt cá lớn ngoài biển khơi"* | *"đang tất bật vươn ra biển lớn"* |
+
+**Quy tắc kiểm duyệt:** Đọc lại mọi câu nối/transition trước khi xuất file. Nếu câu nối nghe giống khẩu hiệu tuyên truyền, diễn văn, hoặc bài phát biểu → viết lại bằng ngôn ngữ quán nước. Test: *"Mẹ mình nghe câu nối này có thấy tự nhiên không?"*. Nếu không → sửa lại ngay.

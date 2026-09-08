@@ -1,3 +1,8 @@
+---
+name: quet-doi-thu
+description: "Quét và phân tích hoạt động của các kênh đối thủ."
+---
+
 # Workflow: Quét Đối Thủ (Competitor Intelligence)
 > **Trigger:** `/quet_doi_thu` (Quét toàn bộ) hoặc `/quet_doi_thu [tên]` (Quét 1 đối thủ riêng biệt)
 

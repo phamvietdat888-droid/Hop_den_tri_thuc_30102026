@@ -4,6 +4,63 @@
 
 ---
 
+## 2026-09-03 — 4 Bài học từ bài viết "Siêu Công Trình Việt Nam" (Sếp chấn chỉnh trực tiếp) ⭐ BẮT BUỘC VĨNH VIỄN
+
+Sếp phát hiện và chấn chỉnh 4 lỗi nghiêm trọng trong quá trình viết bài giải thích dạng dài (~1200 từ). Toàn bộ bài học dưới đây BẮT BUỘC áp dụng vĩnh viễn cho mọi Agent, mọi phiên làm việc:
+
+### Bài học 1: Mỗi phương án Hook phải có câu cầu nối RIÊNG
+- **Lỗi cũ:** Viết 2 phương án Hook (nghịch lý + cảm xúc) nhưng gắn chung 1 câu cầu nối → câu nối chỉ ăn khớp Hook 2, lệch hoàn toàn so với Hook 1.
+- **Quy tắc:** Khi biên soạn nhiều phương án Hook, TUYỆT ĐỐI KHÔNG viết chung câu cầu nối. Mỗi Hook phải kèm câu cầu nối "may đo" riêng, bắt rễ từ ý tứ của chính Hook đó.
+- **Đã cập nhật:** `.shared/hook_formulas.md` — Quy tắc Hook #8.
+
+### Bài học 2: CẤM "Nhưng khoan đã" và các cụm bẻ lái giật gân
+- **Lỗi cũ:** Dùng "Nhưng khoan đã" trong bài viết dạng giải thích → nghe giật gân rẻ tiền, không phù hợp phong cách giải thích sâu, đàng hoàng.
+- **Quy tắc:** Không dùng các cụm từ bẻ lái đột ngột kiểu YouTube drama. Dẫn dắt bằng logic tự nhiên.
+- **Đã cập nhật:** `.shared/tu_cam.md` — Mục I (bảng từ cấm & thay thế).
+
+### Bài học 3: Câu nối cuối mỗi phần phải tạo LÝ DO TÒ MÒ, không chỉ "giới thiệu phần tiếp"
+- **Lỗi cũ:** Câu nối giữa các mục chỉ đóng vai "biển chỉ đường" (giới thiệu phần kế tiếp) mà không gieo sự tò mò hay mâu thuẫn nào để bắt buộc người xem đọc tiếp.
+- **Quy tắc:** Câu cuối mỗi phần phải gieo 1 trong 3 thứ: (a) câu hỏi thực tế; (b) mâu thuẫn/nghịch lý; (c) lợi ích/thiệt hại cụ thể — mà người đọc chỉ tìm thấy câu trả lời ở phần sau. Nó phải là "miếng mồi" chứ không phải "biển báo".
+- **Đã cập nhật:** `.shared/nhip_giu_chan_va_van_noi.md` — KT16 mới.
+
+### Bài học 4: TUYỆT ĐỐI KHÔNG dùng ngôn ngữ khẩu hiệu / đao to búa lớn trong câu nối
+- **Lỗi cũ:** Dùng các cụm từ "đanh thép", "quyền lực", "xả băng", "con rồng ngủ quên", "thỏi nam châm hút cạn dòng tiền" trong câu nối → lẫn giọng tuyên truyền vào bài viết bình dân.
+- **Quy tắc:** Mọi câu nối/transition phải viết bằng ngôn ngữ quán trà đá. Test: "Mẹ mình nghe câu nối này có thấy tự nhiên không?". Nếu không → sửa ngay.
+- **Đã cập nhật:** `.shared/tu_cam.md` — Mục I (bảng 11 cụm cấm + thay thế bình dân). `.shared/nhip_giu_chan_va_van_noi.md` — KT16 (quy tắc ngôn ngữ bắt buộc).
+
+### Tóm gọn 1 câu:
+> **Viết giải thích dễ gần = câu nối phải tạo tò mò thật, ngôn ngữ phải mộc mạc thật, và tuyệt đối không được lẫn giọng khẩu hiệu hay giật gân vào.**
+
+---
+
+## 2026-08-21 — Quy tắc "Câu Cầu Nối Nêu Vấn Đề" giữa Hook và Thân Bài (Sếp chấn chỉnh trực tiếp) ⭐ BẮT BUỘC VĨNH VIỄN
+
+Sếp phát hiện lỗi nghiêm trọng: Hook mạnh nhưng nhảy thẳng vào thân bài KHÔNG có câu dẫn dắt → người đọc/xem bị **CỤT**, mất mạch, lướt đi. Đây là **1 trong những yếu tố mấu chốt giữ chân người xem/đọc ngay từ đầu**.
+
+### Quy tắc (BẮT BUỘC VĨNH VIỄN — v3.4):
+- **SAU MỖI HOOK**, BẮT BUỘC có 1-2 câu hỏi hoặc câu khẳng định ngắn gọn **nêu rõ vấn đề cốt lõi** mà bài viết/kịch bản sắp giải đáp.
+- Chức năng: (1) Người đọc biết "mình sắp được hiểu cái gì"; (2) Tạo đà dẫn dắt tự nhiên, không nhảy vọt ý.
+- Cấu trúc bắt buộc: `[Hook] → [Câu cầu nối nêu vấn đề] → [Thân bài]`
+- **CẤM** câu dẫn rỗng kiểu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé"* — vì câu đó KHÔNG nêu vấn đề gì cụ thể.
+
+### Ví dụ SAI (Sếp chỉ ra):
+> Hook: *"Mảnh đất ấy, ông bà để lại... Giờ Chính phủ đặt lên bàn một đề xuất mới."*
+> ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ → CỤT! Không biết tìm hiểu cái gì.
+
+### Ví dụ ĐÚNG:
+> Hook: *"Dân mình cày cuốc cả đời không mua nổi cái nhà..."*
+> **Câu cầu nối:** *"Nhưng rốt cuộc ai đang 'đội' giá, đội bằng cách nào, và liệu có cách nào kéo nó xuống không?"*
+> → Thân bài bóc tách chi tiết...
+
+### Đã cập nhật vào hệ thống:
+- `.shared/hook_formulas.md` — mục riêng "Câu Cầu Nối Nêu Vấn Đề"
+- `GEMINI.md` §3.2b — quy tắc trung tâm
+- `AGENTS.md` — quy tắc cho mọi Agent
+- `CLAUDE.md` — điểm vào cho Claude
+- `checklist.md` — tiêu chí kiểm định #1b
+
+---
+
 ## 2026-08-20 — Khả năng đặc biệt: Bóc tách vấn đề xã hội "Sâu mà dễ nuốt" ⭐ BẮT BUỘC VĨNH VIỄN
 
 Sếp yêu cầu học cách tiếp cận vấn đề xã hội sâu sắc, đa chiều, thú vị từ kịch bản mẫu "Giang hồ mạng nhập kho — Sợ vs Tôn trọng". Đã phân tích, đúc kết thành **Module đặc biệt**: `.shared/boc_tach_van_de_xa_hoi.md`.
