@@ -1,5 +1,5 @@
-# ✅ CHECKLIST KIỂM ĐỊNH KỊCH BẢN — 33 Tiêu chí cứng
-> **Điểm tối thiểu:** 85/100 | **Tiêu chí VETO:** #16 (Tục) + #23 (Clickbait YT) + #27 (Clickbait FB) + #29 (Vi phạm TCCĐ) + #30 (Compliance Blacklist)
+# ✅ CHECKLIST KIỂM ĐỊNH KỊCH BẢN — 34 Tiêu chí cứng
+> **Điểm tối thiểu:** 85/100 | **Tiêu chí VETO:** #16 (Tục) + #23 (Clickbait YT) + #27 (Clickbait FB) + #29 (Vi phạm TCCĐ) + #30 (Compliance Blacklist) | **Nâng cấp 09/2026:** #23 bổ sung kiểm tra "rõ chủ thể + vấn đề cụ thể"; thêm #23b Title–Thumbnail Clarity Test (không VETO)
 > **Nâng cấp 07/2026 (đối chuẩn):** #5 và #12 được nâng chuẩn; thêm 2 tiêu chí phụ **#5b** ("Câu mang về") và **#12g** (ghim công khai) — tiêu chí phụ KHÔNG phải VETO. Nguồn: `.shared/nhip_giu_chan_va_van_noi.md` + `.shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md`.
 
 ---
@@ -67,11 +67,12 @@
 | 21 | Format đúng bảng 2 cột [Visual / Audio] | ☐ |
 | 22 | Đánh dấu đủ tag: [HOOK], [VÍ VON], [ĐÓN PHẢN BIỆN], [NHẬP VAI], [CHI TIẾT ĐINH], [CAO TRÀO], [LIÊN HỆ], [CTA] | ☐ |
 
-## F. TIÊU ĐỀ VIDEO (1 tiêu chí)
+## F. TIÊU ĐỀ VIDEO (2 tiêu chí — nâng cấp 09/2026)
 
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
-| 23 | Tiêu đề ≤ 55 ký tự, phần cốt lõi trong 5 từ đầu, có curiosity gap, **KHÔNG clickbait rỗng** (xem `.shared/tu_cam.md` mục F) | ☐ |
+| 23 | Tiêu đề ≤ 55 ký tự, phần cốt lõi trong 5 từ đầu, có curiosity gap, **KHÔNG clickbait rỗng** (xem `.shared/tu_cam.md` mục F). **Tiêu đề phải nêu rõ CHỦ THỂ + VẤN ĐỀ CỤ THỂ** — đọc tiêu đề xong, người xem phải biết video nói về CÁI GÌ. CẤM tiêu đề quá trừu tượng/chung chung kiểu "CHUYỆN CHƯA TỪNG CÓ" mà không nêu rõ nội dung | ☐ |
+| 23b | *(phụ — không VETO)* **Title–Thumbnail Clarity Test:** Tiêu đề + hook trên thumbnail phải tạo thành một "gói đóng gói" rõ ràng. Test: đưa tiêu đề + thumbnail cho 1 người chưa biết gì, hỏi "bạn đoán video nói về gì?" — nếu họ đoán SAI hoặc không đoán được → gói đóng gói CHƯA ĐẠT, cần sửa | ☐ |
 
 > **Tiêu chí 23 là tiêu chí VETO:** Nếu tiêu đề chứa từ/cụm trong Blacklist F1 (`tu_cam.md`) → **TRƯỢT toàn bài** bất kể tổng điểm.
 

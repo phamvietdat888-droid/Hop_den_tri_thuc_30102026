@@ -11,7 +11,7 @@
 
 ## 2. HÀNH VI & THÓI QUEN (THE BEHAVIOR)
 - **Tình trạng nguồn View:** 99% view từ người CHƯA đăng ký. Mất 29 Subs, Khán giả quay lại < 1%. Tệp sub cũ 31.7K hiện đang là "Sub ma". Phải xây dựng lại thói quen xem bằng lịch đăng cố định.
-- **Thiết bị:** 54.6% Mobile, **21.4% TV**. Tỷ lệ xem trên TV rất cao (hơn 1/5).
+- **Thiết bị (cập nhật 09/2026):** Mobile 30,8%, **TV 63,1%**. Tỷ lệ xem trên TV đã tăng gấp 3 lần — chiếm hơn 3/5 tổng watch time. Video dài phải được đóng gói như phóng sự tài liệu cho màn hình lớn.
 - **Thời điểm vàng:** (Tạm tính do khoảng mù dữ liệu) 19h00 - 20h00 tối (giờ Việt Nam) các ngày trong tuần.
 
 ## 3. TRỤ CỘT NỘI DUNG (CONTENT PILLARS)

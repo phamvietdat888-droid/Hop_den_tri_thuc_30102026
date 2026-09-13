@@ -13,10 +13,10 @@ Skill này là **"nhà máy sản xuất kịch bản"** — biến bất kỳ c
 - Kiểm soát chất lượng bằng checklist cứng — không bỏ sót yếu tố nào
 - Lưu trữ có hệ thống — dễ tra cứu, tái sử dụng, rút kinh nghiệm
 
-> 🎯 **KHÁN GIẢ MỤC TIÊU (Cập nhật 30/04/2026):** 
-> - **Nhân khẩu học:** 100% Nam giới, 25-34 tuổi. 
-> - **Thiết bị:** 21.4% xem trên Smart TV (yêu cầu "TV-Safe": không từ ngữ thô tục, giọng nam tính đĩnh đạc, hình ảnh rõ nét).
-> - **Hành vi:** 99% view từ người chưa Đăng ký. **BẮT BUỘC chèn Lời kêu gọi đăng ký (CTA) ở GIỮA video**, ngay sau khi bóc tách 1 insight đắt giá, tuyệt đối KHÔNG vứt CTA ở tuốt cuối video.
+> 🎯 **KHÁN GIẢ MỤC TIÊU (Cập nhật 09/2026 — Postmortem tháng 9):** 
+> - **Nhân khẩu học:** Nam 88,2%, nhóm 35+ tuổi chiếm 84,4%. Việt Nam 66,4%. 
+> - **Thiết bị:** **63% watch time từ Smart TV** (tăng gấp 3 lần so với 21,4% trước đây). Video dài phải được đóng gói như phóng sự tài liệu cho màn hình lớn. Thumbnail BẮT BUỘC "Big Screen Safe": chữ TO cực đại, 2-4 từ hook, tương phản cực cao, cách viền ≥ 10%.
+> - **Hành vi:** 98,3% watch time từ người chưa Đăng ký. **BẮT BUỘC chèn Lời kêu gọi đăng ký (CTA) ở GIỮA video**, ngay sau khi bóc tách 1 insight đắt giá, tuyệt đối KHÔNG vứt CTA ở tuốt cuối video.
 
 ---
 
@@ -254,7 +254,7 @@ Chạy **`checklist.md` (33 tiêu chí, 8 nhóm A-H)** — nguồn chấm điể
 **Hành động:**
 1. **(6a) Kịch bản Audio Clean:** Áp dụng chỉnh sửa từ Bước 5. Chuyển bảng 2 cột thành format Audio Clean (chỉ Lời bình) với thẻ màu (`<red>`, `<green>`, `<blue>`, `<orange>`, `<underline>` — CẤM emoji màu). Lưu `06_kich_ban_hoan_thien.md`. Xuất `.docx` bằng `scripts/md_to_docx_v2.py` (Times New Roman 14pt, A4, lề 2cm, Justify, giãn 1.25 — chi tiết `.shared/format_output.md`). TUYỆT ĐỐI KHÔNG tạo file trắng/plain text.
 2. **(6b) Gói SEO:** Gọi `skills/viet_tieu_de_skill.md` → 20 tiêu đề (≤ 55 ký tự) + Mô tả 250 từ + 20 từ khóa. Lưu `06b_goi_seo.md` + `.docx`. Đề xuất A/B Test → **CHỜ SẾP CHỌN TIÊU ĐỀ** (duyệt tổng thể cuối).
-3. **(6c) Hình ảnh:** Tạo prompt ảnh minh hoạ (tỷ lệ 16:9 cho YouTube, 6:16 cho Facebook, 9:16 cho Shorts) và lưu BẮT BUỘC dưới dạng `06c_image_prompt.md` (KHÔNG cần convert sang `.docx`). Tạo thumbnail cho YouTube (16:9). Nguyên tắc **"Big Screen Safe"**: chữ TO, tương phản cực cao, cách lề ≥ 10%. Lỗi tạo ảnh → xuất `06c_image_prompt.md` + báo Sếp.
+3. **(6c) Hình ảnh:** Tạo prompt ảnh minh hoạ (tỷ lệ 16:9 cho YouTube, 6:16 cho Facebook, 9:16 cho Shorts) và lưu BẮT BUỘC dưới dạng `06c_image_prompt.md` (KHÔNG cần convert sang `.docx`). Tạo thumbnail cho YouTube (16:9). Nguyên tắc **"Big Screen Safe" (BẮT BUỘC CỨNG — 09/2026)**: chữ TO CỰC ĐẠI, chỉ 2-4 từ hook, tương phản cực cao, cách lề ≥ 10%. Không nhồi nhét nhiều text. Lý do: 63% watch time từ Smart TV. Lỗi tạo ảnh → xuất `06c_image_prompt.md` + báo Sếp.
 4. **(6d) Bài Facebook:** Gọi `skills/dang_fanpage_skill.md` — C.R.A.F.T 500-800 từ + ảnh dọc 6:16 → `Facebook/06d_bai_dang_fb.md` + `.docx`.
 5. **(6e) Seeding:** Gọi `skills/seeding_facebook_skill.md` → 3-7 Mega Comments + 2 CTA → `Facebook/06e_mega_comments.json`.
 6. **(6f) YouTube Shorts:** Gọi `skills/youtube_short_skill.md` (lệnh `/tao_short`) — 2-3 Shorts ≤ 50s, Hook viết LẠI + 5 tiêu đề + 10 prompt ảnh 9:16 + DOCX → `YouTube_Shorts/short_01/`...

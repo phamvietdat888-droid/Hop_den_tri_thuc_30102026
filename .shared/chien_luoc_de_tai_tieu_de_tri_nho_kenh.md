@@ -4,12 +4,13 @@
 
 ## A. CÔNG THỨC ĐỀ TÀI CHỮ KÝ — "HỒ SƠ GIẢI PHẪU"
 Khuôn đề tài đã được kiểm chứng: **thực thể QUEN THUỘC với người Việt + biến cố lớn (bê bối / sụp đổ / khủng hoảng / lột xác) + giải phẫu nguyên nhân đa tầng + bài học cho người Việt.**
-Checklist chọn đề tài (đạt ≥ 4/5 mới làm):
+Checklist chọn đề tài (đạt ≥ 4/6 mới làm):
 1. Người xem có KÝ ỨC hoặc TRẢI NGHIỆM cá nhân với thực thể này? (từng mua, từng đi, từng thi, từng nghe cả tuổi thơ)
 2. Cái tên ai cũng biết — câu chuyện đằng sau gần như không ai biết?
 3. Có ≥ 1 cú đảo chiều số phận (mục D) làm cao trào?
 4. Có bài học phổ quát vượt ra ngoài case (mục F)?
 5. Đề tài đứng vững qua Compliance Shield (đặc biệt mục C đặc thù VN)?
+6. **Topic Cluster Check (BẮT BUỘC — 09/2026):** Đề tài này có nằm trong CỤM CHỦ ĐỀ mà YouTube đang phân phối tốt cho kênh không? (VD: công trình lớn, cơ khí, hạ tầng, sân bóng). Nếu KHÔNG — có kế hoạch xây cụm mới bằng ≥ 2-3 video liên tiếp không? Đề tài đơn lẻ không thuộc cụm nào → rủi ro impressions thấp dù nội dung hay.
 > Lăng kính cố định của Giải Mã 360: **"giải phẫu bản chất + soi vào đời sống người Việt"** — chủ đề được phép trải rộng, lăng kính KHÔNG đổi.
 
 ## B. HOOK H7 — "NEO KÝ ỨC TẬP THỂ" (bổ sung vào 6 công thức hook ở `hook_formulas.md`)

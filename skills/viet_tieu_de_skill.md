@@ -27,7 +27,7 @@ Biến kịch bản hoàn chỉnh thành **gói SEO toàn diện** cho YouTube:
 - **Target:** Nam giới Việt Nam 25-50 tuổi, quan tâm thời sự, địa chính trị, kinh tế vĩ mô
 - **Tone:** Sắc sảo, gần gũi, tạo curiosity — **KHÔNG clickbait rỗng**
 - **Xưng hô trong tiêu đề:** Không xưng hô. Tiêu đề là statement, không phải hội thoại.
-- **TV-Safe Thumbnail:** Do 21.4% tệp xem bằng Smart TV, chữ trên Thumbnail phải TO, ĐẬM, ĐỘ TƯƠNG PHẢN CAO và cách viền ít nhất 10% (tránh bị TV cắt chữ).
+- **TV-Safe Thumbnail (BẮT BUỘC CỨNG — cập nhật 09/2026):** Video dài của kênh có **63% watch time từ Smart TV** (tăng gấp 3 lần so với 21,4% trước đây). Thumbnail BẮT BUỘC tối ưu cho màn hình lớn: chữ TO, ĐẬM, ĐỘ TƯƠNG PHẢN CỰC CAO, chỉ 2-4 từ hook, cách viền ít nhất 10%. Không nhồi nhét nhiều text lên thumbnail.
 
 ---
 

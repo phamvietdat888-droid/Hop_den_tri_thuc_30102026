@@ -4,6 +4,33 @@
 
 ---
 
+## 2026-09-13 — 3 Bài học từ Postmortem YouTube tháng 9/2026 (Phân tích dữ liệu thực tế kênh CheckVar 247) ⭐ BẮT BUỘC VĨNH VIỄN
+
+Lần đầu tiên hệ thống rút bài học trực tiếp từ **dữ liệu hiệu suất thực tế** (YouTube Studio, 01–11/09/2026). Video dẫn đầu "Mái Vòm Sân Vận Động" đạt 28.755 views, gấp 5,4 lần video đứng thứ 2. Ba video ít views chỉ có 237–516 views dù retention tốt hơn cả video dẫn đầu.
+
+### Bài học 1: TV watch time tăng gấp 3 — từ 21,4% lên 63,1% (CẤP BÁCH)
+- **Phát hiện:** Toàn bộ hệ thống đang ghi con số cũ 21,4%. Dữ liệu thực tế video dẫn đầu: **63,1% watch time từ Smart TV**, mobile chỉ 30,8%.
+- **Hệ quả:** Video dài phải được đóng gói như **phóng sự tài liệu cho màn hình lớn**. Thumbnail BẮT BUỘC "Big Screen Safe": chữ TO cực đại, chỉ 2-4 từ hook, tương phản cực cao, không nhồi nhét text.
+- **Đã cập nhật:** `skills/viet_tieu_de_skill.md` (dòng TV-Safe), `skills/giai_ma_360_skill.md` (khán giả mục tiêu + Big Screen Safe), `Chien_Luoc_Phat_Trien.md` (thiết bị).
+
+### Bài học 2: Retention TỐT ≠ Views CAO — Tiêu đề phải RÕ chủ thể + vấn đề cụ thể
+- **Phát hiện:** 3 video ít views có retention 30s cao hơn video dẫn đầu (70–88% vs 65%), nhưng CTR chỉ 5,9–8,5% (vs 16,3%) và impressions chỉ 3–5K (vs 77K). Nguyên nhân: tiêu đề quá trừu tượng/chung chung, YouTube không tìm được đúng khán giả để phân phối.
+- **Ví dụ thất bại:** *"CHUYỆN CHƯA TỪNG CÓ: Túi Tiền Của Bạn Sẽ Ra Sao?"* — không ai biết video nói về cái gì.
+- **Ví dụ sửa:** *"15 Luật Mới Sau Kỳ Họp Quốc Hội: Túi Tiền Người Dân Thay Đổi Gì?"* — rõ ai, rõ gì, rõ stakes.
+- **Quy tắc mới:** Tiêu đề BẮT BUỘC nêu rõ CHỦ THỂ + VẤN ĐỀ CỤ THỂ. Test: đọc tiêu đề xong, người xem có biết video nói về cái gì không? Nếu không → sửa trước khi xuất bản.
+- **Đã cập nhật:** `checklist.md` tiêu chí #23 (nâng cấp) + tiêu chí phụ #23b (Title–Thumbnail Clarity Test).
+
+### Bài học 3: Topic Cluster quyết định phân phối Browse/Trang chủ
+- **Phát hiện:** Video mái vòm nằm trong cụm *công trình lớn, cơ khí, hạ tầng, sân bóng* → 84,6% impressions từ Trang chủ. Các video lịch sử/chính sách bị đề xuất sang cụm lạc quẻ (ẩm thực, Sapa, giang hồ mạng) → gần như không vào được Trang chủ.
+- **Quy tắc mới:** Khi chọn đề tài (Bước 0-2), BẮT BUỘC kiểm tra: đề tài có nằm trong cụm chủ đề YouTube đang phân phối tốt cho kênh không? Đề tài đơn lẻ không thuộc cụm nào → rủi ro impressions thấp dù nội dung hay. Muốn mở cụm mới → phải xây bằng ≥ 2-3 video liên tiếp.
+- **Đã cập nhật:** `.shared/chien_luoc_de_tai_tieu_de_tri_nho_kenh.md` mục A — thêm tiêu chí #6 Topic Cluster Check.
+
+### Phát hiện bổ sung — Hồ sơ khán giả cập nhật
+- Nam 88,2%, nhóm 35+ tuổi chiếm 84,4%, Việt Nam 66,4%, chưa đăng ký 98,3%.
+- Công thức thắng lớn đã xác nhận bằng dữ liệu: **Đại công trình/vật thể lớn + chi tiết kỹ thuật cụ thể + năng lực người Việt + tính thị giác cao (visual-rich) + câu hỏi có stakes rõ ràng**.
+
+---
+
 ## 2026-09-09 — Câu chuyển cảnh mặc định "Ngay sau đây..." → BẮT BUỘC cho kịch bản dài ≥1000 từ (v3.5)
 
 Sếp xác nhận lại: Câu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* KHÔNG phải câu dẫn rỗng — mà là **câu chuyển cảnh cố định** đặt SAU câu cầu nối nêu vấn đề, trước khi vào thân bài. Cấu trúc chuẩn:
