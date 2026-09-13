@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-09-09 — Câu chuyển cảnh mặc định "Ngay sau đây..." → BẮT BUỘC cho kịch bản dài ≥1000 từ (v3.5)
+
+Sếp xác nhận lại: Câu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* KHÔNG phải câu dẫn rỗng — mà là **câu chuyển cảnh cố định** đặt SAU câu cầu nối nêu vấn đề, trước khi vào thân bài. Cấu trúc chuẩn:
+
+```
+[Hook] → [Câu cầu nối nêu vấn đề cụ thể] → "Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé." → [Thân bài]
+```
+
+**Phạm vi áp dụng:**
+- ✅ Kịch bản YouTube dài ≥1000 từ: BẮT BUỘC có câu chuyển cảnh này
+- ❌ Bài viết ngắn <1000 từ (Facebook, Shorts...): KHÔNG cần
+
+**Lưu ý quan trọng:** Câu chuyển cảnh KHÔNG thay thế câu cầu nối. Câu cầu nối vẫn phải nêu CỤ THỂ vấn đề gì — câu chuyển cảnh chỉ là khớp nối cuối cùng.
+
+### Đã cập nhật vào hệ thống:
+- `GEMINI.md` §3.2b — thêm quy tắc v3.5, gỡ lệnh cấm
+- `AGENTS.md` — thêm quy tắc v3.5, gỡ lệnh cấm
+- `checklist.md` — tiêu chí #1b cập nhật v3.5
+- `.shared/hook_formulas.md` — sửa cấu trúc + ví dụ
+- `Learning.md` — ghi nhận bài học
+
+---
+
 ## 2026-09-03 — 4 Bài học từ bài viết "Siêu Công Trình Việt Nam" (Sếp chấn chỉnh trực tiếp) ⭐ BẮT BUỘC VĨNH VIỄN
 
 Sếp phát hiện và chấn chỉnh 4 lỗi nghiêm trọng trong quá trình viết bài giải thích dạng dài (~1200 từ). Toàn bộ bài học dưới đây BẮT BUỘC áp dụng vĩnh viễn cho mọi Agent, mọi phiên làm việc:
@@ -37,19 +60,21 @@ Sếp phát hiện và chấn chỉnh 4 lỗi nghiêm trọng trong quá trình 
 
 Sếp phát hiện lỗi nghiêm trọng: Hook mạnh nhưng nhảy thẳng vào thân bài KHÔNG có câu dẫn dắt → người đọc/xem bị **CỤT**, mất mạch, lướt đi. Đây là **1 trong những yếu tố mấu chốt giữ chân người xem/đọc ngay từ đầu**.
 
-### Quy tắc (BẮT BUỘC VĨNH VIỄN — v3.4):
+### Quy tắc (BẮT BUỘC VĨNH VIỄN — v3.4 → cập nhật v3.5):
 - **SAU MỖI HOOK**, BẮT BUỘC có 1-2 câu hỏi hoặc câu khẳng định ngắn gọn **nêu rõ vấn đề cốt lõi** mà bài viết/kịch bản sắp giải đáp.
 - Chức năng: (1) Người đọc biết "mình sắp được hiểu cái gì"; (2) Tạo đà dẫn dắt tự nhiên, không nhảy vọt ý.
-- Cấu trúc bắt buộc: `[Hook] → [Câu cầu nối nêu vấn đề] → [Thân bài]`
-- **CẤM** câu dẫn rỗng kiểu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé"* — vì câu đó KHÔNG nêu vấn đề gì cụ thể.
+- **Kịch bản dài ≥1000 từ:** `[Hook] → [Câu cầu nối nêu vấn đề] → "Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé." → [Thân bài]`
+- **Bài viết ngắn <1000 từ:** `[Hook] → [Câu cầu nối nêu vấn đề] → [Thân bài]` (không cần câu chuyển cảnh)
+- Câu chuyển cảnh KHÔNG thay thế câu cầu nối — câu cầu nối vẫn phải nêu vấn đề cụ thể.
 
 ### Ví dụ SAI (Sếp chỉ ra):
 > Hook: *"Mảnh đất ấy, ông bà để lại... Giờ Chính phủ đặt lên bàn một đề xuất mới."*
-> ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ → CỤT! Không biết tìm hiểu cái gì.
+> ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ → SAI vì dùng câu chuyển cảnh MÀ KHÔNG CÓ câu cầu nối trước đó.
 
 ### Ví dụ ĐÚNG:
 > Hook: *"Dân mình cày cuốc cả đời không mua nổi cái nhà..."*
 > **Câu cầu nối:** *"Nhưng rốt cuộc ai đang 'đội' giá, đội bằng cách nào, và liệu có cách nào kéo nó xuống không?"*
+> **Câu chuyển cảnh (nếu kịch bản ≥1000 từ):** *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*
 > → Thân bài bóc tách chi tiết...
 
 ### Đã cập nhật vào hệ thống:
@@ -130,7 +155,7 @@ Sếp chỉ ra 4 điểm yếu cốt lõi. Đã ghi thẳng vào DNA hệ thốn
 
 Sếp góp ý vòng 2 từ kịch bản Sân Trống Đồng. Đã cài vào hệ thống:
 
-5. **Câu chuyển cảnh mặc định sau Hook** = *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* → `tone_guide.md`. Bỏ *"Mình cùng bóc từng lớp một nhé."*
+5. **Câu chuyển cảnh mặc định sau câu cầu nối (kịch bản ≥1000 từ)** = *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* — đặt SAU câu cầu nối nêu vấn đề, TRƯỚC thân bài. → `.shared/hook_formulas.md`. **(v3.5: chính thức hóa làm quy tắc bắt buộc cho kịch bản dài ≥1000 từ)**
 6. **Agent 05 Hook Master** — agent chuyên trị Hook, quy trình 5 bước (mổ tư tưởng → định vị điểm chạm nỗi đau/xu hướng/mâu thuẫn → bóc lớp 1-2-3 → viết 3-5 phương án chấm điểm 5 thước đo → mài câu đầu ≤15 từ + open loop). File: `.agent/agents/05_Hook_Master.md`. Chèn vào pipeline Bước 3.5.
 7. **Dồn chi tiết đắt lên NỬA ĐẦU** (chống rơi rụng 1/3 đầu) → `storytelling_arsenal.md` KT8. Checklist #12d.
 8. **CTA sau CAO TRÀO** — kêu gọi like/share/đăng ký chèn khéo ngay sau chi tiết ấn tượng, gắn vào cảm xúc vừa tạo, không van nài → `tone_guide.md`. Checklist #12f.
@@ -233,6 +258,7 @@ Sau audit toàn diện dự án v3.0 (38 skills), thực hiện 7 quick win KHÔ
 
 Khi thực hiện Bước 0 (`/tim_trend`), hệ thống **TUYỆT ĐỐI KHÔNG** được chỉ liệt kê chung chung tên nguồn mà **BẮT BUỘC PHẢI DẪN BẰNG CHỨNG DỮ LIỆU CỤ THỂ 100%** từ 7 kênh thông tin sau:
 
+
 1. **Google Trends VN:** Dẫn từ khóa tìm kiếm nóng + % tăng trưởng lượt tìm kiếm thực tế.
 2. **Báo chí chính thống VN & Quốc tế:** Dẫn cụ thể tên bài báo, tiêu đề, mã bài, ngày đăng, nội dung cốt lõi từ *24h.com.vn, Dân Trí, VietNamNet, VnExpress, Reuters, AP, Fox News*.
 3. **Mạng xã hội & Cộng đồng (Threads, Facebook, Reddit, X):** Dẫn cụ thể nội dung bài đăng hot, luồng tranh luận 2 chiều, số lượng tương tác (likes/comments), trào lưu thảo luận.
@@ -240,3 +266,41 @@ Khi thực hiện Bước 0 (`/tim_trend`), hệ thống **TUYỆT ĐỐI KHÔNG
 5. **Hot trend TikTok & Facebook Reels (Short-form):** Dẫn cụ thể trào lưu short-form video hot (Hashtag, lượt xem tổng, dạng clip viral POV/map 3D/audio).
 6. **Sổ trí nhớ kênh (`so_tri_nho_kenh.md`):** Dẫn cụ thể ngày đăng, tiêu đề video cũ, luận điểm chốt để nối mạch "Vòng về video cũ" (Loopback).
 7. **News Sentiment Engine:** Phân tích chỉ số cảm xúc cộng đồng (% Tò mò/Lo lắng, Tranh luận, Tự hào/Tri ân).
+
+---
+
+## 2026-09-12 — 5 Bài học từ bài viết "Vị thế Việt Nam tại châu Âu" (Sếp chấn chỉnh trực tiếp) ⭐ BẮT BUỘC VĨNH VIỄN
+
+Sếp phát hiện và chấn chỉnh 5 lỗi liên tiếp trong quá trình viết bài ngắn ~200 từ về chuyến công du châu Âu của Tổng Bí thư Tô Lâm. Toàn bộ bài học dưới đây BẮT BUỘC áp dụng vĩnh viễn:
+
+### Bài học 1: Bài viết PHẢI neo chặt vào bối cảnh sự kiện cụ thể ngay từ đầu
+- **Lỗi cũ:** Viết chung chung "châu Âu", "phương Tây" mà không nêu rõ ai, ở đâu, ngày nào, sự kiện gì → người đọc không biết đang nói chuyện gì.
+- **Quy tắc:** Mọi bài viết phải xác định rõ **bối cảnh sự kiện cụ thể** (tên người, địa danh, thời gian, diễn biến) để người đọc hình dung được ngay.
+
+### Bài học 2: Bối cảnh phải đặt ngay sau Hook — đúng vị trí, đúng chức năng
+- **Lỗi cũ:** Bối cảnh sự kiện bị nhét vào phụ chú cuối bài hoặc trộn lẫn trong thân bài → người đọc phải đọc xong mới hiểu đang nói về chuyện gì.
+- **Quy tắc:** Cấu trúc bắt buộc cho bài viết ngắn có bối cảnh thời sự: `[Hook cảm xúc] → [Câu cầu nối] → [ĐOẠN BỐI CẢNH: dữ kiện cứng — ngày, nơi, sự kiện, kết quả] → [Thân bài: đối chiếu/bóc tách ý nghĩa] → [Chốt + CTA]`.
+
+### Bài học 3: Hook, bối cảnh, thân bài — mỗi tầng mang MỘT loại thông tin riêng biệt, TUYỆT ĐỐI KHÔNG đạp lên nhau
+- **Lỗi cũ:** Hook nhắc "Paris, Macron, kỵ binh bồng gươm" → bối cảnh lại nhắc lại "Điện Invalides, Macron, lễ đón" → trùng lặp ý dù khác câu chữ.
+- **Quy tắc (đặc biệt quan trọng với bài ngắn ~200 từ):**
+  - **Hook** = cú đấm cảm xúc thuần túy, CHỈ gợi hình ảnh nghịch lý (không nhắc tên riêng, địa danh cụ thể)
+  - **Bối cảnh** = dữ kiện cứng 100% (ngày tháng, tên người, địa điểm, kết quả ngoại giao cụ thể)
+  - **Thân bài** = đối chiếu lịch sử + bóc tách ý nghĩa (không lặp lại bất kỳ thông tin nào đã nêu ở 2 tầng trên)
+- Bài ~200 từ rất ít dung lượng, **mỗi câu phải mang thông tin mới**, lặp ý là lãng phí chết.
+
+### Bài học 4: Cực kỳ cẩn thận khi nhắc đến lãnh tụ, lãnh đạo — KHÔNG dùng chi tiết dễ bị hiểu sai là hạ thấp
+- **Lỗi cũ:** Viết "Bác Hồ ngày xưa đến Paris chỉ là anh phụ bếp gầy gò, không ai thèm nhìn" → dù đặt trong ngữ cảnh đối chiếu tích cực, vẫn có thể bị hiểu sai là hạ thấp hình ảnh lãnh tụ.
+- **Quy tắc:** Khi cần đối chiếu lịch sử thuộc địa, nói CHUNG về **"ông cha mình", "người Việt ngày xưa"** thay vì gán trực tiếp chi tiết nhạy cảm cho cá nhân lãnh tụ cụ thể. Ví dụ thay thế: *"Ngày xưa ông cha mình sang đất Pháp chỉ với thân phận phu khuân vác, bồi bàn, đi đâu cũng cúi mặt."*
+
+### Bài học 5: Rà soát chính sách nền tảng YouTube TRƯỚC KHI xuất bản — CẤM từ miệt thị sắc tộc và ngôn từ bạo lực dù trong ngữ cảnh lịch sử
+- **Lỗi cũ:** Dùng từ "mọi" (miệt thị sắc tộc), "hạng bét" (phân biệt đối xử), "đè đầu cưỡi cổ" (bạo lực) → YouTube có thể flag là hate speech dù đặt trong ngữ cảnh lịch sử.
+- **Quy tắc:** TUYỆT ĐỐI KHÔNG dùng từ miệt thị trực tiếp. Diễn đạt gián tiếp vẫn truyền tải đủ ý mà an toàn:
+  - ~~"gọi mình là mọi, dân bản xứ hạng bét"~~ → *"không thèm ngó tới mình, coi dân ta chẳng ra gì"*
+  - ~~"đè đầu cưỡi cổ"~~ → *"từng bị coi thường"*
+- **Nguyên tắc chung:** Nếu một từ/cụm từ khi tách ra khỏi ngữ cảnh vẫn có thể bị coi là hate speech → KHÔNG DÙNG, tìm cách nói khác.
+
+### Đã cập nhật vào hệ thống:
+- `Learning.md` — ghi nhận 5 bài học (mục này)
+- `.shared/compliance_shield.md` — bổ sung quy tắc YouTube-safe language + nhạy cảm lãnh tụ
+

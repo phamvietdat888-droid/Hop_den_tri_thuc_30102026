@@ -26,7 +26,7 @@ Khán giả quyết định ở lại hay lướt đi **CHỈ TRONG 15–20 GIÂ
 1. **Nêu rõ vấn đề cốt lõi** mà bài viết/kịch bản sắp giải đáp — để người xem/đọc biết "mình sắp được hiểu cái gì".
 2. **Tạo đà dẫn dắt tự nhiên** từ Hook sang thân bài — tránh bị cụt, mất tự nhiên, nhảy vọt ý.
 
-**Cấu trúc bắt buộc:**
+**Cấu trúc bắt buộc — BÀI VIẾT NGẮN (<1000 từ):**
 ```
 [HOOK — cú đấm tò mò / gây sốc / nghịch lý]
 ↓
@@ -35,14 +35,32 @@ Khán giả quyết định ở lại hay lướt đi **CHỈ TRONG 15–20 GIÂ
 [THÂN BÀI — bóc tách cơ chế, dữ kiện, giải pháp]
 ```
 
-**Ví dụ ĐÚNG:**
-- Hook: *"Dân mình cày cuốc cả đời không mua nổi cái nhà, đơn giản vì mỗi ngày hồ sơ dự án bị ngâm trên bàn làm việc, giá căn nhà lại bị 'đội' thêm tiền lãi vay ngân hàng."*
+**Cấu trúc bắt buộc — KỊCH BẢN DÀI (≥1000 từ) — v3.5:**
+```
+[HOOK — cú đấm tò mò / gây sốc / nghịch lý]
+↓
+[CÂU CẦU NỐI NÊU VẤN ĐỀ — 1-2 câu hỏi/khẳng định nêu rõ vấn đề sắp bóc tách]
+↓
+"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé." ← CÂU CHUYỂN CẢNH CỐ ĐỊNH
+↓
+[THÂN BÀI — bóc tách cơ chế, dữ kiện, giải pháp]
+```
+> ⚠️ Lưu ý: Câu chuyển cảnh *"Ngay sau đây..."* KHÔNG thay thế câu cầu nối nêu vấn đề. Câu cầu nối vẫn phải nêu CỤ THỂ vấn đề gì — câu chuyển cảnh chỉ là khớp nối cuối cùng trước khi vào thân bài.
+
+**Ví dụ ĐÚNG (kịch bản dài ≥1000 từ):**
+- Hook: *"Sáng ngày 5/9/2026, cả nước ngỡ ngàng khi ống kính truyền hình trực tiếp không còn chĩa vào các trường chuyên danh tiếng ở Hà Nội hay TP.HCM, mà đổ dồn trọn vẹn về đỉnh núi mây mù Mường Khương..."*
+- **Câu cầu nối:** *"Vì sao một đỉnh đèo hiểm trở như Mường Khương lại được chọn làm 'trái tim' của lễ khai giảng cả nước, và bằng cách làm thần kỳ nào mà Việt Nam hoàn thành hơn 100 ngôi trường to đùng nơi biên cương nhanh đến vậy?"*
+- **Câu chuyển cảnh:** *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*
+- Thân bài: [bóc tách chi tiết...]
+
+**Ví dụ ĐÚNG (bài viết ngắn <1000 từ — KHÔNG cần câu chuyển cảnh):**
+- Hook: *"Dân mình cày cuốc cả đời không mua nổi cái nhà..."*
 - **Câu cầu nối:** *"Nhưng rốt cuộc ai đang 'đội' giá, đội bằng cách nào, và liệu có cách nào kéo nó xuống không?"*
 - Thân bài: [bóc tách chi tiết...]
 
 **Ví dụ SAI (thiếu câu cầu nối → bị cụt):**
 - Hook: *"Mảnh đất ấy, ông bà để lại... Giờ thì Chính phủ đặt lên bàn một đề xuất mới."*
-- ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ ← CẤM! Câu này rỗng, không nêu vấn đề gì cụ thể.
+- ~~*"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*~~ ← SAI vì dùng câu chuyển cảnh MÀ KHÔNG CÓ câu cầu nối nêu vấn đề trước đó. Phải nêu vấn đề cụ thể TRƯỚC, rồi mới thêm câu chuyển cảnh.
 
 **Áp dụng:** Mọi loại nội dung (kịch bản YouTube dài, Shorts, bài viết Facebook, bài viết ngắn ~200-800 từ). Mọi Agent, mọi phiên làm việc. KHÔNG CẦN Sếp nhắc lại.
 

@@ -25,6 +25,28 @@ Một trải nghiệm cá nhân đúng lúc đáng giá hơn ba đoạn lập lu
 3. Chuyện có thật của người thứ ba đã công khai, dẫn nguồn tự nhiên ("mình đọc được câu chuyện của một bạn…").
 CẤM: bịa "hồi lớp 12 mình…" khi không có chất liệu Sếp cấp. Thiếu chất liệu → dùng nguồn 2 hoặc bỏ.
 
+#### KT13b — NEO GIỮ CHI TIẾT GIÁC QUAN (Sensory Anchor) ⭐ (bắt buộc vĩnh viễn — 09/2026)
+> **Vấn đề:** AI viết nội dung bằng cách tổng hợp số liệu vĩ mô từ báo chí. Kết quả: bài viết đúng nhưng LẠNH, nghe như bản tin, không ai cảm nhận được "người viết từng lăn lộn ở đó". Thiếu hơi thở thực tế là lỗ hổng lớn nhất khiến bài viết bị lộ "mùi văn mẫu AI".
+
+**Quy tắc BẮT BUỘC:**
+- Mọi bài viết (dù dài 1600 từ hay ngắn 200 từ) BẮT BUỘC có ít nhất **1 chi tiết giác quan (Sensory Anchor)** — một hình ảnh, âm thanh, mùi vị hoặc cảm giác chạm được mà người đọc/nghe tưởng tượng ra ngay.
+- Chi tiết giác quan phải LẤY TỪ bối cảnh thực tế của chủ đề đang viết, KHÔNG bịa ra.
+- Nếu không có nguồn cụ thể → dùng chi tiết phổ quát đúng bối cảnh (ví dụ: xưởng cơ khí thì có tiếng búa, mùi dầu máy; công trường thì có bùn đỏ, tiếng xe tải; sân bay thì có hàng dài xếp hàng, tiếng loa thông báo).
+
+**5 loại Sensory Anchor hợp lệ:**
+
+| # | Loại | Ví dụ |
+|---|---|---|
+| 1 | **Âm thanh** | *"Tiếng máy trộn bê tông rầm rập xuyên đêm trên đỉnh đèo."* |
+| 2 | **Hình ảnh cụ thể** | *"Mồ hôi ướt đẫm áo công nhân giữa nắng 38 độ."* |
+| 3 | **Hành động nhỏ của con người** | *"Ông chủ thầu lắc đầu, gấp bản vẽ nhét vào túi rồi bước đi."* |
+| 4 | **Cảm giác chạm / thể chất** | *"Bùn đỏ nhão nhoét bám chặt đế giày, nhấc chân lên nặng trĩu."* |
+| 5 | **Lời thoại ngắn đời thường** | *"'Liệu kịp không anh?' — câu hỏi lặp đi lặp lại suốt 10 tháng."* |
+
+**Vị trí đặt:** Ưu tiên đặt Sensory Anchor ở **đầu thân bài** (ngay sau Hook + Câu cầu nối) hoặc **mở đầu một khối ý lớn** để người đọc "nhập cảnh" vào câu chuyện ngay lập tức. Với bài viết ngắn (~200 từ), đặt ở câu thứ 3–5 là lý tưởng.
+
+**Test kiểm duyệt:** *"Đọc xong bài này, người đọc có hình dung ra được MỘT hình ảnh/âm thanh cụ thể nào không? Hay chỉ toàn số liệu và nhận định?"*. Nếu không hình dung ra gì → CHƯA ĐẠT, phải thêm Sensory Anchor.
+
 ### KT14 — QUAN ĐIỂM + KHIÊM TỐN + MỜI PHẢN BIỆN (thay thế né-kết-luận ở chủ đề xã hội thường)
 Người xem theo dõi một con người có chính kiến, không theo dõi máy đọc tin trung lập. Công thức 3 nhịp ở phần Kết:
 > *"Còn nếu hỏi thẳng mình nghiêng về đâu, thì nói thật: mình nghiêng về [X], vì [1 lý do đã chứng minh trong bài]. Nhưng đó là góc nhìn của mình, và mình có thể sai. Còn bạn nghĩ sao?"*

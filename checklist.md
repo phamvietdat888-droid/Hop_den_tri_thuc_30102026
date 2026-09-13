@@ -9,7 +9,7 @@
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
 | 1 | Hook lồng ghép Bối cảnh (≤ 100 từ), câu đầu ≤ 15 từ, KHÔNG nhảy bổ vào câu hỏi/nghịch lý khi chưa tóm tắt sự kiện nền. Cầu nối hứa hẹn giá trị rõ ràng (vì sao nên xem). Có curiosity gap + open loop. **TUYỆT ĐỐI KHÔNG TRÙNG LẶP Ý GIỮA HOOK VÀ THÂN BÀI** (thân bài mở ra góc nhìn mới, không nhại lại ý Hook) | ☐ |
-| 1b | *(MẤU CHỐT — v3.4)* **Có "Câu Cầu Nối Nêu Vấn Đề" ngay sau Hook** — 1-2 câu hỏi/khẳng định nêu rõ vấn đề cốt lõi sắp bóc tách + tạo đà dẫn dắt tự nhiên sang thân bài. CẤM câu dẫn rỗng kiểu *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé"*. Cấu trúc: `[Hook] → [Câu cầu nối] → [Thân bài]` | ☐ |
+| 1b | *(MẤU CHỐT — v3.5)* **Có "Câu Cầu Nối Nêu Vấn Đề" ngay sau Hook** — 1-2 câu hỏi/khẳng định nêu rõ vấn đề cốt lõi sắp bóc tách + tạo đà dẫn dắt tự nhiên sang thân bài. Cấu trúc: `[Hook] → [Câu cầu nối] → [Thân bài]`. **Với kịch bản dài ≥1000 từ:** BẮT BUỘC thêm câu chuyển cảnh cố định *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."* ngay sau câu cầu nối, trước khi vào thân bài | ☐ |
 | 2 | Tổng kịch bản 1200-1600 từ | ☐ |
 | 3 | Nhịp "hạt hấp dẫn" mỗi 15-20 giây (số liệu/chi tiết lạ/câu đùa/câu hỏi treo) — không đoạn "chết" | ☐ |
 | 4 | CTA cộng đồng chèn tự nhiên sau cao trào (hỏi ý kiến / mời đặt chủ đề); kết thúc gắn câu chốt bắt buộc: *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* | ☐ |
@@ -43,7 +43,7 @@
 | 14 | Có 1-2 liên hệ lịch sử/văn hóa VN TỰ NHIÊN (hoặc ghi bỏ qua) | ☐ |
 | 15 | Giải thích CẶN KẼ, không nhảy bước logic; khái niệm khó được bẻ nhỏ đến mức dễ hiểu | ☐ |
 
-## D. NGÔN NGỮ CHỐNG AI (5 tiêu chí)
+## D. NGÔN NGỮ CHỐNG AI (8 tiêu chí — nâng cấp v3.3, 09/2026)
 
 | # | Tiêu chí | ĐẠT? |
 |---|---|---|
@@ -54,6 +54,9 @@
 | 19b | **Mạch LIỀN, không rời rạc** — câu/đoạn nối nhau bằng liên từ–thán từ "chất keo" theo chuẩn MỚI: **mỗi 2–3 câu ≥ 1 liên từ văn nói**, không lặp một cụm quá 2 lần (móc xích giữa các khối); không đoạn nào "khởi động lạnh" | ☐ |
 | 19c | **KHÔNG chữ hàn lâm/kinh viện** (chủ thể, cơ chế, hạ tầng, tối ưu…) — đã thay bằng văn nói bình dân; ví von SÁT, mỗi chi tiết khớp thực tế (test "mẹ mình có hiểu không") | ☐ |
 | 19d | **Tiêu đề các bước/phân đoạn BẮT BUỘC BÌNH DÂN, DỄ HIỂU NGAY & KHÔNG KHẨU HIỆU** — Tuyệt đối KHÔNG dùng thuật ngữ chuyên môn màu mè, giật gân hàn lâm hay tiêu đề mang tính KHẨU HIỆU / CỜ QUẠT ở tiêu đề phân đoạn/bước (Ví dụ: KHÔNG dùng *"Bước 3: Đấu giá công khai, thu tiền tươi về túi"*, *"Rửa đá"*, *"Phù phép chứng thư"*, *"Tuồn lậu kẹp nách"* mà dùng *"Bước 1: Gom đất từ khi còn rẻ"*, *"Bước 2: Chờ làm xong ga, đất tự vọt giá"*, *"Bước 3: Bán đất thu tiền về"*) | ☐ |
+| 19e | **Câu siêu ngắn ngắt nhịp (Punch Pacing):** Trong mỗi 80–100 từ có ít nhất 1 câu ≤ 5 từ; không có đoạn 100 từ liên tiếp toàn câu dài mà thiếu "cú đấm" ngắn gọn | ☐ |
+| 19f | **Chống lặp cấu trúc tầng đoạn & AI Clichés:** Các đoạn không mở đầu cùng một mẫu hình (tối đa 1/3 đoạn mở bằng trạng ngữ thời gian); không chứa bất kỳ cụm từ nào trong Blacklist "Từ sáo rỗng AI thế hệ mới" — Mục J `tu_cam.md` | ☐ |
+| 19g | **Hơi thở trải nghiệm thực tế (Sensory Anchor):** Có ít nhất 1 chi tiết giác quan đời thường (hình ảnh/âm thanh/hành động nhỏ/lời thoại) giúp người đọc "nhập cảnh" — xóa bỏ hoàn toàn giọng "bản tin tóm tắt báo chí" (xem KT13b `nhip_giu_chan_va_van_noi.md`) | ☐ |
 | 20 | KHÔNG dạy đời/mỉa mai cay nghiệt; chủ đề tranh cãi có câu "phòng thủ" công tâm | ☐ |
 
 

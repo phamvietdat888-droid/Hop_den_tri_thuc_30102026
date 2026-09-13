@@ -226,3 +226,71 @@ Sau khi Hook gài xong khoảng trống tò mò, câu chốt chuyển sang thân
 - Khẳng định một chiều ở chủ đề tranh cãi (thiếu câu "phòng thủ" công tâm).
   - **Ngoại lệ KT14 (nâng cấp 07/2026 — `nhip_giu_chan_va_van_noi.md`):** với chủ đề XÃ HỘI THƯỜNG (xã hội, kinh tế, giáo dục, khoa học đang bàn luận công khai), ĐƯỢC nêu quan điểm ở phần Kết theo công thức 3 nhịp **Quan điểm + Khiêm tốn + Mời phản biện** (*"mình nghiêng về [X], vì [1 lý do đã chứng minh]. Nhưng mình có thể sai. Còn bạn nghĩ sao?"*) — CHỈ SAU khi đã trình bày công bằng các phía. KHÔNG áp dụng (giữ trung lập tuyệt đối + câu phòng thủ cũ): chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử, chủ đề chạm Compliance Shield.
 - Xem danh sách cấm đầy đủ: `.shared/tu_cam.md`.
+
+---
+
+## 📌 NHỊP CÂU SIÊU NGẮN NGẮT NHỊP (PUNCH PACING) ⭐ (bắt buộc vĩnh viễn — 09/2026)
+
+> **Vấn đề:** AI có xu hướng viết đều tăm tắp toàn câu 12–20 từ. Người thật nói chuyện KHÔNG như vậy. Người thật nói nhanh, ngắt, có câu dài rồi đột ngột chốt bằng 2–3 từ cụt lủn. Chính những câu cụt ấy tạo ra "cú đấm" — người nghe giật mình, ghi nhớ, và ở lại.
+
+**Quy tắc BẮT BUỘC:**
+- Cứ mỗi **80–100 từ**, BẮT BUỘC có ít nhất **1 câu ≤ 5 từ**.
+- Câu siêu ngắn đặt SAU một chuỗi giải thích dài → tạo hiệu ứng "đập gãy nhịp đều".
+- CẤM viết 100 từ liên tiếp toàn câu dài mà không có câu ngắn nào xen vào.
+
+**Kho câu siêu ngắn gợi ý (dùng linh hoạt, KHÔNG lặp):**
+
+| Chức năng | Ví dụ |
+|---|---|
+| Chốt hạ | *"Đơn giản vậy thôi."* · *"Hết cửa."* · *"Thế mới đau."* |
+| Nhấn mạnh | *"Quá căng."* · *"Rất gắt."* · *"Lỗ nặng."* · *"Khủng."* |
+| Chuyển ý | *"Rồi sao?"* · *"Thế nhưng."* · *"Chưa hết."* |
+| Gây bất ngờ | *"Sai bét."* · *"Ngược lại."* · *"Đúng rồi đấy."* |
+| Xác nhận | *"Thật đấy."* · *"Không đùa."* · *"Đúng một câu thôi."* |
+
+---
+
+## 📌 CATALOG 5 CÁCH MỞ ĐOẠN — PHÁ VỠ KHUÔN MẪU AI ⭐ (bắt buộc vĩnh viễn — 09/2026)
+
+> **Vấn đề:** AI gần như LUÔN mở đoạn bằng trạng ngữ thời gian (*"Chỉ trong 8 tháng qua..."*, *"Mới đây nhất..."*, *"Tính đến cuối năm..."*). Viết 5 đoạn liên tiếp như vậy → nghe như bản tin, không có cá tính.
+
+**Quy tắc:** Tối đa **1/3 số đoạn** trong bài được mở bằng trạng ngữ thời gian. Các đoạn còn lại BẮT BUỘC dùng 1 trong 5 cách mở dưới đây:
+
+| # | Cách mở | Ví dụ |
+|---|---|---|
+| 1 | **Hành động / Chi tiết hình ảnh** | *"Tiếng búa gõ chan chát trong xưởng Đại Dũng lúc 3 giờ sáng."* |
+| 2 | **Câu hỏi cụt** | *"Tiền ở đâu ra?"* / *"Ai chịu trách nhiệm?"* |
+| 3 | **Cảm giác / Phản ứng đời thường** | *"Nghe xong cái này, nhiều người lắc đầu."* |
+| 4 | **Phép so sánh trần trụi** | *"Số tiền đó gấp 3 lần ngân sách cả tỉnh Lai Châu trong 1 năm."* |
+| 5 | **Lời thoại / Tiếng động thực tế** | *"'Hết vốn rồi anh ơi' — câu đó vang khắp công trường."* |
+
+---
+
+## 🌟 BỘ 5 NGUYÊN TẮC VÀNG VỀ PHONG CÁCH VIẾT THỰC CHIẾN (BẮT BUỘC VĨNH VIỄN — TỰ ĐỘNG MỌI PHIÊN)
+
+1. **Tạo cảm giác được viết bởi người có trải nghiệm thực tế:**
+   - Tuyệt đối không viết như AI đọc báo tóm tắt lại.
+   - Người viết nhập vai như người từng trải, mắt thấy tai nghe, đã từng xé gói hàng chuyển phát, từng ngồi ăn bát phở nóng bên vỉa hè, từng lái xe qua trạm thu phí.
+   - Luôn có chi tiết đời thường, giác quan cụ thể (mùi khói xe, tiếng ting ting của app, tiếng va chạm lách cách...) để xóa bỏ hoàn toàn cảm giác sách vở.
+
+2. **Dùng câu ngắn xen câu dài:**
+   - Chủ động biến hóa nhịp điệu sinh động: câu dài phân tích thấu đáo nguyên nhân/cơ chế/logic, đi liền sau đó là câu ngắn dứt khoát (≤ 5-7 từ) để chốt hạ, đấm thẳng vào nhận thức người nghe.
+   - Tuyệt đối không viết toàn câu dài lòng thòng dính chùm khiến người nghe ngợp và trôi tuột thông tin.
+
+3. **Có chỗ ngắt nhịp hợp lý (Khoảng thở):**
+   - Giữ nhịp thở tự nhiên như một cuộc trò chuyện trực tiếp ngoài quán nước.
+   - Không tuôn một hơi hàng chục dữ liệu dồn dập khiến người xem nghẹt thở.
+   - Tận dụng câu cụt, dấu chấm ngắt nhịp và thán từ để người nghe có khoảng lặng ngẫm nghĩ và "thấm" trọn vẹn từng ý trước khi chuyển sang luận điểm mới.
+
+4. **Đặt câu hỏi khi cần (Đối thoại tương tác):**
+   - Đan cài câu hỏi gợi mở, câu hỏi tu từ đúng lúc đúng chỗ (*"Ủa, vậy tiền đi đâu mất rồi?", "Có đúng thế không bạn?", "Nhưng bạn có bao giờ tự hỏi...?"*).
+   - Đặt câu hỏi như đang nhìn thẳng vào mắt người nghe để lôi cuốn họ cùng động não suy nghĩ, rồi lập tức dẫn dắt giải đáp cặn kẽ.
+
+5. **Dùng từ ngữ đơn giản (Bình dân 100%):**
+   - Nói bằng ngôn từ của người dân bình thường, gần gũi, nôm na, dễ hiểu nhất.
+   - Cấm tiệt từ ngữ chuyên môn màu mè, sáo rỗng hay đao to búa lớn.
+   - Mọi khái niệm kinh tế hay chính trị phức tạp đều phải được bẻ nhỏ, ví von sao cho "mẹ hay bà nội nghe qua là hiểu liền và gật gù".
+
+*Áp dụng tự động vĩnh viễn cho toàn bộ kịch bản, bài viết, lời bình của mọi phiên làm việc tiếp theo.*
+
+

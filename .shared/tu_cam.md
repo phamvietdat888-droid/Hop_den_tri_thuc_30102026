@@ -228,3 +228,66 @@
 | *"giăng lưới bắt cá lớn ngoài biển khơi"* | *"đang tất bật vươn ra biển lớn"* |
 
 **Quy tắc kiểm duyệt:** Đọc lại mọi câu nối/transition trước khi xuất file. Nếu câu nối nghe giống khẩu hiệu tuyên truyền, diễn văn, hoặc bài phát biểu → viết lại bằng ngôn ngữ quán nước. Test: *"Mẹ mình nghe câu nối này có thấy tự nhiên không?"*. Nếu không → sửa lại ngay.
+
+---
+
+## J. BLACKLIST TỪ SÁO RỖNG AI THẾ HỆ MỚI (AI CLICHÉS & PATTERNS) — BẮT BUỘC VĨNH VIỄN (09/2026)
+
+> **Nguyên tắc:** Đây là lớp chặn bổ sung dành riêng cho các cụm từ/hình ảnh mà AI (ChatGPT, Gemini, Claude…) sử dụng lặp đi lặp lại khi viết nội dung tiếng Việt. Dù không thuộc Blacklist clickbait (F1) hay từ hàn lâm (H), những cụm này khiến bài viết nghe qua là nhận ra "AI viết" ngay lập tức. **CẤM dùng trong MỌI loại nội dung** (kịch bản, bài FB, Shorts, seeding, mô tả SEO).
+
+### J1. Bảng CẤM — Cụm từ sáo rỗng AI thế hệ mới
+
+| ❌ CẤM (AI Cliché) | Lý do | ✅ Thay bằng (Bình dân, cụ thể) |
+|---|---|---|
+| *"Con số biết nói"* / *"Con số không biết nói dối"* | AI pattern cực phổ biến, sáo rỗng | Đi thẳng vào con số / *"Nhìn vào số liệu là thấy ngay"* |
+| *"Đảo chiều ngoạn mục"* / *"Cú lội ngược dòng"* | Khuôn mẫu AI khi mô tả thay đổi | *"Gió đổi chiều"* / *"Thế cờ lật ngược"* / mô tả cụ thể thay đổi gì |
+| *"Bức tranh toàn cảnh"* / *"Bức tranh đa sắc"* | AI mở đầu/chuyển ý rất hay dùng | *"Toàn bộ câu chuyện là thế này"* / *"Chuyện thực ra đang diễn ra..."* |
+| *"Thỏi nam châm hút..."* | Ẩn dụ AI dùng quá nhiều | *"Chỗ ai cũng muốn chen chân vào"* / *"Hút hết khách về mình"* |
+| *"Mâm cỗ béo bở"* / *"Mâm cỗ vàng"* | Ẩn dụ AI rập khuôn | *"Khoản tiền khổng lồ"* / *"Miếng bánh trăm tỷ đô"* / nói thẳng số tiền |
+| *"Đội hình trong mơ"* | AI hay ghép khi liệt kê nhiều doanh nghiệp | *"Mấy ông lớn ngồi chung mâm"* / *"Những tay chơi lớn nhất bắt tay"* |
+| *"Tự bắn vào chân"* / *"Nước cờ tự làm khó"* | AI cliché mô tả sai lầm chính sách | *"Tự ôm rơm rặm bụng"* / *"Nước đi lúng túng"* / *"Tự gây khó cho mình"* |
+| *"Cuộc chạy đua nghẹt thở"* / *"Cơn khát đến nghẹt thở"* | Cường điệu kiểu AI | *"Căng như dây đàn"* / *"Thiếu người rát mặt"* / *"Chạy đua đến toát mồ hôi"* |
+| *"Câu chuyện không chỉ là..."* / *"Đây không đơn thuần là..."* | Khuôn mẫu AI khi kết bài | Bỏ cụm, đi thẳng vào nhận định |
+| *"Bài toán nan giải"* / *"Bài toán hóc búa"* | AI cliché khi nói về khó khăn | *"Cái khó ở đây là..."* / *"Chỗ kẹt nằm ở..."* |
+| *"Hệ sinh thái hoàn chỉnh"* | Từ AI + startup jargon | *"Chuỗi đầy đủ từ đầu tới cuối"* / *"Đủ bộ từ A đến Z"* |
+| *"Nút thắt cốt lõi"* / *"Mắt xích then chốt"* | AI jargon dùng quá nhiều | *"Chỗ bị kẹt nhất"* / *"Khâu quan trọng nhất"* |
+| *"Siêu chu kỳ"* | Jargon tài chính AI hay ghép | *"Đợt đầu tư lớn chưa từng có"* / nói thẳng quy mô |
+| *"Tín hiệu tích cực / tiêu cực"* | AI cliché khi đánh giá | *"Dấu hiệu tốt"* / *"Dấu hiệu đáng lo"* |
+| *"Lộ diện"* / *"Lộ diện đội hình"* | AI pattern khi giới thiệu | *"Xuất đầu lộ diện"* cấm; thay bằng *"Đã rõ mặt..."* / *"Danh sách đã có"* |
+
+### J2. Quy tắc phát hiện & xử lý
+
+| # | Quy tắc |
+|---|---|
+| 1 | Sau khi viết xong, đọc lại TOÀN BỘ bài: nếu thấy cụm từ nào "nghe hay quá, tròn trịa quá" → nghi ngờ ngay, đối chiếu bảng J1 |
+| 2 | Mỗi ẩn dụ / hình ảnh chỉ được dùng TỐI ĐA 1 LẦN trong toàn bài. Nếu muốn nhắc lại → phải đổi hình ảnh hoàn toàn khác |
+| 3 | Test: *"Cụm từ này mình có nói khi ngồi quán nước kể cho bạn bè nghe không?"*. Nếu không → sửa |
+| 4 | Khi nghi ngờ 1 cụm từ có phải AI cliché không nhưng không thấy trong bảng J1 → vẫn thay bằng cách nói trần trụi, cụ thể hơn |
+
+---
+
+## K. QUY TẮC PHÁ VỠ CẤU TRÚC TRÒN TRỊA — CHỐNG ĐỐI XỨNG CƠ HỌC (BẮT BUỘC VĨNH VIỄN — 09/2026)
+
+> **Nguyên tắc:** AI có xu hướng viết câu đối xứng đẹp đẽ, liệt kê song hành 3 vế, mở đoạn bằng trạng ngữ thời gian. Con người KHÔNG nói như vậy. Bài viết tự nhiên phải có nhịp gãy, câu dang dở, câu cụt, câu lật đột ngột.
+
+### K1. CẤM — 5 kiểu cấu trúc tròn trịa AI
+
+| # | ❌ CẤM | Ví dụ lỗi | ✅ Cách phá |
+|---|---|---|---|
+| 1 | **Liệt kê 3 vế song hành liên tiếp** | *"A lo thép; B lo toa xe; C lo công nghệ"* | Tách thành 2-3 câu khác cấu trúc, xen câu bình luận/hỏi giữa các vế |
+| 2 | **Mở đoạn bằng trạng ngữ thời gian liên tiếp** | Đoạn 1: *"Chỉ trong 8 tháng..."* / Đoạn 2: *"Mới đây nhất..."* / Đoạn 3: *"Tính đến cuối năm..."* | Tối đa 1/3 số đoạn được mở bằng trạng ngữ thời gian; dùng Catalog 5 cách mở đoạn (xem `tone_guide.md`) |
+| 3 | **Câu ghép 3–4 mệnh đề nối bằng phẩy** | *"...nhờ X, khiến Y, dẫn đến Z, tạo ra W"* | Chặt thành 2 câu ngắn + 1 câu cụt chốt |
+| 4 | **Đoạn nào cũng: Khẳng định → Liên từ → Liệt kê** | Cả bài 5 đoạn cùng 1 mẫu hình | Đảo: có đoạn mở bằng câu hỏi, có đoạn mở bằng hình ảnh, có đoạn mở bằng câu cụt |
+| 5 | **Câu nào cũng đủ Chủ-Vị-Bổ ngữ hoàn chỉnh** | Không có câu tỉnh lược, câu rút gọn | Xen câu tỉnh lược chủ ngữ (*"Căng lắm."*), câu đảo (*"Đau nhất là chỗ này."*), câu cụt (*"Hết cửa."*) |
+
+### K2. BẮT BUỘC — Câu siêu ngắn ngắt nhịp (Punch Line)
+
+- Cứ mỗi **80–100 từ**, BẮT BUỘC có ít nhất **1 câu ≤ 5 từ** đóng vai trò "cú đấm" ngắt nhịp.
+- Ví dụ: *"Quá căng."* / *"Hết đường lùi."* / *"Thế mới đau."* / *"Đơn giản vậy thôi."* / *"Lỗ nặng."* / *"Rất gắt."* / *"Đúng một câu thôi."*
+- CẤM viết 80 từ liên tiếp toàn câu dài 12–20 từ mà không có câu ngắn nào xen vào.
+
+### K3. Kiểm duyệt tự động
+
+- Sau khi viết xong, đọc lại: nếu thấy 3 đoạn liên tiếp mở đầu giống nhau → viết lại ngay.
+- Nếu thấy cả bài không có câu nào ≤ 5 từ → thêm vào ngay.
+- Test: *"Đọc to lên, nếu nghe đều đều như phát thanh viên đọc bản tin → chưa đạt."*

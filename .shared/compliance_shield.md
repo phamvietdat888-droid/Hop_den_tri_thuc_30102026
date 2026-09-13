@@ -278,6 +278,42 @@ KẾT LUẬN: ✅ ĐẠT — Cho phép xuất bản
 
 ---
 
+---
+
+### R8. Từ miệt thị sắc tộc / phân biệt đối xử TRONG NGỮ CẢNH LỊCH SỬ ⚠️ VETO (Bổ sung 2026-09-12)
+
+**Bối cảnh:** Khi viết bài có đối chiếu lịch sử (thời thuộc địa, chiến tranh...), rất dễ vô tình dùng từ miệt thị nguyên bản mà không nhận ra đó là hate speech theo chính sách YouTube.
+
+**Nguyên tắc cứng:** Nếu một từ/cụm từ khi **tách ra khỏi ngữ cảnh** vẫn có thể bị coi là hate speech → **KHÔNG DÙNG**, dù đặt trong câu chuyện lịch sử tích cực.
+
+**Bảng từ CẤM và cách thay thế:**
+
+| ❌ CẤM (dù trong ngữ cảnh lịch sử) | ✅ THAY BẰNG |
+|---|---|
+| "gọi mình là mọi" | "không thèm ngó tới mình" |
+| "dân bản xứ hạng bét" | "coi dân ta chẳng ra gì" |
+| "đè đầu cưỡi cổ" | "từng bị coi thường", "từng bị áp bức" |
+| "nô lệ da vàng" | "thân phận thuộc địa bị khinh khi" |
+| "dân An Nam mọi rợ" | "người Việt bị xem nhẹ" |
+
+**Kỹ thuật an toàn:** Diễn đạt gián tiếp qua HÀNH ĐỘNG (không thèm nhìn, cúi mặt, bị khinh) thay vì DANH XƯNG miệt thị trực tiếp.
+
+---
+
+### R9. Nhạy cảm hình ảnh Lãnh tụ / Lãnh đạo cấp cao ⚠️ VETO (Bổ sung 2026-09-12)
+
+**Bối cảnh:** Khi đối chiếu lịch sử để tôn vinh thành tựu đất nước, dễ vô tình dùng chi tiết gây hiểu lầm là hạ thấp hình ảnh lãnh tụ.
+
+**Nguyên tắc cứng:**
+- **KHÔNG** gán chi tiết đời tư nhạy cảm (nghèo khổ, thấp hèn, yếu đuối) trực tiếp cho cá nhân lãnh tụ/lãnh đạo cấp cao cụ thể dù trong ngữ cảnh tích cực.
+- **ĐƯỢC PHÉP** nói CHUNG về "ông cha mình", "người Việt ngày xưa", "thế hệ đi trước" để truyền tải cùng ý mà an toàn.
+
+**Ví dụ:**
+- ❌ *"Bác Hồ đến Paris chỉ là anh phụ bếp gầy gò, không ai thèm nhìn"*
+- ✅ *"Ngày xưa ông cha mình sang đất Pháp chỉ với thân phận phu khuân vác, bồi bàn, đi đâu cũng cúi mặt"*
+
+---
+
 ## F. THAM CHIẾU CHÉO
 
 | File | Liên quan |
@@ -290,3 +326,5 @@ KẾT LUẬN: ✅ ĐẠT — Cho phép xuất bản
 | `.agent/agents/04_publisher.md` | Quét trước xuất bản |
 | `skills/seeding_facebook_skill.md` | Quét Mega Comments |
 | `skills/dang_fanpage_skill.md` | Quét bài FB |
+| `Learning.md` 2026-09-12 | 5 bài học gốc — nguồn của R8, R9 |
+
