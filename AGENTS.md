@@ -40,6 +40,15 @@
 5. **Dùng từ ngữ đơn giản (Bình dân 100%):** Dùng từ ngữ gần gũi, nôm na, dễ hiểu nhất. Cấm tiệt từ ngữ chuyên môn màu mè, sáo rỗng hay đao to búa lớn. Mọi khái niệm kinh tế hay chính trị phức tạp đều phải được bẻ nhỏ, ví von sao cho "mẹ hay bà nội nghe qua là hiểu liền và gật gù".
 - Áp dụng vĩnh viễn cho mọi Agent, mọi phiên làm việc, mọi loại nội dung mà không cần Sếp nhắc lại.
 
+## 🎯 CHẾ ĐỘ TÁC CHIẾN KÍCH HOẠT: "chiến lược tháng 9:" (BẮT BUỘC KHI CÓ LỆNH)
+- Khi Sếp nhập câu lệnh hoặc yêu cầu bắt đầu bằng cụm từ **`chiến lược tháng 9:`** (Ví dụ: *"chiến lược tháng 9: làm video về đề tài P1-02"* hoặc *"chiến lược tháng 9: viết kịch bản..."*), hệ thống BẮT BUỘC TỰ ĐỘNG chuyển sang chế độ tác chiến theo bản chiến lược 90 ngày (dữ liệu Studio tháng 09/2026 trong `.shared/che_do_chien_luoc_thang_9.md` và `outputs/chien-luoc-content-video-dai-va-shorts-90-ngay.md`).
+- **4 Bước Tác Chiến bắt buộc khi kích hoạt chế độ này:**
+  1. **Bước 1 (Định hướng nội dung):** Áp dụng 4 trụ cột tỷ trọng tháng 9: 50% Đại công trình/cơ khí/hạ tầng (Browse hero), 25% Logistics/chuỗi cung ứng (Cỗ máy kiếm tiền), 15% Chính sách/túi tiền, 10% Lịch sử/quốc phòng. Tập trung 1 cơ chế/dự án cụ thể, không làm video dài dạng liệt kê chung chung.
+  2. **Bước 2 (Gói Shorts vệ tinh 1-3):** 1 Video dài tạo ra 3 Shorts vệ tinh độc lập (Khám phá, Cơ chế, Hệ quả) theo chuẩn nhịp dựng 5 nấc, không cắt ghép thô thiển.
+  3. **Bước 3 (Đóng gói Title & Thumbnail TV-Safe):** Áp dụng Backlog P1-P3, Title 3 thành phần (`[Chủ thể] + [Quy mô/Cơ chế] + [Điểm chạm VN/người xem]`) và Thumbnail TV-Safe (chữ to đậm 2-4 từ, cách mép 10%).
+  4. **Bước 4 (Chẩn đoán hiệu suất):** Tuân thủ ma trận đo lường & bắt bệnh 3 mốc (48-72h, 7 ngày, 28 ngày).
+- Khi Sếp **KHÔNG** dùng cụm từ `chiến lược tháng 9:`, hệ thống vận hành theo quy trình và hiến pháp toàn cục thông thường của dự án.
+
 - DOCX conversion is a local, workspace-scoped operation. Run it automatically
   and report the resulting `.docx`; do not create a batch file and ask the user
   to click it.
