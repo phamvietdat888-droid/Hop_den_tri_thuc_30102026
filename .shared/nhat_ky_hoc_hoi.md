@@ -166,3 +166,41 @@
 > **"Da Nâu khác CỦ ĐẬU ở chỗ: CỦ ĐẬU là ngọn lửa bức xúc đốt cháy sự thật, còn Da Nâu là khối băng điềm tĩnh phản chiếu sự thật. Giọng càng bình thản thì vết cắt châm biếm càng sâu; và khoảng lặng sau mỗi nghịch lý chính là nơi người đọc tự thức tỉnh."**
 
 ---
+
+## ENTRY #002b — Rút kinh nghiệm Da Nâu ốc vít (feedback Sếp 17/09/2026)
+
+**File:** `outputs/da_nau_oc_vit_chiec_thuoc_ke.md` (v2) | **Loại:** Chỉnh sửa theo feedback trực tiếp từ Sếp
+
+### 🔑 3 BÀI HỌC THEN CHỐT TỪ FEEDBACK
+
+**1. KHÔNG dùng "Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé" cho phong cách Da Nâu:**
+- Câu này thuộc giọng "Hộp Đen Tri Thức" — ấm áp, thân thiện, mời gọi.
+- Da Nâu KHÔNG mời gọi. Da Nâu LẬT VẤN ĐỀ. Cách chuyển cảnh phải bằng câu hỏi lật, câu thách thức, câu mở nghịch lý.
+- **Thay bằng:** *"Rốt cuộc thì...", "Vậy thực hư...", "Tôi hơi tò mò..."* — những cách chuyển giữ nguyên giọng bình thản mà vẫn tạo đà.
+- **QUY TẮC MỚI:** Mỗi phong cách cần CÂU CHUYỂN CẢNH RIÊNG. Không copy câu cố định từ Hộp Đen sang Da Nâu hay CỦ ĐẬU.
+
+**2. THẾ MẠNH CẦN NHÂN BỘI — Giọng Da Nâu hay nhất khi:**
+- Dùng sự tò mò, thắc mắc THẬT để dẫn vào: *"Tôi luôn dành một sự ngưỡng mộ rất thật cho..."*, *"Tôi không bình luận gì... chỉ là tôi hơi tò mò..."*
+- Nêu nghịch lý rồi IM: *"Cũng là một cách nhìn nhận. Rất độc đáo."*
+- Lập luận lật ngược bằng bẫy logic: dẫn dắt người đọc theo chuỗi logic tưởng đúng rồi bật nắp.
+- **QUY TẮC MỚI:** Mỗi vòng xoắn phải có ≥1 câu kiểu "tôi tò mò/để ý/không bình luận" + ≥1 câu chốt kiểu "cũng là một cách" — đây là NHỊP THỞ đặc trưng Da Nâu.
+
+**3. DA NÂU BÌNH DỊ ≠ DA NÂU HÀN LÂM:**
+- v1 dùng quá nhiều từ văn viết: "kim ngạch xuất khẩu sản phẩm cơ khí", "chuỗi cung ứng toàn cầu", "hệ thống nhiệt luyện chân không", "dàn máy quang phổ kiểm định"...
+- Da Nâu thật (BTV Việt Hoàng) nói rất bình dị mà vẫn sắc. Anh ấy nói "mấy anh thợ" chứ không nói "những người lao động ngành cơ khí". Nói "cái sân mà Messi nâng cúp" chứ không nói "nơi sau đó Lionel Messi nâng cao chiếc cúp vàng World Cup".
+- **QUY TẮC MỚI:** Sau khi viết xong, rà lại TOÀN BỘ — thấy cụm 4 chữ Hán-Việt trở lên → dịch sang tiếng chợ. Thấy câu dài >15 từ quá trang trọng → tách ra, bỏ bớt từ tô vẽ. Da Nâu nói ngắn, nói gọn, nói nhẹ — mà nặng ở ý.
+
+### 📋 CHECKLIST RÀ SOÁT DA NÂU (bổ sung từ Entry #002b)
+
+- [ ] Có dùng câu chuyển cảnh cứng "Ngay sau đây..." không? → BỎ NGAY.
+- [ ] Mỗi vòng xoắn có ≥1 câu "tôi tò mò / để ý / không bình luận"?
+- [ ] Mỗi vòng xoắn có ≥1 câu chốt kiểu "Cũng là một cách / Rất độc đáo / Cũng thú vị"?
+- [ ] Có cụm 4+ chữ Hán-Việt nào chưa dịch sang tiếng bình dân?
+- [ ] Câu nào dài >15 từ quá trang trọng chưa tách/rút gọn?
+- [ ] Giọng tổng thể nghe như BTV đang trò chuyện trong quán cà phê, hay như đang đọc diễn văn?
+
+### 💎 BÀI HỌC CỐT LÕI #002b
+
+> **"Da Nâu hay nhất khi nói rất nhẹ, rất bình thường, rất đời — mà ý thì nặng trịch. Bình dị và thâm thúy không hề mâu thuẫn: chính vì nói giản dị mà người nghe mới tự phát hiện ra sự mỉa mai — và cú 'à!' đó mới là sức mạnh thật sự."**
+
+---
