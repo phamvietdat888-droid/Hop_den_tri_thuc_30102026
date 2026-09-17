@@ -29,6 +29,3 @@ token.pickle
 # Temporary files of antigravity
 .antigravityignore.*
 
-# Outputs
-outputs/
-
