@@ -204,3 +204,54 @@
 > **"Da Nâu hay nhất khi nói rất nhẹ, rất bình thường, rất đời — mà ý thì nặng trịch. Bình dị và thâm thúy không hề mâu thuẫn: chính vì nói giản dị mà người nghe mới tự phát hiện ra sự mỉa mai — và cú 'à!' đó mới là sức mạnh thật sự."**
 
 ---
+
+## ENTRY #003 — Rút kinh nghiệm CỦ ĐẬU ốc vít v3 (feedback Sếp 17/09/2026)
+
+**File:** `outputs/cu_dau_oc_vit_v3.md` | **Loại:** Chỉnh sửa CỦ ĐẬU theo feedback trực tiếp từ Sếp — NÂNG CẤP CHẤT LƯỢNG LẬP LUẬN
+
+### 🔑 5 BÀI HỌC THEN CHỐT TỪ FEEDBACK
+
+**1. CẤM GIỌNG DẠY ĐỜI / LÊN LỚP trong CỦ ĐẬU (BẮT BUỘC VĨNH VIỄN):**
+- ❌ *"Mình giải thích cho anh em nghe"* → nghe như thầy giáo nói với học sinh.
+- ❌ *"Mình nói thẳng luôn cho nó gọn"* → nghe như sếp chốt hạ với nhân viên.
+- ✅ *"Là thế này."* — tự nhiên, ngang hàng, như đang kể chuyện.
+- ✅ *"Mà nói gì thì nói."* — bình thản, chuyển đoạn mà không lên giọng.
+- ✅ *"Mình tính cho anh em nghe nhé."* — rủ rê cùng xem, không phải dạy.
+- **QUY TẮC:** CỦ ĐẬU = anh bạn trà đá vỉa hè. Anh bạn CHIA SẺ, không GIẢNG BÀI. Mọi câu mở đoạn mới phải qua bài test: "Nếu ngồi quán trà đá nói câu này với bạn, có bị bạn bảo 'thôi ông ơi đừng dạy đời' không?"
+
+**2. DẪN DẮT SỐ LIỆU KIỂU TÒ MÒ / NGHỊCH LÝ (học từ Da Nâu, áp dụng cho CỦ ĐẬU):**
+- ❌ *"Thưa anh em, trước khi nhảy vào chuyện ốc vít, mình phác qua cho anh em nào chưa biết..."* → quá dài, quá trang trọng, giọng MC dẫn chương trình.
+- ✅ *"Mà mình cứ tò mò một chuyện. 52 tỷ đô."* → Ném con số ra trước, gây tò mò, rồi mới giải thích.
+- ✅ *"52 tỷ đô mà vẫn bị hỏi 'ốc vít đâu?' Thú vị thật."* → Đặt nghịch lý cạnh nhau, để người đọc tự thấy vô lý.
+- **QUY TẮC MỚI (ÁP DỤNG XUYÊN PHONG CÁCH):** Khi cần dẫn vào số liệu → KHÔNG giới thiệu/xin phép ("mình phác qua", "mình giải thích") → MÀ ném số liệu ra trước rồi đặt câu hỏi/nghịch lý bên cạnh. Số liệu phải TỰ NÓI, không cần MC.
+
+**3. NGẮT NHỊP CHUẨN KIỂU ĐỌC CỦ ĐẬU TRONG FILE OUTPUT:**
+- Mỗi câu punch/câu cụt = 1 dòng riêng (xuống hàng trước và sau).
+- Mỗi khối ý (2-3 câu liên quan) = 1 đoạn liền mạch.
+- Dấu phân cách `---` giữa các phần lớn.
+- **Mục đích:** Khi xuất .docx, nhịp đọc đã đúng sẵn — người đọc/thuyết minh không cần tự ngắt.
+
+**4. LẬP LUẬN VÀ LẬT VẤN ĐỀ PHẢI SÂU SẮC KIỂU DA NÂU (ÁP DỤNG CHO CỦ ĐẬU):**
+- CỦ ĐẬU cũ: lật vấn đề kiểu đường phố (bức xúc → phang thẳng).
+- CỦ ĐẬU nâng cấp: lật vấn đề kiểu sâu sắc — dẫn dắt bằng logic, bẫy logic, nghịch lý → rồi MỚI bức xúc.
+- Ví dụ đã áp dụng: *"52 tỷ đô mà vẫn bị hỏi 'ốc vít đâu?' Thú vị thật."* → Nghịch lý kiểu Da Nâu + giọng CỦ ĐẬU.
+- **QUY TẮC:** Giọng = CỦ ĐẬU (bụi, xưng mình). Não = Da Nâu (lập luận sâu, bẫy logic, lật vấn đề nhiều tầng).
+
+**5. SỬA LỖI CẤU TRÚC SONG HÀNH (từ Entry #001):**
+- v2: *"Khi thị trường đủ lớn, khi chuỗi cung ứng đủ dày, khi mấy ông lắp ráp..."* (3 vế "khi...khi...khi..." = AI)
+- v3: *"Thị trường lớn lên, mấy ông lắp ráp bắt đầu mua lẻ thay vì ôm nguyên bộ — lúc đó tự khắc có nhà máy nhảy vào."* → Phá nhịp, tự nhiên.
+
+### 📋 CHECKLIST RÀ SOÁT CỦ ĐẬU (bổ sung từ Entry #003)
+
+- [ ] Có câu nào nghe kiểu "mình giải thích / mình nói thẳng / mình phác qua" không? → SỬA NGAY.
+- [ ] Số liệu có được ném ra trước rồi đặt nghịch lý bên cạnh, hay bị dẫn dắt kiểu MC?
+- [ ] Mỗi câu punch/cụt đã xuống dòng riêng chưa?
+- [ ] Lập luận lật vấn đề đã đủ sâu (kiểu Da Nâu) hay chỉ bức xúc bề mặt?
+- [ ] Có 3 vế song hành liên tiếp nào chưa phá nhịp không?
+- [ ] Đọc to từ đầu: giọng nghe như anh bạn trà đá hay thầy giáo?
+
+### 💎 BÀI HỌC CỐT LÕI #003
+
+> **"CỦ ĐẬU SIÊU PRO = GIỌNG vỉa hè + NÃO Da Nâu. Bụi bặm ở cách nói, sâu sắc ở cách nghĩ. Chia sẻ ngang hàng, không bao giờ dạy đời. Và số liệu phải TỰ NÓI — không cần MC giới thiệu."**
+
+---
