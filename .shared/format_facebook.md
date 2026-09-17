@@ -113,7 +113,50 @@ Hashtag.
 
 ---
 
+### Chế độ C: Bài viết ngắn ≤ 200 từ — Nhịp dựng 5 nấc (BẮT BUỘC VĨNH VIỄN — 09/2026)
+
+> **Áp dụng cho:** Mọi bài viết Facebook ngắn ~200 từ, bài viết nhanh theo sự kiện, bài phân tích micro.
+> **Triết lý:** Biến bài viết ngắn thành "phóng sự mini" hoàn chỉnh, có cao trào và kết mở độc lập — KHÔNG phải "bản tóm tắt tin tức thu nhỏ".
+> **Tham chiếu kỹ thuật:** `.shared/nhip_giu_chan_va_van_noi.md` mục I (KT16).
+
+```
+[EMOJI] [TIÊU ĐỀ — VIẾT HOA 1-2 từ then chốt]
+────────────────────────────────────────────
+
+[NẤC 1: VISUAL HOOK — 15-25 từ]
+Hình ảnh hoặc câu hỏi đập thẳng vào mắt.
+Ưu tiên thị giác (text overlay, con số trần trụi, cảnh tượng gây choáng).
+
+[NẤC 2: BỐI CẢNH TỐI THIỂU — 15-20 từ]
+CHỈ 1 câu. 1 dữ kiện neo duy nhất. CẤM nhồi tên, ngày, địa danh thừa.
+
+[NẤC 3: BÓC CƠ CHẾ & BẰNG CHỨNG — 80-100 từ]
+TRÁI TIM bài viết (~50% dung lượng).
+Giải thích "Nó vận hành ra sao?" hoặc "Vì sao lại thế?".
+Đan xen câu ngắn ≤ 5 từ ngắt nhịp.
+Bắt buộc có ≥ 1 chi tiết giác quan (Sensory Anchor / KT13b).
+
+[NẤC 4: CÚ TWIST NHẬN THỨC — 30-40 từ]
+Lật ngược nhận thức. Hé lộ lớp ẩn hoặc hệ quả bất ngờ.
+Không có Twist = bài viết bị phẳng.
+
+[NẤC 5: KẾT MỞ ĐỘC LẬP — 20-30 từ]
+Câu hỏi xoáy khiến người đọc tự tranh luận.
+KHÔNG đặt CTA đăng ký kênh ở đây.
+
+────────────────────────────────────────────
+Ý kiến của bạn về vấn đề này thế nào? Hãy để dưới bình luận nhé!
+Đừng quên bấm Like và đăng ký kênh để thảo luận
+những vấn đề nóng bỏng khác nữa.
+#giaima360 #[hashtag_1] #[hashtag_2] #[hashtag_3]
+```
+
+> ⚠️ **LƯU Ý:** CTA gồm **2 PHẦN BẮT BUỘC** (áp dụng mọi bài viết dài ngắn — 14/09/2026): **(1)** Câu hỏi tương tác khơi gợi thảo luận (có thể linh hoạt tùy nội dung, ví dụ: *"Ý kiến của bạn về vấn đề này thế nào? Hãy để dưới bình luận nhé!"*) + **(2)** Câu cố định *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* — KHÔNG ĐƯỢC bỏ phần (1), dù bài viết ngắn ≤200 từ. Cả 2 phần đặt NGOÀI 5 nấc nội dung (dưới dấu phân cách).
+
+---
+
 ## 🎨 12 DẠNG TIÊU ĐỀ VIRAL CHO FACEBOOK
+
 
 > **Nguồn:** Tích hợp từ `tieude.md` — Đã chuyển ngữ cho mảng Địa chính trị
 

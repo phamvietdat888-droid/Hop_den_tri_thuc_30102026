@@ -4,7 +4,26 @@
 
 ---
 
+## 2026-09-13 — Cách mạng nhịp dựng bài viết ngắn: KT16 Nhịp Dựng 5 Nấc (BẮT BUỘC VĨNH VIỄN) ⭐
+
+Sếp so sánh trực tiếp 2 phong cách viết bài ngắn ~200 từ (cùng nội dung iPhone 18 / iPhone Duo gập) và kết luận Phương án mới (5 nấc) vượt trội hoàn toàn so với cấu trúc tuyến tính cũ.
+
+### Cấu trúc CŨ bị thay thế (cho bài ≤ 200 từ):
+`[Hook cảm xúc] → [Câu cầu nối] → [Đoạn bối cảnh đầy đủ] → [Thân bài liệt kê nhận định] → [CTA chèo kéo đăng ký kênh]`
+- **Nhược điểm:** Bối cảnh chiếm quá nhiều dung lượng quý, thân bài chỉ kịp nhận định bề mặt, kết thúc bằng CTA quen thuộc khiến người đọc vuốt qua.
+
+### Cấu trúc MỚI — KT16 Nhịp Dựng 5 Nấc (áp dụng vĩnh viễn):
+`[Nấc 1: Visual Hook] → [Nấc 2: Bối cảnh tối thiểu] → [Nấc 3: Bóc cơ chế & Bằng chứng] → [Nấc 4: Cú Twist nhận thức] → [Nấc 5: Kết mở độc lập]`
+- **Ưu điểm:** Bối cảnh cắt cực gọn (1 câu), 50% dung lượng dành cho bóc cơ chế sâu, có Twist lật nhận thức tạo cao trào, kết bằng câu hỏi xoáy khiến người đọc tự tranh luận. CTA đặt ngoài 5 nấc.
+
+### Đã cập nhật vào hệ thống:
+- `AGENTS.md` — Thêm quy tắc vĩnh viễn "Nhịp Dựng 5 Nấc Cho Bài Viết Ngắn ≤ 200 Từ"
+- `.shared/nhip_giu_chan_va_van_noi.md` — Thêm mục I: KT16 đầy đủ (bảng 5 nấc + 7 quy tắc)
+- `.shared/format_facebook.md` — Thêm Chế độ C: Template bài viết ngắn 5 nấc
+- `Learning.md` — Ghi nhận bài học (mục này)
+
 ## 2026-09-13 — 3 Bài học từ Postmortem YouTube tháng 9/2026 (Phân tích dữ liệu thực tế kênh CheckVar 247) ⭐ BẮT BUỘC VĨNH VIỄN
+
 
 Lần đầu tiên hệ thống rút bài học trực tiếp từ **dữ liệu hiệu suất thực tế** (YouTube Studio, 01–11/09/2026). Video dẫn đầu "Mái Vòm Sân Vận Động" đạt 28.755 views, gấp 5,4 lần video đứng thứ 2. Ba video ít views chỉ có 237–516 views dù retention tốt hơn cả video dẫn đầu.
 
@@ -330,4 +349,21 @@ Sếp phát hiện và chấn chỉnh 5 lỗi liên tiếp trong quá trình vi�
 ### Đã cập nhật vào hệ thống:
 - `Learning.md` — ghi nhận 5 bài học (mục này)
 - `.shared/compliance_shield.md` — bổ sung quy tắc YouTube-safe language + nhạy cảm lãnh tụ
+
+---
+
+## 2026-09-13 — Đồng bộ hoàn toàn Phương án 2 vào Chế độ "chiến lược tháng 9:" (Cả Video dài 3 tầng & Shorts 5 nấc) ⭐ BẮT BUỘC
+
+Khi Sếp kích hoạt lệnh **`chiến lược tháng 9:`**, hệ thống kích hoạt chế độ tác chiến 90 ngày và BẮT BUỘC khóa chặt cấu trúc theo **Phương án 2**:
+1. **Kịch bản video dài (1200–1600 từ):**
+   - Mở đầu Hook nghịch lý (Paradox Hook) + Cầu nối nêu vấn đề + Câu chuyển cảnh cố định: *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*
+   - Bối cảnh: Neo giác quan (Sensory Anchor KT13b) + Chuỗi câu hỏi dồn dập KT10 gắn với túi tiền/đời sống người Việt.
+   - Thân bài bóc tách 3 tầng logic: Tầng 1 (Tâm lý học hành vi / Đời thường + Live Math KT12) → Tầng 2 (Bản sắc cảm xúc / Trải nghiệm lối sống) → Tầng 3 (Vĩ mô / Quyền lực chuỗi cung ứng / Bàn cờ lớn).
+   - Phong cách: Punch Pacing (câu dài xen câu ngắn ≤ 5 từ), xóa 100% từ cấm sáo rỗng AI, chuyển đoạn Móc xích KT15, Kết mở nhận thức KT14.
+2. **Gói 3 Shorts vệ tinh (1-3):**
+   - Bắt buộc tuân thủ chuẩn **Nhịp Dựng 5 Nấc (KT16 / Phương án 2 ngắn)**: Nấc 1 (Visual Hook 0-2s) → Nấc 2 (Bối cảnh tối thiểu 2-10s) → Nấc 3 (Bóc cơ chế/Bằng chứng 10-45s) → Nấc 4 (Twist nhận thức 45-75s) → Nấc 5 (Kết mở 75-105s).
+3. **Các file đã khóa cứng:**
+   - `AGENTS.md` (Mục Chế độ tác chiến kích hoạt: "chiến lược tháng 9:")
+   - `.shared/che_do_chien_luoc_thang_9.md` (Bước 1 & Bước 2)
+4. **Quy tắc định danh nhân vật (Sếp nhắc nhở 13/09):** Tuyệt đối không gọi tên nhân vật nổi tiếng cộc lốc/trỏng trơ (như "Rosé", "Tim Cook" đứng một mình). Bắt buộc phải gắn kèm định danh nghề nghiệp/vai trò dễ hiểu (như *"nữ ca sĩ Rosé của nhóm BLACKPINK"*, *"ông Tim Cook - sếp tổng của Apple"*) để khán giả đại chúng, người lớn tuổi nghe qua là hiểu ngay lập tức.
 

@@ -118,3 +118,32 @@ Nơi lưu trải nghiệm thật Sếp cung cấp để KT13 dùng: kỷ niệm 
 
 ## H. TRÌNH TỰ ÁP DỤNG KHI VIẾT (tóm tắt cho mũ Chấp bút)
 Hook thế khó cụ thể → cầu nối → bối cảnh có KT10 → ghim KT11 → các khối leo thang có câu bản lề "đau hơn" → mỗi khối chốt cảm xúc (C) → số nào khủng thì quy đổi có thái độ (D) → Lớp sâu trả ghim → Cao trào → Kết có KT14 (nếu chủ đề cho phép) → CTA tự nhiên.
+
+## I. KT16 — NHỊP DỰNG 5 NẤC CHO BÀI VIẾT NGẮN ≤ 200 TỪ (BẮT BUỘC VĨNH VIỄN — 09/2026) ⭐
+
+> **Vấn đề:** Cấu trúc cũ (Hook → Cầu nối → Bối cảnh đầy đủ → Thân bài liệt kê → CTA chèo kéo) khiến bài viết ngắn 200 từ bị biến thành "bản tóm tắt tin tức thu nhỏ" — không có cao trào, không có khoảng thở, và kết thúc bằng câu mời gọi đăng ký quen thuộc khiến người đọc vuốt qua.
+> **Giải pháp:** Áp dụng nhịp dựng 5 nấc lấy cảm hứng từ cấu trúc Shorts hiệu suất cao, biến bài viết ngắn thành một "phóng sự mini" hoàn chỉnh, có cao trào và kết mở độc lập.
+
+### Cấu trúc 5 nấc bắt buộc:
+
+| Nấc | Tên | Dung lượng | Chức năng | Ví dụ |
+|:---:|---|:---:|---|---|
+| **1** | **Visual Hook** | ~15–25 từ | Hình ảnh hoặc câu hỏi không thể bỏ qua, đập thẳng vào mắt/tai. Ưu tiên thị giác hơn lời thoại. | *"Một chiếc điện thoại bằng nửa chiếc ô tô, ai sẽ mua?"* |
+| **2** | **Bối cảnh tối thiểu** | ~15–20 từ | CHỈ giữ đúng 1 dữ kiện neo cần thiết nhất. Cắt sạch tên, ngày, địa danh thừa. | *"Chiếc iPhone gập Duo vừa ra mắt: hơn 100 triệu."* |
+| **3** | **Bóc cơ chế & Bằng chứng** | ~80–100 từ | Giải thích SÂU 1 quy luật / 1 cơ chế / 1 dòng tiền, kèm bằng chứng cụ thể. Đan xen câu ngắn ≤ 5 từ ngắt nhịp. | *"Mức giá đó chỉ là đòn tâm lý. Apple neo con số trên trời để người mua nhìn sang iPhone 18 Pro bỗng thấy... rẻ bất ngờ."* |
+| **4** | **Cú Twist nhận thức** | ~30–40 từ | Lật ngược nhận thức, đưa ra điểm chốt bất ngờ, đắt giá nhất của bài. | *"Nhưng đòn hiểm nhất là Apple chẳng thèm khoe camera mạnh cỡ nào. Họ đưa thẳng máy cho Rosé quay cả một MV."* |
+| **5** | **Kết mở độc lập** | ~20–30 từ | Câu hỏi xoáy vào nhận thức người đọc, khiến họ tự tranh luận. KHÔNG dùng CTA chèo kéo "bấm Like, đăng ký". | *"Bạn nghĩ mình tự chọn mua máy, hay chỉ đang đi đúng nước cờ họ đã dọn sẵn?"* |
+
+### 7 quy tắc áp dụng:
+1. **Tổng dung lượng:** 170–240 từ. Không ép cứng đúng 200 từ, cho phép co giãn theo nội dung. **Ưu tiên mạch văn mượt mà, tự nhiên hơn là ép cứng con số từ.**
+2. **Nấc 2 (Bối cảnh) phải CỰC GỌN:** Tối đa 1 câu. CẤM nhồi tên riêng, ngày tháng, địa danh không cần thiết.
+3. **Nấc 3 (Bóc cơ chế) là TRÁI TIM bài viết:** Chiếm ~50% dung lượng. Phải trả lời được "Nó vận hành ra sao?" hoặc "Vì sao lại thế?", KHÔNG chỉ nhận định cảm tính.
+4. **Nấc 4 (Twist) BẮT BUỘC có:** Không có Twist = bài viết bị phẳng. Twist có thể là: lật ngược giả thuyết, hé lộ lớp ẩn, đưa ra hệ quả bất ngờ.
+5. **Nấc 5 (Kết mở) KHÔNG DÙNG CTA đăng ký kênh:** Kết bằng câu hỏi xoáy hoặc nhận định chốt hạ khiến người đọc tự buộc phải bình luận.
+6. **Câu CTA cố định** *("Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa.")* vẫn BẮT BUỘC có nhưng đặt NGOÀI thân bài (dưới dấu phân cách `───` hoặc sau hashtag), KHÔNG nằm trong 5 nấc nội dung.
+7. **Sensory Anchor (KT13b)** vẫn bắt buộc: ít nhất 1 chi tiết giác quan trong Nấc 3 hoặc Nấc 4.
+8. **CẤM cắt liên từ tự nhiên để ép ngắn (BẮT BUỘC VĨNH VIỄN — 09/2026):** TUYỆT ĐỐI KHÔNG được cắt bỏ các liên từ, "chất keo" tự nhiên của tiếng Việt (*"thì"*, *"còn"*, *"thế là"*, *"vậy"*, *"trong khi... thì..."*, *"mà"*, *"bởi vì"*...) chỉ vì mục đích ép dung lượng. Việc cắt liên từ khiến văn bản bị cụt lủn, gãy khúc như telegram, mất hết nhịp thở tự nhiên. Punch Pacing (câu ngắn ≤5 từ) vẫn giữ nhưng KHÔNG lạm dụng đến mức toàn bài thành chuỗi câu cộc lốc.
+
+### Phân biệt với bài viết dài (500–800 từ):
+- Bài viết dài (Chế độ A/B trong `format_facebook.md`, kịch bản YouTube) vẫn giữ nguyên cấu trúc hiện tại: Hook → Cầu nối → Bối cảnh đầy đủ → Thân bài 3 lớp → Cao trào → Kết + CTA.
+- KT16 (5 nấc) CHỈ áp dụng cho bài viết ngắn ≤ 200 từ và kịch bản Shorts ≤ 150 từ.

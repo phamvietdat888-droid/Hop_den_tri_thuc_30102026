@@ -73,7 +73,7 @@ outputs/[YYYY-MM-DD]_[Tên_Chủ_Đề]/
        │  → Xác định 2-3 "mảnh vàng" từ kịch bản dài
        ▼
 [BƯỚC 2] Viết Kịch bản Short (≤150 từ, ≤50 giây)
-       │  → Hook 2s + Thân 40s + CTA 8s
+       │  → Tuân thủ Nhịp dựng 5 nấc (KT16)
        ▼
 [BƯỚC 3] Tạo Tiêu đề + SEO cho Short
        │  → 5 tiêu đề viral + Mô tả + Tags
@@ -134,29 +134,38 @@ outputs/[YYYY-MM-DD]_[Tên_Chủ_Đề]/
 
 **Quy tắc vàng:**
 - **Tối đa 150 từ** (đọc tự nhiên trong ~45-50 giây)
-- **KHÔNG mở đầu bằng giới thiệu** — vào thẳng vấn đề
-- **Cấu trúc 3 phần cứng:** Hook (2s) → Thân (40s) → CTA (8s)
+- **BẮT BUỘC tuân thủ Nhịp Dựng 5 Nấc (KT16)** thay vì cấu trúc cũ (Hook → Thân → CTA).
 
-#### Cấu trúc kịch bản Short:
+#### Cấu trúc kịch bản Short (Nhịp dựng 5 nấc):
 
 ```markdown
 ## ⚡ KỊCH BẢN SHORT: [Tên Short]
 > Thời lượng: ~[XX] giây | Số từ: [XXX]/150
 
-### 🔴 HOOK (0s-2s) — Câu đầu tiên người xem nghe
-> Quy tắc: SỐC + CỤ THỂ. Phải khiến ngón tay dừng lướt.
+### 🔴 NẤC 1: VISUAL HOOK (~15-20 từ)
+> Quy tắc: Hình ảnh hoặc câu hỏi đập thẳng vào mắt/tai. Không chào hỏi.
 
-"[Câu hook — VD: 'Giá xăng Việt Nam sắp tăng 30% — và đây là lý do.']"
+"[Câu hook — VD: 'Một chiếc điện thoại bằng nửa chiếc ô tô, ai sẽ mua?']"
 
-### 📖 THÂN (2s-42s) — Nội dung chính
-> Quy tắc: Mỗi câu ≤ 15 từ. Nhịp nhanh. Không giải thích dài dòng.
+### 📖 NẤC 2: BỐI CẢNH TỐI THIỂU (~10-15 từ)
+> Quy tắc: CHỈ 1 câu neo duy nhất. Cắt sạch tên, ngày, địa danh thừa.
 
-[Nội dung — chia thành 5-7 câu ngắn, mỗi câu 1 dòng]
+"[Bối cảnh — VD: 'Chiếc iPhone gập Duo vừa ra mắt: hơn 100 triệu.']"
 
-### 🎯 CTA (42s-50s) — Kêu gọi hành động
-> Quy tắc: Trỏ về video dài. Tạo FOMO.
+### ⚙️ NẤC 3: BÓC CƠ CHẾ & BẰNG CHỨNG (~50-70 từ)
+> Quy tắc: Trái tim kịch bản. Giải thích "Vận hành ra sao?". Cần có chi tiết giác quan.
 
-"[CTA — VD: 'Muốn biết 3 kịch bản giá xăng sắp tới? Link video đầy đủ ở trên.']"
+"[Nội dung bóc tách — đan xen câu ngắn ngắt nhịp]"
+
+### 🌪️ NẤC 4: CÚ TWIST NHẬN THỨC (~20-30 từ)
+> Quy tắc: Lật ngược vấn đề, đưa ra điểm chốt bất ngờ nhất. Không có Twist = video bị phẳng.
+
+"[Twist — hé lộ lớp ẩn hoặc hệ quả]"
+
+### 🎯 NẤC 5: KẾT MỞ ĐỘC LẬP & CTA NHANH (~10-15 từ)
+> Quy tắc: Câu hỏi xoáy khiến người xem tranh luận. Kèm 1 câu điều hướng xem bản Full CỰC NHANH.
+
+"[Câu hỏi xoáy] — Video chi tiết ở góc trái dưới màn hình."
 ```
 
 #### 7 Công thức Hook cho Shorts:

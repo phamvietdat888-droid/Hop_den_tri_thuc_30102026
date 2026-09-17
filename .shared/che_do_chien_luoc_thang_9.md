@@ -17,20 +17,34 @@ Khi nhận chủ đề, đối chiếu ngay vào 4 trụ cột tỷ trọng:
 
 *⚠️ Nguyên tắc biên tập:* Ưu tiên giải mã 1 dự án / 1 cơ chế cụ thể làm nhân vật chính. KHÔNG làm video dài dạng liệt kê chung chung (như "6 siêu công trình") làm sản phẩm chủ lực.
 
+* **Chuẩn kịch bản video dài (1200–1600 từ) theo Phương án 2 (BẮT BUỘC):**
+  1. **Mở đầu (0–15s):** Hook nghịch lý gây sốc (Paradox Hook) đập tan nhận thức cũ + Câu cầu nối nêu vấn đề cốt lõi + Câu chuyển cảnh cố định: *"Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."*
+  2. **Bối cảnh (15–45s):** Neo giác quan (Sensory Anchor KT13b) miêu tả âm thanh, ánh sáng, hình ảnh sống động + Chuỗi câu hỏi dồn dập KT10 kéo thẳng về túi tiền, đời sống thực tế người Việt.
+  3. **Thân bài bóc tách 3 tầng logic (TRÁI TIM VIDEO):**
+     - **Tầng 1 (Tâm lý học hành vi / Đời thường):** Dùng ví von gần gũi đời sống (như cốc bỏng ngô, bát phở) + Làm toán sống KT12 (so sánh con số cụ thể) để khán giả tự thấy mình trong đó.
+     - **Tầng 2 (Bản sắc cảm xúc / Trải nghiệm):** Bóc tách cách thao túng cảm xúc, bán lối sống/đẳng cấp thay vì liệt kê thông số kỹ thuật khô khan.
+     - **Tầng 3 (Vĩ mô / Chuỗi cung ứng / Quyền lực):** Lật mở bàn cờ lớn, dòng tiền ngầm, quyền lực sinh sát chuỗi cung ứng hoặc cơ chế điều hành vĩ mô.
+  4. **Phong cách viết:** Punch Pacing (câu dài phân tích đan xen câu ngắn ≤ 5 từ), xóa sạch 100% từ cấm sáo rỗng AI, dùng kỹ thuật Móc xích KT15 chuyển đoạn mượt mà. **CẤM cắt liên từ tự nhiên** (*"thì"*, *"còn"*, *"thế là"*, *"vậy"*, *"trong khi... thì..."*, *"mà"*, *"bởi vì"*...) chỉ để ép dung lượng — việc cắt liên từ khiến văn bản cụt lủn, gãy khúc như telegram. **Ưu tiên mạch văn mượt mà, tự nhiên** hơn ép cứng con số từ.
+  5. **Kết thúc:** Kết mở nhận thức KT14 (không giáo điều ép buộc, ném lại câu hỏi xoáy thử thách nhận thức người xem) + CTA chuẩn mực của kênh.
+
 ---
 
-### 📌 BƯỚC 2: GÓI YOUTUBE SHORTS THEO MÔ HÌNH VỆ TINH 1-3
+### 📌 BƯỚC 2: GÓI YOUTUBE SHORTS THEO MÔ HÌNH VỆ TINH 1-3 (CHUẨN KT16)
 * **Triết lý:** Shorts là sản phẩm khám phá độc lập (Discovery), không mặc định tự chuyển đổi sang video dài. Mỗi Short phải có câu hỏi và điểm kết thúc độc lập.
 * **Mô hình 1 Video dài đẻ ra 3 Shorts vệ tinh:**
   1. **Short 1 — Khám phá:** Tập trung vào hình ảnh / quy mô lớn nhất gây choáng ngợp.
   2. **Short 2 — Cơ chế:** Bóc tách 1 bước kỹ thuật hoặc kinh tế bất ngờ, dễ hình dung.
   3. **Short 3 — Hệ quả:** Tác động cụ thể tới đời sống người dân hoặc vị thế/năng lực Việt Nam.
-* **Cấu trúc nhịp dựng Shorts chuẩn:**
-  * `0–2s:` Hình ảnh hoặc câu hỏi không thể bỏ qua.
-  * `2–10s:` Bối cảnh tối thiểu.
-  * `10–45s:` Cơ chế hoặc bằng chứng chính.
-  * `45–75s:` Twist, kết luận hoặc câu hỏi mở.
-  * `75–105s:` Chỉ dùng khi nhịp kể và hình ảnh còn giữ chân người xem tốt.
+* **Cấu trúc nhịp dựng Shorts chuẩn (Nhịp Dựng 5 Nấc — KT16 / Phương án 2 ngắn):**
+  * `Nấc 1 (0–2s / 15–25 từ):` Visual Hook & câu hỏi không thể bỏ qua.
+  * `Nấc 2 (2–10s / 15–20 từ):` Bối cảnh tối thiểu (tối đa 1 câu, không rườm rà).
+  * `Nấc 3 (10–45s / 80–100 từ):` Cơ chế hoặc bằng chứng chính — TRÁI TIM nội dung.
+  * `Nấc 4 (45–75s / 30–40 từ):` Twist lật ngược nhận thức, đòn bẩy tư duy.
+  * `Nấc 5 (75–105s / 20–30 từ):` Kết mở độc lập, câu hỏi xoáy, không chèo kéo.
+  *(CTA cố định kênh đặt ngoài 5 nấc nội dung)*.
+* **⚠️ Quy tắc dung lượng mềm cho Shorts & bài viết ngắn ≤200 từ (BẮT BUỘC VĨNH VIỄN — 09/2026, gia cố 14/09/2026):** Được phép co giãn lên tới **~270 từ** nếu cần thiết để giữ mạch văn tự nhiên. TUYỆT ĐỐI KHÔNG cắt liên từ, "chất keo" tự nhiên chỉ để ép cho vừa khung từ. Punch Pacing vẫn giữ nhưng KHÔNG lạm dụng đến mức toàn bài thành chuỗi câu cộc lốc.
+* **⚠️ 5 NẤC LÀ KHUNG NGẦM — KHÔNG HIỆN LÊN BÀI (BẮT BUỘC VĨNH VIỄN — 14/09/2026):** Nhịp Dựng 5 Nấc là bộ khung tư duy để Agent biết viết gì ở đâu. Bài viết/kịch bản Shorts xuất ra BẮT BUỘC là **văn xuôi liền mạch**, TUYỆT ĐỐI KHÔNG chèn tiêu đề nấc (`[Nấc 1]`, `[Visual Hook]`, `[Bóc cơ chế]`...) vào thân bài.
+* **⚠️ VIẾT MƯỢT TRƯỚC, ĐẤM TỪ SAU (BẮT BUỘC VĨNH VIỄN — 14/09/2026):** KHÔNG được chạy script đếm từ rồi gọt liên từ nhiều lần để ép số. Viết xong đọc to, nếu nghe mượt thì đạt. Đếm từ chỉ để tham khảo, không được dùng làm lý do cắt liên từ.
 
 ---
 
