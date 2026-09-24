@@ -314,6 +314,25 @@ KẾT LUẬN: ✅ ĐẠT — Cho phép xuất bản
 
 ---
 
+### R10. Quy Kết Ngầm Đối Với DN/Tổ Chức Hợp Pháp (Implied Cronyism) ⚠️ FLAG (Bổ sung 2026-09-17)
+
+**Bối cảnh:** Khi viết bài phân tích hoạt động của DN/tổ chức CỤ THỂ đang hoạt động hợp pháp, rất dễ vô tình xây dựng mạch logic dẫn dắt người xem đến kết luận "lợi ích nhóm / sân sau / thao túng" mà không bao giờ nói thẳng. Vấn đề KHÔNG nằm ở kỹ thuật (câu hỏi tu từ, ví von, foreshadowing đều OK) — mà nằm ở **HƯỚNG** mà tất cả kỹ thuật đó đồng loạt chĩa tới.
+
+**Không áp dụng:** Khi đối tượng ĐÃ có kết luận vi phạm chính thống, hoặc hành vi rõ ràng đi ngược lợi ích dân, đất nước, pháp luật → được phép phanh phui mạnh tay bằng mọi vũ khí.
+
+**Nguyên tắc lõi:** *"Dùng mọi vũ khí kể chuyện, giữ mọi chất lửa — nhưng khi chưa có nguồn chính thống thì đốt bằng 'ngưỡng mộ + hồi hộp + câu hỏi lớn', không đốt bằng 'nghi ngờ + mỉa mai + quy kết'."*
+
+**3 câu hỏi tự kiểm tra:**
+1. *"Mình đang phân tích vấn đề — hay đang ngắm vào ai?"*
+2. *"Bài này đốt bằng nhiên liệu gì — nghi ngờ hay hồi hộp?"*
+3. *"DN đọc bài này có cơ sở pháp lý để kiện/yêu cầu gỡ không?"*
+
+**Đổi nhiên liệu, không tắt lửa:** KHÔNG giảm sức hút, KHÔNG thay từ sắc bằng từ hàn lâm, KHÔNG biến bài viết thành diễn văn. Đổi khung cảm xúc: mỉa mai → ngưỡng mộ + hồi hộp; nghi ngờ → tò mò; quy kết → kịch tính. GIỮ NGUYÊN toàn bộ vũ khí kể chuyện.
+
+**Tham chiếu:** `GEMINI.md` §3.2f + `AGENTS.md` mục "KHÔNG NGẮM — KHÔNG NHẠT".
+
+---
+
 ## F. THAM CHIẾU CHÉO
 
 | File | Liên quan |

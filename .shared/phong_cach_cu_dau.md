@@ -341,7 +341,13 @@ Ném ra 1 vấn đề → đi xa phân tích chuyện khác → bất ngờ **QU
 
 2. BỐI CẢNH + CẦU NỐI (50-80 từ)
    → Giải thích nhanh: vì sao vấn đề này quan trọng
-   → "Chúng ta hãy tìm hiểu xem chuyện gì đang xảy ra nhé"
+   → **CÂU CHUYỂN CẢNH CỦ ĐẬU (OVERRIDE — BẮT BUỘC VĨNH VIỄN):**
+     KHÔNG dùng câu mặc định Hộp Đen Tri Thức ("Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé.").
+     CỦ ĐẬU dùng giọng bụi bặm, CÙNG NHAU, KHÔNG DẠY ĐỜI.
+     ❌ CẤM: "Mình bóc cho anh em nghe nhá" (= dạy đời, mình ở trên anh em ở dưới)
+     ✅ DÙNG: "Ngay sau đây, mình cùng anh em bóc tách luôn nhé." (= cùng nhau, ngang hàng)
+     Biến thể cho phép: "Mình cùng anh em tính thử nhé." / "Mình với anh em bóc tách luôn nhá."
+     Nguyên tắc: xưng "mình", gọi "anh em", dùng "cùng" — KHÔNG dùng "cho" (dạy đời).
 
 3. DÒNG CHẢY 1 — KỂ CHUYỆN + DẪN CHỨNG (200-400 từ)
    → Kể câu chuyện chính, có nhân vật, có chi tiết cụ thể
@@ -631,6 +637,36 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 - **TRƯỚC khi viết bài mới** → Đọc entry gần nhất → chú ý mục "Kỹ thuật THIẾU" và "Câu DỞ"
 
 **Mục tiêu:** Bài sau PHẢI tốt hơn bài trước. Không lặp lại cùng 1 lỗi 2 lần.
+
+---
+
+## XIV. ⚠️ CHỐNG LẶP Ý — ANTI-PATTERN ĐẶC THÙ CỦ ĐẬU (BẮT BUỘC VĨNH VIỄN — 24/09/2026)
+
+> **Nguồn:** Sếp phát hiện 1 ý bị lặp 3 lần trong bài SGK — cùng nói "chuỗi cung ứng từ A đến B bị tắc" nhưng diễn đạt khác nhau. Nghe rất khó chịu. Lỗi quy trình nghiêm trọng.
+
+### Tại sao CỦ ĐẬU đặc biệt dễ lặp ý:
+
+CỦ ĐẬU dùng nhiều **Live Math, ví von, quy đổi đời thường** — mỗi lần quy đổi/ví von, Agent có xu hướng **nhại lại ý phân tích phía trước** dưới hình thức mới. Tưởng là thêm góc nhìn, thực ra là nói lại.
+
+**Ví dụ SAI thực chiến (24/09/2026):**
+1. *"Vấn đề nằm ở cách quản lý chuỗi — **từ dự báo, đặt hàng, tổ chức in đến phân phối**"* (phân tích)
+2. *"Cả chuỗi — **từ đếm nhu cầu, đặt hàng, đóng gói đến giao hàng** — đều bị động"* (ví von bột/hồ — NHẠI LẠI ý 1)
+3. *"Cả chuỗi cung ứng dài — **từ khâu đếm nhu cầu đến khâu giao hàng** — không theo kịp"* (chốt — NHẠI LẠI ý 1 lần nữa)
+
+→ 3 câu, 3 cấu trúc "từ A đến B", cùng 1 ý. Người đọc/nghe bị cảm giác **"ủa, nghe rồi mà"** → lướt đi.
+
+### Quy tắc CHỐNG LẶP Ý (áp dụng cho MỌI bài CỦ ĐẬU):
+
+1. **Mỗi ý chỉ được nói TỐI ĐA 1 lần** — dù Live Math, ví von hay phân tích. Nếu ý đã xuất hiện ở đoạn phân tích → ví von/quy đổi phải mở ra **GÓC NHÌN MỚI**, không nhại lại.
+2. **Kiểm tra trước xuất bài**: Tóm tắt ý chính mỗi đoạn bằng 1 câu → nếu 2 đoạn cùng ý chính → LẶP → sửa.
+3. **Đoạn kết/chốt KHÔNG ĐƯỢC tóm lại ý thân bài** — phải đưa ra nhận định mới, twist, hoặc câu hỏi mở.
+4. **3 dạng lặp cần soi**: Lặp cấu trúc (cùng mẫu câu), Lặp kết luận (cùng nhận định), Lặp ví von (ví von nhại lại phân tích).
+
+### Checklist nhanh (chạy TRƯỚC khi xuất):
+- [ ] Đọc lại, tóm tắt ý mỗi đoạn — có đoạn nào trùng ý không?
+- [ ] Đoạn ví von/quy đổi có mang GÓC NHÌN MỚI không hay chỉ nhại lại?
+- [ ] Đoạn kết có nói lại ý thân bài không?
+- [ ] Có cấu trúc câu nào lặp ≥2 lần không? (vd: "từ A đến B")
 
 ---
 

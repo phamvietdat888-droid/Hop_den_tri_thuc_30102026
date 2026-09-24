@@ -11,6 +11,15 @@
 
 - DOCX conversion is a local, workspace-scoped- Khi trình bày, báo cáo và dẫn link kết quả cho Sếp trong đoạn chat, hãy chỉ dẫn link trực tiếp tới các file `.docx` tương ứng.
 
+## ⚠️ CHECKLIST CỨNG TRƯỚC KHI XUẤT BÀI (BẮT BUỘC VĨNH VIỄN — 23/09/2026)
+> **Nguồn:** Sếp phải nhắc nhiều lần về câu móc nối thiếu. Lỗi quy trình nghiêm trọng.
+
+- **TRƯỚC KHI XUẤT BẤT KỲ bài viết/kịch bản nào cho Sếp**, BẮT BUỘC đọc và chạy toàn bộ `.shared/checklist_truoc_xuat_bai.md` (5 bước).
+- **Ưu tiên #1 — CÂU MÓC NỐI:** Đếm số phần/khối ý → kiểm tra TỪNG điểm nối → nếu thiếu DÙ 1 CHỖ → sửa trước khi xuất. TUYỆT ĐỐI KHÔNG xuất bài thiếu câu móc nối.
+- **Ưu tiên #2 — CHỐNG LẶP Ý (24/09/2026):** Tóm tắt ý chính mỗi đoạn → nếu 2 đoạn trở lên cùng ý chính (dù diễn đạt khác nhau) → **LẶP Ý → sửa trước khi xuất**. Đặc biệt soi kỹ: ví von nhại lại ý phân tích, đoạn kết tóm lại thân bài, cấu trúc câu lặp ≥2 lần. Chi tiết: `.shared/checklist_truoc_xuat_bai.md` Bước 1.5.
+- **KHÔNG BAO GIỜ để Sếp phải nhắc lỗi này lần nữa.** Vi phạm = lỗi mức VETO quy trình.
+- Áp dụng vĩnh viễn cho MỌI Agent, MỌI phiên làm việc, MỌI phong cách (Hộp Đen, Da Nâu, CỦ ĐẬU), MỌI độ dài bài viết.
+
 ## ⚠️ Quy chuẩn Ngôn từ Bình Dân, Dễ Hiểu, Mạch Lạc & Siêu Thu Hút (BẮT BUỘC VĨNH VIỄN)
 - **TẤT CẢ kịch bản (YouTube dài, Shorts, Facebook), lời bình, tiêu đề và cấu trúc** BẮT BUỘC sử dụng ngôn từ bình dân, trực diện, gần gũi như trò chuyện đời thường (ngồi quán nước/trò chuyện với bạn bè, người thân).
 - **Mở đầu kịch bản / Bài viết**: BẮT BUỘC đi trực tiếp vào bối cảnh/nội dung gốc, tạo cú móc (Hook) siêu thu hút, giật mình và tạo sự bức bách ngay từ câu đầu tiên. TỰ ĐỘNG biên soạn **2 phương án Hook đỉnh nhất** (Phương án 1: Hook nghịch lý gây sốc & Phương án 2: Hook xoáy trực diện cảm xúc) để Sếp chọn hoặc sử dụng.
@@ -40,6 +49,16 @@
 - **ƯU TIÊN MẠCH VĂN HƠN CON SỐ TỪ (BẮT BUỘC VĨNH VIỄN):** KHÔNG được chạy đi chạy lại script đếm từ rồi gọt liên từ để ép đúng con số. Quy tắc ưu tiên: **mạch văn mượt mà, tự nhiên > ép cứng dung lượng**. Bài viết ngắn ≤200 từ được phép co giãn lên tới **~270 từ** nếu cần thiết để giữ đầy đủ liên từ, chất keo và nhịp thở tự nhiên.
 - **KIỂM DUYỆT ĐỌC TO:** Sau khi viết xong, đọc to toàn bài. Nếu nghe cụt lủn, gãy khúc, thiếu hơi — nghĩa là đã cắt mất liên từ. Sửa ngay, thêm lại chất keo (*"thì"*, *"mà"*, *"còn"*, *"thế nhưng mà"*, *"cơ"*, *"thôi"*, *"nữa"*, *"đâu"*...) cho đến khi đọc lên nghe như đang nói chuyện.
 
+## ⚠️ Kỹ Thuật "Móc Xích" & CẤM LẶP Ý SAU CÂU MÓC NỐI (BẮT BUỘC VĨNH VIỄN — 21/09/2026)
+> **Nguồn:** Rút kinh nghiệm thực chiến phiên 21/09/2026 — Sếp duyệt và yêu cầu lưu vĩnh viễn, KHÔNG BAO GIỜ được quên.
+
+- **CÂU MÓC NỐI GIỮA MỌI PHẦN/Ý LỚN LÀ BẮT BUỘC:** Cuối mỗi phần/khối ý, BẮT BUỘC có câu móc xích tạo tò mò, gieo câu hỏi hoặc mâu thuẫn dẫn dắt sang phần tiếp theo. TUYỆT ĐỐI KHÔNG "khởi động lạnh" (nhảy sang phần mới đột ngột).
+- **TUYỆT ĐỐI KHÔNG LẶP Ý SAU CÂU MÓC NỐI (BẮT BUỘC VĨNH VIỄN):** Câu mở đầu của phần mới/ý mới/khổ mới ngay SAU câu móc nối **TUYỆT ĐỐI KHÔNG ĐƯỢC nhại lại, lặp lại, diễn giải lại ý tứ, từ ngữ hay ngữ cảnh** của câu móc nối phía trước. **Nguyên tắc vàng: Câu móc = cú giật cần câu (tạo tò mò). Câu mở phần mới = con cá hoàn toàn khác (đi thẳng vào dữ kiện mới, sự kiện mới, góc nhìn mới).**
+  + **Ví dụ SAI:** Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới lại liệt kê *"xe cần trạm sạc, tàu cần điện..."* (lặp ý "tất cả cần điện").
+  + **Ví dụ ĐÚNG:** Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới bằng *"Riêng một lò thép đã tiêu thụ điện bằng cả thị trấn nhỏ."* (đi thẳng vào quy mô cụ thể, không nhại ý).
+  + **Bài học thực chiến 21/09/2026:** Câu móc hay mà câu mở sau đó nhại lại ý = người xem bị cảm giác *"ủa, nghe rồi mà"* → lướt đi. Đây là lỗi retention nghiêm trọng.
+- Áp dụng vĩnh viễn cho MỌI Agent, MỌI phiên làm việc, MỌI loại nội dung (kịch bản YouTube, bài viết Facebook, Shorts, bài phân tích...) mà KHÔNG cần Sếp nhắc lại.
+
 ## ⚠️ Quy chuẩn XÓA GIỌNG VĂN AI & TRẢI NGHIỆM THỰC TẾ (BẮT BUỘC VĨNH VIỄN — 09/2026)
 
 - **CẤM từ sáo rỗng AI thế hệ mới:** Tuân thủ Blacklist Mục J trong `.shared/tu_cam.md` — CẤM tuyệt đối *"con số biết nói"*, *"đảo chiều ngoạn mục"*, *"thỏi nam châm"*, *"mâm cỗ béo bở"*, *"đội hình trong mơ"*, *"tự bắn vào chân"*... Thay bằng cách nói trần trụi, cụ thể.
@@ -56,6 +75,20 @@
 4. **Đặt câu hỏi khi cần (Đối thoại tương tác):** Đan cài câu hỏi gợi mở, câu hỏi tu từ đúng lúc (*"Ủa, vậy tiền đi đâu?", "Có đúng thế không bạn?", "Nhưng bạn có bao giờ tự hỏi...?"*) như đang nhìn thẳng vào mắt người nghe để đối thoại, kéo họ cùng động não suy nghĩ trước khi bóc tách lời giải.
 5. **Dùng từ ngữ đơn giản (Bình dân 100%):** Dùng từ ngữ gần gũi, nôm na, dễ hiểu nhất. Cấm tiệt từ ngữ chuyên môn màu mè, sáo rỗng hay đao to búa lớn. Mọi khái niệm kinh tế hay chính trị phức tạp đều phải được bẻ nhỏ, ví von sao cho "mẹ hay bà nội nghe qua là hiểu liền và gật gù".
 - Áp dụng vĩnh viễn cho mọi Agent, mọi phiên làm việc, mọi loại nội dung mà không cần Sếp nhắc lại.
+
+## ⚠️ Quy Tắc "KHÔNG NGẮM — KHÔNG NHẠT" Khi Viết Về DN/Tổ Chức Cụ Thể (BẮT BUỘC VĨNH VIỄN — 17/09/2026)
+> **Nguồn:** Sự cố Vingroup yêu cầu gỡ bài. Sếp duyệt 18/09/2026.
+> **Phạm vi:** CHỈ áp dụng khi bài viết đề cập DN/tổ chức/cá nhân CỤ THỂ đang hoạt động hợp pháp. **KHÔNG áp dụng** khi đối tượng ĐÃ có kết luận vi phạm chính thống → được phép phanh phui mạnh tay.
+
+- **Nguyên tắc lõi:** *"Dùng mọi vũ khí kể chuyện, giữ mọi chất lửa — nhưng khi chưa có nguồn chính thống thì đốt bằng 'ngưỡng mộ + hồi hộp + câu hỏi lớn', không đốt bằng 'nghi ngờ + mỉa mai + quy kết'."*
+- **Ranh giới:** Có nguồn chính thống → mạnh tay phanh phui. Chưa có → phân tích sâu, lột tả bản chất, nhưng **không ám chỉ, không ngắm vào ai**.
+- **Đổi nhiên liệu, không tắt lửa:** KHÔNG giảm sức hút, KHÔNG thay từ sắc bằng từ hàn lâm. **Đổi khung cảm xúc**: mỉa mai → ngưỡng mộ + hồi hộp; nghi ngờ → tò mò; quy kết → kịch tính. Bài viết phải THU HÚT BẰNG HOẶC HƠN bản gốc.
+- **3 câu hỏi tự kiểm tra** trước khi xuất bài về DN cụ thể:
+  1. *"Mình đang phân tích vấn đề — hay đang ngắm vào ai?"*
+  2. *"Bài này đốt bằng nhiên liệu gì — nghi ngờ hay hồi hộp?"*
+  3. *"DN đọc bài này có cơ sở pháp lý để kiện/yêu cầu gỡ không?"*
+- **GIỮ NGUYÊN** toàn bộ vũ khí kể chuyện. Không cấm từ nào, không bảng thay thế nào.
+- Tham chiếu: `.shared/compliance_shield.md` mục R10 + `GEMINI.md` §3.2f.
 
 ## 🎯 CHẾ ĐỘ TÁC CHIẾN KÍCH HOẠT: "chiến lược tháng 9:" (BẮT BUỘC KHI CÓ LỆNH)
 - Khi Sếp nhập câu lệnh hoặc yêu cầu bắt đầu bằng cụm từ **`chiến lược tháng 9:`** (Ví dụ: *"chiến lược tháng 9: làm video về đề tài P1-02"* hoặc *"chiến lược tháng 9: viết kịch bản..."*), hệ thống BẮT BUỘC TỰ ĐỘNG chuyển sang chế độ tác chiến theo bản chiến lược 90 ngày (dữ liệu Studio tháng 09/2026 trong `.shared/che_do_chien_luoc_thang_9.md` và `outputs/chien-luoc-content-video-dai-va-shorts-90-ngay.md`).

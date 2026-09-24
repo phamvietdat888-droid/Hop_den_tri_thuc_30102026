@@ -417,7 +417,11 @@ Nâng cấp cấu trúc xoắn ốc hiện có — 3 câu chuyện tưởng khô
 
 2. CẦU NỐI + CHUYỂN CẢNH (30-50 từ)
    → Nêu luận điểm ngầm
-   → "Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé."
+   → **CÂU CHUYỂN CẢNH DA NÂU (OVERRIDE — BẮT BUỘC VĨNH VIỄN):**
+     KHÔNG dùng câu mặc định Hộp Đen Tri Thức ("Ngay sau đây, chúng ta cùng tìm hiểu các bạn nhé.").
+     Da Nâu dùng giọng bình thản, xưng "tôi", cùng nhau, KHÔNG dạy đời.
+     ✅ DÙNG: "Ngay sau đây, tôi cùng các bạn tìm hiểu nhé." (= ngang hàng, bình thản)
+     Biến thể: "Chúng ta cùng xem nhé." / "Tôi cùng bạn bóc tách luôn."
 
 3. VÒNG XOẮN 1 (200-300 từ) — Góc nhìn A
    → Câu chuyện cụ thể khai thác vấn đề

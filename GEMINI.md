@@ -94,9 +94,10 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 - **TỰ ĐỘNG KÈM LỜI KÊU GỌI HÀNH ĐỘNG (CTA) GẮN CÂU CỐ ĐỊNH (BẮT BUỘC VĨNH VIỄN)**: Phần cuối của mọi bài viết (Facebook, bài phân tích, kịch bản...) BẮT BUỘC phải có câu CTA khơi gợi thảo luận gắn liền với câu cố định: *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* (Ví dụ: "Ý kiến của bạn về vấn đề này thế nào? Hãy để dưới bình luận nhé! Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."). Câu hỏi tương tác phía trước có thể linh hoạt tùy chỉnh cho ăn khớp với nội dung bài viết, nhưng câu *"Đừng quên bấm Like và đăng ký kênh để thảo luận những vấn đề nóng bỏng khác nữa."* là BẮT BUỘC TỰ ĐỘNG ĐƯỢC ĐƯA VÀO TRONG MỌI BÀI VIẾT mà không cần Sếp phải nhắc lại.
 - Quy tắc này áp dụng vĩnh viễn cho toàn bộ các phiên làm việc và mọi Agent trong hệ thống mà không cần Sếp phải nhắc lại.
 
-### 3.2c Kỹ Thuật "Móc Xích" Mạch Văn Ở Mọi Khối/Đoạn (BẮT BUỘC VĨNH VIỄN)
+### 3.2c Kỹ Thuật "Móc Xích" Mạch Văn Ở Mọi Khối/Đoạn (BẮT BUỘC VĨNH VIỄN, gia cố 21/09/2026)
 - **TUYỆT ĐỐI KHÔNG "KHỞI ĐỘNG LẠNH":** Cấm việc kết thúc một đoạn/khối ý rồi nhảy sang đoạn/khối ý tiếp theo một cách đột ngột, giật cục mà không có sự liên kết.
 - **Kỹ thuật Móc xích (BẮT BUỘC):** Câu cuối cùng của đoạn/khối trước BẮT BUỘC phải gieo một câu hỏi, một mâu thuẫn, hoặc một sự tò mò mạnh mẽ. Câu đầu tiên của đoạn/khối sau BẮT BUỘC phải là câu trả lời, sự tiếp nối, hoặc giải quyết sự tò mò đó. 
+- **TUYỆT ĐỐI KHÔNG LẶP Ý SAU CÂU MÓC NỐI (BẮT BUỘC VĨNH VIỄN — 21/09/2026):** Câu mở đầu của phần mới/ý mới/khổ mới ngay SAU câu móc nối **TUYỆT ĐỐI KHÔNG ĐƯỢC nhại lại, lặp lại, diễn giải lại ý tứ, từ ngữ hay ngữ cảnh** của câu móc nối phía trước. **Câu móc = cú giật cần câu (tạo tò mò). Câu mở phần mới = con cá hoàn toàn khác (đi thẳng vào dữ kiện mới, sự kiện mới, góc nhìn mới).** Ví dụ SAI: Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới lại liệt kê *"xe cần trạm sạc, tàu cần điện..."* (lặp ý "tất cả cần điện"). Ví dụ ĐÚNG: Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới bằng *"Riêng một lò thép đã tiêu thụ điện bằng cả thị trấn nhỏ."* (đi thẳng vào quy mô cụ thể). **Bài học thực chiến 21/09/2026:** Câu móc hay mà câu mở sau đó nhại lại ý = người xem bị cảm giác "ủa, nghe rồi mà" → lướt đi.
 - **Dùng "Chất keo" tự nhiên:** Phải sử dụng các liên từ, thán từ văn nói (như *"Thế nhưng...", "Nhưng khoan...", "Chưa hết đâu...", "Và đây mới là chỗ mấu chốt..."*) ở các điểm nối giữa các phần/tiểu mục để kéo mạch văn dính chặt vào nhau.
 - **Áp dụng TỰ ĐỘNG:** Quy tắc móc xích mạch văn này áp dụng vĩnh viễn cho TOÀN BỘ kịch bản, bài viết Facebook, lời bình... Mọi Agent (đặc biệt là 02_Scriptwriter) BẮT BUỘC tự kiểm tra và gia cố các điểm nối (transition) giữa các phần trước khi xuất file, không được để Sếp phải nhắc lại.
 
@@ -128,6 +129,21 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 4. **Đặt câu hỏi khi cần (Đối thoại tương tác):** Đan cài câu hỏi gợi mở, câu hỏi tu từ đúng lúc (*"Ủa, vậy tiền đi đâu?", "Có đúng thế không bạn?", "Nhưng bạn có bao giờ tự hỏi...?"*) như đang nhìn thẳng vào mắt người nghe để đối thoại, kéo họ cùng động não suy nghĩ trước khi bóc tách lời giải.
 5. **Dùng từ ngữ đơn giản (Bình dân 100%):** Dùng từ ngữ gần gũi, nôm na, dễ hiểu nhất. Cấm tiệt từ ngữ chuyên môn màu mè, sáo rỗng hay đao to búa lớn. Mọi khái niệm kinh tế hay chính trị phức tạp đều phải được bẻ nhỏ, ví von sao cho "mẹ hay bà nội nghe qua là hiểu liền và gật gù".
 - Toàn bộ 5 nguyên tắc này áp dụng vĩnh viễn cho mọi Agent (Scriptwriter, Coordinator, Publisher, Inspector...), mọi phiên làm việc tiếp theo mà không cần Sếp phải nhắc lại.
+
+### 3.2f Quy Tắc "KHÔNG NGẮM — KHÔNG NHẠT" Khi Viết Về DN/Tổ Chức Cụ Thể (BẮT BUỘC VĨNH VIỄN — 17/09/2026)
+> **Nguồn:** Rút kinh nghiệm thực chiến — Sự cố Vingroup yêu cầu gỡ bài kịch bản VGroup Hạ Tầng 500.000 Tỷ. Sếp duyệt 18/09/2026.
+> **Phạm vi:** CHỈ áp dụng khi bài viết đề cập doanh nghiệp, tổ chức, cá nhân CỤ THỂ đang hoạt động hợp pháp (chưa có kết luận vi phạm từ cơ quan chức năng). **KHÔNG áp dụng** khi đối tượng ĐÃ có kết luận vi phạm chính thống, hoặc hành vi rõ ràng đi ngược lợi ích dân, đất nước, pháp luật → trường hợp đó được phép phanh phui mạnh tay bằng mọi vũ khí.
+
+- **Bài học gốc:** Kịch bản không bịa đặt, không vi phạm pháp luật — nhưng bị yêu cầu gỡ vì mạch logic, giọng điệu và cấu trúc lập luận dẫn dắt người xem đến kết luận ngầm rằng doanh nghiệp tư lợi, trong khi chưa có bất kỳ cơ sở chính thống nào chứng minh. **Cách nói có thể nguy hiểm hơn nội dung nói gì.** Vấn đề KHÔNG nằm ở kỹ thuật kể chuyện (câu hỏi tu từ, ví von, foreshadowing đều OK) — mà nằm ở **HƯỚNG** mà tất cả kỹ thuật đó đồng loạt chĩa tới (quy kết tư lợi khi chưa có căn cứ).
+- **Nguyên tắc lõi (1 câu):** *"Dùng mọi vũ khí kể chuyện, giữ mọi chất lửa — nhưng khi chưa có nguồn chính thống thì đốt bằng 'ngưỡng mộ + hồi hộp + câu hỏi lớn', không đốt bằng 'nghi ngờ + mỉa mai + quy kết'."*
+- **Ranh giới "vạch trần" vs "quy chụp":** Có nguồn chính thống (kết luận thanh tra, cáo trạng, bản án, phát ngôn chính thức) → mạnh tay phanh phui, bảo vệ lợi ích dân. Chưa có nguồn → phân tích sâu, lột tả bản chất vấn đề, nhưng **không ám chỉ, không ngắm vào ai**.
+- **Đổi nhiên liệu, không tắt lửa:** Khi cần sửa → KHÔNG giảm sức hút, KHÔNG thay từ sắc bằng từ hàn lâm, KHÔNG biến bài viết thành diễn văn. Thay vào đó, **đổi khung cảm xúc**: "ổng khéo thật" (mỉa mai) → "ổng liều thật" (ngưỡng mộ + hồi hộp); "ai được lợi?" (nghi ngờ) → "liệu có kịp?" (hồi hộp); "nước cờ BĐS" (quy kết) → "ván cược nửa triệu tỷ" (kịch tính). Bài viết phải THU HÚT BẰNG HOẶC HƠN bản gốc.
+- **3 câu hỏi tự kiểm tra** (chạy 1 lần trước khi xuất bài về DN/tổ chức cụ thể):
+  1. *"Mình đang phân tích vấn đề — hay đang ngắm vào ai?"* → Đang ngắm mà chưa có nguồn → đổi hướng lửa, KHÔNG tắt lửa.
+  2. *"Bài này đốt bằng nhiên liệu gì — nghi ngờ hay hồi hộp?"* → Nghi ngờ mà chưa có căn cứ → đổi nhiên liệu, giữ nguyên cường độ.
+  3. *"DN đọc bài này có cơ sở pháp lý để kiện/yêu cầu gỡ không?"* → Có → sửa. Không → đăng.
+- **GIỮ NGUYÊN** toàn bộ vũ khí kể chuyện: câu hỏi tu từ, ví von, foreshadowing, ghim (KT11), punch pacing, Socrates, Live Math — tất cả đều xài thoải mái, không cấm gì, không bảng thay thế nào.
+- Tham chiếu: `.shared/compliance_shield.md` mục R10.
 
 ### 3.3 Tính Văn Minh — Tuyệt đối Không Tục
 - KHÔNG dùng bất kỳ từ tục nào, kể cả tục nhẹ.
