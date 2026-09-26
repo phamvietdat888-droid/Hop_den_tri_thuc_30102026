@@ -1536,3 +1536,530 @@ Kịch bản VGroup Hạ Tầng 500.000 Tỷ không bịa đặt, không vi ph�
 
 ---
 
+## ENTRY #025 — Bài "GDP 526% trong 35 năm" phong cách Hộp Đen Tri Thức (24/09/2026)
+
+**File:** `outputs/06d_bai_dang_fb_gdp_526.md` | **Dung lượng:** ~250 từ/phương án | **Đề tài:** Kinh tế — tăng trưởng GDP bình quân đầu người dài hạn
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"526%. GDP bình quân đầu người Việt Nam tăng gấp hơn 5 lần trong 35 năm — trong khi Mỹ chỉ tăng 73%, Nhật 34%."*
+- **Tại sao hay:** So sánh trực diện 3 con số, nghịch lý nổ ra ngay câu đầu tiên. Không cần giải thích — bản thân con số đã là Hook.
+- **Nguyên lý:** Hook 5 (Nghịch lý trần trụi) + Live Math ngầm (so sánh tỉ lệ)
+
+**2.** *"Tiếng máy xúc ầm ào từ Bắc xuống Nam, từ công trường cao tốc đến khu công nghiệp FDI — cái nền tảng đó giờ vẫn đang tăng tốc."*
+- **Tại sao hay:** Sensory Anchor cực mạnh — "tiếng máy xúc ầm ào" cho người đọc nghe thấy cả quá trình 35 năm. Kết bằng nhận định ngắn gọn = chốt.
+- **Nguyên lý:** KT13b (Sensory Anchor — Âm thanh) + Punch chốt
+
+**3.** *"con số đẹp không tự bảo vệ được chính nó"*
+- **Tại sao hay:** Twist nhân cách hóa — "con số" trở thành nhân vật yếu đuối. Câu 8 từ chốt hạ toàn bộ mạch tích cực phía trước.
+- **Nguyên lý:** Punch Pacing + Nhân cách hóa trừu tượng
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** Chưa có tục ngữ biến tấu (NL10) — lỗi lặp từ entry #024. Có thể thêm: *"526% là nước lên thuyền lên — nhưng thuyền chở quá nặng thì nước cũng kéo xuống"*.
+**2.** Chưa có kiếm hiệp hóa (NL5) — lỗi lặp từ entry #023 và #024. Bài ngắn khó chen nhưng cần thử ở bài sau.
+**3.** Dung lượng ~250 từ/phương án — nằm trong biên co giãn cho phép (~270 từ) nhưng có thể gọt Nấc 3 gọn hơn.
+
+### ✅ KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **Sensory Anchor (KT13b)** | ✅ "Tiếng máy xúc ầm ào" / "tiếng máy khoan rền trên công trường" |
+| **Punch Pacing** | ✅ "Khác hẳn." / "Gần gấp đôi." / "con số đẹp không tự bảo vệ được chính nó" |
+| **Live Math (KT12)** | ✅ "40,6 tỷ đô, tăng 55%... Riêng vốn mới tăng 97%. Gần gấp đôi." |
+| **Twist nhận thức (KT16 Nấc 4)** | ✅ "526% có thể trở thành áp lực thay vì thành tích" |
+| **Kết mở nhận thức** | ✅ "vẫn đang tăng tốc, hay sắp tới ngã rẽ?" |
+| **So sánh trực diện** | ✅ Việt Nam vs Mỹ vs Nhật + Guyana (dầu mỏ vs công nghiệp hóa) |
+| **CTA đầy đủ 2 phần** | ✅ |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **NL10 — Tục ngữ biến tấu** | ⚠️ LỖI LẶP 3 BÀI LIÊN TIẾP — BẮT BUỘC dùng ở bài #026 |
+| **NL5 — Kiếm hiệp hóa** | ⚠️ LỖI LẶP 3 BÀI LIÊN TIẾP — BẮT BUỘC dùng ở bài #026 |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"con số đẹp không tự bảo vệ được chính nó"* | Cảnh báo rủi ro sau chuỗi số liệu tích cực | H (Câu chốt) |
+| *"tiếng máy xúc ầm ào từ Bắc xuống Nam"* | Sensory Anchor cho đề tài xây dựng/hạ tầng | KT13b (Giác quan) |
+| *"526% có thể trở thành áp lực thay vì thành tích"* | Twist lật nhận thức cho đề tài kinh tế | H (Câu chốt) |
+
+### 💎 BÀI HỌC CỐT LÕI #025
+
+> **"Đề tài kinh tế vĩ mô toàn con số — cách phá vỡ 'cảm giác bản tin' là: (1) so sánh trực diện ngay câu đầu (526% vs 73% vs 34%), (2) xen Sensory Anchor giữa dãy số liệu ('tiếng máy xúc ầm ào'), và (3) dùng Twist nhân cách hóa ở Nấc 4 ('con số đẹp không tự bảo vệ được chính nó'). Ba thứ này đủ biến bài viết kinh tế thành phóng sự mini."**
+
+---
+
+## ENTRY #026 — Bài "Thảm đỏ Mỹ–Trung" phong cách Hộp Đen Tri Thức (24/09/2026)
+
+**File:** `outputs/06d_bai_dang_fb_tham_do_my_trung.md` | **Dung lượng:** ~250 từ/phương án | **Đề tài:** Ngoại giao — nghi thức đón tiếp Tập Cận Bình và ván cờ thương mại Mỹ–Trung
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Lịch sử ngoại giao có câu cũ: muốn đối thủ mở ví, trước hết phải trải thảm."*
+- **Tại sao hay:** NL10 — tục ngữ biến tấu. Câu "trải thảm" vừa là nghĩa đen (thảm đỏ) vừa là nghĩa bóng (chiêu đãi). Nén toàn bộ chiến thuật Trump vào 1 câu.
+- **Nguyên lý:** NL10 (Tục ngữ biến tấu) — ĐÃ XÓA NỢ 3 BÀI
+
+**2.** *"Đầu gối chạm đường băng, hai bàn tay vuốt phẳng từng nếp nhăn trên tấm thảm đỏ."*
+- **Tại sao hay:** Visual Hook thuần giác quan — thị giác + xúc giác. Không cần thuyết minh gì thêm, hình ảnh tự nói.
+- **Nguyên lý:** KT13b (Sensory Anchor — Hình ảnh + Xúc giác)
+
+**3.** *"'Võ mềm' — ra đòn mà đối phương tưởng được mời ngồi ghế VIP."*
+- **Tại sao hay:** NL5 — kiếm hiệp hóa. "Võ mềm" + "ra đòn" = ngôn ngữ kiếm hiệp quen thuộc, giải thích chiến thuật ngoại giao bằng 1 câu.
+- **Nguyên lý:** NL5 (Kiếm hiệp hóa) — ĐÃ XÓA NỢ 3 BÀI
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** Phương án 1 dài hơn biên lý tưởng (~260 từ) — Nấc 3 có thể gọt 1-2 câu bối cảnh Kennedy.
+**2.** Chưa có Live Math (KT12) — đề tài ngoại giao ít số liệu cụ thể, khó chen.
+**3.** Có thể thêm 1 câu hỏi tu từ giữa Nấc 3 để phá nhịp kể liên tục.
+
+### ✅ KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **NL10 — Tục ngữ biến tấu** | ✅ "muốn đối thủ mở ví, trước hết phải trải thảm" — XÓA NỢ |
+| **NL5 — Kiếm hiệp hóa** | ✅ "võ mềm — ra đòn mà đối phương tưởng được mời ngồi ghế VIP" — XÓA NỢ |
+| **Sensory Anchor (KT13b)** | ✅ "Đầu gối chạm đường băng, hai bàn tay vuốt phẳng từng nếp nhăn" |
+| **Punch Pacing** | ✅ "Nghe thì giống chiều khách." / "Nước đi nhanh như chớp." |
+| **Twist nhận thức (KT16 Nấc 4)** | ✅ Dư luận chia rẽ "hạ nhục" vs "đầu tư chiến lược" |
+| **Kết mở nhận thức** | ✅ "tấm thảm đỏ phục vụ ai?" / "chiều khách hay giăng lưới?" |
+| **Trung lập + câu phòng thủ** | ✅ Trình bày 2 phía, không quy chụp |
+| **CTA đầy đủ 2 phần** | ✅ |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **KT12 — Live Math** | Đề tài không có số liệu phù hợp — chấp nhận bỏ qua |
+| **NL4 — Bóng đá hóa** | Chưa dùng — đề tài ngoại giao có thể: "hai đội ra sân, nhưng trọng tài là tấm thảm" |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"muốn đối thủ mở ví, trước hết phải trải thảm"* | Chiến thuật ngoại giao chiêu đãi để đàm phán | NL10 (Tục ngữ biến tấu) |
+| *"võ mềm — ra đòn mà đối phương tưởng được mời ngồi ghế VIP"* | Giải thích ngoại giao mềm | NL5 (Kiếm hiệp hóa) |
+| *"tấm thảm chỉ là quân tốt"* | Quy đổi chi tiết nhỏ thành bàn cờ lớn | H (Câu chốt) |
+| *"phẩm giá bị đánh đổi"* | Diễn đạt phản ứng dư luận Mỹ | A (Ví von) |
+
+### 💎 BÀI HỌC CỐT LÕI #026
+
+> **"Đề tài ngoại giao nhạy cảm (Mỹ–Trung) — cách giữ lửa mà không bị quy chụp: dùng hình ảnh giác quan thuần túy làm Hook (đầu gối chạm đường băng), bóc cơ chế bằng dữ kiện lịch sử (lệ 60 năm, Kennedy 1962), rồi để Twist nằm ở chính SỰ CHIA RẼ DƯ LUẬN (2 phe đối lập) thay vì chọn phe. Kết mở bằng câu hỏi 'phục vụ ai?' — người đọc tự chọn câu trả lời. Giữ trung lập KHÔNG có nghĩa là nhạt — trung lập mà vẫn kịch tính nếu biết đặt đúng câu hỏi."**
+
+---
+
+## ENTRY #027 — Bài "Vietjet x Starlink Wifi Miễn Phí" phong cách Hộp Đen (24/09/2026)
+
+**File:** `outputs/vietjet_starlink_wifi_mien_phi.md` | **Dung lượng:** ~230 từ | **Cấu trúc:** 5 nấc KT16
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Đang ngồi trên máy bay ở độ cao 10.000 mét, mở điện thoại lướt video mà không tốn thêm một đồng nào — nghe như chuyện viễn tưởng, đúng không?"*
+- **Tại sao hay:** Visual Hook đập thẳng vào hình dung cảm giác thực tế (ngồi máy bay, mở điện thoại), kết bằng câu hỏi tu từ kéo đồng cảm.
+- **Nguyên lý:** KT13b (Sensory Anchor) + Hook cảm xúc.
+
+**2.** *"Riêng tiền thuê Starlink cho một máy bay đã ngốn hơn 6 tỷ đồng mỗi năm. Vậy mà hãng vẫn chọn không thu phí."*
+- **Tại sao hay:** Live Math cụ thể (6 tỷ) rồi đảo ngược bằng "vậy mà" — tạo nghịch lý cực mạnh chỉ trong 2 câu.
+- **Nguyên lý:** KT12 (Live Math) + đối lập cùng đoạn.
+
+**3.** *"Bạn nghĩ mình sẽ chọn hãng bay vì giá vé — hay vì được online miễn phí ở độ cao 10.000 mét?"*
+- **Tại sao hay:** Kết mở bằng câu hỏi xoáy buộc người đọc tự tranh luận, lặp lại "10.000 mét" tạo đối xứng với Hook.
+- **Nguyên lý:** KT16 Nấc 5 (Kết mở độc lập).
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** *"Hàng ngàn vệ tinh nhỏ bay thấp hơn nhiều, tín hiệu truyền nhanh, độ trễ cực thấp."*
+- **Vấn đề:** 3 vế ngắn liệt kê liên tiếp, hơi phẳng.
+- **Cách cải thiện:** Phá nhịp bằng ví von hoặc xen câu hỏi.
+
+**2.** Đoạn so sánh Emirates và Singapore Airlines — đủ thông tin nhưng giọng hơi nghiêng về "kể tin".
+- **Cách cải thiện:** Thêm 1 comment cá nhân kiểu "nghe mà xót ví đúng không?"
+
+**3.** Câu "Cái khác biệt nằm ở công nghệ" — hơi chung chung.
+- **Cách cải thiện:** Đi thẳng vào cụ thể hơn, ví dụ: "Khác biệt nằm ở cách vệ tinh bay."
+
+### 🛠️ Kỹ thuật dùng tốt
+- KT16 (5 nấc) — cấu trúc chặt chẽ, đúng tỷ lệ dung lượng
+- KT13b (Sensory Anchor) — "mở điện thoại lướt video"
+- Live Math — 6 tỷ đồng/năm
+- Twist nhận thức — "không đơn thuần cho không"
+
+### 🔍 Kỹ thuật thiếu
+- KT10 (Dồn câu hỏi) — có thể dùng ở nấc 3 để tăng kịch tính
+- Ví von đời thường — bài này thiên dữ kiện, thiếu 1 ví von "chợ búa"
+
+### 📝 Thu hoạch từ mới
+| Từ/cụm | Ngữ cảnh | Phân loại |
+|---|---|---|
+| *"ngốn hơn 6 tỷ"* | Chi phí thuê Starlink | Quy đổi có thái độ |
+| *"mượt gần bằng ở nhà"* | So sánh chất lượng wifi | Ví von đời thường |
+
+### 💎 BÀI HỌC CỐT LÕI #027
+
+> **"Bài viết ngắn ~200 từ về công nghệ hàng không — chìa khóa nằm ở LIVE MATH (6 tỷ/năm) + SO SÁNH GIÁ QUỐC TẾ (Emirates 10 đô/30 phút vs miễn phí). Khi có con số cụ thể, không cần ví von nhiều — số liệu tự kể chuyện. Twist tốt nhất là đặt câu hỏi chiến lược ('wifi thành tiêu chuẩn thay vì tiện ích') thay vì khen ngợi."**
+
+---
+
+## ENTRY #028 — Bài "Tập Cận Bình thăm Mỹ — Đại bác" phong cách Hộp Đen (24/09/2026)
+
+**File:** `outputs/tap_can_binh_tham_my_dai_bac.md` | **Dung lượng:** ~230 từ | **Cấu trúc:** 5 nấc KT16
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Thảm đỏ 30 mét, ban nhạc quân đội, đại bác nổ vang giữa căn cứ không quân — và ông chủ Nhà Trắng đứng chờ sẵn trên đường băng."*
+- **Tại sao hay:** Visual Hook thuần giác quan — liệt kê 3 hình ảnh kịch tính rồi chốt bằng chi tiết "đứng chờ sẵn" tạo bất ngờ. Người đọc thấy cảnh trước, hiểu ý sau.
+- **Nguyên lý:** KT13b (Sensory Anchor) + liệt kê leo thang.
+
+**2.** *"Tập Cận Bình vừa nhận nghi thức mà Putin năm 2025 không hề có."*
+- **Tại sao hay:** So sánh đối lập cực ngắn (12 từ), chốt hạ bằng "không hề có" — punch mạnh, tạo nghịch lý ngay.
+- **Nguyên lý:** Punch Pacing + đối lập.
+
+**3.** *"Tam Quốc có cảnh Tào Tháo thừa nhận Lưu Bị là anh hùng. Không phải vì phục, mà vì hiểu rằng khinh thường đối thủ ngang tầm còn nguy hiểm hơn đối đầu."*
+- **Tại sao hay:** Ví von lịch sử quen thuộc với người Việt, bẻ nghĩa sâu hơn câu chuyện gốc ("không phải vì phục"), áp dụng vào quan hệ Mỹ–Trung cực mượt.
+- **Nguyên lý:** Module 8 (Liên hệ lịch sử) + ví von đời thường.
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** *"Ngoại giao giữa các cường quốc chạy bằng lợi ích, không chạy bằng tình cảm."*
+- **Vấn đề:** Câu đúng nhưng hơi "slogan", có thể bình dân hơn.
+- **Cách cải thiện:** *"Mấy ông lớn chơi với nhau vì cần nhau, chứ đâu phải vì thương nhau."*
+
+**2.** *"Ngược lại, Bắc Kinh cần thị trường và công nghệ Mỹ để tiếp tục phát triển."*
+- **Vấn đề:** Câu hơi giáo khoa.
+- **Cách cải thiện:** Thêm chi tiết cụ thể hoặc ví von.
+
+**3.** *"Washington đề xuất xây cơ chế thông báo sự cố AI liên quan an ninh quốc gia."*
+- **Vấn đề:** Giọng hơi nghiêng về tin tức, thiếu comment.
+- **Cách cải thiện:** Thêm 1 câu bình ngắn sau: *"Lần đầu tiên, robot cũng có chỗ trên bàn đàm phán."*
+
+### 🛠️ Kỹ thuật dùng tốt
+- KT13b (Sensory Anchor) — thảm đỏ, đại bác, đường băng
+- Module 8 (Liên hệ lịch sử) — Tam Quốc / Tào Tháo–Lưu Bị
+- Punch Pacing — "Không hề có." / "Thế nhưng đại bác không nổ vì thích."
+- Đối lập so sánh — Putin vs Tập
+
+### 🔍 Kỹ thuật thiếu
+- Live Math (KT12) — có số liệu 85% đất hiếm nhưng chưa quy đổi "chợ búa"
+- KT11 (Ghim công khai) — có thể ghim "tháng 11 hết hạn" rồi vòng về
+
+### 📝 Thu hoạch từ mới
+| Từ/cụm | Ngữ cảnh | Phân loại |
+|---|---|---|
+| *"đại bác không nổ vì thích"* | Giải thích nghi thức ngoại giao | Câu chốt có thái độ |
+| *"khinh thường đối thủ ngang tầm còn nguy hiểm hơn đối đầu"* | Ví von Tam Quốc | Câu chốt cảm xúc |
+
+### 💎 BÀI HỌC CỐT LÕI #028
+
+> **"Đề tài ngoại giao nguyên thủ — vũ khí mạnh nhất là CHI TIẾT NGHI THỨC (thảm đỏ, đại bác, đứng chờ trên đường băng) + SO SÁNH ĐỐI LẬP (Putin không có vs Tập có). Khi viết về quan hệ cường quốc, ví von lịch sử quen thuộc (Tam Quốc) giúp người Việt 'bắt sóng' ngay mà không cần giải thích dài. Twist tốt nhất: đặt câu hỏi 'tôn trọng hay giữ chân?' — không chọn phe, để người đọc tự tranh luận."**
+
+---
+
+## ENTRY #029 — Bài "Phái đoàn Quốc phòng Triều Tiên thăm VN" phong cách Hộp Đen (24/09/2026)
+
+**File:** `outputs/trieu_tien_quoc_phong_tham_vn.md` | **Dung lượng:** ~240 từ | **Cấu trúc:** 5 nấc KT16
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Một phái đoàn Bộ Quốc phòng Triều Tiên lặng lẽ rời Bình Nhưỡng bay sang Hà Nội. Cùng lúc đó, Tổng Bí thư Tô Lâm đang bắt tay tổng thống Mỹ ở Washington. Trùng hợp? Không hề."*
+- **Tại sao hay:** 3 câu tạo đối lập kịch tính (Bình Nhưỡng ↔ Washington), câu chốt cực ngắn (2 từ) đập thẳng vào nhận thức.
+- **Nguyên lý:** KT13b (Sensory Anchor) + Punch Pacing + đối lập cùng đoạn.
+
+**2.** *"Mỗi chuyến đi là một mắt xích, nối dần thành chuỗi."*
+- **Tại sao hay:** Ví von cực gọn (13 từ), biến danh sách sự kiện khô khan thành hình ảnh "chuỗi mắt xích" dễ hình dung.
+- **Nguyên lý:** Ví von đời thường + Punch Pacing.
+
+**3.** *"Bạn bè của mình không nhất thiết phải là bạn của nhau — miễn là mỗi mối quan hệ phục vụ lợi ích quốc gia."*
+- **Tại sao hay:** Câu chốt triết lý ngoại giao bằng ngôn ngữ đời thường, ai cũng hiểu. Twist nhận thức mạnh.
+- **Nguyên lý:** KT16 Nấc 4 (Twist) + bình dân hóa khái niệm.
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** *"Ngoại giao đa phương hóa nghe thì hay"* — hơi giáo khoa, có thể bình dân hơn.
+**2.** *"Thứ trưởng Quốc phòng Triều Tiên Ri Cho Yong dẫn đầu đoàn"* — câu tin tức thuần túy, thiếu comment.
+**3.** Đoạn liệt kê timeline (tháng 5, tháng 6) — đúng nhưng giọng "báo cáo", có thể thêm 1 câu bình.
+
+### 🛠️ Kỹ thuật dùng tốt
+- Đối lập kịch tính — Bình Nhưỡng ↔ Washington cùng tuần
+- Ví von "mắt xích" — biến timeline thành hình ảnh
+- Twist nhận thức — "bạn bè không phải bạn của nhau"
+- Punch Pacing — "Trùng hợp? Không hề."
+
+### 🔍 Kỹ thuật thiếu
+- Live Math (KT12) — không có số liệu để quy đổi (đề tài ngoại giao)
+- Sensory Anchor mạnh hơn — "lặng lẽ rời" đạt nhưng có thể thêm chi tiết sân bay
+
+### 💎 BÀI HỌC CỐT LÕI #029
+
+> **"Đề tài ngoại giao nhạy cảm (Triều Tiên + Việt Nam) — vũ khí hay nhất là ĐỐI LẬP THỜI GIAN (Bình Nhưỡng ↔ Washington cùng tuần) + CÂU CHỐT TRIẾT LÝ BÌNH DÂN ('bạn bè không phải bạn của nhau'). Khi không có số liệu kinh tế để Live Math, dùng TIMELINE MẮT XÍCH (tháng 10 → tháng 5 → tháng 6 → tháng 9) tạo logic dẫn dắt. Giữ trung lập bằng cách khen TƯ DUY NGOẠI GIAO chứ không khen bất kỳ bên nào."**
+
+---
+
+## ENTRY #030 — Bài "VinSpeed x Siemens 1 tỷ euro" phong cách Hộp Đen (24/09/2026)
+
+**File:** `outputs/vinspeed_siemens_1_ty_euro.md` | **Dung lượng:** ~240 từ | **Cấu trúc:** 5 nấc KT16
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Hà Nội đến Hạ Long — 23 phút. Không phải máy bay, mà là tàu cao tốc chạy trên cầu cạn, xé gió ở tốc độ 350 km/h."*
+- **Tại sao hay:** Visual Hook cực mạnh — "23 phút" gây sốc ngay, rồi "xé gió" thêm chi tiết giác quan. Người đọc hình dung ra cảnh tượng trước khi biết đây là dự án gì.
+- **Nguyên lý:** KT13b (Sensory Anchor) + con số gây sốc.
+
+**2.** *"Thay vì 2 đầu máy kéo nặng nề, hàng chục mô tơ nhỏ gọn được dàn đều dưới sàn các toa."*
+- **Tại sao hay:** Biến khái niệm kỹ thuật "động lực phân tán EMU" thành hình ảnh cụ thể ai cũng hiểu, không cần dùng thuật ngữ.
+- **Nguyên lý:** Module 6 (Ví von đời thường) + bình dân hóa.
+
+**3.** *"23 phút — khoảng thời gian nhiều người Hà Nội hiện tại còn chưa kịp thoát khỏi một cái tắc đường."*
+- **Tại sao hay:** Twist cực mạnh — quy đổi 23 phút thành trải nghiệm đau đớn hàng ngày ai cũng biết. Đối lập tương lai vs hiện tại.
+- **Nguyên lý:** KT12 (Live Math/Quy đổi) + KT16 Nấc 4 (Twist).
+
+### 🛠️ Kỹ thuật dùng tốt
+- Quy đổi đời thường — "23 phút = chưa thoát tắc đường"
+- Sensory Anchor — "xé gió", "mô tơ nhỏ gọn dàn đều dưới sàn"
+- Punch Pacing — "Nghe như phim, nhưng hợp đồng 1 tỷ euro vừa ký xong rồi."
+- Bình dân hóa kỹ thuật — EMU → "mô tơ dàn đều dưới sàn"
+
+### 💎 BÀI HỌC CỐT LÕI #030
+
+> **"Đề tài công nghệ/hạ tầng nặng số liệu — vũ khí hay nhất là QUY ĐỔI VỀ TRẢI NGHIỆM HÀNG NGÀY ('23 phút = chưa thoát tắc đường'). Khi bóc cơ chế kỹ thuật, KHÔNG dùng thuật ngữ mà dùng HÌNH ẢNH ('mô tơ nhỏ gọn dàn đều dưới sàn' thay vì 'động lực phân tán EMU'). Con số ấn tượng nhất không phải con số lớn nhất — mà là con số GẦN GŨI NHẤT với đời sống người đọc."**
+
+---
+
+## ENTRY #031 — Bài "Đường lấn biển Hà Tiên 1.177 tỷ" phong cách CỦ ĐẬU (24/09/2026)
+
+**File:** `outputs/cu_dau_duong_lan_bien_ha_tien.md` | **Dung lượng:** ~2000 từ | **Đề tài:** Hạ tầng giao thông — đường lấn biển Hà Tiên
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Oách thì oách thật. Cơ mà cái ví ai chịu?"*
+- **Tại sao hay:** Câu cực ngắn (10 từ), chốt hạ toàn bộ đoạn phân tích chi phí cầu vượt biển. "Cái ví ai chịu?" — quy đổi bài toán ngàn tỷ thành ngôn ngữ chợ búa ai cũng hiểu.
+- **Nguyên lý:** NL12 (Kết phũ không giải thích) + NL1 (Quy đổi xuống bếp)
+
+**2.** *"Lớp bùn, đất sét trầm tích dưới đó — anh em tưởng tượng như cái nền bánh bông lan chưa nướng chín ấy — mềm oặt, chịu tải kém."*
+- **Tại sao hay:** Ví von đời thường (NL1) cực đắt — biến khái niệm địa chất phức tạp thành hình ảnh nhà bếp ai cũng biết. "Nền bánh bông lan chưa nướng chín" = mềm oặt → người đọc hiểu ngay mà không cần thuật ngữ.
+- **Nguyên lý:** NL1 (Quy đổi xuống bếp) + NL8 (Giác quan trước, phân tích sau)
+
+**3.** *"Bởi vì đường đúng chỗ, cầu đúng đoạn — mới là cách tiêu tiền thông minh nhất."*
+- **Tại sao hay:** Kết phũ (CĐ11) gọn, 15 từ, chốt toàn bài bằng logic đơn giản nhất. Không triết lý, không ẩn dụ — chỉ nói thẳng.
+- **Nguyên lý:** NL12 (Kết phũ) + CĐ11
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** Thiếu biệt danh (CĐ5) — đề tài hạ tầng không có nhân vật cụ thể để đặt biệt danh, nhưng có thể đặt cho hiện tượng: *"anh em team cầu"* vs *"anh em team đắp đá"* hoặc biệt danh cho con đường.
+**2.** Thiếu comment cộng đồng (CĐ6) — không lồng được comment thực tế nào. Có thể sáng tạo comment phản biện: *"Cao nhân nào đó hỏi: 'Đổ đá xuống biển thế không phá hoại môi trường à?'"*
+**3.** Chưa có tục ngữ biến tấu (NL10) — bỏ lỡ cơ hội: *"Có tiền mua tiên cũng được — cơ mà tiên ở đây là cái nền đường ổn định dưới đáy biển"* hoặc *"Nước đến chân mới nhảy — nước đến đầu gối thì đắp đường"*.
+
+### 🔧 KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **Live Math (CĐ1)** | ✅ Tính chi phí cầu vs đường, số liệu thi công 1.000-1.500 m³/ngày |
+| **Ví von đường phố (NL1)** | ✅ "Nền bánh bông lan chưa nướng chín", "cái hố nuốt tiền" |
+| **Nghịch lý xoáy (SP3)** | ✅ Nghịch lý "đổ đá nghe thô mà lại hợp lý hơn xây cầu" |
+| **Mổ xẻ quy trình (CĐ3)** | ✅ Bóc tách 3 lý do chọn lấn biển, 2 thách thức thi công |
+| **Punch Pacing** | ✅ "Đấy.", "Oách chưa?", "Không phải đổ đá rồi xong." |
+| **Nhảy giọng** | ✅ KỂ → LIVE MATH → COMMENT → HỎI → CHỐT |
+| **Boomerang Hook (SP8)** | ✅ Câu hỏi "cầu hay đường?" mở đầu → quay lại kết bài với góc mới |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **CĐ5 — Biệt danh** | ⚠️ CẦN dùng — có thể đặt cho công trình/hiện tượng |
+| **CĐ6 — Comment cộng đồng** | ⚠️ CẦN ≥1 comment |
+| **NL10 — Tục ngữ biến tấu** | ⚠️ CẦN ≥1 |
+| **NL4 — Bóng đá hóa** | Đề tài hạ tầng khó lồng |
+| **SP5 — Quy đổi thời gian sống** | Không phù hợp đề tài này |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"cái hố nuốt tiền âm thầm"* | Bảo trì cầu biển dài hạn | A (Ví von) |
+| *"nền bánh bông lan chưa nướng chín"* | Nền đất yếu dưới đáy biển | A (Ví von) |
+| *"Oách thì oách thật. Cơ mà cái ví ai chịu?"* | Chốt hạ bài toán chi phí | H (Câu chốt) |
+| *"đường đúng chỗ, cầu đúng đoạn"* | Chốt bài phương án kết hợp | H (Câu chốt) |
+
+### 💎 BÀI HỌC CỐT LÕI #031
+
+> **"Đề tài hạ tầng/kỹ thuật nặng — chìa khóa CỦ ĐẬU nằm ở VÍ VON BẾP NÚC cho thuật ngữ kỹ thuật ('nền bánh bông lan' thay 'đất sét trầm tích') + LIVE MATH thực tế (chi phí gấp 3-5 lần, 1.000-1.500 m³/ngày) + CẤU TRÚC SO SÁNH SONG SONG (cầu vs đường, ưu vs nhược). Khi đề tài không có nhân vật xấu để bóc phốt, CỦ ĐẬU vẫn sống tốt nếu tập trung vào GIẢI THÍCH CƠ CHẾ bằng giọng anh bạn trà đá — bức xúc không nhất thiết phải nhắm vào ai, mà có thể nhắm vào sự hiểu lầm."**
+
+---
+
+## ENTRY #032 — Bài "Việt Nam mang gạo sang Iraq" phong cách Hộp Đen Tri Thức (25/09/2026)
+
+**File:** `outputs/viet_nam_gao_iraq.md` | **Dung lượng:** ~250 từ/phương án | **Đề tài:** Ngoại giao/lịch sử — tình nghĩa Việt Nam - Iraq
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Cả thế giới quay lưng với Iraq, chỉ duy nhất một nước còn dám chở gạo vào giữa vùng chiến sự — và nước đó còn chưa giàu."*
+- **Tại sao hay:** Hook nghịch lý cực gọn — 2 lớp bất ngờ trong 1 câu: (1) duy nhất 1 nước, (2) nước đó còn chưa giàu. Người đọc buộc phải hỏi "vì sao?"
+- **Nguyên lý:** KT16 Nấc 1 (Visual Hook) + Nghịch lý gây sốc
+
+**2.** *"Giao hàng xong mà chưa có tiền thanh toán. Đúng rồi đấy. Giao trước, tính sau."*
+- **Tại sao hay:** 3 câu siêu ngắn liên tiếp tạo nhịp đập — câu giữa "Đúng rồi đấy" vừa xác nhận vừa tạo khoảng lặng. Giọng trà đá ngang hàng.
+- **Nguyên lý:** Punch Pacing + Tiểu từ tình thái ("đấy")
+
+**3.** *"Nợ thì xóa rồi. Nhưng cái tình thì chưa bao giờ mất."*
+- **Tại sao hay:** Đối lập cùng câu (nợ vs tình) — gọn 2 câu chốt hạ toàn bài. Ai đọc cũng gật.
+- **Nguyên lý:** NL11 (Đối lập cùng câu) + Kết mở nhận thức
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** *"kiệt quệ từ đầu tới chân"* — Hơi gần cliché. Lần sau thử cụ thể hơn: *"đến gạo ăn hàng ngày còn thiếu."*
+**2.** *"Hào phóng thiệt."* — Tốt nhưng hơi lạc tone so với Hộp Đen. Hợp hơn cho CỦ ĐẬU. Với Hộp Đen, thử: *"Không đòi điều kiện gì."*
+**3.** Bài viết vượt ~250 từ, hơi quá khung 200 từ dù vẫn nằm trong biên co giãn 270 từ. Nấc 3 (Bóc cơ chế) có thể gọt gọn hơn.
+
+### ✅ KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **Sensory Anchor (KT13b)** | ✅ "con tàu chở đầy gạo âm thầm rẽ vào cảng Basra" — hình ảnh cụ thể |
+| **Punch Pacing** | ✅ "Đúng rồi đấy.", "Không dừng. Không chùn.", "Không đòi. Không kể công." |
+| **Twist nhận thức (KT16 Nấc 4)** | ✅ Lật từ "nợ" sang "tình nghĩa" — cái xóa được vs cái không xóa được |
+| **Kết mở nhận thức** | ✅ "kiểu ân nghĩa này còn sót lại ở đâu?" |
+| **CTA đầy đủ 2 phần** | ✅ Câu hỏi tương tác + câu cố định |
+| **Câu cầu nối sau Hook** | ✅ "Vì sao Việt Nam lại liều như vậy? Vì đây không phải chuyện buôn bán, mà là trả nghĩa." |
+| **Trích dẫn thực tế** | ✅ Lời Bộ trưởng Thương mại Iraq — tạo chiều sâu |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **Live Math (KT12)** | Đề tài có số liệu (triệu tấn dầu, trăm triệu đô) nhưng chưa dựng phép tính |
+| **Tục ngữ biến tấu (NL10)** | Không có tục ngữ nào — có thể dùng "Ăn quả nhớ kẻ trồng cây" biến tấu |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"Giao trước, tính sau."* | Mô tả hành động giúp đỡ không tính toán | H (Câu chốt) |
+| *"Không dừng. Không chùn."* | Punch kép chốt sự kiên định | H (Câu chốt) |
+| *"Nợ xóa rồi. Tình nghĩa thì còn nguyên."* | Đối lập vật chất vs tinh thần | H (Câu chốt) |
+
+### 💎 BÀI HỌC CỐT LÕI #032
+
+> **"Đề tài ngoại giao/ân nghĩa quốc tế — sức mạnh nằm ở TƯƠNG PHẢN BỐI CẢNH: cả thế giới bỏ chạy vs 1 nước ở lại. Không cần Live Math, không cần ví von phức tạp — chỉ cần kể đúng trình tự 'họ giúp mình trước → mình giúp họ sau' là tự khắc xúc động. Câu chốt mạnh nhất là câu đối lập 2 thứ: cái xóa được (nợ) vs cái không xóa được (tình)."**
+
+---
+
+## ENTRY #033 — Bài "Thiên Long bán 65% cho Kokuyo Nhật Bản" phong cách Hộp Đen Tri Thức (25/09/2026)
+
+**File:** `outputs/thien_long_ban_cho_nhat.md` | **Dung lượng:** ~260 từ/phương án | **Đề tài:** Kinh tế/M&A — doanh nghiệp gia đình bán cổ phần
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Cứ 10 cây bút bi bán ra ở Việt Nam thì 6 cây là Thiên Long. Doanh thu vừa lập kỷ lục 3.800 tỷ. Thế mà gia đình sáng lập lại quyết định bán 65% cho Nhật."*
+- **Tại sao hay:** 3 câu leo thang: số liệu thị phần → đỉnh cao doanh thu → nghịch lý bán. Mỗi câu tăng thêm 1 bậc bất ngờ, câu cuối lật ngược tất cả.
+- **Nguyên lý:** KT16 Nấc 1 (Visual Hook) + Nghịch lý 3 tầng
+
+**2.** *"Ông đi bộ từng cái chợ, năn nỉ từng sạp hàng bày bút lên kệ. 45 năm sau, Thiên Long chiếm 60% thị phần cả nước."*
+- **Tại sao hay:** Đối lập thời gian — 2 hình ảnh đặt cạnh nhau: ông chủ đi năn nỉ từng sạp vs chiếm 60% thị trường. Sensory Anchor (đi bộ từng chợ, năn nỉ từng sạp) tạo xúc cảm.
+- **Nguyên lý:** KT13b (Sensory Anchor) + NL11 (Đối lập cùng câu)
+
+**3.** *"Họ không mua cây bút. Họ mua cánh cửa vào Đông Nam Á."*
+- **Tại sao hay:** Twist nhận thức gọn 2 câu — lật từ "sản phẩm" sang "chiến lược". Câu phủ định trước, khẳng định sau = mạnh gấp đôi.
+- **Nguyên lý:** KT16 Nấc 4 (Cú Twist nhận thức) + NL11 (Đối lập)
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** *"Oách thiệt."* — Hợp CỦ ĐẬU hơn Hộp Đen. Với giọng Hộp Đen nên dùng: *"Nghe đã thấy khủng."*
+**2.** Bài vượt ~260 từ. Nấc 3 (Bóc cơ chế) dài do phải giải thích cả 2 phía (Thiên Long lẫn Kokuyo). Có thể gọt phần Kokuyo gọn hơn.
+**3.** *"Nghe vô lý"* — Hơi gần công thức "nghe X nhưng Y" quen. Lần sau thử mở câu cầu nối bằng cách khác.
+
+### ✅ KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **Sensory Anchor (KT13b)** | ✅ "đi bộ từng cái chợ, năn nỉ từng sạp hàng bày bút lên kệ" |
+| **Punch Pacing** | ✅ "Oách thiệt.", "Mua cánh cửa.", "Không phải mua cây bút." |
+| **Twist nhận thức (KT16 Nấc 4)** | ✅ "Không mua cây bút. Mua cánh cửa vào Đông Nam Á." |
+| **Kết mở nhận thức** | ✅ "Mất đi, hay là một cách để sống tiếp?" |
+| **CTA đầy đủ 2 phần** | ✅ Câu hỏi tương tác + câu cố định |
+| **Câu cầu nối sau Hook** | ✅ "đằng sau quyết định này là một bài toán mà bất kỳ doanh nghiệp gia đình nào cũng sợ" |
+| **Câu móc xích giữa các khối** | ✅ Thiên Long gặp khó → "Muốn sống tiếp thì phải ra nước ngoài" → Kokuyo nhìn thấy gì |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **Live Math (KT12)** | Có thể tính: "3.800 tỷ ÷ 365 ngày = hơn 10 tỷ/ngày" nhưng chưa dùng |
+| **Tục ngữ biến tấu (NL10)** | Không có — có thể dùng "Của cho không bằng cách cho" biến tấu |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"Không mua cây bút. Mua cánh cửa."* | Chốt bản chất M&A — mua quyền truy cập thị trường | H (Câu chốt) |
+| *"năn nỉ từng sạp hàng bày bút lên kệ"* | Sensory Anchor khởi nghiệp từ 0 | A (Ví von) |
+| *"đỉnh cao cũng là lúc đau đầu nhất"* | Nghịch lý đỉnh cao kinh doanh | H (Câu chốt) |
+| *"Mất đi, hay là một cách để sống tiếp?"* | Kết mở xoáy nhận thức về M&A | H (Câu chốt) |
+
+### 💎 BÀI HỌC CỐT LÕI #033
+
+> **"Đề tài M&A/doanh nghiệp gia đình — nghịch lý mạnh nhất là 'đang ở đỉnh cao mà lại bán'. Cấu trúc 3 tầng leo thang ở Hook (thị phần → doanh thu kỷ lục → bán) buộc người đọc phải hỏi 'vì sao?'. Và Twist 'không mua sản phẩm, mua cánh cửa' giải mã bản chất M&A bằng 2 câu ngắn — ai đọc cũng hiểu dù chưa bao giờ học tài chính."**
+
+---
+
+## ENTRY #034 — Bài "Giới siêu giàu không mua đất để bán" phong cách Hộp Đen Tri Thức (25/09/2026)
+
+**File:** `outputs/gioi_sieu_giau_bat_dong_san.md` | **Dung lượng:** ~270 từ/phương án | **Đề tài:** Tài chính/BĐS — cách giới siêu giàu dùng đòn bẩy
+
+### ✅ 3 CÂU HAY NHẤT
+
+**1.** *"Cùng mua một miếng đất — người thường hỏi 'bán được bao nhiêu?', còn giới siêu giàu hỏi 'vay được bao nhiêu?'. Câu hỏi khác, cuộc chơi khác, kết quả khác hoàn toàn."*
+- **Tại sao hay:** Đối lập 2 câu hỏi trong cùng 1 tình huống — nén toàn bộ bài viết vào 2 câu chốt hạ. Ai đọc cũng tự soi vào mình.
+- **Nguyên lý:** NL11 (Đối lập cùng câu) + Kết mở nhận thức
+
+**2.** *"Không bán được, lãi suất thả nổi 13-15% đè lên đầu — cắt lỗ. Đơn giản vậy thôi."*
+- **Tại sao hay:** Live Math ngầm (13-15% → cắt lỗ), punch chốt "Đơn giản vậy thôi." — phũ nhưng đúng. Giọng bình thản giữa nỗi đau.
+- **Nguyên lý:** KT12 (Live Math) + Punch Pacing
+
+**3.** *"Vòng lặp kín. Tiền đẻ ra tiền."*
+- **Tại sao hay:** 2 câu siêu ngắn (8 từ tổng) chốt toàn bộ cơ chế. Nén hết logic phức tạp vào 2 câu mà ai cũng hiểu.
+- **Nguyên lý:** Punch Pacing + Câu chốt cảm xúc
+
+### ❌ 3 CÂU CẦN CẢI THIỆN
+
+**1.** Bài vượt ~270 từ — chạm biên co giãn tối đa. Nấc 3 phải giải thích cả 2 cuộc chơi + bối cảnh lịch sử + đầu tư công → dài. Có thể gọt phần 3 cú hích lịch sử.
+**2.** *"Miếng đất giống cái chìa khóa mở két"* (Hook 2) — ví von ổn nhưng hơi gần cliché "chìa khóa". Thử: *"Miếng đất là tấm vé vào phòng VIP ngân hàng."*
+**3.** *"Tiền đổ vào nhiều vậy — sao lại lỗ?"* — Câu cầu nối tốt nhưng có thể sắc hơn: *"Vậy ai đang lỗ?"*
+
+### ✅ KỸ THUẬT DÙNG TỐT
+
+| Kỹ thuật | Ghi chú |
+|---|---|
+| **Live Math (KT12)** | ✅ "10 tỷ + 10 tỷ = 20 tỷ, rao 25 tỷ, lãi 5 tỷ" + "4 đồng vay = 1 đồng vào BĐS" |
+| **Sensory Anchor (KT13b)** | ✅ "biệt thự, nhà phố rao bán cắt lỗ hàng loạt" — hình ảnh cụ thể |
+| **Twist nhận thức (KT16 Nấc 4)** | ✅ "mua đất không phải để bán — mà để vay tiếp" |
+| **Punch Pacing** | ✅ "Đơn giản vậy thôi.", "Vòng lặp kín. Tiền đẻ ra tiền." |
+| **Kết mở nhận thức** | ✅ "Bạn đang hỏi câu nào?" |
+| **Câu móc xích** | ✅ "Cuộc chơi thứ nhất → Thế nhưng mà giới siêu giàu chơi khác → Nhìn lại 30 năm → Và lần này" |
+| **CTA đầy đủ 2 phần** | ✅ |
+
+### ⚠️ KỸ THUẬT THIẾU
+
+| Kỹ thuật | Ưu tiên bài sau |
+|---|---|
+| **Tục ngữ biến tấu (NL10)** | Có thể dùng: "Của bền tại người — nhưng giới giàu thì bền tại... ngân hàng" |
+| **Câu hỏi dồn dập (KT10)** | Đề tài phù hợp nhưng bài ngắn không đủ chỗ |
+
+### 🆕 THU HOẠCH TỪ/CỤM MỚI
+
+| Từ/cụm | Ngữ cảnh | Kho |
+|---|---|---|
+| *"Vòng lặp kín. Tiền đẻ ra tiền."* | Chốt cơ chế đòn bẩy BĐS | H (Câu chốt) |
+| *"Câu hỏi khác, cuộc chơi khác, kết quả khác hoàn toàn."* | Đối lập 2 mindset đầu tư | H (Câu chốt) |
+| *"lãi suất thả nổi đè lên đầu"* | Mô tả áp lực lãi suất BĐS | A (Ví von) |
+| *"mua đất để được vay tiếp"* | Nén bản chất chiến lược siêu giàu | H (Câu chốt) |
+
+### 💎 BÀI HỌC CỐT LÕI #034
+
+> **"Đề tài tài chính/BĐS phức tạp — chìa khóa là ĐỐI LẬP 2 CUỘC CHƠI song song: cuộc chơi phổ biến (mua-bán chênh giá) vs cuộc chơi ngầm (mua-thế chấp-vay). Cùng 1 miếng đất, 2 câu hỏi khác nhau = 2 kết cục khác nhau. Live Math đơn giản (10+10=20, rao 25, lãi 5) là cách hay nhất để giải thích đòn bẩy cho người không học tài chính. Và câu chốt mạnh nhất là khi BUỘC NGƯỜI ĐỌC TỰ SOI: 'Bạn đang hỏi câu nào?'"**
+
+---
+
+

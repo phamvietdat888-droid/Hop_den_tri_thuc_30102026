@@ -91,22 +91,67 @@ Bóc tách một quy trình phức tạp (mà đa số người xem NGHĨ là đ
 > *"Bá đạo nhất phải nói đến bác tài này. Chạy 21 cây, mở app ra thì xin chúc mừng — trúng hơn 56.000 đồng."*
 > *"Cây lan cao 7 phân. Giá 1,65 tỷ. Chỉ dài bằng ngón tay thôi. Mà giá bằng cả căn nhà."*
 
+**Biến thể: "CV Giang Hồ" (24/09/2026):** Liệt kê tiền án, tiền sự, số năm tù bằng giọng **ngưỡng mộ giả** — như đang đọc CV xin việc hoặc bảng thành tích thể thao.
+
+> **Ví dụ:**
+> *"Tính sương sương dù sinh năm 81 thế nhưng ngài đã sưu tập được tám tiền án, một tiền sự với đủ loại tội danh, gần 20 năm thanh xuân để mà huấn luyện dưới mái tù."*
+> *"Từ án gốc vọn vẹn ba quấn lịch, ngài đôn một phát lên gần chục quấn, chính thức biến mình thành đại bàng nhà tù thực sự."*
+> *"Bộ sưu tập tám tiền án, một tiền sự chuẩn bị được đôn lên con số thứ chín."*
+>
+> **Bí quyết:** "Sưu tập" + "bộ sưu tập" = coi tiền án như đồ sưu tầm. "Đôn lên" = nói tăng án như nói THĂNG CHỨC. Kết hợp kính ngữ giả (NL2) + quy đổi thời gian sống (SP5).
+
 ---
 
 ### Nhóm B — 4 VŨ KHÍ "GIỌNG PHỐ" (Sức mạnh nằm ở ngôn ngữ)
 
-#### CĐ5 — "Đặt Biệt Danh" (Nicknaming) ⭐⭐⭐
+#### CĐ5 — "Đặt Biệt Danh + Mã Hóa Đường Phố" (Nicknaming & Street Code) ⭐⭐⭐
 
-Đặt biệt danh cho nhân vật/hiện tượng bằng cách **chơi chữ, nói lái, hoặc ví von bất ngờ**. Biệt danh phải nghe 1 lần là nhớ mãi.
+**5a — Biệt danh nhân vật:** Đặt biệt danh cho nhân vật/hiện tượng bằng cách **chơi chữ, nói lái, hoặc ví von bất ngờ**. Biệt danh phải nghe 1 lần là nhớ mãi.
 
 **Ví dụ:**
 > *"Khầy thích đủ thứ"* (sư trụ trì tham lam)
 > *"Bố đời mẹ thiên hạ"* (phụ huynh đòi hỏi vô lý)
 > *"Sư phượt"* (sư bay phi cơ riêng xách túi LV)
-> *"Cậu ấm cô chiêu học viện RBIT ăn xuất tiêu chuẩn Metropol"* (trẻ con trường công bị chiều quá)
 > *"Robot chạy bằng cơm và xăng"* (cách Grab coi tài xế)
 
-**Quy tắc:** Biệt danh phải **chính xác + hài hước + không tục**. 1 biệt danh đắt giá = 1 câu phê phán 100 từ.
+**5b — Mã hóa đường phố (24/09/2026):** Dùng **tiếng lóng hệ thống** cho HÀNH ĐỘNG/TÌNH HUỐNG — không chỉ biệt danh nhân vật. Tạo "ngôn ngữ riêng" của CỦ ĐẬU.
+
+| Mã hóa CỦ ĐẬU | Nghĩa thật |
+|---|---|
+| "Sở Cẩm" | Công an |
+| "đi huấn luyện dưới mái tù XHCN" | Đi tù |
+| "đĩa xôi gà luộc" | Án tử hình |
+| "con số tám bập vào tay" | Bị còng tay |
+| "hữu duyên" | Fan/người xem |
+| "ba môn phối hợp" | Nghiện nặng nhiều chất |
+| "cắn lãi đậm" | Kiếm lời bất chính |
+| "kính chiếu yêu dọi vào mặt" | Bị bắt, chụp ảnh trần trụi |
+| "hiện nguyên hình" | Lộ bản chất thật |
+| "được đưa đi xa và rất lâu" | Đi tù dài hạn |
+| "cắt được xong" | Cai nghiện thành công |
+| "phông bạt" | Sống ảo, khoe giả |
+| *"cây dân chủ"* | Súng |
+| *"viên kẹo"* / *"viên kẹo đồng"* | Đạn |
+| *"kẹo đồng bị thối"* | Đạn lép / không nổ |
+| *"hàng nóng"* | Vũ khí (súng) |
+| *"hàng lạnh"* | Vũ khí lạnh (dao/kiếm) |
+| *"kim cổ bẩm"* | Vũ khí nhọn |
+| *"pằng pằng pàng"* | Nổ súng |
+| *"song khóa bạc xích"* | Còng tay + còng chân |
+| *"quấn lịch"* | Năm tù |
+| *"trại ba sao"* | Trại giam |
+| *"xe thùng"* | Xe chở phạm nhân |
+| *"xin visa đi thêm X năm"* | Bị thêm X năm tù |
+| *"trúng vé độc đắc được nhà nước bao nuôi"* | Bị bắt |
+| *"nhập khoản An"* | Vào trại giam |
+| *"chỉnh sửa Face ID"* | Đánh biến dạng mặt |
+| *"khoan lỗ đối thủ"* | Đâm/chém |
+| *"dí cây dân chủ vào CPU"* | Chĩa súng vào đầu |
+| *"giạt vòm"* | Trốn tránh liên tỉnh |
+| *"rô hàng"* | Khai báo / đầu hàng |
+| *"cái bánh chưng"* | Tuổi |
+
+**Quy tắc:** Biệt danh + mã hóa phải **chính xác + hài hước + không tục**. Tham khảo thêm: `.shared/tu_dien_cu_dau.md`.
 
 ---
 
@@ -170,6 +215,22 @@ Liệt kê **nhiều ví dụ liên tiếp cùng một hiện tượng** → t�
 
 → Mỗi ví dụ thêm vào = thêm 1 cú đấm. Đến ví dụ thứ 4, người xem đã bị **choáng váng** bởi quy mô.
 
+**Biến thể: "Gallery Cuối Bài" (24/09/2026):** Cuối bài, liệt kê nhanh **4-6 nhân vật/sự kiện nổi tiếng** liên quan, mỗi cái chỉ **1-2 câu punch**, dồn liên tiếp → hiệu ứng "không ai thoát, đây là hệ thống".
+
+> **Ví dụ (vụ kính chiếu yêu):**
+> *"Ngọc Trinh, Thủy Tiên thoát kính chiếu yêu... Ma Lisa hiện nguyên hình đôi mắt bồ câu con đậu con bay... Trương Mỹ Lan coi cả ngân hàng như lợn nhựa mà đến lúc lộ diện cũng khiến bao người dụi mắt..."*
+>
+> → Mỗi người 1-2 câu, dồn 4-6 người liên tiếp → kết bằng chốt hạ chung.
+
+**Biến thể: "Gia Phả Giang Hồ" (24/09/2026):** Khi kể về gia đình/băng nhóm tội phạm, kể TỪNG THÀNH VIÊN theo THỨ TỰ (anh cả → anh hai → em út). Mỗi người = 1 "hồi" mini với highlight riêng. Cuối mỗi "hồi" có CÂU CHỐT SO SÁNH VỚI ANH EM TRƯỚC.
+
+> **Công thức:** `[Anh cả: highlight + kết cục] → [So sánh chuyển tiếp] → [Anh hai: highlight + kết cục] → [So sánh chuyển tiếp] → [Em út: highlight + kết cục — ĐỈNH nhất]`
+>
+> **Ví dụ (nhà "Cộng" Nam Định):**
+> *"Nếu như anh cả Hùng Cộng chỉ biết hùng hục như Trâu Húc Mả, anh hai Dũng Cộng biết dùng cái đầu để hốc tiền tỷ thì người anh em Đức Cộng sinh năm 1981 lại là kẻ bản lĩnh, hung hăng và lì lợm nhất cái nhà này."*
+>
+> **Bí quyết:** Câu chuyển tiếp giữa các "hồi" BẮT BUỘC SO SÁNH với anh em trước = tạo mạch liên kết + tăng dần độ "khủng". Tương tự N5 (Tường thuật giải đấu) nhưng cho đề tài GIA ĐÌNH/BĂNG NHÓM tội phạm.
+
 ---
 
 #### CĐ11 — "Kết Phũ" (Brutal Closer) — MỚI ⭐⭐⭐
@@ -194,6 +255,69 @@ Lồng **giọng nói trực tiếp** của nhân vật (người lao động, n
 > *"'Tôi rất sốc và cảm thấy tội lỗi vì đã gửi con đến đó. Nếu nó ở với tôi, chuyện này đã không xảy ra.' — Người mẹ Thái Lan."*
 
 ---
+
+### Nhóm D — 3 VŨ KHÍ "THẾ GIỚI SONG SONG" (Bổ sung 24/09/2026 — Nguồn: video gốc CỦ ĐẬU vụ Phan Nhi Beauty)
+
+#### CĐ13 — "Cổ Tích Đen" (Dark Fairy Tale) ⭐⭐⭐
+
+Xây dựng **một thế giới ẩn dụ song song** xuyên suốt bài — không phải ví von 1 câu rồi thôi, mà KÉO DÀI thành cả "vũ trụ". Mỗi nhân vật thật = 1 nhân vật cổ tích/thần thoại. Mỗi sự kiện thật = 1 biến cố trong thế giới ẩn dụ.
+
+**Ví dụ (vụ Phan Nhi Beauty):**
+> Hot girl TikTok = "tiên nữ ngự đỉnh núi Triệu Phâu"
+> Ma túy = "ma dược tàn phá chúng sinh"
+> Công an = "Tôn Đại Thánh sở hữu hỏa nhãn kim tinh"
+> Ảnh bắt giữ = "kính chiếu yêu"
+> Bị bắt = "Thiên Đình giăng lưới"
+> Hiện nguyên hình = "tiên nữ biến thành bạch cốt tinh"
+
+**Kho ẩn dụ gợi ý:** Tây Du Ký (yêu quái/kính chiếu yêu), Truyện cổ Grimm (phù thủy/lâu đài giả), Tam Quốc (mưu sĩ/liên minh), Thủy Hử (108 anh hùng/cướp cạn).
+
+**Quy tắc:**
+1. Ẩn dụ phải **nhất quán** từ đầu đến cuối — KHÔNG nhảy giữa chừng sang hệ ẩn dụ khác
+2. Mỗi lần nhắc lại ẩn dụ = phải thêm **1 tầng nghĩa mới** (không lặp — xem §XIV)
+3. Phù hợp nhất cho: drama xã hội, vụ án, bóc phốt, lừa đảo
+4. Khác với SP4 (Motif xuyên suốt): SP4 lặp 1 hình ảnh. CĐ13 xây **cả hệ thống** nhiều hình ảnh liên kết
+
+---
+
+#### CĐ14 — "Lột Mặt Nạ" (Mask Off) ⭐⭐⭐
+
+Dùng **CÙNG 1 nhân vật** — mô tả chi tiết giác quan ở 2 thời điểm trước/sau. Trước = hào nhoáng, lộng lẫy. Sau = trần trụi, thê thảm. Tương phản càng cực → hiệu ứng "lột mặt nạ" càng mạnh.
+
+**Công thức:** `[Trước: mô tả giác quan hào nhoáng] → [Sự kiện lật] → [Sau: mô tả giác quan trần trụi] → "Khác gì [ví von đau]"`
+
+**Ví dụ:**
+> **(Trước):** *"Chị em áp này áp nọ, mặt láng mịn như quả trứng gà bóc, góc nghiêng thần thánh, khoe túi 95 củ được người thương tặng"*
+>
+> **(Sự kiện lật):** *"Chỉ một cái đóng mở của màn chập kính chiếu yêu..."*
+>
+> **(Sau):** *"Hiện nguyên hình mụ bạch cốt tinh, mặt mũi hốc hác, tiểu tụy thẫn thờ"*
+>
+> **(Chốt):** *"Khác gì một giọt nước mưa với một giọt nước mắm"*
+
+**Khác với CĐ9:** CĐ9 dùng 2 câu chuyện KHÁC NHAU (đáy vs đỉnh). CĐ14 dùng CÙNG 1 nhân vật ở 2 thời điểm → hiệu ứng "lộ nguyên hình" mạnh hơn.
+
+---
+
+#### CĐ15 — "Cú Rẽ Im Lặng" (Silent Turn) ⭐⭐⭐
+
+Giữa bài đang hài/châm biếm, bỗng **xoay 180 độ sang câu chuyện thật rất đau** — kể chậm, giọng nhẹ, chi tiết cụ thể. KHÔNG chốt bằng bình luận hay nhận xét. Để câu chuyện TỰ NÓI.
+
+**Ví dụ:**
+> *"Gia đình hết cách, biết không có cách nào cứu được con. Ngoài báo Sở Cẩm để cho cháu nó đi huấn luyện tập trung, ít ra còn có tí hy vọng. Bố giàu phải cắn răng đưa con gái đi một khóa là thế đấy. Vì ổng hiểu, cứ để bên ngoài thì ông ấy đã và đang mất con hoàn toàn rồi."*
+
+→ Từ cười → im lặng → xót xa. Không vọt lên. Giữ ở đó. Buộc người xem NGẪM.
+
+**Quy tắc:**
+1. Tối đa **1 lần/bài** — lạm dụng sẽ mất tác dụng
+2. Câu chuyện phải **CÓ THẬT** hoặc cực kỳ chân thực
+3. **KHÔNG giải thích, KHÔNG rút bài học** — im lặng mạnh hơn mọi lời bình
+4. Đặt ở **⅔ cuối bài** — sau khi đã xây đủ hài/châm biếm, cú rẽ mới tạo tương phản
+
+---
+
+> **Tổng kết vũ khí:** 15 vũ khí (CĐ1-CĐ15) chia 4 nhóm: A (Toán Học Đường Phố), B (Giọng Phố), C (Kiến Trúc Cảm Xúc), **D (Thế Giới Song Song — mới)**. BẮT BUỘC dùng ≥3 loại CĐ khác nhau/bài.
+
 
 ## III.b — 8 KỸ THUẬT SIÊU PRO (NÂNG CẤP — BẮT BUỘC MỌI BÀI ≥1000 TỪ)
 
@@ -397,7 +521,7 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 | Kết bài | Kết mở nhận thức | **Kết phũ — sự thật trần trụi** |
 | Phong cách | Giải thích | **Kể chuyện + tính toán + phê phán thẳng** |
 
-### 5.2 — Bảng từ vựng đặc trưng (22 mục)
+### 5.2 — Bảng từ vựng đặc trưng (23 mục)
 
 | # | Từ/cụm từ | Chức năng | Ví dụ |
 |---|---|---|---|
@@ -423,6 +547,7 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 | 20 | *"Trừ sạch... còn lại..."* | Live Math transition | *"Trừ sạch xăng xe, còn lại 1k/km"* |
 | 21 | *"Không phải... mà là..."* | Lật vấn đề | *"Không phải chiết khấu, mà là giá cước"* |
 | 22 | *"Đã thế"* / *"Chưa hết"* | Dồn thêm bất công | *"Đã thế app còn điều đi đón xa 4km"* |
+| 23 | *"anh em [tên nước]"* | Thân mật hóa quốc gia/tập thể — biến quan hệ quốc tế thành quan hệ hàng xóm | *"Anh em Oa Khấu tổ chức ra được một kỳ đại hội nát như tương"*, *"Anh em Hàn Xẻng dính phốt quốc ca"*, *"Anh em Thái trải bạt nằm ngủ trên sàn"* |
 
 ### 5.3 — Giữ nguyên bất di bất dịch
 - KHÔNG tục (biệt danh hài nhưng KHÔNG bậy)
@@ -574,7 +699,7 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 
 ## XI. TỪ ĐIỂN ĐƯỜNG PHỐ — KHO VŨ KHÍ NGÔN TỪ SỐNG (BẮT BUỘC THAM CHIẾU)
 
-> **File:** `.shared/tu_dien_cu_dau.md` — **156 mẫu ngôn từ**, phân loại 8 kho (A-H). Quét toàn bộ ~16.000 dòng transcript gốc.
+> **File:** `.shared/tu_dien_cu_dau.md` — **200 mẫu ngôn từ**, phân loại 8 kho (A-H). Quét toàn bộ ~16.000 dòng transcript gốc + transcript ASIAD + transcript giang hồ mạng 24/09/2026.
 
 **QUY TẮC BẮT BUỘC khi viết phong cách CỦ ĐẬU:**
 1. **Đọc** `.shared/tu_dien_cu_dau.md` TRƯỚC KHI viết bất cứ gì.
@@ -585,15 +710,15 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 
 | Kho | Tên | Số mẫu |
 |---|---|---|
-| A | Ví von đường phố | 30 |
-| B | Hình ảnh giác quan | 20 |
-| C | Nhại giọng / giả giọng | 18 |
+| A | Ví von đường phố | 43 |
+| B | Hình ảnh giác quan | 29 |
+| C | Nhại giọng / giả giọng | 22 |
 | D | Chen nhạc / văn hóa / binh pháp | 15 |
-| E | Thán từ đường phố | 20 |
-| F | Câu lan man / tự giễu | 15 |
-| G | Cách nói số / uyển ngữ | 18 |
-| H | Câu chốt đắt / đóng đinh | 20 |
-| **TỔNG** | | **156** |
+| E | Thán từ đường phố | 23 |
+| F | Câu lan man / tự giễu | 17 |
+| G | Cách nói số / uyển ngữ | 26 |
+| H | Câu chốt đắt / đóng đinh | 25 |
+| **TỔNG** | | **200** |
 
 ---
 
@@ -611,7 +736,7 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 5. **Viết theo quy trình 2 bước** trong bản nhạc mẫu: Bước 1 viết như đang NÓI → Bước 2 kiểm tra nhịp
 6. **SAU KHI VIẾT — Tự động ghi entry mới** vào `.shared/nhat_ky_hoc_hoi.md` (xem mục XIII)
 
-**5 bản nhịp cốt lõi:**
+**6 bản nhịp cốt lõi:**
 
 | Nhịp | Tên | Khi nào dùng |
 |---|---|---|
@@ -620,6 +745,7 @@ Tuân thủ Nhịp Dựng 5 Nấc (KT16), văn xuôi liền mạch:
 | N3 | Bình luận viên bóng đá | Phân tích drama, đối đầu |
 | N4 | Bức xúc có kiểm soát | Vấn đề xã hội, bất công |
 | N5 | Tường thuật giải đấu | Liệt kê nhiều nhân vật/sự kiện |
+| N6 | Tường thuật quốc tế | Sự kiện quốc tế, nhiều nước tham gia, phốt ngoại giao |
 
 ---
 

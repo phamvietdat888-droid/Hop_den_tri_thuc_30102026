@@ -201,7 +201,7 @@ Bình (thời tiết) → 😂Cười "cõi mạng buồn" → 😂😂"Võ mồ
 
 ---
 
-## 🎼 TỔNG HỢP: 5 "BẢN NHỊP" CỐT LÕI CỦA CỦ ĐẬU
+## 🎼 TỔNG HỢP: 6 "BẢN NHỊP" CỐT LÕI CỦA CỦ ĐẬU
 
 | Nhịp | Tên | Khi nào dùng | Pattern |
 |---|---|---|---|
@@ -210,6 +210,48 @@ Bình (thời tiết) → 😂Cười "cõi mạng buồn" → 😂😂"Võ mồ
 | **N3** | Bình luận viên bóng đá | Phân tích drama, đối đầu 2 bên | Phân tích chiến thuật lạnh → câu ngắn đấm → kết 3 từ phũ |
 | **N4** | Bức xúc có kiểm soát | Vấn đề xã hội, bất công | Mỉa mai hài → liệt kê dồn → "Cơ mà" xoay chiều → hạ giọng ấm |
 | **N5** | Tường thuật giải đấu | Liệt kê nhiều nhân vật/sự kiện | Nhân vật 1 + uyển ngữ → nhân vật 2 + punch line → nhân vật 3 + đối lập song song |
+| **N6** | Tường thuật quốc tế | Sự kiện quốc tế, nhiều nước tham gia | Nghịch lý quốc gia → liệt kê nạn nhân đa quốc gia → mổ xẻ kinh tế nhiều lớp → phốt ngoại giao + sidebar explainer → đỉnh cao phốt → lật triết lý |
+
+---
+
+## MẪU 6 — "ASIAD NHẬT BẢN VỠ TRẬN" (Tường thuật quốc tế + Nghịch lý kinh tế)
+
+> **Nguồn:** Transcript video ~16 phút — ASIAD Aichi/Nagoya 2026 | Bổ sung 24/09/2026
+
+### Văn bản gốc (~350 từ — trích đoạn tiêu biểu):
+
+Vâng thưa anh em, hết Hàn đến Nhật, hết bắn súng ảo PUBG cho đến bắn súng thật. Hẳn là nhiều anh em đã biết Nhật Bản đang làm chủ sị đại hội thể thao châu Á. Hỡi ơi, nhắc tới xứ sở phù tang ấy thì có ai là không biết đến triết lý hiếu khách Omotenashi đỉnh cao cùng với sự chỉn chu tuyệt đối. Anh em Oa Khấu thần thánh làm cái gì cũng tỉ mỉ đến từng mm. Thế quái nào đợt này anh em tổ chức ra được một cái kỳ đại hội nát như tương? Anh em cứ tưởng tượng một cường quốc giàu ức vạn đứng đầu về văn minh kỷ luật mà đến khi đăng cai đại hội thể thao tầm cỡ châu lục thì làm ăn lôm côm chắp vá vỡ trận từ khâu ăn ở cho tới việc làm khó tin là bắt anh em Hàn nghe quốc ca Triều Tiên cơ mà đỉnh cao phải là trò chơi bẩn khiếu nại khiến cho tuyển bắn súng Việt Nam mất vé chung kết vì trang phục quá cứng vượt 0,1 một tiêu chuẩn méo hiểu kiểu gì luôn.
+
+(...)
+
+Thì ra triết lý hiếu khách lừng lẫy, cái tinh thần võ sĩ đạo trung thực cao quý khi gặp nguy cơ mất huy chương trên sân nhà thì cũng vứt hết xuống bến cảng Nagoya thôi.
+
+### X-ray từng đoạn:
+
+| Đoạn | Giọng | Kỹ thuật | Cảm xúc |
+|---|---|---|---|
+| *"Vâng thưa anh em, hết Hàn đến Nhật, hết bắn súng ảo PUBG cho đến bắn súng thật"* | 🎤 KỂ | Mở bằng liệt kê đối lập (ảo↔thật) | Bình + hút |
+| *"Hỡi ơi, nhắc tới xứ sở phù tang... triết lý hiếu khách Omotenashi đỉnh cao"* | 🎭 NHẠI | Kính ngữ giả (NL2) + chơi chữ ngoại ngữ | ⬆️ Khen giả |
+| *"Thế quái nào đợt này anh em tổ chức ra được một cái kỳ đại hội nát như tương?"* | ❓ HỎI | Đối lập CÙNG CÂU (NL11) — văn minh vs nát | 🔥 Sốc |
+| *"cường quốc giàu ức vạn... mà làm ăn lôm côm chắp vá"* | 💬 COMMENT | Nghịch lý quốc gia (SP3 level quốc tế) | ⬆️⬆️ Bức xúc |
+| Liệt kê phốt sân bay: Trung → Ấn → Thái → Hàn → VN | 🎤 KỂ | Dồn dẫn chứng ĐA QUỐC GIA (CĐ10 biến thể) + Cá nhân hóa nạn nhân (NL8b) | ⬆️⬆️⬆️ Leo thang |
+| *"Omotenashi lừng lẫy → hành khách điên đảo"* | 😂 HÀI | Chơi chữ ngoại ngữ — chơi vần | 😂 Cười + mỉa |
+| Mổ xẻ kinh tế: đồng yên → sợ lỗ → tận dụng → thiếu người | 📐 LIVE MATH | Nghịch lý kinh tế deep-dive 4 lớp | ⬇️ Hạ — phân tích lạnh |
+| *"Để mình giải thích cho anh em hiểu vì sao mà người Hàn cay cú. Hideyoshi..."* | 💬 COMMENT | Sidebar Explainer (F16) — dừng drama → giải thích lịch sử | ⬇️ Hạ — kiến thức |
+| Phốt bắn súng VN: 0,1mm → loại VN → đôn Nhật lên | 🔥 SỐC | Dồn dẫn chứng + số CỰC NHỎ gây sốc (G20) | ⬆️⬆️⬆️ Cao trào |
+| *"Thì ra triết lý hiếu khách lừng lẫy... vứt hết xuống bến cảng Nagoya thôi"* | 💥 CHỐT | Kết bài lật triết lý — dùng chính lời khen đối phương làm vũ khí | 💥💥💥 CỰC MẠNH |
+
+### Bản nhịp cảm xúc:
+```
+Bình (mở MC) → ⬆️Khen giả (Omotenashi) → 🔥Sốc ("nát như tương?") →
+⬆️⬆️Nghịch lý quốc gia → ⬆️⬆️⬆️Liệt kê nạn nhân đa quốc gia (Trung→Ấn→Thái→Hàn→VN) →
+😂Chơi chữ ngoại ngữ → ⬇️Phân tích kinh tế 4 lớp (lạnh, chi tiết) →
+⬇️Sidebar giải thích Hideyoshi → ⬆️⬆️⬆️Cao trào (phốt bắn súng 0,1mm) →
+💥💥💥Lật triết lý ("vứt hết xuống bến cảng")
+```
+
+### 🔑 BÀI HỌC:
+> **Nhịp "tường thuật quốc tế"**: Bài viết về sự kiện quốc tế cần pattern riêng — nhảy liên tục giữa các QUỐC GIA (mỗi nước 1 anecdote ngắn 2-4 câu, có giác quan riêng), xen giữa là Sidebar Explainer giải thích lịch sử/văn hóa. "Hỡi ơi" xuất hiện như nhịp thở (~mỗi 200 từ). Cao trào đặt SÁT CUỐI (phốt nghiêm trọng nhất = cuối cùng). Kết bài bằng LẬT TRIẾT LÝ — dùng chính slogan/triết lý tự hào của đối tượng ném ngược vào mặt. Khác N5 (tường thuật giải đấu liệt kê nhân vật trong nước) — N6 nhảy giữa NHIỀU NƯỚC + có tầng phân tích kinh tế deep-dive.
 
 ---
 

@@ -20,6 +20,17 @@
 - **KHÔNG BAO GIỜ để Sếp phải nhắc lỗi này lần nữa.** Vi phạm = lỗi mức VETO quy trình.
 - Áp dụng vĩnh viễn cho MỌI Agent, MỌI phiên làm việc, MỌI phong cách (Hộp Đen, Da Nâu, CỦ ĐẬU), MỌI độ dài bài viết.
 
+## 🔄 QUY TRÌNH TỰ ĐỘNG: "cập nhật phong cách củ đậu" (BẮT BUỘC KHI CÓ LỆNH — 24/09/2026)
+> **Nguồn:** Sếp yêu cầu 24/09/2026. Mục tiêu: phong cách CỦ ĐẬU CÀNG NGÀY CÀNG TỐT HƠN qua việc liên tục học hỏi từ nội dung thực chiến.
+
+- Khi Sếp nhập **"cập nhật phong cách củ đậu"** + cung cấp nội dung đầu vào (transcript video, bài viết, đoạn văn mẫu...), hệ thống BẮT BUỘC TỰ ĐỘNG thực hiện:
+  1. **Rà soát kỹ nội dung đầu vào** — xác định kỹ thuật kể chuyện, vũ khí ngôn từ, cấu trúc cảm xúc, biệt danh/mã hóa, nhịp văn.
+  2. **So sánh với guide hiện tại** (`.shared/phong_cach_cu_dau.md` + `.shared/tu_dien_cu_dau.md`) — xác định cái nào ĐÃ CÓ, cái nào MỚI, cái nào cần NÂNG CẤP.
+  3. **Phân tích chi tiết** cho Sếp duyệt: kỹ thuật mới là gì, ví dụ thực chiến, khác gì so với guide hiện tại.
+  4. **Sau khi Sếp duyệt** → cập nhật trực tiếp vào `phong_cach_cu_dau.md` và/hoặc `tu_dien_cu_dau.md`, kèm ngày tháng và nguồn.
+- **KHÔNG tự ý cập nhật** khi chưa được Sếp duyệt. Luôn trình phân tích trước.
+- Mục tiêu: phong cách CỦ ĐẬU **thu hút hơn, hay hơn, sâu sắc hơn** sau MỖI lần cập nhật.
+
 ## ⚠️ Quy chuẩn Ngôn từ Bình Dân, Dễ Hiểu, Mạch Lạc & Siêu Thu Hút (BẮT BUỘC VĨNH VIỄN)
 - **TẤT CẢ kịch bản (YouTube dài, Shorts, Facebook), lời bình, tiêu đề và cấu trúc** BẮT BUỘC sử dụng ngôn từ bình dân, trực diện, gần gũi như trò chuyện đời thường (ngồi quán nước/trò chuyện với bạn bè, người thân).
 - **Mở đầu kịch bản / Bài viết**: BẮT BUỘC đi trực tiếp vào bối cảnh/nội dung gốc, tạo cú móc (Hook) siêu thu hút, giật mình và tạo sự bức bách ngay từ câu đầu tiên. TỰ ĐỘNG biên soạn **2 phương án Hook đỉnh nhất** (Phương án 1: Hook nghịch lý gây sốc & Phương án 2: Hook xoáy trực diện cảm xúc) để Sếp chọn hoặc sử dụng.

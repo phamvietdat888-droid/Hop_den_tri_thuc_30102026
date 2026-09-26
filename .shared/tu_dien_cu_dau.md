@@ -65,6 +65,16 @@
 **Công thức:** `[1 câu giác quan cụ thể] → [phân tích/bình luận]`
 **Tự tạo:** Không nói "nhà rất sang" → nói *"bước qua cánh cổng gỗ dày bịch — đập thẳng vào mắt là con trâu mạ vàng to bá khủng. Anh em phố Hồ thấy cũng chạy mất dép."*
 
+### NL8b — CÁ NHÂN HÓA NẠN NHÂN (Victim Personalization) — Bổ sung 24/09/2026
+**Cơ chế:** Khi bài viết có NHIỀU nạn nhân/nhân vật bị ảnh hưởng → thay vì nói chung "VĐV bị đối xử tệ", NÊU TÊN từng người + mô tả HÌNH ẢNH CỤ THỂ bằng giác quan → biến "thống kê" thành "con người".
+**Tại sao hay:** Não xử lý "1 người cụ thể" mạnh hơn "1 nhóm chung chung". Mỗi nạn nhân = 1 câu chuyện mini với giác quan riêng → người xem thấy, nghe, cảm nhận từng người.
+**Công thức:** `[Tên/biệt danh nhân vật] + [1 chi tiết giác quan đặc trưng về ngoại hình/hành động] + [tình huống cụ thể bị ảnh hưởng]`
+**Ví dụ (transcript ASIAD 24/09/2026):**
+- *"Trương Bắc Hằng... người anh em to như ông hổ, cơ bắp quần cuộn mà cho ăn lúc 7:00 sáng đến tận 7:00 tối mới được miếng tiếp theo vào mồm"*
+- *"anh em bóng rổ Hàn cao như cái xào được trải nghiệm thế nào là lạc vào làng Hobbit"*
+- *"một người anh em Ấn nằm trên chiếc giường... cơ mà anh em vào nằm vào duỗi cẳng ấy là lòi sừ nó ra ngoài cửa sổ"*
+**Tự tạo:** Không nói "công nhân bị bóc lột" → nói *"Chị Hoa, 42 tuổi, tay chai sần vì cầm kéo 12 tiếng/ngày, lưng còng vì cúi trên bàn may — mỗi tháng cầm về 6 triệu rưỡi"*.
+
 ### NL9 — NHẠI RỒI DỊCH
 **Cơ chế:** Trích nguyên văn thuật ngữ hàn lâm/doanh nghiệp → "dịch" sang tiếng người.
 **Tại sao hay:** Bóc trần sự giả dối đằng sau ngôn ngữ đẹp đẽ. Khán giả thấy mình được "mở mắt".
@@ -144,6 +154,19 @@ Cách so sánh bụi bặm, gần bếp núc, gần đường phố. KHÔNG dùn
 | A28 | *"ra đường sợ nhất công nông, lên mạng sợ nhất gặp ông không nói mà làm"* | Đối thủ hành động thay nói | Tục ngữ SÁNG TẠO HOÀN TOÀN MỚI |
 | A29 | *"cháy nhà mới ra mặt chuột"* | Bị lật tẩy | Tục ngữ CHỐT HẠ |
 | A30 | *"36 kế, ù té chạy vẫn là tốt nhất"* | Bỏ chạy khi thua | Binh pháp BIẾN TẤU + hài |
+| A31 | *"anh em bóng rổ Hàn cao như cái xào được trải nghiệm thế nào là lạc vào làng Hobbit"* | VĐV cao nhét vào container nhỏ | Ví von PHIM/TRUYỆN cho kích thước |
+| A32 | *"lòi sừ nó ra ngoài cửa sổ"* | Chân dài hơn giường | Hành động THÔ + hài = giác quan |
+| A33 | *"giống như anh em nấu canh rau ấy bị ngót mất một nửa"* | Đồng yên mất giá → sức mua co lại | Quy đổi TIỀN TỆ → BẾP NÚC (NL1) |
+| A34 | *"to như ông hổ, cơ bắp quần cuộn"* | VĐV to lực lưỡng | Ví von CON VẬT + giác quan cơ thể |
+| A35 | *"ban tổ chức hồn nhiên xả nhạc quốc ca Triều Tiên"* | Mở nhầm quốc ca | "Hồn nhiên" + "xả nhạc" = giả ngây + bất cẩn |
+| A36 | *"giật gấu vá vai"* | Chi 1 tỷ đô kết quả tệ | Tục ngữ CHÍNH XÁC ngữ cảnh |
+| A37 | *"chui tọt vào trận chung kết"* | Nhật được đôn hạng sau loại VN | Hành động CHUỘT CHUI = mỉa mai |
+| A38 | *"mất hút con mẹ hàng lượn"* | Xe buýt biến mất | Thành ngữ bình dân MẤT TÍCH |
+| A39 | *"sức như trâu lăn"* | Giang hồ to khỏe | CON VẬT + hành động mạnh |
+| A40 | *"hùng hục như Trâu Húc Mả"* | Anh cả lỗ mãng | CON VẬT + tên cổ = hài |
+| A41 | *"Lưu Đức Hoa nhìn kỹ hóa ra Lưu Đức Cộng — vừa chất, vừa lãng tử, vừa phong trần, vừa bị bắt luôn"* | Đức Cộng bị bắt | Chơi chữ TÊN + 4 vế liệt kê BẤT NGờ VẾ CUỐI |
+| A42 | *"ngày Bảnh đi mùa thu rụng lá, ngày Bảnh về nhà đá kín anh em"* | Khá Bảnh vào tù thì tù đầy | Thơ SÁNG TẠO + chơi chữ tên |
+| A43 | *"phất lên nhanh như ăn cướn"* | Giàu nhanh phi pháp | Biến thể A20 — ngắn hơn |
 
 ---
 
@@ -173,6 +196,15 @@ Chi tiết nhỏ bằng mắt/tai/mũi/xúc giác tạo cảm giác "MẮT THẤ
 | B18 | *"giơ tay lên vuốt tóc là một lần khoe nhẹ vài tỷ đồng"* | Thị giác + xúc giác | HÀNH ĐỘNG NHỎ = triệu đô |
 | B19 | *"cơm khét lèn lẹt — giống 10 năm trước ba đi học quân sự ở Xuân Hòa"* | Khứu giác + ký ức | MÙI = CỖ MÁY THỜI GIAN |
 | B20 | *"răng thì sún với đang thay và đang lung lay"* | Xúc giác (miệng) | CHI TIẾT TRẺ CON = xúc động |
+| B21 | *"các cụ lộm khọm bước đi lập cập ra đứng bưng khay huy chương"* | Thị giác + xúc giác | DÁNG ĐI + TAY RUN — tương phản với VĐV trẻ |
+| B22 | *"vận động viên cao 2m lực lưỡng nhận huy chương từ khay của cụ ông bà cao mét rưỡi lọm khọm"* | Thị giác | TƯƠNG PHẢN KÍCH THƯỚC cực mạnh |
+| B23 | *"trời tối mưa tầm tã, ban tổ chức không có phương án che chắn gì"* | Thị giác + xúc giác | BỐI CẢNH ướt, tối, lạnh |
+| B24 | *"Nắng thì nóng như cái lò, mưa thì nước rột tong tằng"* | Xúc giác + thính giác | CONTAINER — 2 cực đoan thời tiết |
+| B25 | *"bồn rửa mặt rột nước lênh láng"* | Thị giác + thính giác | PHÒNG HỎNG — giác quan nhỏ = phốt lớn |
+| B26 | *"thân xăm vằn vện, mười thước từ hải"* | Thị giác | CHÂN DUNG giang hồ bằng 2 chi tiết |
+| B27 | *"đôi vòng kẹp cổ tay, dây xích ghì chặt cổ chân, trên dưới cùng cùm di chuyển phải lê"* | Xúc giác + thị giác | CÔNG CỤ GIAM GIỮ = rùng rợn |
+| B28 | *"nằm tán phét với quan quân như chưa từng có cuộc chia ly"* | Thị giác + thính giác | SAU KHI BỊ BẮN = bình thản giả |
+| B29 | *"bật dậy, gào vào mặt: Mày là anh tao mà làm thế à? Có giỏi thì chơi tiếp đi."* | Thính giác | LỜI NÓI TRONG CƠN HIỂM NGHÈO = bản lĩnh |
 
 ---
 
@@ -200,6 +232,10 @@ Bắt chước giọng doanh nghiệp/quan chức/app/giang hồ → rồi ĐÁ 
 | C16 | *"gieo nhân nào gặt quả ấy"* | Thầy tu giảng đạo | Nhại RỒI PHẢN VỀ CHÍNH CHỦ |
 | C17 | *"hậu duệ 18 đời của vua chúa quan lại địa chủ"* | Phụ huynh đòi hỏi | Nhại bằng THỔI PHỒNG thân phận |
 | C18 | *"tự diễn biến, tự chuyển hóa, tự vong danh hiệu cố vấn từ thiện cấp cao"* | Giang hồ tự phong | Nhại ngôn ngữ CHÍNH TRỊ cho chuyện phố |
+| C19 | *"tôi với anh Dũng Trọc thì cũng là biết nhau yêu mến nhau... Thế còn mọi chuyện anh ấy làm thì tôi cũng không hề biết"* | Giang hồ livestream khi đồng bọng bị bắt | Nhại DÀI HƠI — giọng thảo mai, phủi trách nhiệm |
+| C20 | *"cháu nó ở nhà ngoan lắm, mỗi tội nó ở khám nhiều hơn ở nhà"* | Gia đình giang hồ biện hộ | Nhại giọng BÀ/MẸ — hài đen |
+| C21 | *"Sao lên anh sau nhá. Chào con Khá nhá. Dạ vâng con chào bố nhá."* | Dũng Trọc + Khá Bảnh tạm biệt khi lên xe thùng | Trích NGUYÊN VĂN — tình cảm cha con giữa cảnh tù = hài + đau |
+| C22 | *"Vâng ạ. Vâng em bị sía anh, không nói đừng nói người ta biết hết rồi anh nhá."* | Tế Điên + Đức Cộng trò chuyện | Trích NGUYÊN VĂN — giang hồ nói thật = bóc trần |
 
 ---
 
@@ -251,6 +287,9 @@ Lồng ca khúc, ca dao, phim, thơ, binh pháp, đồng dao vào ngữ cảnh m
 | E18 | *"Hầm bà lặng"* | Tất cả mọi thứ | Tổng hợp bụi |
 | E19 | *"Chớ trêu"* | Số phận, trùng hợp éo le | Giọng kể chuyện |
 | E20 | *"Đùng một cái"* | Bất ngờ | Tạo kịch tính |
+| E21 | *"Vâng thưa anh em"* | Mở đầu trang trọng giả | Kiểu MC bình luận — vừa lịch sự vừa phố |
+| E22 | *"thế quái nào"* | Ngạc nhiên + bực bội nhẹ | Giọng đời thường khi gặp chuyện vô lý |
+| E23 | *"méo hiểu kiểu gì luôn"* | Bất lực trước sự vô lý | Tuyệt vọng hài — bó tay |
 
 ---
 
@@ -275,6 +314,8 @@ Tạo cảm giác "nói chuyện THẬT" chứ không phải đọc script.
 | F13 | *"Thừa anh em nào chưa biết thì..."* | Giới thiệu nhân vật |
 | F14 | *"Phác thảo chân dung cho anh em nào chưa biết..."* | Giới thiệu bài bản hơn |
 | F15 | *"Cứ yên ổn không chịu lại đi khuấy động — coi chừng vang long trời lở đất"* | Cảnh báo bụi |
+| F16 | *"Để mình giải thích cho anh em hiểu..."* | Sidebar Explainer — dừng kể → giải thích lịch sử/văn hóa → quay lại mạch drama |
+| F17 | *"Vấn đề là anh em Nhật không hề kibo."* | Chen thuật ngữ ngoại (kibo = keo kiệt) rồi dịch — tạo gia vị quốc tế |
 
 ---
 
@@ -302,6 +343,14 @@ Biến số liệu khô thành câu chuyện sống.
 | G16 | *"đàn livestream"* / *"lập đàn giảng đạo"* | Lên sóng | Uyển ngữ kiếm hiệp |
 | G17 | *"bôn tẩu giang hồ"* | Xoay sở, chạy việc | Kiếm hiệp hóa |
 | G18 | *"resort nhà nước"* | Nhà tù | Uyển ngữ mỉa mai cao cấp |
+| G19 | *"550 triệu đô" → "150 tỷ yên, tức là khoảng 1 tỷ đô"* | Quy đổi ngoại tệ KÈM GIẢI THÍCH | Nói 2 đơn vị liền = dễ hiểu |
+| G20 | *"lệch chuẩn đúng 0,1mm"* | Số CỰC NHỎ gây sốc | Sốc vì QUÁ NHỎ — nghịch lý |
+| G21 | *"con số này đông hơn cả Olympic năm 2024"* | So sánh CHÉO với sự kiện cùng loại | Benchmark quốc tế = dễ hình dung |
+| G22 | *"cái bánh chưng"* | Tuổi | *"mới 20 cái bánh chưng"* = 20 tuổi |
+| G23 | *"quấn lịch"* | Năm tù | Biến thể ngắn của G4 |
+| G24 | *"trại ba sao"* | Trại giam | Uyển ngữ mỉa mai — khách sạn hạng thấp |
+| G25 | *"xin visa đi thêm X năm"* | Bị thêm X năm tù | Coi tù = du lịch nước ngoài |
+| G26 | *"trúng vé độc đắc được nhà nước bao nuôi cơm"* | Bị bắt | Coi bắt = trúng xổ số |
 
 ---
 
@@ -331,6 +380,11 @@ Câu ngắn, phũ, không thể cãi. Đặt cuối đoạn hoặc cuối bài.
 | H18 | *"Ngoài sổ sách — tiền về túi riêng. Trên hệ thống kế toán — không một vết tích."* | Phũ phàng — bóc cơ chế |
 | H19 | *"Khui ra là phải dậm. Cái đó không ai cãi."* | Phũ phàng — dứt khoát |
 | H20 | *"Gây ảnh hưởng xấu đến xã hội như thế — dự là thầy sẽ lại vắng ba mùa World Cup nữa."* | Phũ phàng — dự đoán án |
+| H21 | *"Thì ra triết lý hiếu khách lừng lẫy, cái tinh thần võ sĩ đạo trung thực cao quý khi gặp nguy cơ mất huy chương trên sân nhà thì cũng vứt hết xuống bến cảng Nagoya thôi."* | Lật triết lý — kết bài CỰC ĐỈNH |
+| H22 | *"Nhật nó thảo mai thế thôi chứ nó mà đâm cho ấy thì thốn tận rốn luôn."* | Phũ + ẩn dụ bạo — giữa bài |
+| H23 | *"tiền mất tật mang... mang tiếng keo kiệt bủn xỉn trước toàn cõi châu Á. Nghĩ nó đắng cay gấp mấy lần tiền bỏ ra."* | Phũ — nghịch lý kinh tế |
+| H24 | *"Đúng là ngựa quen đường cũ, không chịu hoàn lương làm người tử tế, đường quang không đi, đâm quàng bụi rậm."* | Tục ngữ DỒN DẬP — 2 tục ngữ liên tiếp chốt hạ |
+| H25 | *"Chắc là dạo này live hết chuyện để kể rồi. Thế cho nên xin visa đi thêm 10 năm nữa về lại có chuyện mới kể cho anh em nghe."* | Mỉa mai — coi tù = lấy tư liệu livestream |
 
 ---
 
@@ -338,15 +392,15 @@ Câu ngắn, phũ, không thể cãi. Đặt cuối đoạn hoặc cuối bài.
 
 | Kho | Tên | Số mẫu |
 |---|---|---|
-| A | Ví von đường phố | 30 |
-| B | Hình ảnh giác quan | 20 |
-| C | Nhại giọng / giả giọng | 18 |
+| A | Ví von đường phố | 43 |
+| B | Hình ảnh giác quan | 29 |
+| C | Nhại giọng / giả giọng | 22 |
 | D | Chen nhạc / văn hóa / binh pháp | 15 |
-| E | Thán từ đường phố | 20 |
-| F | Câu lan man / tự giễu | 15 |
-| G | Cách nói số / uyển ngữ | 18 |
-| H | Câu chốt đắt / đóng đinh | 20 |
-| **TỔNG** | | **156 mẫu** |
+| E | Thán từ đường phố | 23 |
+| F | Câu lan man / tự giễu | 17 |
+| G | Cách nói số / uyển ngữ | 26 |
+| H | Câu chốt đắt / đóng đinh | 25 |
+| **TỔNG** | | **200 mẫu** |
 
 ---
 
