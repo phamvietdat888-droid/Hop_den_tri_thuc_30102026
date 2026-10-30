@@ -43,7 +43,7 @@
 **Cách sửa:** Đảo ngữ, dùng câu hỏi, câu cụt, thán từ mở đầu.
 
 ## E09: Dùng từ cấm
-**Triệu chứng:** Xuất hiện "Ngoài ra", "Tuy nhiên", "Điều đáng chú ý là"...
+**Triệu chứng:** Xuất hiện "Ngoài ra", "Tuy nhiên", "Tóm lại", "Nhìn chung"... *(Lưu ý 12/10/2026: "Cuối cùng", "Điều đáng chú ý là", "quay xe", "khô máu", "toang" đã được Sếp cho phép dùng — KHÔNG tính là lỗi.)*
 **Nguyên nhân:** AI dùng từ nối học thuật.
 **Cách sửa:** Xem `.shared/tu_cam.md` — thay bằng cách nói dân dã.
 

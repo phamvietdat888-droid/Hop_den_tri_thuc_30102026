@@ -24,7 +24,7 @@
 
 - **Quy định CTA (Giữ chân New Viewer):** BẮT BUỘC chèn CTA ở giữa video (ngay sau khi trao một insight đắt giá). Tuyệt đối không để CTA ở cuối video.
 - **Quy định Hook (Dành cho Mobile):** Câu đầu tiên phải đánh trúng Nỗi sợ/Khát vọng. Ngắn gọn, dưới 15 từ.
-- **Quy định Tone & Giọng văn (Dành cho tệp Nam 25-34):** Nam tính, sắc sảo, trực diện. Dùng nhiều ẩn dụ thực tế (quán trà đá, nồi lẩu, ván cờ). TUYỆT ĐỐI KHÔNG dùng từ lóng Gen Z (slay, toang, cringe).
+- **Quy định Tone & Giọng văn (Dành cho tệp Nam 25-34):** Nam tính, sắc sảo, trực diện. Dùng nhiều ẩn dụ thực tế (quán trà đá, nồi lẩu, ván cờ). TUYỆT ĐỐI KHÔNG dùng từ lóng Gen Z (slay, cringe). *("toang" đã được Sếp cho phép dùng 12/10/2026.)*
 - **Quy định Hình ảnh/Âm thanh (Big Screen Safe):** Hình ảnh sắc nét, âm thanh to rõ, nhạc nền nhỏ không lấn át giọng đọc. Ngôn từ phải "sạch" để an toàn khi chiếu ở phòng khách gia đình.
 - **Quy định Thumbnail (TV-Safe):** Chữ TO ĐẬM, độ tương phản cực cao, cách lề ít nhất 10% để TV không cắt viền.
 

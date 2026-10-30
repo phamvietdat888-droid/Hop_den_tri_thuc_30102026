@@ -58,6 +58,7 @@
 **Tại sao hay:** Xóa hoàn toàn cảm giác "đọc script". Giống y hệt cách người thật kể chuyện ở quán trà đá — có lúc đi xa, lúc quay lại.
 **Công thức:** `[Đang kể] → "Thôi lan man, quay lại..." / "Cơ mà nói đi thì phải nói lại..." / "Mình thật sự với anh em..."`
 **Tự tạo:** Xen bình luận cá nhân, disclaimer, hỏi tu từ, tự cười mình — rồi quay lại. KHÔNG viết mạch thẳng tắp từ đầu đến cuối.
+**⚠️ Lưu ý 11/10/2026:** *"Cơ mà nói đi thì phải nói lại"* tối đa 1 lần / 5 bài, và TUYỆT ĐỐI KHÔNG dùng để mở khung "Phe A bảo… Phe B bảo… anh em tự phán" (đã cấm — xem SP7 `phong_cach_cu_dau.md`).
 
 ### NL8 — GIÁC QUAN TRƯỚC, PHÂN TÍCH SAU
 **Cơ chế:** Mở bằng chi tiết MẮT THẤY TAI NGHE (mùi, âm thanh, kết cấu, nhiệt độ) → rồi mới phân tích.

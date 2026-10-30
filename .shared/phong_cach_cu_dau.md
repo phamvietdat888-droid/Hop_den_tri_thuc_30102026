@@ -408,16 +408,33 @@ Quy đổi tiền/công sức → **thời gian sống thật** của người l
 
 ---
 
-### SP7 — MỒI NHỬ TRANH LUẬN (Debate Bait) ⭐⭐⭐
+### SP7 — MỒI NHỬ TRANH LUẬN (Debate Bait) ⭐⭐⭐ — *viết lại 11/10/2026 theo feedback Sếp*
 
-Đưa **2 quan điểm đều có lý** → KHÔNG CHỌN PHE → để người đọc TỰ TRANH LUẬN ở comment.
+**Mục tiêu:** Khiến người xem MUỐN gõ bình luận — bằng một câu hỏi họ thấy mình có thể trả lời, chứ không phải bằng việc dọn sẵn 2 phe rồi đứng ngoài.
 
-**Công thức:** `"Bên A nói [X] — nghe cũng có lý." → "Bên B bảo [Y] — cũng không sai." → "Mình không nghiêng bên nào. Anh em tự phán."`
+> ⛔ **CẤM VĨNH VIỄN công thức cũ (11/10/2026):** `"Phe A bảo [X]… Nghe có lý. Phe B bảo [Y]… Cũng chẳng sai. Mình không đứng phe nào. Anh em tự phán."` và mọi biến thể (*"bên nào cũng có cái lý"*, *"mình không nghiêng bên nào"*, *"anh em tự nghĩ/tự phán/tự kết luận"*, hoặc dùng *"Cơ mà nói đi thì phải nói lại"* để mở màn liệt kê 2 phe). Cụm *"nói đi thì phải nói lại"* dùng để chuyển sang phản biện có dữ kiện thì vẫn được, nhưng tối đa 1 lần / 5 bài (xem Bước 6 checklist).
+> **Lý do:** Sếp phát hiện khung này lặp ở mọi kịch bản (Vinspeed 26/09, Dầu thô 04/10, Trump–diesel 11/10) → khán giả xem 2–3 video là đoán trước được câu → nhàm, mất uy tín, và người xem KHÔNG hiểu thêm gì (vi phạm Tôn chỉ "Nghe thêm 1 phút, hiểu thêm 1 điều").
 
-**Ví dụ:**
-> *"Phe bảo 'chưa làm được ốc vít thì đừng khoe' — nghe cũng hợp lý. Ai cũng muốn hoàn hảo. Phe bảo 'làm được sân World Cup mà cứ tự chê' — cũng không sai. Tự hạ mình thì bao giờ mới lên. Mình không nghiêng bên nào. Anh em tự phán."*
+**7 KỸ THUẬT XOAY VÒNG (mỗi kỹ thuật tối đa 1 lần / 5 bài liên tiếp; mỗi bài chọn 1, tối đa 2):**
 
-**Tại sao mạnh:** Comment section BÙng nổ = thuật toán đẩy bài = reach tăng vọt. Người viết không mất uy tín vì KHÔNG chọn phe.
+| # | Kỹ thuật | Cách làm | Ví dụ (đề tài Trump – diesel Nga, 11/10/2026) |
+|---|---|---|---|
+| 1 | **Câu hỏi ngưỡng con số** | Lấy 1 con số thật trong bài → hỏi "đến mức nào thì…" | *"Diesel 6,28 đô thì minh chủ mới dọa. Lên 7 đô? 8 đô? Đến nấc nào lời dọa thành làm thật? Ghi con số xuống bình luận."* |
+| 2 | **Đặt kèo có hẹn ngày** | Mời dự đoán gắn mốc thời gian cụ thể → hẹn quay lại đối chiếu | *"Trước ngày bầu cử tháng 11, Kiev có thu tay không? Ghi kèo đi, đầu tháng 12 mình quay lại đối chiếu."* |
+| 3 | **Ngồi vào ghế nóng** | Đổi vai: người xem là người ra quyết định, phải hy sinh 1 thứ | *"Sáng mai anh em là người cầm lái ở Kiev: bỏ nguồn tin tình báo hay bỏ đòn đánh lò dầu?"* |
+| 4 | **Soi chi tiết bị bỏ quên** | Chỉ ra 1 điều khoản/chi tiết nhỏ CÓ NGUỒN → hỏi nó nghĩa là gì, ai hưởng | *"Thỏa thuận có câu 'nếu nhà máy lọc dầu Nga an toàn'. Vậy ai đang phải giữ cho nó an toàn?"* |
+| 5 | **Gương soi Việt Nam** | Kéo câu chuyện về túi tiền/đời sống người xem | *"Giá dầu nhà mình mà vọt 70% như thế, anh em muốn người cầm lái lo việc gì đầu tiên?"* |
+| 6 | **Người thứ ba ngồi im** | Chỉ ra bên hưởng lợi đứng ngoài cuộc cãi (CHỈ khi có nguồn) | *"Hai đồng minh cãi nhau công khai. Ông Zelensky gọi đó là món quà cho Điện Kremlin. Người nhận quà có cần nói gì không?"* |
+| 7 | **Lời tiên tri treo / hẹn kỳ sau** | Để lại 1 dự đoán chưa có lời giải, gắn series | *"Lò Omsk còn trụ được bao lâu? Tập sau mình mở sổ tính."* |
+
+**Nguyên tắc chung:**
+- Câu hỏi phải **có thể trả lời bằng 1 con số, 1 lựa chọn cụ thể, hoặc 1 trải nghiệm thật** — không hỏi chung chung "anh em nghĩ sao?".
+- Câu mồi phải **chở thêm thông tin** (con số, chi tiết, góc nhìn) — không chỉ lặp lại các quan điểm đã nêu.
+- Vẫn giữ trung lập Compliance (R10, chiến sự): trung lập bằng cách **đặt câu hỏi sắc**, không phải bằng cách tuyên bố "mình không theo phe nào".
+- Câu hỏi tương tác ở CTA cuối bài **không mặc định dạng "A hay B?"** và không trùng kỹ thuật với câu mồi giữa bài.
+- Trước khi chọn: đọc entry nhật ký gần nhất để biết kỹ thuật nào vừa dùng → chọn kỹ thuật khác.
+
+**Tại sao mạnh:** Câu hỏi cụ thể = người xem có "đề bài" để trả lời → comment nhiều và chất lượng hơn → thuật toán đẩy bài. Người viết giữ uy tín vì vẫn trung lập, nhưng không còn nghe như đang né.
 
 ---
 
@@ -438,7 +455,7 @@ Ném ra 1 vấn đề → đi xa phân tích chuyện khác → bất ngờ **QU
 |---|---|---|---|
 | **"Máy Nghiền"** | SP1 (Number Barrage) → SP3 (Paradox Drill) → SP5 (Life-Time) → CĐ11 (Kết Phũ) | Số liệu dồn dập → nghịch lý → quy đổi đời người → chốt phũ | Bất công kinh tế, chênh lệch giàu nghèo |
 | **"Tự Hào Rồi Đau"** | SP6 (Pride→Punch) → SP2 (Cross-Compare) → SP4 (Running Motif) → CĐ9 (Chạm Đáy Rồi Vọt) | Tự hào → so sánh phũ → motif xuyên suốt → tương phản cực | Công nghiệp VN, người lao động, thợ |
-| **"Mồi Cháy"** | SP3 (Paradox) → SP7 (Debate Bait) → SP8 (Boomerang) → CĐ12 (Phỏng Vấn) | Nghịch lý mở → 2 phe tranh luận → quay về gốc → tiếng người thật | Vấn đề xã hội gây chia rẽ |
+| **"Mồi Cháy"** | SP3 (Paradox) → SP7 (Debate Bait — chọn 1 trong 7 kỹ thuật xoay vòng) → SP8 (Boomerang) → CĐ12 (Phỏng Vấn) | Nghịch lý mở → câu hỏi sắc có "đề bài" cho người xem (ngưỡng con số / kèo hẹn ngày / ghế nóng…) → quay về gốc → tiếng người thật | Vấn đề xã hội gây chia rẽ |
 
 ### 📋 CHECKLIST SIÊU PRO (bổ sung vào Bước 2 kiểm tra):
 
@@ -448,7 +465,7 @@ Ném ra 1 vấn đề → đi xa phân tích chuyện khác → bất ngờ **QU
 - [ ] Có ≥1 motif xuyên suốt lặp ≥3 lần?
 - [ ] Có ≥1 đoạn quy đổi thời gian sống?
 - [ ] Có đoạn khơi tự hào rồi hỏi "vậy tại sao"?
-- [ ] Có câu mồi tranh luận (2 phe đều có lý)?
+- [ ] Có câu mồi tranh luận theo 1 trong 7 kỹ thuật SP7 (KHÔNG dùng khung "2 phe… anh em tự phán"; không trùng kỹ thuật với bài gần nhất)?
 - [ ] Vấn đề có được "móc lại" ở cuối bài dưới góc mới?
 
 ---
@@ -476,7 +493,7 @@ Ném ra 1 vấn đề → đi xa phân tích chuyện khác → bất ngờ **QU
 3. DÒNG CHẢY 1 — KỂ CHUYỆN + DẪN CHỨNG (200-400 từ)
    → Kể câu chuyện chính, có nhân vật, có chi tiết cụ thể
    → [CĐ5 (biệt danh) + CĐ6 (comment cộng đồng)]
-   → Xen kẽ: phản ứng 2 phe (ủng hộ vs phản đối)
+   → Xen kẽ: phản ứng thật của các bên (có nguồn, kể như dữ kiện — KHÔNG chốt bằng "mình không đứng phe nào, anh em tự phán"; xem SP7)
 
 4. DÒNG CHẢY 2 — MỔ XẺ CƠ CHẾ (200-400 từ)
    → "Vậy tại sao lại thế?"

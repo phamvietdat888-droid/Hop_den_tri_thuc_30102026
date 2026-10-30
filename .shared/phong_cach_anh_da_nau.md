@@ -352,7 +352,9 @@ Khác CỦ ĐẬU (tự hào → hỏi "tại sao" → bức xúc) — Da Nâu *
 
 ### DN-SP7 — MỒI TRANH LUẬN LỊCH THIỆP (Gentleman's Debate) ⭐⭐⭐
 
-Khác CỦ ĐẬU (2 phe cùng có lý → không chọn phe) — Da Nâu **đặt ra 1 nghịch lý khiến CẢ 2 PHE ĐỀU SAI** → buộc người đọc phải tìm con đường thứ ba.
+Khác CỦ ĐẬU (đặt câu hỏi sắc có "đề bài" cho người xem) — Da Nâu **đặt ra 1 nghịch lý khiến CẢ 2 PHE ĐỀU SAI** → buộc người đọc phải tìm con đường thứ ba.
+
+> ⚠️ **Giới hạn 11/10/2026 (feedback Sếp):** Khung liệt kê "Phe A bảo… Phe B bảo…" tối đa 1 lần / 5 bài (tính chung mọi phong cách). Các bài còn lại dùng bản "lịch thiệp" của 7 kỹ thuật SP7 trong `phong_cach_cu_dau.md` (ngưỡng con số, kèo hẹn ngày, ghế nóng, chi tiết bị bỏ quên, gương soi VN, người thứ ba ngồi im, lời tiên tri treo) — hoặc đi thẳng vào câu "cả hai đang trả lời sai câu hỏi" mà không cần liệt kê 2 phe trước. TUYỆT ĐỐI không chốt bằng "tôi không đứng phe nào, để bạn tự nghĩ".
 
 **Công thức:** `"Phe A bảo [X]. Phe B bảo [Y]. Cả hai đều... đúng. Nhưng cả hai đều đang trả lời sai câu hỏi."`
 
@@ -391,7 +393,7 @@ Nâng cấp cấu trúc xoắn ốc hiện có — 3 câu chuyện tưởng khô
 - [ ] Có câu hỏi lớn mở bài và KHÔNG trả lời trực tiếp?
 - [ ] Có chuỗi so sánh đẳng cấp leo thang (≥3 cặp)?
 - [ ] Có đoạn tự hào rồi gợi mâu thuẫn bằng 1 câu rất nhẹ?
-- [ ] Có mồi tranh luận mà cả 2 phe đều "sai câu hỏi"?
+- [ ] Có mồi tranh luận sắc ("cả 2 phe sai câu hỏi" HOẶC 1 trong 7 kỹ thuật SP7 bản lịch thiệp) — không trùng kỹ thuật với bài gần nhất?
 - [ ] Câu kết có ám ảnh ≥10 giây sau khi đọc xong?
 
 ---

@@ -30,6 +30,11 @@
 - Xây dựng & duy trì Kho Vũ Khí tái sử dụng
 - Đảm bảo chất lượng ĐỒNG ĐỀU — không phụ thuộc cảm hứng
 
+**🏆 TÔN CHỈ TỐI THƯỢNG (BẮT BUỘC VĨNH VIỄN — 26/09/2026):**
+> **"Nghe thêm một phút, tôi hiểu thêm một điều."**
+> 
+> Mọi kết quả đầu ra (kịch bản, bài viết, Shorts, bài FB, seeding) PHẢI đảm bảo: mỗi phút nội dung mang thêm ít nhất 1 thông tin/góc nhìn MỚI cho người xem. Câu cảm xúc, ví von, Punch Pacing, Live Math — tất cả là CÁCH CHỞ hàng (phong cách). Thông tin mới là HÀNG. Xe đẹp mà không chở hàng = xe chạy không. Nâng cấp chất lượng = tăng mật độ hiểu biết, TUYỆT ĐỐI KHÔNG phai nhạt phong cách CỦ ĐẬU / Da Nâu / Hộp Đen.
+
 ---
 
 ## 2. HỆ THỐNG 8 MODULE (DNA từ Prompt V5.1)
@@ -98,8 +103,21 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 - **TUYỆT ĐỐI KHÔNG "KHỞI ĐỘNG LẠNH":** Cấm việc kết thúc một đoạn/khối ý rồi nhảy sang đoạn/khối ý tiếp theo một cách đột ngột, giật cục mà không có sự liên kết.
 - **Kỹ thuật Móc xích (BẮT BUỘC):** Câu cuối cùng của đoạn/khối trước BẮT BUỘC phải gieo một câu hỏi, một mâu thuẫn, hoặc một sự tò mò mạnh mẽ. Câu đầu tiên của đoạn/khối sau BẮT BUỘC phải là câu trả lời, sự tiếp nối, hoặc giải quyết sự tò mò đó. 
 - **TUYỆT ĐỐI KHÔNG LẶP Ý SAU CÂU MÓC NỐI (BẮT BUỘC VĨNH VIỄN — 21/09/2026):** Câu mở đầu của phần mới/ý mới/khổ mới ngay SAU câu móc nối **TUYỆT ĐỐI KHÔNG ĐƯỢC nhại lại, lặp lại, diễn giải lại ý tứ, từ ngữ hay ngữ cảnh** của câu móc nối phía trước. **Câu móc = cú giật cần câu (tạo tò mò). Câu mở phần mới = con cá hoàn toàn khác (đi thẳng vào dữ kiện mới, sự kiện mới, góc nhìn mới).** Ví dụ SAI: Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới lại liệt kê *"xe cần trạm sạc, tàu cần điện..."* (lặp ý "tất cả cần điện"). Ví dụ ĐÚNG: Câu móc hỏi *"lấy điện ở đâu ra?"* → mở phần mới bằng *"Riêng một lò thép đã tiêu thụ điện bằng cả thị trấn nhỏ."* (đi thẳng vào quy mô cụ thể). **Bài học thực chiến 21/09/2026:** Câu móc hay mà câu mở sau đó nhại lại ý = người xem bị cảm giác "ủa, nghe rồi mà" → lướt đi.
-- **Dùng "Chất keo" tự nhiên:** Phải sử dụng các liên từ, thán từ văn nói (như *"Thế nhưng...", "Nhưng khoan...", "Chưa hết đâu...", "Và đây mới là chỗ mấu chốt..."*) ở các điểm nối giữa các phần/tiểu mục để kéo mạch văn dính chặt vào nhau.
-- **Áp dụng TỰ ĐỘNG:** Quy tắc móc xích mạch văn này áp dụng vĩnh viễn cho TOÀN BỘ kịch bản, bài viết Facebook, lời bình... Mọi Agent (đặc biệt là 02_Scriptwriter) BẮT BUỘC tự kiểm tra và gia cố các điểm nối (transition) giữa các phần trước khi xuất file, không được để Sếp phải nhắc lại.
+- **Sử dụng liên từ ĐÚNG MỨC (Balanced Transition — 26/09/2026):** Phải sử dụng các liên từ, thán từ văn nói ở các điểm nối để kéo mạch văn dính chặt vào nhau. TUY NHIÊN, yêu cầu sự CÂN BẰNG: **Không rườm rà, dài dòng** (cấm nhồi nhét, lạm dụng lặp đi lặp lại các cụm dài như *"Thế nhưng mà", "Cơ mà", "Khốn nỗi", "Nghiệt ngã ở chỗ"* gây loãng bài), **nhưng cũng KHÔNG ĐƯỢC gọt sạch đến mức cụt ngủn, gãy khúc**. Hãy dùng các liên từ ngắn gọn, sắc bén, đi thẳng vào vấn đề (ví dụ: *"Nhưng,"*, *"Nhưng khoan."*, *"Nói nôm na:"*, *"Sự thật là:"*...).
+- **Áp dụng TỰ ĐỘNG:** Quy tắc móc xích và dùng liên từ đúng mức này áp dụng vĩnh viễn cho TOÀN BỘ kịch bản, bài viết Facebook, lời bình... Mọi Agent (đặc biệt là 02_Scriptwriter) BẮT BUỘC tự kiểm tra, gọt bỏ mỡ thừa rườm rà, nhưng phải giữ lại chất keo sắc bén giữa các phần trước khi xuất file.
+
+### 3.2c-bis Mồi Tranh Luận Đa Dạng & Giới Thiệu Tên Riêng Lạ (BẮT BUỘC VĨNH VIỄN — 11/10/2026)
+> **Nguồn:** Feedback Sếp phiên 11/10/2026 (bài Trump – diesel Nga – Zelensky).
+- **CẤM HẲN khung "2 phe… anh em tự phán":** *"Phe A bảo… Nghe có lý. Phe B bảo… Cũng chẳng sai. Mình không đứng phe nào. Anh em tự phán."* cùng mọi biến thể — đã lặp ở mọi kịch bản, nhàm, nghe như né, không chở thông tin mới. Thay bằng 1 trong **7 kỹ thuật xoay vòng**: (1) Câu hỏi ngưỡng con số, (2) Đặt kèo có hẹn ngày, (3) Ngồi vào ghế nóng, (4) Soi chi tiết bị bỏ quên, (5) Gương soi Việt Nam, (6) Người thứ ba ngồi im (chỉ khi có nguồn), (7) Lời tiên tri treo/hẹn kỳ sau. Mỗi kỹ thuật ≤1 lần/5 bài; câu hỏi CTA không mặc định "A hay B?". Trung lập bằng câu hỏi sắc, không bằng tuyên bố "không theo phe nào". Chi tiết: SP7 `.shared/phong_cach_cu_dau.md`.
+- **Tên riêng lạ phải được giới thiệu ngay lần đầu:** hãng/tổ chức/báo nước ngoài, quan chức ít người biết, địa danh nhỏ, từ viết tắt → kèm cụm giải thích bình dân ≤15 từ (họ là ai, làm gì). Không gán ẩn dụ/biệt danh cho tên lạ trước khi giới thiệu. Chi tiết: Bước 1.9 `.shared/checklist_truoc_xuat_bai.md`.
+
+### 3.2c-ter Chống Rời Rạc, Khó Hiểu: Một Sợi Dây Xuyên Suốt (BẮT BUỘC VĨNH VIỄN — 28/10/2026)
+> **Nguồn:** Sếp chê bài CỦ ĐẬU về chuyến công du Đan Mạch, Bỉ: *"rời rạc, nhiều câu, nhiều chi tiết khó hiểu"*. Bản 1 có ~18 tên lạ, 7 phần xếp theo danh sách văn kiện, chuỗi câu cụt, phép tính nhiều tầng. Áp dụng MỌI phong cách, MỌI độ dài, ngay từ lúc lập dàn ý.
+- **Không viết theo danh sách:** đầu vào là danh sách văn kiện/doanh nghiệp/sự kiện → chọn **1 sợi dây xuyên suốt** (đường đi của một món hàng, một con người, một ngày, một đồng tiền) làm xương sống, mỗi phần là một chặng trên sợi dây đó. Chi tiết nào không treo được vào sợi dây thì bỏ hoặc gộp.
+- **Tối đa ~5 tên riêng/từ viết tắt lạ mỗi bài:** tên không cần cho hiểu biết → thay bằng lời tả; tên thật để ở ghi chú nguồn. Tên giữ lại vẫn phải giới thiệu theo §3.2c-bis.
+- **Không xâu chuỗi câu cụt:** câu ngắn chỉ để chốt ý; phần còn lại câu dài vừa, đủ liên từ.
+- **Live Math 1 bước:** mỗi phép tính gắn với vật cụ thể, người nghe tính được trong đầu; CẤM phép tính lồng nhiều tầng/quy đổi trừu tượng.
+- Chi tiết: Bước 1.11 `.shared/checklist_truoc_xuat_bai.md`.
 
 ### 3.2d Quy Chuẩn XÓA GIỌNG VĂN AI & TRẢI NGHIỆM THỰC TẾ (BẮT BUỘC VĨNH VIỄN — 09/2026)
 > 7 yêu cầu cốt lõi áp dụng cho MỌI loại nội dung (kịch bản, bài viết, bài FB, Shorts, seeding, mô tả SEO) và MỌI Agent.
@@ -111,9 +129,10 @@ Toàn bộ khả năng của Prompt V5.1 đã được chuyển thể thành cá
 5. **Gần gũi, có cảm xúc nhưng không lên gân:** Giữ giọng ấm áp, tò mò, hào hứng. CẤM cường điệu bằng tính từ cực đoan liên tục (*"tái mặt"*, *"nghẹt thở"*, *"thê thảm"* dồn dập).
 6. **Giọng văn rõ ràng, đời thường, có cá tính riêng:** Ngay cả bài viết ngắn (~200 từ) cũng phải nghe rõ giọng "Hộp Đen Tri Thức" — không được trượt về giọng tóm tắt tin tức.
 7. **Hơi thở trải nghiệm thực tế (Sensory Anchor):** BẮT BUỘC có ít nhất 1 chi tiết giác quan đời thực (âm thanh, hình ảnh, hành động nhỏ, lời thoại) để xóa bỏ hoàn toàn cảm giác "AI đọc báo tổng hợp lại" (xem KT13b `nhip_giu_chan_va_van_noi.md`).
-8. **CẤM cắt liên từ tự nhiên để ép ngắn bài viết (BẮT BUỘC VĨNH VIỄN — 09/2026, gia cố 14/09/2026):** TUYỆT ĐỐI KHÔNG được cắt bỏ các liên từ, "chất keo" tự nhiên của tiếng Việt (như *"thì"*, *"còn"*, *"thế là"*, *"vậy"*, *"trong khi... thì..."*, *"mà"*, *"bởi vì"*, *"cơ"*, *"thôi"*, *"nữa"*, *"đâu"*, *"thế nhưng mà"*...) chỉ vì mục đích ép dung lượng bài viết cho đủ ngắn. Việc cắt liên từ khiến văn bản đọc lên bị **cụt lủn, gãy khúc như telegram**, mất hết nhịp thở tự nhiên của câu nói đời thường. **Ưu tiên mạch văn mượt mà, tự nhiên** hơn là ép cứng con số từ. Bài viết ngắn ≤200 từ được phép co giãn lên tới **~270 từ** nếu cần thiết để giữ mạch văn không bị cụt. Punch Pacing (câu ngắn ≤5 từ) vẫn giữ nhưng **KHÔNG lạm dụng** đến mức toàn bài thành chuỗi câu cộc lốc. **Bài học thực chiến 14/09/2026:** Chạy script đếm từ rồi gọt liên từ 3-4 lần = SAI HOÀN TOÀN. Viết mượt trước, đếm từ sau, chấp nhận co giãn.
+8. **Dùng liên từ CÂN BẰNG (Balanced Transition — BẮT BUỘC VĨNH VIỄN — gia cố 26/09/2026):** (1) TUYỆT ĐỐI KHÔNG được cắt bỏ các liên từ tự nhiên (*"thì"*, *"còn"*, *"thế là"*, *"vậy"*, *"mà"*, *"bởi vì"*, *"đâu"*) chỉ vì mục đích ép dung lượng bài viết. Việc cắt sạch liên từ khiến văn bản bị **cụt lủn, gãy khúc như telegram**, mất nhịp thở tự nhiên. (2) NGƯỢC LẠI, KHÔNG ĐƯỢC lạm dụng nhồi nhét, rườm rà các cụm từ nối quá dài, lặp đi lặp lại (*"Thế nhưng mà"*, *"Nghiệt ngã ở chỗ"*, *"Khốn nỗi"*, *"Cơ mà"*) khiến bài viết bị loãng. **Ưu tiên mạch văn mượt mà, gãy gọn, sắc bén.** Punch Pacing (câu ngắn ≤5 từ) vẫn giữ nhưng **KHÔNG lạm dụng** đến mức toàn bài thành chuỗi câu cộc lốc.
+9. **4 dấu hiệu văn AI bổ sung (BẮT BUỘC VĨNH VIỄN — 12/10/2026, học từ Wikipedia "Signs of AI writing"):** (1) Gạch ngang dài "—" tối đa 3 dấu/500 từ lời bình (bài ≤270 từ: 1 dấu), không 2 câu liền nhau cùng có "—". (2) CẤM dẫn ý kiến mơ hồ ("các chuyên gia cho rằng", "giới quan sát nhận định"…) — nêu đích danh nguồn hoặc bỏ. (3) CẤM kết bài sáo ("dù còn nhiều thách thức… tương lai hứa hẹn", "thời gian sẽ trả lời"). (4) Mỗi đối tượng 1 tên thật + tối đa 1 tên ẩn dụ, giữ nguyên cả bài. Mục tiêu: người xem thấy tự nhiên, KHÔNG chạy theo "0% AI" trên máy soi. Chi tiết: Mục L `tu_cam.md` + Bước 1.10 `checklist_truoc_xuat_bai.md`.
 
-**Kiểm định:** 3 tiêu chí cứng #19e, #19f, #19g trong `checklist.md` (nhóm D) tự động soi bắt vi phạm.
+**Kiểm định:** 3 tiêu chí cứng #19e, #19f, #19g trong `checklist.md` (nhóm D) tự động soi bắt vi phạm + Bước 1.10 `checklist_truoc_xuat_bai.md`.
 
 ### 3.2e Quy Chuẩn Trình Bày Bài Viết Ngắn ≤ 200 Từ (BẮT BUỘC VĨNH VIỄN — 14/09/2026)
 > **Nguồn:** Rút kinh nghiệm thực chiến phiên 14/09/2026 — Sếp duyệt và yêu cầu lưu vĩnh viễn.

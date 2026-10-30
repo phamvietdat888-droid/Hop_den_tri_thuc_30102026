@@ -24,14 +24,14 @@
 | Tuy nhiên | *"Thế nhưng"* / *"Khổ nỗi"* |
 | Mặt khác | Thán từ + ý mới |
 | Tiếp theo | Câu hỏi bản lề (Open Loop) |
-| Cuối cùng | Câu cụt chốt hạ |
-| Điều đáng chú ý là | Bỏ, đi thẳng vào ý |
 | Không thể phủ nhận rằng | Bỏ, khẳng định thẳng |
 | Có thể nói rằng | Bỏ, nói thẳng |
 | Trong bối cảnh hiện nay | Bỏ, đưa bối cảnh cụ thể |
 | Nhìn chung | Bỏ |
 | Tóm lại | Bỏ, dùng câu chốt |
 | Xét về tổng thể | Bỏ |
+
+> ✅ **ĐƯỢC PHÉP DÙNG (Sếp duyệt 12/10/2026):** *"Cuối cùng"*, *"Điều đáng chú ý là"*. Đã gỡ khỏi bảng cấm. Vẫn áp quy tắc chung E3 (một từ nối chuyển đoạn không dùng quá 2 lần trong 1 kịch bản) và Bước 1.6 checklist (sau *"Điều đáng chú ý là"* phải là thông tin mới thật sự, không phải lặp ý cũ).
 
 ---
 
@@ -48,14 +48,13 @@
 ---
 
 ## D. TỪ LÓNG RẬP KHUÔN (CẤM)
-- "quay xe"
-- "khô máu"
 - "chú bé đần"
 - "flex"
 - "slay"
-- "toang"
 - "cringe"
 - "simp"
+
+> ✅ **ĐƯỢC PHÉP DÙNG (Sếp duyệt 12/10/2026):** *"quay xe"*, *"khô máu"*, *"toang"*. Đã gỡ khỏi danh sách cấm, dùng được ở mọi phong cách (hợp nhất với CỦ ĐẬU). Dùng đúng chỗ, đúng nghĩa; tránh lặp cùng một từ nhiều lần trong 1 bài.
 
 ---
 
@@ -79,7 +78,7 @@
 |---|---|---|
 | Giọng bề trên, dạy đời ("phải thế này mới đúng") | Người Giải Mã khai sáng, không phán xử | Đưa dữ kiện → để khán giả tự kết luận |
 | Mỉa mai cay nghiệt, giễu cợt nhân vật | Phá vỡ sự thân thiện, dễ gây phản cảm | Hài hước hồn nhiên, phóng đại đáng yêu |
-| Tiếng lóng gai góc kiểu "bố đời" ("nắm thóp", "chơi bài ngửa", "khô máu") | Sai chất giọng | Ngôn ngữ trong sáng, ví von đời thường |
+| Tiếng lóng gai góc kiểu "bố đời" ("nắm thóp", "chơi bài ngửa") — *riêng "khô máu" đã được Sếp cho phép 12/10/2026* | Sai chất giọng | Ngôn ngữ trong sáng, ví von đời thường |
 | Xưng "chúng ta/các bác/anh em" | Sai xưng hô | Xưng "mình", gọi "bạn/các bạn" |
 | Khẳng định một chiều ở chủ đề tranh cãi | Rủi ro & mất công tâm | Thêm câu "phòng thủ": *"mình không kết luận, chỉ đưa thông tin"* · **NGOẠI LỆ KT14 (07/2026):** chủ đề xã hội thường ĐƯỢC nêu quan điểm khiêm tốn + mời phản biện ở Kết, SAU khi trình bày đủ các phía (`.shared/nhip_giu_chan_va_van_noi.md` KT14); danh mục loại trừ (chính trị nội bộ VN, tôn giáo, dân tộc, vụ án chưa xét xử) giữ trung lập tuyệt đối |
 | Kết bài phán xử đạo đức nặng nề | Nặng nề, sáo mòn | Chốt nhẹ nhàng + mở câu hỏi cho khán giả |
@@ -291,3 +290,51 @@
 - Sau khi viết xong, đọc lại: nếu thấy 3 đoạn liên tiếp mở đầu giống nhau → viết lại ngay.
 - Nếu thấy cả bài không có câu nào ≤ 5 từ → thêm vào ngay.
 - Test: *"Đọc to lên, nếu nghe đều đều như phát thanh viên đọc bản tin → chưa đạt."*
+
+---
+
+## L. 4 DẤU HIỆU VĂN AI BỔ SUNG — HỌC TỪ WIKIPEDIA "SIGNS OF AI WRITING" (BẮT BUỘC VĨNH VIỄN — 12/10/2026)
+
+> **Nguồn:** Sếp duyệt 12/10/2026 sau khi đối chiếu cẩm nang "Prompt để ChatGPT đạt gần 0% AI" (cuongmeai.com) — tổng hợp từ trang Wikipedia *"Signs of AI writing"* (danh sách biên tập viên Wikipedia dùng để nhận ra văn AI). Phần lớn 24 dấu hiệu đã có trong Mục B, E, J, K; **4 dấu hiệu dưới đây là lỗ hổng** hệ thống chưa chặn hoặc đang mắc.
+> **Lưu ý mục tiêu:** Kênh KHÔNG chạy theo "0% AI trên máy soi". Mục tiêu là người xem/người đọc thấy tự nhiên, cuốn, dễ hiểu. Các mẹo lách máy soi (dịch qua tiếng Đức → tiếng Nhật rồi dịch ngược…) bị **CẤM** vì phá hỏng tiếng Việt.
+> **Phạm vi:** MỌI phong cách (Hộp Đen, Da Nâu, CỦ ĐẬU), MỌI loại nội dung. Chỉ áp cho **lời bình / thân bài**, không áp cho bảng biểu, ghi chú nguồn, Gói SEO dạng danh sách.
+
+### L1. Lạm dụng gạch ngang dài (—)
+
+- **Triệu chứng:** Câu nào cũng chèn " — " để tạo kịch tính hoặc chêm giải thích. Đây là dấu hiệu văn AI dễ nhận ra nhất, đặc biệt trên bài Facebook (người đọc nhìn bằng mắt). Kịch bản 11/10/2026 (Trump – diesel) mắc nặng.
+- **Hạn mức:** Tối đa **3 dấu "—" trên mỗi 500 từ lời bình**; KHÔNG 2 câu liền nhau cùng có "—"; bài ngắn ≤ 270 từ tối đa **1 dấu**.
+- **Thay bằng:** dấu phẩy, dấu chấm (chặt thành 2 câu), dấu hai chấm, hoặc ngoặc đơn.
+  - ❌ *"Kpler — một hãng chuyên theo dõi tàu chở dầu — đưa ra con số…"*
+  - ✅ *"Kpler, một hãng chuyên theo dõi tàu chở dầu khắp thế giới, đưa ra con số…"*
+  - ❌ *"Lò đã hụt hơi — Moscow vừa phải lo dầu cho dân mình…"*
+  - ✅ *"Lò đã hụt hơi. Moscow vừa phải lo dầu cho dân mình…"*
+- **Đếm nhanh (PowerShell):** `(Select-String -Path "<file.md>" -Pattern '—' -AllMatches -Encoding UTF8).Matches.Count`
+
+### L2. Dẫn ý kiến mơ hồ, không rõ ai nói
+
+| ❌ CẤM (khi không kèm tên nguồn) | ✅ Thay bằng |
+|---|---|
+| *"Các chuyên gia cho rằng…"* / *"Giới chuyên gia nhận định…"* | Nêu đích danh: *"Wood Mackenzie, hãng tư vấn năng lượng lâu đời bên Anh, cho rằng…"* |
+| *"Giới quan sát / giới phân tích nhận định…"* | Nêu tên tổ chức/người + giới thiệu bình dân (Bước 1.9 checklist) |
+| *"Nhiều người cho rằng…"* / *"Dư luận cho rằng…"* | Dẫn bình luận/khảo sát cụ thể có thật, hoặc BỎ câu |
+| *"Theo các nhà phân tích…"* / *"Theo giới thạo tin…"* | Nêu nguồn báo/hãng cụ thể, hoặc BỎ |
+| *"Các quân sư / cao nhân bên…"* (ẩn dụ chồng lên nguồn chưa giới thiệu) | Giới thiệu nguồn thật trước, ẩn dụ sau |
+
+- **Quy tắc:** Không có nguồn cụ thể → **bỏ câu**, không "mượn mồm" chuyên gia giấu tên để tăng uy tín. Gắn liền §3.1 (chân thực) + R7 Compliance (gây hiểu nhầm).
+- **Ngoại lệ:** CĐ6 (comment cộng đồng) vẫn được dùng để kể **cảm xúc / phản ứng người xem**, nhưng KHÔNG dùng để gán **nhận định chuyên môn, số liệu**.
+
+### L3. Kết bài kiểu "thách thức nhưng tương lai hứa hẹn"
+
+| ❌ CẤM | ✅ Thay bằng |
+|---|---|
+| *"Dù còn nhiều thách thức, tương lai vẫn rất hứa hẹn."* | Kết bằng **1 sự kiện / mốc ngày / con số cụ thể** sắp tới |
+| *"Chặng đường phía trước còn dài, nhưng…"* | *"Đầu tháng 11, cử tri Mỹ đi bầu. Lúc đó hóa đơn tiền dầu sẽ lên tiếng."* |
+| *"Thời gian sẽ trả lời."* / *"Hãy cùng chờ xem."* | Kết phũ (CĐ11), kết treo có nội dung (VK3 Da Nâu), hoặc 1 trong 7 kỹ thuật SP7 |
+| *"Tương lai đầy hứa hẹn."* / *"Những ngày sắp tới thật đáng mong chờ."* | Nêu bước tiếp theo rõ ràng: ai sẽ làm gì, khi nào |
+
+### L4. Đổi tên gọi liên tục cho cùng một đối tượng
+
+- **Triệu chứng:** AI sợ lặp từ nên gọi một người/tổ chức bằng 4–5 cách trong một bài (*"ông Trump… ông chủ Nhà Trắng… vị tổng thống… người đứng đầu Washington… minh chủ…"*) → người xem phải đoán "ai là ai".
+- **Quy tắc:** Mỗi đối tượng chỉ có **1 tên thật + tối đa 1 tên ẩn dụ/biệt danh** (đã được giới thiệu rõ ở lần đầu), giữ nguyên xuyên suốt bài.
+- **Với hệ ẩn dụ (CĐ13 — võ lâm, bóng đá…):** lập bảng ánh xạ trước khi viết (VD: *ông Trump = minh chủ; nước Mỹ = phái Cờ Hoa; Ukraine = phái Hướng Dương*) và **không đổi giữa chừng**. Phân biệt rõ **người** và **nước/tổ chức**, không gọi lẫn.
+- **Lặp tên không phải lỗi.** Lặp đúng tên giúp người nghe bằng tai theo kịp; đổi tên liên tục mới là lỗi.

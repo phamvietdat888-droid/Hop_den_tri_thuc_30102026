@@ -87,6 +87,24 @@ Module này là **tường lửa nội dung** — rà soát NGHIÊM NGẶT mọi
 
 ---
 
+### R4b. Phép tính Giả định bị trình bày như Dữ kiện thực (Assumption as Fact) ⚠️ FLAG (Bổ sung 2026-09-26)
+
+**Bối cảnh:** Khi dùng Live Math với giả định ("nếu 1 trường có 1.500 HS…"), rất dễ vô tình nhân kết quả giả định lên quy mô lớn (100 trường, cả tỉnh, cả nước) rồi trình bày như con số thật. Người xem không phân biệt được "phép tính thử" với "số liệu điều tra".
+
+**Nguồn:** Bài Học phí 26/09/2026 — phép tính 45 tỷ/trường → 4.500 tỷ/tỉnh dựa trên 3 giả định chưa có bằng chứng, nhưng được viết như sự thật.
+
+**Nguyên tắc cứng:**
+- Khi dùng Live Math với giả định → BẮT BUỘC dùng từ điều kiện: "hãy hình dung", "giả sử", "NẾU… THÌ…"
+- TUYỆT ĐỐI KHÔNG nhân kết quả giả định lên quy mô lớn hơn rồi trình bày như con số thật.
+- Phép tính giả định CHỈ phục vụ mục đích "cho người xem hình dung quy mô CÓ THỂ", KHÔNG phải "chứng minh quy mô THỰC TẾ".
+- Vi phạm = FLAG → yêu cầu sửa trước khi xuất.
+
+**Ví dụ:**
+- ❌ *"45 tỷ chảy vào một trường. 100 trường nhân lên = 4.500 tỷ. Anh em đọc lại cho rõ!"* (trình bày giả định như sự thật)
+- ✅ *"Cứ hình dung thế này: NẾU 1 trường có 1.500 học sinh, NẾU mỗi cháu đóng đủ 3 triệu/tháng trong 10 tháng — thì riêng 1 trường đã có thể thu 45 tỷ. Con số thật bao nhiêu? Chưa ai công khai."* (giả định rõ ràng + thừa nhận giới hạn)
+
+---
+
 ### R5. Spam & Lừa đảo (Deceptive Practices)
 **Chính sách gốc:**
 - YouTube: [Spam, deceptive practices & scams](https://support.google.com/youtube/answer/2801973)
